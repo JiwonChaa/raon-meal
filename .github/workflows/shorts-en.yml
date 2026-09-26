@@ -7,7 +7,7 @@ on:
     inputs:
       mode:
         type: choice
-        options: [check, plan, publish]
+        options: [check, plan, publish, reconcile]
         default: check
       slot:
         type: choice
@@ -49,6 +49,7 @@ jobs:
               check) python reel_publisher.py --check ;;
               plan) python reel_publisher.py --plan ;;
               publish) python reel_publisher.py --auto ;;
+              reconcile) python reel_publisher.py --reconcile ;;
               *) exit 2 ;;
             esac
           else

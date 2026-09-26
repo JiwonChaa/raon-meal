@@ -27,7 +27,7 @@ class PublisherTests(unittest.TestCase):
         with patch.object(m,'load_queue',return_value=self.q),patch.object(m,'credentials',return_value=self.c),patch.object(m,'API',return_value=api),patch.object(m,'persist',side_effect=persist),patch.object(m,'host_url',return_value='https://example.com/video.mp4'):
             return m.run(self.args)
     def api(self):
-        return types.SimpleNamespace(verify=Mock(),recent=Mock(return_value=[]),publishing_limit=Mock(),create=Mock(return_value='c1'),ready=Mock(),publish=Mock(return_value='m1'),
+        return types.SimpleNamespace(verify=Mock(),recent=Mock(return_value=[]),publishing_limit=Mock(),container_status=Mock(return_value={'id':'c1','status_code':'FINISHED'}),create=Mock(return_value='c1'),ready=Mock(),publish=Mock(return_value='m1'),
             media_info=Mock(return_value={'id':'m1','caption':'Physics explained.','timestamp':self.at.isoformat(),'permalink':'https://www.instagram.com/reel/test/'}))
     def test_wrong_account_queue_rejected(self):
         self.q['account']='phyedu_net';m.save_queue(self.q)
@@ -65,7 +65,62 @@ class PublisherTests(unittest.TestCase):
         self.run_api(api);self.assertEqual(len(self.q['queue']),0);api.publish.assert_not_called()
     def test_uncertain_request_never_republished(self):
         self.item()['publish_requested_at']=self.at.isoformat();api=self.api()
-        self.assertEqual(self.run_api(api),1);self.assertTrue(self.q['paused']);api.publish.assert_not_called()
+        self.assertEqual(self.run_api(api),1);self.assertFalse(self.q['paused']);api.publish.assert_not_called();api.container_status.assert_not_called()
+
+    def intent(self, minutes=15):
+        row=self.item();row.update(creation_id='c1',publish_requested_at=(self.at-dt.timedelta(minutes=minutes)).isoformat());return row
+
+    def test_finished_container_retries_later_without_new_publish(self):
+        row=self.intent();api=self.api()
+        self.assertEqual(self.run_api(api),0)
+        self.assertNotIn('publish_requested_at',row);self.assertEqual(row['creation_id'],'c1')
+        self.assertEqual(row['reconciliation_retries'],1);self.assertEqual(len(row['publication_attempts']),1)
+        self.assertEqual(api.recent.call_count,2);api.publish.assert_not_called();api.create.assert_not_called()
+
+    def test_terminal_or_old_unpublished_container_retired(self):
+        for status,minutes in [('EXPIRED',15),('ERROR',15),('FINISHED',1500)]:
+            row=self.intent(minutes);api=self.api();api.container_status.return_value={'id':'c1','status_code':status}
+            self.assertEqual(self.run_api(api),0);self.assertNotIn('creation_id',row)
+            api.publish.assert_not_called()
+
+    def test_ambiguous_or_published_container_never_retried(self):
+        for status in ['PUBLISHED','IN_PROGRESS','UNKNOWN']:
+            self.q['paused']=False;row=self.intent();api=self.api();api.container_status.return_value={'id':'c1','status_code':status}
+            self.assertEqual(self.run_api(api),1);self.assertTrue(self.q['paused'])
+            self.assertIn('publish_requested_at',row);api.publish.assert_not_called()
+
+    def test_wrong_container_id_cannot_clear_intent(self):
+        row=self.intent();api=self.api();api.container_status.return_value={'id':'other','status_code':'FINISHED'}
+        self.assertEqual(self.run_api(api),1);self.assertIn('publish_requested_at',row)
+
+    def test_container_network_failure_preserves_intent(self):
+        row=self.intent();api=self.api();api.container_status.side_effect=RuntimeError('unavailable')
+        with self.assertRaises(RuntimeError):self.run_api(api)
+        self.assertIn('publish_requested_at',row);api.publish.assert_not_called()
+
+    def test_delayed_visible_post_is_reconciled_not_retried(self):
+        self.intent();api=self.api();api.recent.side_effect=[[],[api.media_info.return_value]]
+        self.assertEqual(self.run_api(api),0);self.assertEqual(len(self.q['done']),1);api.publish.assert_not_called()
+
+    def test_retry_budget_stops_persistent_failure(self):
+        row=self.intent();row['reconciliation_retries']=3;api=self.api()
+        self.assertEqual(self.run_api(api),1);self.assertTrue(self.q['paused']);self.assertIn('publish_requested_at',row)
+
+    def test_paused_queue_is_failure_not_silent_success(self):
+        self.item();self.q['paused']=True;api=self.api()
+        with self.assertRaisesRegex(RuntimeError,'paused'):self.run_api(api)
+        api.publish.assert_not_called()
+
+    def test_reconcile_only_recovers_paused_queue_overnight(self):
+        row=self.intent(1500);self.q['paused']=True;self.args.reconcile=True;api=self.api()
+        with patch.object(m,'now',return_value=self.at.replace(hour=3)):
+            self.assertEqual(self.run_api(api),0)
+        self.assertFalse(self.q['paused']);self.assertNotIn('publish_requested_at',row);api.publish.assert_not_called();api.create.assert_not_called()
+
+    def test_reconcile_only_does_not_publish_fresh_item(self):
+        self.item();self.args.reconcile=True;api=self.api()
+        with self.assertRaisesRegex(RuntimeError,'No publication intent'):self.run_api(api)
+        api.publish.assert_not_called();api.create.assert_not_called()
     def test_confirmed_id_reconciles(self):
         self.item()['media_id']='m1';api=self.api();self.run_api(api);api.publish.assert_not_called();self.assertEqual(len(self.q['done']),1)
     def test_intent_persisted_before_publish(self):

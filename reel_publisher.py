@@ -169,6 +169,9 @@ class API:
     def media_info(self, mid):
         return self.call("GET", "/" + str(mid), params={"fields": "id,caption,permalink,timestamp"})
 
+    def container_status(self, cid):
+        return self.call("GET", "/" + str(cid), params={"fields": "id,status_code"})
+
 
 def refresh_if_due(c):
     if LANGUAGE == "ko":
@@ -263,8 +266,53 @@ def host_url(video):
     return "https://raw.githubusercontent.com/" + repo + "/" + sha + "/" + DATA.name + "/" + quote(video.name)
 
 
+def reconcile_unconfirmed(q, item, api, caption):
+    """Only prepare a later retry after positive evidence of non-publication."""
+    requested = dt.datetime.fromisoformat(item["publish_requested_at"])
+    if requested.tzinfo is None:
+        raise RuntimeError("Publication intent timestamp lacks a timezone")
+    age = now() - requested
+    if age < dt.timedelta(minutes=10):
+        log("Publication response uncertain; waiting for reconciliation", to_file=False)
+        return 1
+    state = api.container_status(item["creation_id"]) if item.get("creation_id") else {}
+    # Re-read media after checking the container to cover delayed visibility.
+    matches = [r for r in api.recent() if r.get("caption", "").strip() == caption]
+    if matches:
+        r = matches[0]
+        q["paused"] = False
+        q.pop("pause_reason", None)
+        finish(q, item, r["id"], r.get("permalink", ""), "Reconciled delayed Reel publication", r["timestamp"])
+        return 0
+    status = state.get("status_code")
+    if (str(state.get("id")) != str(item.get("creation_id"))
+            or status not in {"FINISHED", "ERROR", "EXPIRED"}
+            or item.get("reconciliation_retries", 0) >= 3):
+        q["paused"] = True
+        q["pause_reason"] = "uncertain_publication"
+        log("Publication cannot be safely reconciled; queue paused")
+        persist(q, "uncertain previous publication")
+        return 1
+    item.setdefault("publication_attempts", []).append({
+        "creation_id": item["creation_id"], "requested_at": item["publish_requested_at"],
+        "checked_at": now().isoformat(), "container_status": status,
+        "result": "not_published_verified_against_recent_media",
+    })
+    item.pop("publish_requested_at")
+    # Reuse a finished container within its lifetime. Retire terminal/old ones.
+    if status != "FINISHED" or age >= dt.timedelta(hours=24):
+        item.pop("creation_id")
+    item["reconciliation_retries"] = item.get("reconciliation_retries", 0) + 1
+    q["paused"] = False
+    q.pop("pause_reason", None)
+    log("Verified unpublished container; retry prepared for next eligible slot")
+    persist(q, "verified non-publication; retry prepared")
+    return 0
+
+
 def run(args):
     q = load_queue()
+    reconcile_only = getattr(args, "reconcile", False)
     schedule = getattr(args, "schedule", None)
     slot = active_slot(now()) if getattr(args, "auto", False) else (slot_for_schedule(schedule) if schedule else args.slot)
     if args.plan:
@@ -275,24 +323,32 @@ def run(args):
         api = API(credentials())
         api.verify()
         print("Reel identity read check passed (@" + ACCOUNT + ")")
-        api.recent()
+        recent = api.recent()
         print("Reel media read check passed")
+        print(json.dumps({"account": ACCOUNT, "pending": len(q["queue"]), "paused": q["paused"],
+                          "latest": [{k: r.get(k) for k in ("id", "timestamp", "permalink")} for r in recent[:2]]}))
         api.publishing_limit()
         print("Reel content-publishing-limit access check passed")
         for item in q["queue"]:
             media(item)
         print("Reel account/queue read-only check passed; no publication")
+        if q.get("paused"):
+            raise RuntimeError("Reel queue paused; reconciliation is required")
         return 0
     if not os.environ.get("GITHUB_ACTIONS"):
         raise RuntimeError("Scheduled publishing is permitted only in GitHub Actions")
     c = None
     if os.environ.get(SECRET_NAME):
         c = refresh_if_due(credentials())
-    if q.get("paused") or not q["queue"]:
-        log("Queue paused" if q.get("paused") else "Reel queue empty; nothing to publish", to_file=False)
+    if q.get("paused") and not reconcile_only:
+        raise RuntimeError("Reel queue paused; reconciliation is required")
+    if not q["queue"]:
+        log("Reel queue empty; nothing to publish", to_file=False)
         return 0
     item = q["queue"][0]
     reconciling = bool(item.get("media_id") or item.get("publish_requested_at"))
+    if reconcile_only and not reconciling:
+        raise RuntimeError("No publication intent to reconcile; queue unchanged")
     if not reconciling:
         if not eligible(q, item, slot, now()):
             log("No Reel reel eligible for this slot", to_file=False)
@@ -305,19 +361,22 @@ def run(args):
         info = api.media_info(mid)
         if str(info.get("id")) != str(mid) or info.get("caption", "").strip() != caption:
             raise RuntimeError("Confirmed Instagram media does not match the queued caption")
+        if reconcile_only:
+            q["paused"] = False
+            q.pop("pause_reason", None)
         finish(q, item, mid, info.get("permalink", ""), "Reconciled confirmed Reel media ID", info["timestamp"])
         return 0
     recent = api.recent()
     duplicates = [r for r in recent if r.get("caption", "").strip() == caption]
     if duplicates:
         r = duplicates[0]
+        if reconcile_only:
+            q["paused"] = False
+            q.pop("pause_reason", None)
         finish(q, item, r["id"], r.get("permalink", ""), "Reconciled existing Reel reel", r["timestamp"])
         return 0
     if item.get("publish_requested_at"):
-        q["paused"] = True
-        log("Previous publication is uncertain; Reel queue paused for reconciliation")
-        persist(q, "uncertain previous publication")
-        return 1
+        return reconcile_unconfirmed(q, item, api, caption)
     if not eligible(q, item, slot, now()):
         log("Reel reel is no longer eligible; no publication", to_file=False)
         return 0
@@ -376,6 +435,7 @@ def main():
     timing.add_argument("--auto", action="store_true")
     p.add_argument("--plan", action="store_true")
     p.add_argument("--check", action="store_true")
+    p.add_argument("--reconcile", action="store_true", help="Reconcile existing intent only; never send a new publish")
     args = p.parse_args()
     try:
         return run(args)
