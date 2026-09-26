@@ -3,7 +3,7 @@
     "B": "12:00",
     "A": "18:00"
   },
-  "paused": true,
+  "paused": false,
   "queue": [
     {
       "num": "112",
@@ -43,8 +43,16 @@
           72
         ]
       },
-      "creation_id": "18153811663537390",
-      "publish_requested_at": "2026-09-23T12:01:23.069199+09:00"
+      "publication_attempts": [
+        {
+          "creation_id": "18153811663537390",
+          "requested_at": "2026-09-23T12:01:23.069199+09:00",
+          "checked_at": "2026-09-27T03:13:30.857148+09:00",
+          "container_status": "FINISHED",
+          "result": "not_published_verified_against_recent_media"
+        }
+      ],
+      "reconciliation_retries": 1
     },
     {
       "num": "104",
