@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "15-double-glazing-en-20260920",
-      "video": "15-double-glazing-en-20260920.mp4",
-      "caption": "15-double-glazing-en-20260920.txt",
-      "video_sha256": "eaa953e6506e3d72b925c1794f25f78fe26d5997e42e72e6e1bdbb032916afe7",
-      "caption_sha256": "8a5fb46d7e514999820a06411f6b429a271d249682c74d62943a5b8246e1e066",
-      "title": "Why two window panes insulate",
-      "slug": "15-double-glazing",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-09-27T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "window"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#DoubleGlazing",
-          "#Insulation"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18119318119768269",
-      "publish_requested_at": "2026-09-27T12:02:01.718594+09:00",
-      "media_id": "18378323233240027"
-    },
-    {
       "id": "16-foggy-mirror-en-20260920",
       "video": "16-foggy-mirror-en-20260920.mp4",
       "caption": "16-foggy-mirror-en-20260920.txt",
@@ -1206,6 +1169,45 @@
       "media_id": "18105175150954673",
       "permalink": "https://www.instagram.com/reel/DdvqjyKDLSc/",
       "published_at": "2026-09-26T18:01:40+09:00"
+    },
+    {
+      "id": "15-double-glazing-en-20260920",
+      "video": "15-double-glazing-en-20260920.mp4",
+      "caption": "15-double-glazing-en-20260920.txt",
+      "video_sha256": "eaa953e6506e3d72b925c1794f25f78fe26d5997e42e72e6e1bdbb032916afe7",
+      "caption_sha256": "8a5fb46d7e514999820a06411f6b429a271d249682c74d62943a5b8246e1e066",
+      "title": "Why two window panes insulate",
+      "slug": "15-double-glazing",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-09-27T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "window"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#DoubleGlazing",
+          "#Insulation"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18119318119768269",
+      "publish_requested_at": "2026-09-27T12:02:01.718594+09:00",
+      "media_id": "18378323233240027",
+      "permalink": "https://www.instagram.com/reel/DdxmLdkD5Xi/",
+      "published_at": "2026-09-27T12:02:07+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
