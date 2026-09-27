@@ -401,6 +401,46 @@
       "total_interactions": 9,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "10-vacuum-sound-en-20260920",
+      "media_id": "17948946549272153",
+      "permalink": "https://www.instagram.com/reel/Ddqg4ujADml/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.196,
+      "captured_at": "2026-09-27T12:12:43.481940+00:00",
+      "views": 594,
+      "reach": 513,
+      "average_watch_time_ms": 7174,
+      "total_watch_time_ms": 3659184,
+      "likes": 4,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 5,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.949
+    },
+    {
+      "item_id": "14-blanket-air-en-20260920",
+      "media_id": "18105175150954673",
+      "permalink": "https://www.instagram.com/reel/DdvqjyKDLSc/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.184,
+      "captured_at": "2026-09-27T12:12:43.481940+00:00",
+      "views": 168,
+      "reach": 146,
+      "average_watch_time_ms": 6444,
+      "total_watch_time_ms": 940911,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
