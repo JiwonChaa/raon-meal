@@ -6,58 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "112",
-      "slug": "am-night",
-      "title": "밤에는 먼 AM 방송이 잡힌다",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-23T12:00:00+09:00",
-      "sha256": "539e33ac6a9da47a03404dad8212ce181ab3f626db19d853f10bd718b0cacb75",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-112-am-night",
-      "video": "112-am-night.mp4",
-      "caption": "112-am-night.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "539e33ac6a9da47a03404dad8212ce181ab3f626db19d853f10bd718b0cacb75",
-      "caption_sha256": "033147c58a2c292ab2ba7effc160a83a1c5676a23a9cdbbb9768ef6eefca4c02",
-      "original_scheduled_at": "2026-09-23T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "AM"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#AM라디오",
-          "#전리층"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "publication_attempts": [
-        {
-          "creation_id": "18153811663537390",
-          "requested_at": "2026-09-23T12:01:23.069199+09:00",
-          "checked_at": "2026-09-27T03:13:30.857148+09:00",
-          "container_status": "FINISHED",
-          "result": "not_published_verified_against_recent_media"
-        }
-      ],
-      "reconciliation_retries": 1,
-      "creation_id": "18154575202537390",
-      "publish_requested_at": "2026-09-27T12:01:53.485743+09:00",
-      "media_id": "18095338196540856"
-    },
-    {
       "num": "104",
       "slug": "gel-strength",
       "title": "젤라틴을 더 넣으면 왜 단단해질까",
@@ -2666,6 +2614,62 @@
       "published_at": "2026-09-22T18:01:15+09:00",
       "status": "published",
       "at": "2026-09-22T18:01:15+09:00"
+    },
+    {
+      "num": "112",
+      "slug": "am-night",
+      "title": "밤에는 먼 AM 방송이 잡힌다",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-23T12:00:00+09:00",
+      "sha256": "539e33ac6a9da47a03404dad8212ce181ab3f626db19d853f10bd718b0cacb75",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-112-am-night",
+      "video": "112-am-night.mp4",
+      "caption": "112-am-night.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "539e33ac6a9da47a03404dad8212ce181ab3f626db19d853f10bd718b0cacb75",
+      "caption_sha256": "033147c58a2c292ab2ba7effc160a83a1c5676a23a9cdbbb9768ef6eefca4c02",
+      "original_scheduled_at": "2026-09-23T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "AM"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#AM라디오",
+          "#전리층"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "publication_attempts": [
+        {
+          "creation_id": "18153811663537390",
+          "requested_at": "2026-09-23T12:01:23.069199+09:00",
+          "checked_at": "2026-09-27T03:13:30.857148+09:00",
+          "container_status": "FINISHED",
+          "result": "not_published_verified_against_recent_media"
+        }
+      ],
+      "reconciliation_retries": 1,
+      "creation_id": "18154575202537390",
+      "publish_requested_at": "2026-09-27T12:01:53.485743+09:00",
+      "media_id": "18095338196540856",
+      "permalink": "https://www.instagram.com/reel/DdxmLTsj5Sc/",
+      "published_at": "2026-09-27T12:01:55+09:00",
+      "status": "published",
+      "at": "2026-09-27T12:01:55+09:00"
     }
   ],
   "cancelled_for_remake": [
