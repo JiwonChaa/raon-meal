@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "16-foggy-mirror-en-20260920",
-      "video": "16-foggy-mirror-en-20260920.mp4",
-      "caption": "16-foggy-mirror-en-20260920.txt",
-      "video_sha256": "1ffc6d048576b2041e8981ad910be073ee3a0aaf98c2a48088088c1999f5017b",
-      "caption_sha256": "162b1ac50c6ebfce8033c2d38ff544347d4dbf39830819126a36d2e2b4383a6b",
-      "title": "Why a bathroom mirror fogs",
-      "slug": "16-foggy-mirror",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-09-27T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "mirror"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#Condensation",
-          "#DewPoint"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18119393488768269",
-      "publish_requested_at": "2026-09-27T18:02:58.532187+09:00",
-      "media_id": "18176434381447063"
-    },
-    {
       "id": "17-bridge-gap-en-20260920",
       "video": "17-bridge-gap-en-20260920.mp4",
       "caption": "17-bridge-gap-en-20260920.txt",
@@ -1211,6 +1174,45 @@
       "media_id": "18378323233240027",
       "permalink": "https://www.instagram.com/reel/DdxmLdkD5Xi/",
       "published_at": "2026-09-27T12:02:07+09:00"
+    },
+    {
+      "id": "16-foggy-mirror-en-20260920",
+      "video": "16-foggy-mirror-en-20260920.mp4",
+      "caption": "16-foggy-mirror-en-20260920.txt",
+      "video_sha256": "1ffc6d048576b2041e8981ad910be073ee3a0aaf98c2a48088088c1999f5017b",
+      "caption_sha256": "162b1ac50c6ebfce8033c2d38ff544347d4dbf39830819126a36d2e2b4383a6b",
+      "title": "Why a bathroom mirror fogs",
+      "slug": "16-foggy-mirror",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-09-27T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "mirror"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#Condensation",
+          "#DewPoint"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18119393488768269",
+      "publish_requested_at": "2026-09-27T18:02:58.532187+09:00",
+      "media_id": "18176434381447063",
+      "permalink": "https://www.instagram.com/reel/DdyPgDkDl_1/",
+      "published_at": "2026-09-27T18:03:00+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
