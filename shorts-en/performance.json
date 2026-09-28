@@ -481,6 +481,46 @@
       "total_interactions": 10,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 1.73
+    },
+    {
+      "item_id": "12-helium-voice-en-20260920",
+      "media_id": "17956064829248194",
+      "permalink": "https://www.instagram.com/reel/DdtFsO6lhyW/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 77.155,
+      "captured_at": "2026-09-28T14:10:30.566061+00:00",
+      "views": 322,
+      "reach": 286,
+      "average_watch_time_ms": 5297,
+      "total_watch_time_ms": 1552063,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "16-foggy-mirror-en-20260920",
+      "media_id": "18176434381447063",
+      "permalink": "https://www.instagram.com/reel/DdyPgDkDl_1/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 29.125,
+      "captured_at": "2026-09-28T14:10:30.566061+00:00",
+      "views": 288,
+      "reach": 252,
+      "average_watch_time_ms": 6818,
+      "total_watch_time_ms": 1718224,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
