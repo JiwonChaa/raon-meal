@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "17-bridge-gap-en-20260920",
-      "video": "17-bridge-gap-en-20260920.mp4",
-      "caption": "17-bridge-gap-en-20260920.txt",
-      "video_sha256": "a979e578507a202b8dd72131bc0f36e3dd4cc3c52a261f72d0fa762f199bfdca",
-      "caption_sha256": "f4aba6165e404aacafa5efdf15ab617a22bf5f735d0f81a13cb027b24e4148b1",
-      "title": "Why bridges need expansion joints",
-      "slug": "17-bridge-gap",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-09-28T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "bridges"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#ThermalExpansion",
-          "#Bridges"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18119649964768269",
-      "publish_requested_at": "2026-09-28T12:02:02.999111+09:00",
-      "media_id": "18133028524679768"
-    },
-    {
       "id": "18-heat-pump-en-20260920",
       "video": "18-heat-pump-en-20260920.mp4",
       "caption": "18-heat-pump-en-20260920.txt",
@@ -1216,6 +1179,45 @@
       "media_id": "18176434381447063",
       "permalink": "https://www.instagram.com/reel/DdyPgDkDl_1/",
       "published_at": "2026-09-27T18:03:00+09:00"
+    },
+    {
+      "id": "17-bridge-gap-en-20260920",
+      "video": "17-bridge-gap-en-20260920.mp4",
+      "caption": "17-bridge-gap-en-20260920.txt",
+      "video_sha256": "a979e578507a202b8dd72131bc0f36e3dd4cc3c52a261f72d0fa762f199bfdca",
+      "caption_sha256": "f4aba6165e404aacafa5efdf15ab617a22bf5f735d0f81a13cb027b24e4148b1",
+      "title": "Why bridges need expansion joints",
+      "slug": "17-bridge-gap",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-09-28T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "bridges"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#ThermalExpansion",
+          "#Bridges"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18119649964768269",
+      "publish_requested_at": "2026-09-28T12:02:02.999111+09:00",
+      "media_id": "18133028524679768",
+      "permalink": "https://www.instagram.com/reel/Dd0K-dFlZqI/",
+      "published_at": "2026-09-28T12:02:05+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
