@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "104",
-      "slug": "gel-strength",
-      "title": "젤라틴을 더 넣으면 왜 단단해질까",
-      "cue": null,
-      "next_cue": null,
-      "slot": "A",
-      "fails": 0,
-      "scheduled_at": "2026-09-23T18:00:00+09:00",
-      "sha256": "84e36157581be12364d65827dbc6a99f39804df2dd5d350f0182772fb2264f7b",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-104-gel-strength",
-      "video": "104-gel-strength.mp4",
-      "caption": "104-gel-strength.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "84e36157581be12364d65827dbc6a99f39804df2dd5d350f0182772fb2264f7b",
-      "caption_sha256": "afd13425123821799848820b581381382362a5b1ceb06cf214f1426d4bb63d05",
-      "original_scheduled_at": "2026-09-20T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "food",
-        "keywords": [
-          "젤라틴"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#젤라틴",
-          "#겔"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18154811710537390",
-      "publish_requested_at": "2026-09-28T18:02:00.822769+09:00",
-      "media_id": "17908402887503206"
-    },
-    {
       "num": "113",
       "slug": "shortwave-fm",
       "title": "단파는 먼 나라까지 가는데 FM은 왜 다를까",
@@ -2673,6 +2631,52 @@
       "published_at": "2026-09-27T12:01:55+09:00",
       "status": "published",
       "at": "2026-09-27T12:01:55+09:00"
+    },
+    {
+      "num": "104",
+      "slug": "gel-strength",
+      "title": "젤라틴을 더 넣으면 왜 단단해질까",
+      "cue": null,
+      "next_cue": null,
+      "slot": "A",
+      "fails": 0,
+      "scheduled_at": "2026-09-23T18:00:00+09:00",
+      "sha256": "84e36157581be12364d65827dbc6a99f39804df2dd5d350f0182772fb2264f7b",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-104-gel-strength",
+      "video": "104-gel-strength.mp4",
+      "caption": "104-gel-strength.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "84e36157581be12364d65827dbc6a99f39804df2dd5d350f0182772fb2264f7b",
+      "caption_sha256": "afd13425123821799848820b581381382362a5b1ceb06cf214f1426d4bb63d05",
+      "original_scheduled_at": "2026-09-20T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "food",
+        "keywords": [
+          "젤라틴"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#젤라틴",
+          "#겔"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18154811710537390",
+      "publish_requested_at": "2026-09-28T18:02:00.822769+09:00",
+      "media_id": "17908402887503206",
+      "permalink": "https://www.instagram.com/reel/Dd00K7DkaNC/",
+      "published_at": "2026-09-28T18:02:04+09:00",
+      "status": "published",
+      "at": "2026-09-28T18:02:04+09:00"
     }
   ],
   "cancelled_for_remake": [
