@@ -201,6 +201,26 @@
       "total_interactions": 15,
       "shares_per_1000_reach": 1.808,
       "saves_per_1000_reach": 1.808
+    },
+    {
+      "item_id": "legacy-112-am-night",
+      "media_id": "18095338196540856",
+      "permalink": "https://www.instagram.com/reel/DdxmLTsj5Sc/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.547,
+      "captured_at": "2026-09-28T05:34:42.447101+00:00",
+      "views": 1036,
+      "reach": 621,
+      "average_watch_time_ms": 5621,
+      "total_watch_time_ms": 3687850,
+      "likes": 5,
+      "comments": 0,
+      "shares": 2,
+      "saved": 3,
+      "total_interactions": 10,
+      "shares_per_1000_reach": 3.221,
+      "saves_per_1000_reach": 4.831
     }
   ]
 }
