@@ -221,6 +221,26 @@
       "total_interactions": 10,
       "shares_per_1000_reach": 3.221,
       "saves_per_1000_reach": 4.831
+    },
+    {
+      "item_id": "legacy-104-gel-strength",
+      "media_id": "17908402887503206",
+      "permalink": "https://www.instagram.com/reel/Dd00K7DkaNC/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 24.936,
+      "captured_at": "2026-09-29T09:58:13.824284+00:00",
+      "views": 2122,
+      "reach": 1628,
+      "average_watch_time_ms": 6519,
+      "total_watch_time_ms": 10860875,
+      "likes": 5,
+      "comments": 0,
+      "shares": 1,
+      "saved": 3,
+      "total_interactions": 9,
+      "shares_per_1000_reach": 0.614,
+      "saves_per_1000_reach": 1.843
     }
   ]
 }
