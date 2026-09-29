@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "19-static-balloon-en-20260920",
-      "video": "19-static-balloon-en-20260920.mp4",
-      "caption": "19-static-balloon-en-20260920.txt",
-      "video_sha256": "fe0d52473da2d786cecd3025c496c17e06dd8a93bef6d039d42a2790580390de",
-      "caption_sha256": "b86f4c4a02b81a34e357a0c4f3f628c9b63863c3a4bacb212e2950a11a4907cc",
-      "title": "Why a charged balloon sticks",
-      "slug": "19-static-balloon",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-09-29T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "balloon"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#StaticElectricity",
-          "#ElectricCharge"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18119966680768269",
-      "publish_requested_at": "2026-09-29T12:01:57.899822+09:00",
-      "media_id": "17989050167867577"
-    },
-    {
       "id": "20-wireless-charging-en-20260920",
       "video": "20-wireless-charging-en-20260920.mp4",
       "caption": "20-wireless-charging-en-20260920.txt",
@@ -1226,6 +1189,45 @@
       "media_id": "18116913919768788",
       "permalink": "https://www.instagram.com/reel/Dd00LZJDs8T/",
       "published_at": "2026-09-28T18:01:58+09:00"
+    },
+    {
+      "id": "19-static-balloon-en-20260920",
+      "video": "19-static-balloon-en-20260920.mp4",
+      "caption": "19-static-balloon-en-20260920.txt",
+      "video_sha256": "fe0d52473da2d786cecd3025c496c17e06dd8a93bef6d039d42a2790580390de",
+      "caption_sha256": "b86f4c4a02b81a34e357a0c4f3f628c9b63863c3a4bacb212e2950a11a4907cc",
+      "title": "Why a charged balloon sticks",
+      "slug": "19-static-balloon",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-09-29T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "balloon"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#StaticElectricity",
+          "#ElectricCharge"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18119966680768269",
+      "publish_requested_at": "2026-09-29T12:01:57.899822+09:00",
+      "media_id": "17989050167867577",
+      "permalink": "https://www.instagram.com/reel/Dd2vwwGDUl9/",
+      "published_at": "2026-09-29T12:02:01+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
