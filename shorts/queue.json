@@ -6,49 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "113",
-      "slug": "shortwave-fm",
-      "title": "단파는 먼 나라까지 가는데 FM은 왜 다를까",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-24T12:00:00+09:00",
-      "sha256": "2e766b48693125bb6db49d8b82f6694255cf1e648076e5829698fe159485c526",
-      "visual_revision": "2026-09-10",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-113-shortwave-fm",
-      "video": "113-shortwave-fm.mp4",
-      "caption": "113-shortwave-fm.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "2e766b48693125bb6db49d8b82f6694255cf1e648076e5829698fe159485c526",
-      "caption_sha256": "f5b52a20ff67848617b693109e4cedf518df86cca79b3c275797900aed1952f9",
-      "original_scheduled_at": "2026-09-24T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "단파"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#단파",
-          "#전파"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18154962535537390",
-      "publish_requested_at": "2026-09-29T12:02:11.798164+09:00",
-      "media_id": "17905681179568076"
-    },
-    {
       "num": "105",
       "slug": "meringue-drains",
       "title": "가만히 둔 거품에서 물이 빠진다",
@@ -2680,6 +2637,53 @@
       "published_at": "2026-09-28T18:02:04+09:00",
       "status": "published",
       "at": "2026-09-28T18:02:04+09:00"
+    },
+    {
+      "num": "113",
+      "slug": "shortwave-fm",
+      "title": "단파는 먼 나라까지 가는데 FM은 왜 다를까",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-24T12:00:00+09:00",
+      "sha256": "2e766b48693125bb6db49d8b82f6694255cf1e648076e5829698fe159485c526",
+      "visual_revision": "2026-09-10",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-113-shortwave-fm",
+      "video": "113-shortwave-fm.mp4",
+      "caption": "113-shortwave-fm.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "2e766b48693125bb6db49d8b82f6694255cf1e648076e5829698fe159485c526",
+      "caption_sha256": "f5b52a20ff67848617b693109e4cedf518df86cca79b3c275797900aed1952f9",
+      "original_scheduled_at": "2026-09-24T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "단파"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#단파",
+          "#전파"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18154962535537390",
+      "publish_requested_at": "2026-09-29T12:02:11.798164+09:00",
+      "media_id": "17905681179568076",
+      "permalink": "https://www.instagram.com/reel/Dd2vzb2AfIe/",
+      "published_at": "2026-09-29T12:02:15+09:00",
+      "status": "published",
+      "at": "2026-09-29T12:02:15+09:00"
     }
   ],
   "cancelled_for_remake": [
