@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "20-wireless-charging-en-20260920",
-      "video": "20-wireless-charging-en-20260920.mp4",
-      "caption": "20-wireless-charging-en-20260920.txt",
-      "video_sha256": "2baf4dbc8224762321e7e4fc6937ad7e1735958587835eb945bed2d49a49868f",
-      "caption_sha256": "c43e655946f74ec3451372291c1c62e60a4ce324620c66242d163f7954521b30",
-      "title": "How wireless charging transfers energy",
-      "slug": "20-wireless-charging",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-09-29T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "charging"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#WirelessCharging",
-          "#ElectromagneticInduction"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120046213768269",
-      "publish_requested_at": "2026-09-29T18:02:09.828227+09:00",
-      "media_id": "18021880520715564"
-    },
-    {
       "id": "21-eddy-brake-en-20260920",
       "video": "21-eddy-brake-en-20260920.mp4",
       "caption": "21-eddy-brake-en-20260920.txt",
@@ -1231,6 +1194,45 @@
       "media_id": "17989050167867577",
       "permalink": "https://www.instagram.com/reel/Dd2vwwGDUl9/",
       "published_at": "2026-09-29T12:02:01+09:00"
+    },
+    {
+      "id": "20-wireless-charging-en-20260920",
+      "video": "20-wireless-charging-en-20260920.mp4",
+      "caption": "20-wireless-charging-en-20260920.txt",
+      "video_sha256": "2baf4dbc8224762321e7e4fc6937ad7e1735958587835eb945bed2d49a49868f",
+      "caption_sha256": "c43e655946f74ec3451372291c1c62e60a4ce324620c66242d163f7954521b30",
+      "title": "How wireless charging transfers energy",
+      "slug": "20-wireless-charging",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-09-29T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "charging"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#WirelessCharging",
+          "#ElectromagneticInduction"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120046213768269",
+      "publish_requested_at": "2026-09-29T18:02:09.828227+09:00",
+      "media_id": "18021880520715564",
+      "permalink": "https://www.instagram.com/reel/Dd3Y_h-jJex/",
+      "published_at": "2026-09-29T18:02:13+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
