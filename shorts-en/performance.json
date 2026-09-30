@@ -641,6 +641,46 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "16-foggy-mirror-en-20260920",
+      "media_id": "18176434381447063",
+      "permalink": "https://www.instagram.com/reel/DdyPgDkDl_1/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.73,
+      "captured_at": "2026-09-30T12:46:46.742098+00:00",
+      "views": 293,
+      "reach": 257,
+      "average_watch_time_ms": 6782,
+      "total_watch_time_ms": 1743069,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "20-wireless-charging-en-20260920",
+      "media_id": "18021880520715564",
+      "permalink": "https://www.instagram.com/reel/Dd3Y_h-jJex/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.743,
+      "captured_at": "2026-09-30T12:46:46.742098+00:00",
+      "views": 104,
+      "reach": 92,
+      "average_watch_time_ms": 3792,
+      "total_watch_time_ms": 348924,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
