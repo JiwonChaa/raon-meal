@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "22-transformer-en-20260920",
-      "video": "22-transformer-en-20260920.mp4",
-      "caption": "22-transformer-en-20260920.txt",
-      "video_sha256": "5d4090036cf95e1f9ad54ae10aff3520fe03d8f3dd46c5f178f6b10519b8dbf6",
-      "caption_sha256": "dd5d02944deeac587f230aefba2984c7d95ff5ffc3afb814137b325d20530560",
-      "title": "How a transformer changes voltage",
-      "slug": "22-transformer",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-09-30T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "transformer"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#Transformer",
-          "#ElectromagneticInduction"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120345535768269",
-      "publish_requested_at": "2026-09-30T18:02:05.701468+09:00",
-      "media_id": "18111203605870425"
-    },
-    {
       "id": "23-touchscreen-en-20260920",
       "video": "23-touchscreen-en-20260920.mp4",
       "caption": "23-touchscreen-en-20260920.txt",
@@ -1241,6 +1204,45 @@
       "media_id": "18106368980186548",
       "permalink": "https://www.instagram.com/reel/Dd5UjPygHbe/",
       "published_at": "2026-09-30T12:01:57+09:00"
+    },
+    {
+      "id": "22-transformer-en-20260920",
+      "video": "22-transformer-en-20260920.mp4",
+      "caption": "22-transformer-en-20260920.txt",
+      "video_sha256": "5d4090036cf95e1f9ad54ae10aff3520fe03d8f3dd46c5f178f6b10519b8dbf6",
+      "caption_sha256": "dd5d02944deeac587f230aefba2984c7d95ff5ffc3afb814137b325d20530560",
+      "title": "How a transformer changes voltage",
+      "slug": "22-transformer",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-09-30T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "transformer"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#Transformer",
+          "#ElectromagneticInduction"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120345535768269",
+      "publish_requested_at": "2026-09-30T18:02:05.701468+09:00",
+      "media_id": "18111203605870425",
+      "permalink": "https://www.instagram.com/reel/Dd59xYOArzl/",
+      "published_at": "2026-09-30T18:02:08+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
