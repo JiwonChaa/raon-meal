@@ -6,49 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "114",
-      "slug": "sporadic-e",
-      "title": "갑자기 먼 FM 방송이 잡히는 날",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-25T12:00:00+09:00",
-      "sha256": "6c8f534fe45e397154ad5b7da76d49cc7320f4932cb749d0fd3ab9e908f4c761",
-      "visual_revision": "2026-09-10",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-114-sporadic-e",
-      "video": "114-sporadic-e.mp4",
-      "caption": "114-sporadic-e.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "6c8f534fe45e397154ad5b7da76d49cc7320f4932cb749d0fd3ab9e908f4c761",
-      "caption_sha256": "40311012ddef1327b489d4057282806274f520dbd5bc037d6f27ca786ea18340",
-      "original_scheduled_at": "2026-09-24T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "FM"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#FM라디오",
-          "#전리층"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155146726537390",
-      "publish_requested_at": "2026-09-30T12:02:06.515015+09:00",
-      "media_id": "17948783616295002"
-    },
-    {
       "num": "106",
       "slug": "whipping-waste",
       "title": "거품기로 쓴 힘은 어디로 갈까",
@@ -2694,6 +2651,53 @@
       "published_at": "2026-09-29T18:01:54+09:00",
       "status": "published",
       "at": "2026-09-29T18:01:54+09:00"
+    },
+    {
+      "num": "114",
+      "slug": "sporadic-e",
+      "title": "갑자기 먼 FM 방송이 잡히는 날",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-25T12:00:00+09:00",
+      "sha256": "6c8f534fe45e397154ad5b7da76d49cc7320f4932cb749d0fd3ab9e908f4c761",
+      "visual_revision": "2026-09-10",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-114-sporadic-e",
+      "video": "114-sporadic-e.mp4",
+      "caption": "114-sporadic-e.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "6c8f534fe45e397154ad5b7da76d49cc7320f4932cb749d0fd3ab9e908f4c761",
+      "caption_sha256": "40311012ddef1327b489d4057282806274f520dbd5bc037d6f27ca786ea18340",
+      "original_scheduled_at": "2026-09-24T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "FM"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#FM라디오",
+          "#전리층"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155146726537390",
+      "publish_requested_at": "2026-09-30T12:02:06.515015+09:00",
+      "media_id": "17948783616295002",
+      "permalink": "https://www.instagram.com/reel/Dd5UjRCDWvC/",
+      "published_at": "2026-09-30T12:02:09+09:00",
+      "status": "published",
+      "at": "2026-09-30T12:02:09+09:00"
     }
   ],
   "cancelled_for_remake": [
