@@ -601,6 +601,46 @@
       "total_interactions": 1,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 5.988
+    },
+    {
+      "item_id": "15-double-glazing-en-20260920",
+      "media_id": "18378323233240027",
+      "permalink": "https://www.instagram.com/reel/DdxmLdkD5Xi/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.68,
+      "captured_at": "2026-09-30T05:42:53.784984+00:00",
+      "views": 1432,
+      "reach": 1212,
+      "average_watch_time_ms": 9344,
+      "total_watch_time_ms": 11176150,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 10,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.65
+    },
+    {
+      "item_id": "19-static-balloon-en-20260920",
+      "media_id": "17989050167867577",
+      "permalink": "https://www.instagram.com/reel/Dd2vwwGDUl9/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.681,
+      "captured_at": "2026-09-30T05:42:53.784984+00:00",
+      "views": 202,
+      "reach": 183,
+      "average_watch_time_ms": 5383,
+      "total_watch_time_ms": 979803,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
