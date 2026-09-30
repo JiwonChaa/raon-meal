@@ -6,49 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "106",
-      "slug": "whipping-waste",
-      "title": "거품기로 쓴 힘은 어디로 갈까",
-      "cue": null,
-      "next_cue": null,
-      "slot": "A",
-      "fails": 0,
-      "scheduled_at": "2026-09-25T18:00:00+09:00",
-      "sha256": "7357526693421399b1b2f54d8fe6739012c1e1fefe9cef1636770f34c760e51b",
-      "visual_revision": "2026-09-10",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-106-whipping-waste",
-      "video": "106-whipping-waste.mp4",
-      "caption": "106-whipping-waste.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "7357526693421399b1b2f54d8fe6739012c1e1fefe9cef1636770f34c760e51b",
-      "caption_sha256": "9b26b045c9ed9739c66954652e749ba0c833e885d63f95d7d41f308811986063",
-      "original_scheduled_at": "2026-09-21T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "food",
-        "keywords": [
-          "거품기"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#거품",
-          "#에너지전환"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155186149537390",
-      "publish_requested_at": "2026-09-30T18:02:00.594852+09:00",
-      "media_id": "17895587388612128"
-    },
-    {
       "num": "115",
       "slug": "flare-blackout",
       "title": "태양이 번쩍이면 단파 통신이 끊기기도 한다",
@@ -2701,6 +2658,53 @@
       "published_at": "2026-09-30T12:02:09+09:00",
       "status": "published",
       "at": "2026-09-30T12:02:09+09:00"
+    },
+    {
+      "num": "106",
+      "slug": "whipping-waste",
+      "title": "거품기로 쓴 힘은 어디로 갈까",
+      "cue": null,
+      "next_cue": null,
+      "slot": "A",
+      "fails": 0,
+      "scheduled_at": "2026-09-25T18:00:00+09:00",
+      "sha256": "7357526693421399b1b2f54d8fe6739012c1e1fefe9cef1636770f34c760e51b",
+      "visual_revision": "2026-09-10",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-106-whipping-waste",
+      "video": "106-whipping-waste.mp4",
+      "caption": "106-whipping-waste.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "7357526693421399b1b2f54d8fe6739012c1e1fefe9cef1636770f34c760e51b",
+      "caption_sha256": "9b26b045c9ed9739c66954652e749ba0c833e885d63f95d7d41f308811986063",
+      "original_scheduled_at": "2026-09-21T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "food",
+        "keywords": [
+          "거품기"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#거품",
+          "#에너지전환"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155186149537390",
+      "publish_requested_at": "2026-09-30T18:02:00.594852+09:00",
+      "media_id": "17895587388612128",
+      "permalink": "https://www.instagram.com/reel/Dd59wsrCO1F/",
+      "published_at": "2026-09-30T18:02:03+09:00",
+      "status": "published",
+      "at": "2026-09-30T18:02:03+09:00"
     }
   ],
   "cancelled_for_remake": [
