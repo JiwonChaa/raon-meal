@@ -281,6 +281,26 @@
       "total_interactions": 43,
       "shares_per_1000_reach": 49.505,
       "saves_per_1000_reach": 1.414
+    },
+    {
+      "item_id": "legacy-105-meringue-drains",
+      "media_id": "18092768033664359",
+      "permalink": "https://www.instagram.com/reel/Dd3Y96UiRfP/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 27.747,
+      "captured_at": "2026-09-30T12:46:42.686489+00:00",
+      "views": 797,
+      "reach": 551,
+      "average_watch_time_ms": 8017,
+      "total_watch_time_ms": 4578102,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
