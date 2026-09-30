@@ -241,6 +241,46 @@
       "total_interactions": 9,
       "shares_per_1000_reach": 0.614,
       "saves_per_1000_reach": 1.843
+    },
+    {
+      "item_id": "legacy-112-am-night",
+      "media_id": "18095338196540856",
+      "permalink": "https://www.instagram.com/reel/DdxmLTsj5Sc/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.682,
+      "captured_at": "2026-09-30T05:42:50.104500+00:00",
+      "views": 1155,
+      "reach": 690,
+      "average_watch_time_ms": 5467,
+      "total_watch_time_ms": 4051666,
+      "likes": 5,
+      "comments": 0,
+      "shares": 2,
+      "saved": 3,
+      "total_interactions": 10,
+      "shares_per_1000_reach": 2.899,
+      "saves_per_1000_reach": 4.348
+    },
+    {
+      "item_id": "legacy-113-shortwave-fm",
+      "media_id": "17905681179568076",
+      "permalink": "https://www.instagram.com/reel/Dd2vzb2AfIe/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.676,
+      "captured_at": "2026-09-30T05:42:50.104500+00:00",
+      "views": 967,
+      "reach": 707,
+      "average_watch_time_ms": 4689,
+      "total_watch_time_ms": 3348099,
+      "likes": 6,
+      "comments": 0,
+      "shares": 35,
+      "saved": 1,
+      "total_interactions": 43,
+      "shares_per_1000_reach": 49.505,
+      "saves_per_1000_reach": 1.414
     }
   ]
 }
