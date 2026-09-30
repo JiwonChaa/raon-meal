@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "21-eddy-brake-en-20260920",
-      "video": "21-eddy-brake-en-20260920.mp4",
-      "caption": "21-eddy-brake-en-20260920.txt",
-      "video_sha256": "1df3089d417fd1953c48c00b8ed90bd8bd78d4759db1804ec218b06b72344dd2",
-      "caption_sha256": "10c3bc5991c5ebfb0b36df3ff0a684999978f27f9fe6b74778abe69829b85729",
-      "title": "Why a magnet falls slowly in copper",
-      "slug": "21-eddy-brake",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-09-30T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "magnet"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#EddyCurrents",
-          "#MagneticBraking"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120274291768269",
-      "publish_requested_at": "2026-09-30T12:01:54.348805+09:00",
-      "media_id": "18106368980186548"
-    },
-    {
       "id": "22-transformer-en-20260920",
       "video": "22-transformer-en-20260920.mp4",
       "caption": "22-transformer-en-20260920.txt",
@@ -1236,6 +1199,45 @@
       "media_id": "18021880520715564",
       "permalink": "https://www.instagram.com/reel/Dd3Y_h-jJex/",
       "published_at": "2026-09-29T18:02:13+09:00"
+    },
+    {
+      "id": "21-eddy-brake-en-20260920",
+      "video": "21-eddy-brake-en-20260920.mp4",
+      "caption": "21-eddy-brake-en-20260920.txt",
+      "video_sha256": "1df3089d417fd1953c48c00b8ed90bd8bd78d4759db1804ec218b06b72344dd2",
+      "caption_sha256": "10c3bc5991c5ebfb0b36df3ff0a684999978f27f9fe6b74778abe69829b85729",
+      "title": "Why a magnet falls slowly in copper",
+      "slug": "21-eddy-brake",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-09-30T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "magnet"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#EddyCurrents",
+          "#MagneticBraking"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120274291768269",
+      "publish_requested_at": "2026-09-30T12:01:54.348805+09:00",
+      "media_id": "18106368980186548",
+      "permalink": "https://www.instagram.com/reel/Dd5UjPygHbe/",
+      "published_at": "2026-09-30T12:01:57+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
