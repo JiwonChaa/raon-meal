@@ -1,0 +1,6 @@
+pendulum · period · oscillation
+Why does a longer pendulum swing slower?
+
+Keeping gravity and angle fixed, quadrupling the length doubles the period.
+
+#science #physics #pendulum #period #oscillation

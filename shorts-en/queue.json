@@ -279,6 +279,826 @@
           72
         ]
       }
+    },
+    {
+      "id": "equation-01-wireless-en-20261001",
+      "slug": "equation-01-wireless",
+      "title": "How does wireless charging transfer energy?",
+      "language": "en",
+      "video": "equation-01-wireless-en-20261001.mp4",
+      "caption": "equation-01-wireless-en-20261001.txt",
+      "video_sha256": "983f15fc956eb0c8525a14f0ff2d3200cc1e5acfa5878f46f83ed5d32a18914e",
+      "caption_sha256": "2471defbfaab43f80c7b8302454e928813862481ef747cc8a0c206157727818b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-06T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-01-wireless",
+        "keywords": [
+          "wireless charging",
+          "electromagnetic induction",
+          "Faraday law"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#wirelesscharging",
+          "#induction",
+          "#faraday"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-01-wireless"
+    },
+    {
+      "id": "equation-02-carbonation-en-20261001",
+      "slug": "equation-02-carbonation",
+      "title": "Why does soda fizz when opened?",
+      "language": "en",
+      "video": "equation-02-carbonation-en-20261001.mp4",
+      "caption": "equation-02-carbonation-en-20261001.txt",
+      "video_sha256": "c532e82365b3b150a83ed1aaf1a185044f3cf8aa246e73382ce88ed41ef331a0",
+      "caption_sha256": "c6600293212b40bd7fb0ed49238ed4ec48370a730be89f4215483086e99849eb",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-06T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-02-carbonation",
+        "keywords": [
+          "carbonated drinks",
+          "Henry law",
+          "carbon dioxide"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#soda",
+          "#henryslaw",
+          "#carbondioxide"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-02-carbonation"
+    },
+    {
+      "id": "equation-03-barometer-en-20261001",
+      "slug": "equation-03-barometer",
+      "title": "How can pressure reveal your height?",
+      "language": "en",
+      "video": "equation-03-barometer-en-20261001.mp4",
+      "caption": "equation-03-barometer-en-20261001.txt",
+      "video_sha256": "f68f2d73f5ffe5a649a3a63dbe8868ad89cf24560f6028de2ecabf471f09622f",
+      "caption_sha256": "2fb474b06186c27d1407336708fb967aa658a7b2a2863eab4dbc449980fb4463",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-07T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-03-barometer",
+        "keywords": [
+          "barometer",
+          "smartphone",
+          "altitude"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#barometer",
+          "#smartphone",
+          "#altitude"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-03-barometer"
+    },
+    {
+      "id": "equation-04-potato-en-20261001",
+      "slug": "equation-04-potato",
+      "title": "How does thickness change heating time?",
+      "language": "en",
+      "video": "equation-04-potato-en-20261001.mp4",
+      "caption": "equation-04-potato-en-20261001.txt",
+      "video_sha256": "409f54d54912dccf79248534147eef9e9023ffe0f5c50ebff60387054b7f06ea",
+      "caption_sha256": "b1811ca6608e9f191a26ac62cc0e23cba65db7bde9b294e2f6a5fbb0f128f964",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-07T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-04-potato",
+        "keywords": [
+          "potato",
+          "heatdiffusion",
+          "cooking"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#potato",
+          "#heatdiffusion",
+          "#cooking"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-04-potato"
+    },
+    {
+      "id": "equation-05-polarizer-en-20261001",
+      "slug": "equation-05-polarizer",
+      "title": "Why does a rotated polarizer darken light?",
+      "language": "en",
+      "video": "equation-05-polarizer-en-20261001.mp4",
+      "caption": "equation-05-polarizer-en-20261001.txt",
+      "video_sha256": "b8575bbbf0dcd1f4e07034807f9c3ceb766781cdc90607768c82d053f962a350",
+      "caption_sha256": "2fd4db8aa3e5298df9d8f439723991f74aaef58bb7179d8825b5d98ebb8a9138",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-08T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-05-polarizer",
+        "keywords": [
+          "polarization",
+          "maluslaw",
+          "light"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#polarization",
+          "#maluslaw",
+          "#light"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-05-polarizer"
+    },
+    {
+      "id": "equation-06-cream-en-20261001",
+      "slug": "equation-06-cream",
+      "title": "Why do smaller fat droplets rise slower?",
+      "language": "en",
+      "video": "equation-06-cream-en-20261001.mp4",
+      "caption": "equation-06-cream-en-20261001.txt",
+      "video_sha256": "5075d99358890629edc9abeb96b540f060aee18b9e0faeecfec61349e6e5116b",
+      "caption_sha256": "a5c54ec1419d9aa61a77afc4f0b93aef8a9210706b81d15f70366fc99d74f82b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-08T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-06-cream",
+        "keywords": [
+          "milk",
+          "fatdroplets",
+          "creaming"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#milk",
+          "#fatdroplets",
+          "#creaming"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-06-cream"
+    },
+    {
+      "id": "equation-07-focus-en-20261001",
+      "slug": "equation-07-focus",
+      "title": "Why does focusing move a lens?",
+      "language": "en",
+      "video": "equation-07-focus-en-20261001.mp4",
+      "caption": "equation-07-focus-en-20261001.txt",
+      "video_sha256": "858717a265516a3294a43131b275a6148162cd01d58f554ed25e703813e9738b",
+      "caption_sha256": "ab9375dd9eae4da9f2986df0ac166ec763bf2d1fd242a5d20b5423d0aeecc871",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-09T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-07-focus",
+        "keywords": [
+          "camera",
+          "focus",
+          "lens"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#camera",
+          "#focus",
+          "#lens"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-07-focus"
+    },
+    {
+      "id": "equation-08-honey-en-20261001",
+      "slug": "equation-08-honey",
+      "title": "How much does a wider tube change honey flow?",
+      "language": "en",
+      "video": "equation-08-honey-en-20261001.mp4",
+      "caption": "equation-08-honey-en-20261001.txt",
+      "video_sha256": "b1885d49aae82ca0a1e4c7ce079aa6cd2f77f58d5fcd474835d65b698608f377",
+      "caption_sha256": "901f9dba28a25db8d0fdd38ee87ad245135ff05f0f49bf82f0d5b236414d3fed",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-09T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-08-honey",
+        "keywords": [
+          "honey",
+          "viscosity",
+          "flow"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#honey",
+          "#viscosity",
+          "#flow"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-08-honey"
+    },
+    {
+      "id": "equation-09-anc-en-20261001",
+      "slug": "equation-09-anc",
+      "title": "How can adding sound make silence?",
+      "language": "en",
+      "video": "equation-09-anc-en-20261001.mp4",
+      "caption": "equation-09-anc-en-20261001.txt",
+      "video_sha256": "495a88c04a8d1158b55b0d7a536a0277fb97ec5340749c996974e7aeedb7f5ea",
+      "caption_sha256": "6aeb4288d7c9dbae9c4c02f03a8600032e9cb4266329baa19be5ab5bbe06b49e",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-10T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-09-anc",
+        "keywords": [
+          "noisecancelling",
+          "sound",
+          "interference"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#noisecancelling",
+          "#sound",
+          "#interference"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-09-anc"
+    },
+    {
+      "id": "equation-10-ice-en-20261001",
+      "slug": "equation-10-ice",
+      "title": "Why does most ice stay underwater?",
+      "language": "en",
+      "video": "equation-10-ice-en-20261001.mp4",
+      "caption": "equation-10-ice-en-20261001.txt",
+      "video_sha256": "6bfeb093590aff6348f95575dbf655b1c26fd205031600555de34bd19529b8b1",
+      "caption_sha256": "d57941a8b2abb868ea471528dff1349230001a028cf43210668aa94b65e1ecc1",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-10T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-10-ice",
+        "keywords": [
+          "ice",
+          "buoyancy",
+          "density"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#ice",
+          "#buoyancy",
+          "#density"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-10-ice"
+    },
+    {
+      "id": "equation-11-fiber-en-20261001",
+      "slug": "equation-11-fiber",
+      "title": "What keeps light inside an optical fiber?",
+      "language": "en",
+      "video": "equation-11-fiber-en-20261001.mp4",
+      "caption": "equation-11-fiber-en-20261001.txt",
+      "video_sha256": "b058ee43da8e95de66b2075b23e5b24733c3fddcd542dda99d08b96132b48c41",
+      "caption_sha256": "9a7a56a7c91a23e7c120e873268b2296a325ccbce636f3498267468f9050711f",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-11T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-11-fiber",
+        "keywords": [
+          "fiberoptics",
+          "totalinternalreflection",
+          "refraction"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#fiberoptics",
+          "#totalinternalreflection",
+          "#refraction"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-11-fiber"
+    },
+    {
+      "id": "equation-12-pressure-cooker-en-20261001",
+      "slug": "equation-12-pressure-cooker",
+      "title": "Why can pressure-cooker water exceed boiling point?",
+      "language": "en",
+      "video": "equation-12-pressure-cooker-en-20261001.mp4",
+      "caption": "equation-12-pressure-cooker-en-20261001.txt",
+      "video_sha256": "3fbdaa785481af3264ce708735768c34710bfc78063222d4bafe2d41ec7983d4",
+      "caption_sha256": "a5e27bcaccad8d575c50d9204d8804cf4d7f641ba2dfe61d4581e76509dd4a2b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-11T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-12-pressure-cooker",
+        "keywords": [
+          "pressurecooker",
+          "boilingpoint",
+          "vaporpressure"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#pressurecooker",
+          "#boilingpoint",
+          "#vaporpressure"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-12-pressure-cooker"
+    },
+    {
+      "id": "equation-13-eddy-en-20261001",
+      "slug": "equation-13-eddy",
+      "title": "Why does a magnet fall slowly through copper?",
+      "language": "en",
+      "video": "equation-13-eddy-en-20261001.mp4",
+      "caption": "equation-13-eddy-en-20261001.txt",
+      "video_sha256": "3703824921ed1ae0bf928f0e0ba963f12cac28ef9938bf1507244f4f34e8768d",
+      "caption_sha256": "50eb77d3b9a5573261fbc9e93967d54f00168c9ea2c4010a942551e31d444dbf",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-12T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-13-eddy",
+        "keywords": [
+          "eddycurrents",
+          "magnet",
+          "magneticbraking"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#eddycurrents",
+          "#magnet",
+          "#magneticbraking"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-13-eddy"
+    },
+    {
+      "id": "equation-14-coffee-en-20261001",
+      "slug": "equation-14-coffee",
+      "title": "Why does coffee cool faster at first?",
+      "language": "en",
+      "video": "equation-14-coffee-en-20261001.mp4",
+      "caption": "equation-14-coffee-en-20261001.txt",
+      "video_sha256": "c1e9ea44df770e9faaa6858315f2aee5a28889d1b39c4d4efb697fb067fd9034",
+      "caption_sha256": "35688cf765933d5796dcadb140eb5a709a4f6447a00af3d16be180e46eef2bc9",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-12T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-14-coffee",
+        "keywords": [
+          "coffee",
+          "cooling",
+          "heattransfer"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#coffee",
+          "#cooling",
+          "#heattransfer"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-14-coffee"
+    },
+    {
+      "id": "equation-15-pendulum-en-20261001",
+      "slug": "equation-15-pendulum",
+      "title": "Why does a longer pendulum swing slower?",
+      "language": "en",
+      "video": "equation-15-pendulum-en-20261001.mp4",
+      "caption": "equation-15-pendulum-en-20261001.txt",
+      "video_sha256": "d4795f836530fb63a607c8b77dc6f270c63aef8c0e892ace6001e6b2c8e2fdfd",
+      "caption_sha256": "68b774dd5bd754fd7def548588d74b02739a132e92c2323057700d8848269177",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-13T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-15-pendulum",
+        "keywords": [
+          "pendulum",
+          "period",
+          "oscillation"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#pendulum",
+          "#period",
+          "#oscillation"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-15-pendulum"
+    },
+    {
+      "id": "equation-16-salt-en-20261001",
+      "slug": "equation-16-salt",
+      "title": "How far does salt diffuse in four times the time?",
+      "language": "en",
+      "video": "equation-16-salt-en-20261001.mp4",
+      "caption": "equation-16-salt-en-20261001.txt",
+      "video_sha256": "40a7f7f76980c74a4b1a9d5fee22633097572ad29e4686f33506ea3979c9d8b0",
+      "caption_sha256": "eef760e93c81d944d4fb7891eaafda19a6e9afbaa2590f163d9f494073f1a75d",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-13T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-16-salt",
+        "keywords": [
+          "salt",
+          "diffusion",
+          "brining"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#salt",
+          "#diffusion",
+          "#brining"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-16-salt"
+    },
+    {
+      "id": "equation-17-doppler-en-20261001",
+      "slug": "equation-17-doppler",
+      "title": "Why does a moving speaker change pitch?",
+      "language": "en",
+      "video": "equation-17-doppler-en-20261001.mp4",
+      "caption": "equation-17-doppler-en-20261001.txt",
+      "video_sha256": "76ed18723b695f5f419db8ca5c66838186b0ceefdc2fa054e68b91d21afbe4b8",
+      "caption_sha256": "b5f929f5e6caddee071718077fe564f2963746ce4647e2946da694dd42159390",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-14T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-17-doppler",
+        "keywords": [
+          "dopplereffect",
+          "pitch",
+          "soundwaves"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#dopplereffect",
+          "#pitch",
+          "#soundwaves"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-17-doppler"
+    },
+    {
+      "id": "equation-18-foam-en-20261001",
+      "slug": "equation-18-foam",
+      "title": "Why is pressure higher inside a smaller bubble?",
+      "language": "en",
+      "video": "equation-18-foam-en-20261001.mp4",
+      "caption": "equation-18-foam-en-20261001.txt",
+      "video_sha256": "68d55399411a02170fcc483d15bb62124fb1c5c1923523f00fa712c6ca1ca93b",
+      "caption_sha256": "e4e88a27c82fb4dd7dea7ba2880f0f21493437d77ef760ab401c57d2a608f986",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-14T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-18-foam",
+        "keywords": [
+          "bubbles",
+          "surfacetension",
+          "pressure"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#bubbles",
+          "#surfacetension",
+          "#pressure"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-18-foam"
+    },
+    {
+      "id": "equation-19-infrared-en-20261001",
+      "slug": "equation-19-infrared",
+      "title": "What invisible light does a thermal camera detect?",
+      "language": "en",
+      "video": "equation-19-infrared-en-20261001.mp4",
+      "caption": "equation-19-infrared-en-20261001.txt",
+      "video_sha256": "c0b1950bd5c2c2f844092209afd5ba7ebf52117e89fa3bf041b6fb8bb9759b5d",
+      "caption_sha256": "088873cb726c7f988c82ef19fd913fa33fef418de84a48a099bcbe118c36ef73",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-15T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-19-infrared",
+        "keywords": [
+          "thermalimaging",
+          "infrared",
+          "radiation"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#thermalimaging",
+          "#infrared",
+          "#radiation"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-19-infrared"
+    },
+    {
+      "id": "equation-20-microwave-en-20261001",
+      "slug": "equation-20-microwave",
+      "title": "Why can microwave heating form bands?",
+      "language": "en",
+      "video": "equation-20-microwave-en-20261001.mp4",
+      "caption": "equation-20-microwave-en-20261001.txt",
+      "video_sha256": "0f14e1113ef6d51a34a90068e6f268772a7e080326ba052fa16cf14cced1eecc",
+      "caption_sha256": "af865bee9dd846862e1ed84659e63178b5cbdd67bd5385138340b9e273ddaa8f",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-15T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-20-microwave",
+        "keywords": [
+          "microwave",
+          "standingwaves",
+          "heating"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#microwave",
+          "#standingwaves",
+          "#heating"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-20-microwave"
     }
   ],
   "done": [

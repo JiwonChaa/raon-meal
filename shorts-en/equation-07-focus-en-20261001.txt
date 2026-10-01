@@ -1,0 +1,6 @@
+camera · focus · lens
+Why does focusing move a lens?
+
+Move only the object closer, and the lens shifts to keep the sensor focused.
+
+#science #physics #camera #focus #lens

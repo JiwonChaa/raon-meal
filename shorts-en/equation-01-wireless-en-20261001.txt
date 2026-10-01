@@ -1,0 +1,6 @@
+wireless charging · electromagnetic induction · Faraday law
+How does wireless charging transfer energy?
+
+Stop changing flux while keeping everything else fixed, and induced voltage disappears.
+
+#science #physics #wirelesscharging #induction #faraday

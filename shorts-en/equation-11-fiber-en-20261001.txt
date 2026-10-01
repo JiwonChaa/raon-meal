@@ -1,0 +1,6 @@
+fiberoptics · totalinternalreflection · refraction
+What keeps light inside an optical fiber?
+
+Lower only the incident angle, and some light escapes into the cladding.
+
+#science #physics #fiberoptics #totalinternalreflection #refraction
