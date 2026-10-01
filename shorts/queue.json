@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "115",
-      "slug": "flare-blackout",
-      "title": "태양이 번쩍이면 단파 통신이 끊기기도 한다",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-26T12:00:00+09:00",
-      "sha256": "0f1677f459c50bb9d3e75f4e9e26fea2b3ee1d95b04628af23898f8b2bbcdd67",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-115-flare-blackout",
-      "video": "115-flare-blackout.mp4",
-      "caption": "115-flare-blackout.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "0f1677f459c50bb9d3e75f4e9e26fea2b3ee1d95b04628af23898f8b2bbcdd67",
-      "caption_sha256": "ff6f422a61f2d638b6e4cff52c35ad81c146bda2d4a9176c4e0f4f048314b535",
-      "original_scheduled_at": "2026-09-25T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "태양"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#태양플레어",
-          "#단파통신"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155332906537390",
-      "publish_requested_at": "2026-10-01T12:02:03.226846+09:00",
-      "media_id": "18011516861760784"
-    },
-    {
       "num": "108",
       "slug": "bread-is-air",
       "title": "커다란 빵이 가벼운 이유",
@@ -2708,6 +2666,52 @@
       "published_at": "2026-09-30T18:02:03+09:00",
       "status": "published",
       "at": "2026-09-30T18:02:03+09:00"
+    },
+    {
+      "num": "115",
+      "slug": "flare-blackout",
+      "title": "태양이 번쩍이면 단파 통신이 끊기기도 한다",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-26T12:00:00+09:00",
+      "sha256": "0f1677f459c50bb9d3e75f4e9e26fea2b3ee1d95b04628af23898f8b2bbcdd67",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-115-flare-blackout",
+      "video": "115-flare-blackout.mp4",
+      "caption": "115-flare-blackout.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "0f1677f459c50bb9d3e75f4e9e26fea2b3ee1d95b04628af23898f8b2bbcdd67",
+      "caption_sha256": "ff6f422a61f2d638b6e4cff52c35ad81c146bda2d4a9176c4e0f4f048314b535",
+      "original_scheduled_at": "2026-09-25T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "태양"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#태양플레어",
+          "#단파통신"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155332906537390",
+      "publish_requested_at": "2026-10-01T12:02:03.226846+09:00",
+      "media_id": "18011516861760784",
+      "permalink": "https://www.instagram.com/reel/Dd75XDigRpT/",
+      "published_at": "2026-10-01T12:02:06+09:00",
+      "status": "published",
+      "at": "2026-10-01T12:02:06+09:00"
     }
   ],
   "cancelled_for_remake": [
