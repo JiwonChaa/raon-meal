@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "23-touchscreen-en-20260920",
-      "video": "23-touchscreen-en-20260920.mp4",
-      "caption": "23-touchscreen-en-20260920.txt",
-      "video_sha256": "04ed581c50387646b7fbfb1a5de3be574ad565f0be5e482012115093d9c0865e",
-      "caption_sha256": "e9383e8a95a498137ca5bb836f3fe11c739ea44125ed92cb2cfe5f97682ce912",
-      "title": "How a screen locates your finger",
-      "slug": "23-touchscreen",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-01T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "screen"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#Touchscreen",
-          "#Capacitance"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120566635768269",
-      "publish_requested_at": "2026-10-01T12:02:06.790280+09:00",
-      "media_id": "18114050048521279"
-    },
-    {
       "id": "24-led-colors-en-20260920",
       "video": "24-led-colors-en-20260920.mp4",
       "caption": "24-led-colors-en-20260920.txt",
@@ -1246,6 +1209,45 @@
       "media_id": "18111203605870425",
       "permalink": "https://www.instagram.com/reel/Dd59xYOArzl/",
       "published_at": "2026-09-30T18:02:08+09:00"
+    },
+    {
+      "id": "23-touchscreen-en-20260920",
+      "video": "23-touchscreen-en-20260920.mp4",
+      "caption": "23-touchscreen-en-20260920.txt",
+      "video_sha256": "04ed581c50387646b7fbfb1a5de3be574ad565f0be5e482012115093d9c0865e",
+      "caption_sha256": "e9383e8a95a498137ca5bb836f3fe11c739ea44125ed92cb2cfe5f97682ce912",
+      "title": "How a screen locates your finger",
+      "slug": "23-touchscreen",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-01T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "screen"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#Touchscreen",
+          "#Capacitance"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120566635768269",
+      "publish_requested_at": "2026-10-01T12:02:06.790280+09:00",
+      "media_id": "18114050048521279",
+      "permalink": "https://www.instagram.com/reel/Dd75XubgmFM/",
+      "published_at": "2026-10-01T12:02:09+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
