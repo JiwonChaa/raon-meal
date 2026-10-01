@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "24-led-colors-en-20260920",
-      "video": "24-led-colors-en-20260920.mp4",
-      "caption": "24-led-colors-en-20260920.txt",
-      "video_sha256": "dc3d5a3e80d7670bdc4a9dbd9575b636af204d651aa38bddd8b897bea13e290c",
-      "caption_sha256": "76ebe55aab53e3040d2b756d771e25f0fbb3c7a3da0a52313b92aa53dcbad246",
-      "title": "What sets an LED’s color",
-      "slug": "24-led-colors",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-01T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "LED"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#LED",
-          "#Semiconductor"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120632383768269",
-      "publish_requested_at": "2026-10-01T18:03:04.941838+09:00",
-      "media_id": "18148935064531046"
-    },
-    {
       "id": "25-capillary-en-20260920",
       "video": "25-capillary-en-20260920.mp4",
       "caption": "25-capillary-en-20260920.txt",
@@ -1251,6 +1214,45 @@
       "media_id": "18114050048521279",
       "permalink": "https://www.instagram.com/reel/Dd75XubgmFM/",
       "published_at": "2026-10-01T12:02:09+09:00"
+    },
+    {
+      "id": "24-led-colors-en-20260920",
+      "video": "24-led-colors-en-20260920.mp4",
+      "caption": "24-led-colors-en-20260920.txt",
+      "video_sha256": "dc3d5a3e80d7670bdc4a9dbd9575b636af204d651aa38bddd8b897bea13e290c",
+      "caption_sha256": "76ebe55aab53e3040d2b756d771e25f0fbb3c7a3da0a52313b92aa53dcbad246",
+      "title": "What sets an LED’s color",
+      "slug": "24-led-colors",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-01T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "LED"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#LED",
+          "#Semiconductor"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120632383768269",
+      "publish_requested_at": "2026-10-01T18:03:04.941838+09:00",
+      "media_id": "18148935064531046",
+      "permalink": "https://www.instagram.com/reel/Dd8isOpDgzX/",
+      "published_at": "2026-10-01T18:03:07+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
