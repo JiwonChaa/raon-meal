@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "116",
-      "slug": "meteor-100km",
-      "title": "별똥별은 왜 높은 하늘에서 빛날까",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-27T12:00:00+09:00",
-      "sha256": "226c159f507f1ec22ce6d3428aa2e8e4db2d707f9f51516e0bdab05576d412cd",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-116-meteor-100km",
-      "video": "116-meteor-100km.mp4",
-      "caption": "116-meteor-100km.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "226c159f507f1ec22ce6d3428aa2e8e4db2d707f9f51516e0bdab05576d412cd",
-      "caption_sha256": "f7783854ed173800aead4d928c74345448669adce85d82fc2375d92f575f974a",
-      "original_scheduled_at": "2026-09-25T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "별똥별"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#별똥별",
-          "#유성"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155529349537390",
-      "publish_requested_at": "2026-10-02T12:01:35.698862+09:00",
-      "media_id": "17896213170612055"
-    },
-    {
       "num": "109",
       "slug": "starch-60",
       "title": "전분물은 데우면 왜 되직해질까",
@@ -3542,6 +3500,52 @@
       "published_at": "2026-10-01T18:02:14+09:00",
       "status": "published",
       "at": "2026-10-01T18:02:14+09:00"
+    },
+    {
+      "num": "116",
+      "slug": "meteor-100km",
+      "title": "별똥별은 왜 높은 하늘에서 빛날까",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-27T12:00:00+09:00",
+      "sha256": "226c159f507f1ec22ce6d3428aa2e8e4db2d707f9f51516e0bdab05576d412cd",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-116-meteor-100km",
+      "video": "116-meteor-100km.mp4",
+      "caption": "116-meteor-100km.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "226c159f507f1ec22ce6d3428aa2e8e4db2d707f9f51516e0bdab05576d412cd",
+      "caption_sha256": "f7783854ed173800aead4d928c74345448669adce85d82fc2375d92f575f974a",
+      "original_scheduled_at": "2026-09-25T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "별똥별"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#별똥별",
+          "#유성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155529349537390",
+      "publish_requested_at": "2026-10-02T12:01:35.698862+09:00",
+      "media_id": "17896213170612055",
+      "permalink": "https://www.instagram.com/reel/Dd-eHxTCaGm/",
+      "published_at": "2026-10-02T12:01:39+09:00",
+      "status": "published",
+      "at": "2026-10-02T12:01:39+09:00"
     }
   ],
   "cancelled_for_remake": [
