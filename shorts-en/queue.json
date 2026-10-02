@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "25-capillary-en-20260920",
-      "video": "25-capillary-en-20260920.mp4",
-      "caption": "25-capillary-en-20260920.txt",
-      "video_sha256": "6b95196f87a1ff4630d9d417d8a1bb8b57408b389919b9e4d25ea996824d65b2",
-      "caption_sha256": "9d9270655a6f46d5926c4c445820b7ef0057767bdc21335eb53028694086b793",
-      "title": "Why water climbs a narrow tube",
-      "slug": "25-capillary",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-02T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "tube"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#CapillaryAction",
-          "#SurfaceTension"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120851062768269",
-      "publish_requested_at": "2026-10-02T12:05:59.367520+09:00",
-      "media_id": "17876551980566591"
-    },
-    {
       "id": "26-round-drops-en-20260920",
       "video": "26-round-drops-en-20260920.mp4",
       "caption": "26-round-drops-en-20260920.txt",
@@ -2076,6 +2039,45 @@
       "media_id": "18148935064531046",
       "permalink": "https://www.instagram.com/reel/Dd8isOpDgzX/",
       "published_at": "2026-10-01T18:03:07+09:00"
+    },
+    {
+      "id": "25-capillary-en-20260920",
+      "video": "25-capillary-en-20260920.mp4",
+      "caption": "25-capillary-en-20260920.txt",
+      "video_sha256": "6b95196f87a1ff4630d9d417d8a1bb8b57408b389919b9e4d25ea996824d65b2",
+      "caption_sha256": "9d9270655a6f46d5926c4c445820b7ef0057767bdc21335eb53028694086b793",
+      "title": "Why water climbs a narrow tube",
+      "slug": "25-capillary",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-02T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "tube"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#CapillaryAction",
+          "#SurfaceTension"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120851062768269",
+      "publish_requested_at": "2026-10-02T12:05:59.367520+09:00",
+      "media_id": "17876551980566591",
+      "permalink": "https://www.instagram.com/reel/Dd-eI3RDFuE/",
+      "published_at": "2026-10-02T12:06:02+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
