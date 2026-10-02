@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "109",
-      "slug": "starch-60",
-      "title": "전분물은 데우면 왜 되직해질까",
-      "cue": null,
-      "next_cue": null,
-      "slot": "A",
-      "fails": 0,
-      "scheduled_at": "2026-09-27T18:00:00+09:00",
-      "sha256": "6849c52bb4d59bd2b79fd4e942289ea58be2cbf9dadfce3251402335648bda99",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-109-starch-60",
-      "video": "109-starch-60.mp4",
-      "caption": "109-starch-60.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "6849c52bb4d59bd2b79fd4e942289ea58be2cbf9dadfce3251402335648bda99",
-      "caption_sha256": "6d80b5d4b3b1e78540bf99ccf66c84e02c92e9645b7fd7a7396fd545a79b1013",
-      "original_scheduled_at": "2026-09-22T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "food",
-        "keywords": [
-          "전분"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#전분",
-          "#호화"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155577418537390",
-      "publish_requested_at": "2026-10-02T18:01:34.492127+09:00",
-      "media_id": "17899147122603330"
-    },
-    {
       "num": "117",
       "slug": "noctilucent",
       "title": "해가 졌는데 높은 구름은 빛난다",
@@ -3549,6 +3507,52 @@
       "published_at": "2026-10-02T12:01:39+09:00",
       "status": "published",
       "at": "2026-10-02T12:01:39+09:00"
+    },
+    {
+      "num": "109",
+      "slug": "starch-60",
+      "title": "전분물은 데우면 왜 되직해질까",
+      "cue": null,
+      "next_cue": null,
+      "slot": "A",
+      "fails": 0,
+      "scheduled_at": "2026-09-27T18:00:00+09:00",
+      "sha256": "6849c52bb4d59bd2b79fd4e942289ea58be2cbf9dadfce3251402335648bda99",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-109-starch-60",
+      "video": "109-starch-60.mp4",
+      "caption": "109-starch-60.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "6849c52bb4d59bd2b79fd4e942289ea58be2cbf9dadfce3251402335648bda99",
+      "caption_sha256": "6d80b5d4b3b1e78540bf99ccf66c84e02c92e9645b7fd7a7396fd545a79b1013",
+      "original_scheduled_at": "2026-09-22T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "food",
+        "keywords": [
+          "전분"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#전분",
+          "#호화"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155577418537390",
+      "publish_requested_at": "2026-10-02T18:01:34.492127+09:00",
+      "media_id": "17899147122603330",
+      "permalink": "https://www.instagram.com/reel/Dd_HUT7lJOB/",
+      "published_at": "2026-10-02T18:01:37+09:00",
+      "status": "published",
+      "at": "2026-10-02T18:01:37+09:00"
     }
   ],
   "cancelled_for_remake": [
