@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "26-round-drops-en-20260920",
-      "video": "26-round-drops-en-20260920.mp4",
-      "caption": "26-round-drops-en-20260920.txt",
-      "video_sha256": "2b2f87fb2cb95d0eddab5ba0ee7aa99d51ae1b6eb85411728b0e3aa0559c66f3",
-      "caption_sha256": "d426aba846a65d9358eea8fa9863f77895d1acb912772deb3c27803fafa70170",
-      "title": "Why small droplets become round",
-      "slug": "26-round-drops",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-02T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "droplets"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#Droplets",
-          "#SurfaceTension"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18120921931768269",
-      "publish_requested_at": "2026-10-02T18:05:59.489662+09:00",
-      "media_id": "17910611106548456"
-    },
-    {
       "id": "27-gecko-feet-en-20260920",
       "video": "27-gecko-feet-en-20260920.mp4",
       "caption": "27-gecko-feet-en-20260920.txt",
@@ -2081,6 +2044,45 @@
       "media_id": "17876551980566591",
       "permalink": "https://www.instagram.com/reel/Dd-eI3RDFuE/",
       "published_at": "2026-10-02T12:06:02+09:00"
+    },
+    {
+      "id": "26-round-drops-en-20260920",
+      "video": "26-round-drops-en-20260920.mp4",
+      "caption": "26-round-drops-en-20260920.txt",
+      "video_sha256": "2b2f87fb2cb95d0eddab5ba0ee7aa99d51ae1b6eb85411728b0e3aa0559c66f3",
+      "caption_sha256": "d426aba846a65d9358eea8fa9863f77895d1acb912772deb3c27803fafa70170",
+      "title": "Why small droplets become round",
+      "slug": "26-round-drops",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-02T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "droplets"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#Droplets",
+          "#SurfaceTension"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18120921931768269",
+      "publish_requested_at": "2026-10-02T18:05:59.489662+09:00",
+      "media_id": "17910611106548456",
+      "permalink": "https://www.instagram.com/reel/Dd_HVdZFMPF/",
+      "published_at": "2026-10-02T18:06:03+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
