@@ -881,6 +881,46 @@
       "total_interactions": 10,
       "shares_per_1000_reach": 1.574,
       "saves_per_1000_reach": 0.787
+    },
+    {
+      "item_id": "22-transformer-en-20260920",
+      "media_id": "18111203605870425",
+      "permalink": "https://www.instagram.com/reel/Dd59xYOArzl/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.787,
+      "captured_at": "2026-10-03T11:49:20.664698+00:00",
+      "views": 699,
+      "reach": 612,
+      "average_watch_time_ms": 10536,
+      "total_watch_time_ms": 6437551,
+      "likes": 4,
+      "comments": 0,
+      "shares": 1,
+      "saved": 0,
+      "total_interactions": 5,
+      "shares_per_1000_reach": 1.634,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "26-round-drops-en-20260920",
+      "media_id": "17910611106548456",
+      "permalink": "https://www.instagram.com/reel/Dd_HVdZFMPF/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.722,
+      "captured_at": "2026-10-03T11:49:20.664698+00:00",
+      "views": 380,
+      "reach": 309,
+      "average_watch_time_ms": 8892,
+      "total_watch_time_ms": 2747686,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 3.236
     }
   ]
 }
