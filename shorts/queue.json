@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "118",
-      "slug": "shadow-zone",
-      "title": "지진파가 비어 있는 곳에서 지구 속을 읽는다",
-      "cue": null,
-      "next_cue": null,
-      "slot": "A",
-      "fails": 0,
-      "scheduled_at": "2026-09-28T18:00:00+09:00",
-      "sha256": "48e09d9fde93e37948e2497ddbd02cb50d5cf62910ea0e670ce6138080089c8d",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-118-shadow-zone",
-      "video": "118-shadow-zone.mp4",
-      "caption": "118-shadow-zone.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "48e09d9fde93e37948e2497ddbd02cb50d5cf62910ea0e670ce6138080089c8d",
-      "caption_sha256": "42a06a00020c266913f61fef0d5012d51786f82de395b54fed0f882d8c6d07b7",
-      "original_scheduled_at": "2026-09-26T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "지진파"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#지진파",
-          "#지구내부"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155770228537390",
-      "publish_requested_at": "2026-10-03T18:01:51.213377+09:00",
-      "media_id": "18333518608273348"
-    },
-    {
       "num": "119",
       "slug": "star-twinkle",
       "title": "별은 반짝이는데 목성은 덜 반짝이는 이유",
@@ -3563,6 +3521,52 @@
       "published_at": "2026-10-03T12:01:53+09:00",
       "status": "published",
       "at": "2026-10-03T12:01:53+09:00"
+    },
+    {
+      "num": "118",
+      "slug": "shadow-zone",
+      "title": "지진파가 비어 있는 곳에서 지구 속을 읽는다",
+      "cue": null,
+      "next_cue": null,
+      "slot": "A",
+      "fails": 0,
+      "scheduled_at": "2026-09-28T18:00:00+09:00",
+      "sha256": "48e09d9fde93e37948e2497ddbd02cb50d5cf62910ea0e670ce6138080089c8d",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-118-shadow-zone",
+      "video": "118-shadow-zone.mp4",
+      "caption": "118-shadow-zone.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "48e09d9fde93e37948e2497ddbd02cb50d5cf62910ea0e670ce6138080089c8d",
+      "caption_sha256": "42a06a00020c266913f61fef0d5012d51786f82de395b54fed0f882d8c6d07b7",
+      "original_scheduled_at": "2026-09-26T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "지진파"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#지진파",
+          "#지구내부"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155770228537390",
+      "publish_requested_at": "2026-10-03T18:01:51.213377+09:00",
+      "media_id": "18333518608273348",
+      "permalink": "https://www.instagram.com/reel/DeBsICfCoKN/",
+      "published_at": "2026-10-03T18:01:54+09:00",
+      "status": "published",
+      "at": "2026-10-03T18:01:54+09:00"
     }
   ],
   "cancelled_for_remake": [
