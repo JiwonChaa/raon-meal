@@ -441,6 +441,46 @@
       "total_interactions": 3,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 1.592
+    },
+    {
+      "item_id": "legacy-114-sporadic-e",
+      "media_id": "17948783616295002",
+      "permalink": "https://www.instagram.com/reel/Dd5UjRCDWvC/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.427,
+      "captured_at": "2026-10-03T05:27:44.588178+00:00",
+      "views": 797,
+      "reach": 513,
+      "average_watch_time_ms": 3411,
+      "total_watch_time_ms": 1852462,
+      "likes": 1,
+      "comments": 0,
+      "shares": 1,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 1.949,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "legacy-116-meteor-100km",
+      "media_id": "17896213170612055",
+      "permalink": "https://www.instagram.com/reel/Dd-eHxTCaGm/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.435,
+      "captured_at": "2026-10-03T05:27:44.588178+00:00",
+      "views": 938,
+      "reach": 640,
+      "average_watch_time_ms": 5126,
+      "total_watch_time_ms": 3393714,
+      "likes": 4,
+      "comments": 0,
+      "shares": 2,
+      "saved": 0,
+      "total_interactions": 6,
+      "shares_per_1000_reach": 3.125,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
