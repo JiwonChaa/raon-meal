@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "28-magnetic-domains-en-20260920",
-      "video": "28-magnetic-domains-en-20260920.mp4",
-      "caption": "28-magnetic-domains-en-20260920.txt",
-      "video_sha256": "f6fe4109585b99e37674ac412307aec5f04a989973a01fdf711ac34d9731c8d3",
-      "caption_sha256": "74dddb62dcee84139d478a17a586b4707357442d0e656691005972579a19b34b",
-      "title": "How iron becomes magnetized",
-      "slug": "28-magnetic-domains",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-03T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "magnetized"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#MagneticDomains",
-          "#Magnetism"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18121226938768269",
-      "publish_requested_at": "2026-10-03T18:01:32.802077+09:00",
-      "media_id": "18093451301159747"
-    },
-    {
       "id": "29-tempered-glass-en-20260920",
       "video": "29-tempered-glass-en-20260920.mp4",
       "caption": "29-tempered-glass-en-20260920.txt",
@@ -2091,6 +2054,45 @@
       "media_id": "18132666739589964",
       "permalink": "https://www.instagram.com/reel/DeBC7wXkwOZ/",
       "published_at": "2026-10-03T12:01:49+09:00"
+    },
+    {
+      "id": "28-magnetic-domains-en-20260920",
+      "video": "28-magnetic-domains-en-20260920.mp4",
+      "caption": "28-magnetic-domains-en-20260920.txt",
+      "video_sha256": "f6fe4109585b99e37674ac412307aec5f04a989973a01fdf711ac34d9731c8d3",
+      "caption_sha256": "74dddb62dcee84139d478a17a586b4707357442d0e656691005972579a19b34b",
+      "title": "How iron becomes magnetized",
+      "slug": "28-magnetic-domains",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-03T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "magnetized"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#MagneticDomains",
+          "#Magnetism"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18121226938768269",
+      "publish_requested_at": "2026-10-03T18:01:32.802077+09:00",
+      "media_id": "18093451301159747",
+      "permalink": "https://www.instagram.com/reel/DeBsHC8jN0Z/",
+      "published_at": "2026-10-03T18:01:54+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
