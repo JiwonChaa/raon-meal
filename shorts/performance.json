@@ -481,6 +481,46 @@
       "total_interactions": 6,
       "shares_per_1000_reach": 3.125,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "legacy-106-whipping-waste",
+      "media_id": "17895587388612128",
+      "permalink": "https://www.instagram.com/reel/Dd59wsrCO1F/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 74.787,
+      "captured_at": "2026-10-03T11:49:16.546012+00:00",
+      "views": 2350,
+      "reach": 1890,
+      "average_watch_time_ms": 7066,
+      "total_watch_time_ms": 13426637,
+      "likes": 20,
+      "comments": 0,
+      "shares": 11,
+      "saved": 9,
+      "total_interactions": 41,
+      "shares_per_1000_reach": 5.82,
+      "saves_per_1000_reach": 4.762
+    },
+    {
+      "item_id": "legacy-109-starch-60",
+      "media_id": "17899147122603330",
+      "permalink": "https://www.instagram.com/reel/Dd_HUT7lJOB/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 26.794,
+      "captured_at": "2026-10-03T11:49:16.546012+00:00",
+      "views": 1782,
+      "reach": 1404,
+      "average_watch_time_ms": 5613,
+      "total_watch_time_ms": 8054937,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 4,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.425
     }
   ]
 }
