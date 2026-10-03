@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "27-gecko-feet-en-20260920",
-      "video": "27-gecko-feet-en-20260920.mp4",
-      "caption": "27-gecko-feet-en-20260920.txt",
-      "video_sha256": "0a551ea64feec35398ba2beab6c4b878680f95a71ffeac26b8c37ec561d58993",
-      "caption_sha256": "35a960bc2595508d152bbd44487f69d5c9a6fe585c6ceaaa86a349e64dc6468c",
-      "title": "How gecko feet grip glass",
-      "slug": "27-gecko-feet",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-03T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "gecko"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#GeckoFeet",
-          "#VanDerWaals"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18121149511768269",
-      "publish_requested_at": "2026-10-03T12:01:46.959251+09:00",
-      "media_id": "18132666739589964"
-    },
-    {
       "id": "28-magnetic-domains-en-20260920",
       "video": "28-magnetic-domains-en-20260920.mp4",
       "caption": "28-magnetic-domains-en-20260920.txt",
@@ -2086,6 +2049,45 @@
       "media_id": "17910611106548456",
       "permalink": "https://www.instagram.com/reel/Dd_HVdZFMPF/",
       "published_at": "2026-10-02T18:06:03+09:00"
+    },
+    {
+      "id": "27-gecko-feet-en-20260920",
+      "video": "27-gecko-feet-en-20260920.mp4",
+      "caption": "27-gecko-feet-en-20260920.txt",
+      "video_sha256": "0a551ea64feec35398ba2beab6c4b878680f95a71ffeac26b8c37ec561d58993",
+      "caption_sha256": "35a960bc2595508d152bbd44487f69d5c9a6fe585c6ceaaa86a349e64dc6468c",
+      "title": "How gecko feet grip glass",
+      "slug": "27-gecko-feet",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-03T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "gecko"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#GeckoFeet",
+          "#VanDerWaals"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18121149511768269",
+      "publish_requested_at": "2026-10-03T12:01:46.959251+09:00",
+      "media_id": "18132666739589964",
+      "permalink": "https://www.instagram.com/reel/DeBC7wXkwOZ/",
+      "published_at": "2026-10-03T12:01:49+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
