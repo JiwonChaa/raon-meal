@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "117",
-      "slug": "noctilucent",
-      "title": "해가 졌는데 높은 구름은 빛난다",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-28T12:00:00+09:00",
-      "sha256": "15b95307e2a3494a111bc1bffbac9c4b9efdbbc1bda1ab273c514da72ff88a5b",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-117-noctilucent",
-      "video": "117-noctilucent.mp4",
-      "caption": "117-noctilucent.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "15b95307e2a3494a111bc1bffbac9c4b9efdbbc1bda1ab273c514da72ff88a5b",
-      "caption_sha256": "cca765f00980d2e32f9f05c58db783af69cb7745cbedbf7ce2a7df30d3b70f9f",
-      "original_scheduled_at": "2026-09-26T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "구름"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#야광운",
-          "#대기과학"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155731615537390",
-      "publish_requested_at": "2026-10-03T12:01:49.131705+09:00",
-      "media_id": "18110377985520661"
-    },
-    {
       "num": "118",
       "slug": "shadow-zone",
       "title": "지진파가 비어 있는 곳에서 지구 속을 읽는다",
@@ -3556,6 +3514,52 @@
       "published_at": "2026-10-02T18:01:37+09:00",
       "status": "published",
       "at": "2026-10-02T18:01:37+09:00"
+    },
+    {
+      "num": "117",
+      "slug": "noctilucent",
+      "title": "해가 졌는데 높은 구름은 빛난다",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-28T12:00:00+09:00",
+      "sha256": "15b95307e2a3494a111bc1bffbac9c4b9efdbbc1bda1ab273c514da72ff88a5b",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-117-noctilucent",
+      "video": "117-noctilucent.mp4",
+      "caption": "117-noctilucent.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "15b95307e2a3494a111bc1bffbac9c4b9efdbbc1bda1ab273c514da72ff88a5b",
+      "caption_sha256": "cca765f00980d2e32f9f05c58db783af69cb7745cbedbf7ce2a7df30d3b70f9f",
+      "original_scheduled_at": "2026-09-26T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "구름"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#야광운",
+          "#대기과학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155731615537390",
+      "publish_requested_at": "2026-10-03T12:01:49.131705+09:00",
+      "media_id": "18110377985520661",
+      "permalink": "https://www.instagram.com/reel/DeBC7FRAibD/",
+      "published_at": "2026-10-03T12:01:53+09:00",
+      "status": "published",
+      "at": "2026-10-03T12:01:53+09:00"
     }
   ],
   "cancelled_for_remake": [
