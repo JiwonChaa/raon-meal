@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "29-tempered-glass-en-20260920",
-      "video": "29-tempered-glass-en-20260920.mp4",
-      "caption": "29-tempered-glass-en-20260920.txt",
-      "video_sha256": "e475fb6f87a73e3027689ac0fbf5c642cceeb1d05ac49b967c69d82516e38791",
-      "caption_sha256": "d93a0af2c681bddc14ca5e8803b8e2592eb36593fe7c1e5d98e16bf499bd460e",
-      "title": "Why tempered glass breaks into pieces",
-      "slug": "29-tempered-glass",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-04T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "tempered glass"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#TemperedGlass",
-          "#MaterialScience"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18121475086768269",
-      "publish_requested_at": "2026-10-04T12:01:35.749118+09:00",
-      "media_id": "18079012736422781"
-    },
-    {
       "id": "30-lotus-leaf-en-20260920",
       "video": "30-lotus-leaf-en-20260920.mp4",
       "caption": "30-lotus-leaf-en-20260920.txt",
@@ -2096,6 +2059,45 @@
       "media_id": "18093451301159747",
       "permalink": "https://www.instagram.com/reel/DeBsHC8jN0Z/",
       "published_at": "2026-10-03T18:01:54+09:00"
+    },
+    {
+      "id": "29-tempered-glass-en-20260920",
+      "video": "29-tempered-glass-en-20260920.mp4",
+      "caption": "29-tempered-glass-en-20260920.txt",
+      "video_sha256": "e475fb6f87a73e3027689ac0fbf5c642cceeb1d05ac49b967c69d82516e38791",
+      "caption_sha256": "d93a0af2c681bddc14ca5e8803b8e2592eb36593fe7c1e5d98e16bf499bd460e",
+      "title": "Why tempered glass breaks into pieces",
+      "slug": "29-tempered-glass",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-04T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "tempered glass"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#TemperedGlass",
+          "#MaterialScience"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18121475086768269",
+      "publish_requested_at": "2026-10-04T12:01:35.749118+09:00",
+      "media_id": "18079012736422781",
+      "permalink": "https://www.instagram.com/reel/DeDntVLjTsF/",
+      "published_at": "2026-10-04T12:01:38+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
