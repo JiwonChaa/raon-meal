@@ -921,6 +921,46 @@
       "total_interactions": 2,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 3.236
+    },
+    {
+      "item_id": "23-touchscreen-en-20260920",
+      "media_id": "18114050048521279",
+      "permalink": "https://www.instagram.com/reel/Dd75XubgmFM/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.014,
+      "captured_at": "2026-10-04T06:03:00.304896+00:00",
+      "views": 453,
+      "reach": 417,
+      "average_watch_time_ms": 6493,
+      "total_watch_time_ms": 2662531,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "27-gecko-feet-en-20260920",
+      "media_id": "18132666739589964",
+      "permalink": "https://www.instagram.com/reel/DeBC7wXkwOZ/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.02,
+      "captured_at": "2026-10-04T06:03:00.304896+00:00",
+      "views": 1159,
+      "reach": 953,
+      "average_watch_time_ms": 11208,
+      "total_watch_time_ms": 10726607,
+      "likes": 8,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 9,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.049
     }
   ]
 }
