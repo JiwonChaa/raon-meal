@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "30-lotus-leaf-en-20260920",
-      "video": "30-lotus-leaf-en-20260920.mp4",
-      "caption": "30-lotus-leaf-en-20260920.txt",
-      "video_sha256": "e2d04c7bf14a6895922d41f5b544b268dbb0052ee28f9c20e40d19f21651c97d",
-      "caption_sha256": "16f032bc68a7c4740d89c962492e4ea945db1c4b9d3aef7660514fbef62e2f3c",
-      "title": "Why water rolls off lotus leaves",
-      "slug": "30-lotus-leaf",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-04T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "lotus"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#LotusEffect",
-          "#Hydrophobic"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18121556074768269",
-      "publish_requested_at": "2026-10-04T18:01:58.507111+09:00",
-      "media_id": "18344818093280394"
-    },
-    {
       "id": "chocolate-bloom-v2-en-20260920",
       "video": "chocolate-bloom-v2-en-20260920.mp4",
       "caption": "chocolate-bloom-v2-en-20260920.txt",
@@ -2101,6 +2064,45 @@
       "media_id": "18079012736422781",
       "permalink": "https://www.instagram.com/reel/DeDntVLjTsF/",
       "published_at": "2026-10-04T12:01:38+09:00"
+    },
+    {
+      "id": "30-lotus-leaf-en-20260920",
+      "video": "30-lotus-leaf-en-20260920.mp4",
+      "caption": "30-lotus-leaf-en-20260920.txt",
+      "video_sha256": "e2d04c7bf14a6895922d41f5b544b268dbb0052ee28f9c20e40d19f21651c97d",
+      "caption_sha256": "16f032bc68a7c4740d89c962492e4ea945db1c4b9d3aef7660514fbef62e2f3c",
+      "title": "Why water rolls off lotus leaves",
+      "slug": "30-lotus-leaf",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-04T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "lotus"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#LotusEffect",
+          "#Hydrophobic"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18121556074768269",
+      "publish_requested_at": "2026-10-04T18:01:58.507111+09:00",
+      "media_id": "18344818093280394",
+      "permalink": "https://www.instagram.com/reel/DeEQ8yuEc99/",
+      "published_at": "2026-10-04T18:02:01+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
