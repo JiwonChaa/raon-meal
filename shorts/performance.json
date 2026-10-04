@@ -561,6 +561,46 @@
       "total_interactions": 5,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 2.062
+    },
+    {
+      "item_id": "legacy-108-bread-is-air",
+      "media_id": "18100396697660224",
+      "permalink": "https://www.instagram.com/reel/Dd8ikmAjneK/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 75.501,
+      "captured_at": "2026-10-04T12:32:19.097750+00:00",
+      "views": 1136,
+      "reach": 747,
+      "average_watch_time_ms": 4954,
+      "total_watch_time_ms": 3913971,
+      "likes": 4,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 5,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.339
+    },
+    {
+      "item_id": "legacy-118-shadow-zone",
+      "media_id": "18333518608273348",
+      "permalink": "https://www.instagram.com/reel/DeBsICfCoKN/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.507,
+      "captured_at": "2026-10-04T12:32:19.097750+00:00",
+      "views": 2231,
+      "reach": 1693,
+      "average_watch_time_ms": 8496,
+      "total_watch_time_ms": 14758965,
+      "likes": 10,
+      "comments": 0,
+      "shares": 7,
+      "saved": 3,
+      "total_interactions": 21,
+      "shares_per_1000_reach": 4.135,
+      "saves_per_1000_reach": 1.772
     }
   ]
 }
