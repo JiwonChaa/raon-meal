@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "num": "119",
-      "slug": "star-twinkle",
-      "title": "별은 반짝이는데 목성은 덜 반짝이는 이유",
-      "cue": null,
-      "next_cue": null,
-      "slot": "B",
-      "fails": 0,
-      "scheduled_at": "2026-09-29T12:00:00+09:00",
-      "sha256": "1a78455eb8d1fe009106f629a7368cbe6081ebd2fbaaa1e8c7707eb57639aed5",
-      "voice": "Supertonic3 M2",
-      "voice_version": "native-m2-20260912",
-      "id": "legacy-119-star-twinkle",
-      "video": "119-star-twinkle.mp4",
-      "caption": "119-star-twinkle.txt",
-      "language": "ko",
-      "reviewed": true,
-      "video_sha256": "1a78455eb8d1fe009106f629a7368cbe6081ebd2fbaaa1e8c7707eb57639aed5",
-      "caption_sha256": "ecab85206aae66459cd5d85bd8660344e67f2045ba4c05e24a3650ddd941878e",
-      "original_scheduled_at": "2026-09-27T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "별"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#별빛",
-          "#대기난류"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155922151537390",
-      "publish_requested_at": "2026-10-04T12:01:35.754438+09:00",
-      "media_id": "18093165710461851"
-    },
-    {
       "id": "01-soap-film-ko-20260920",
       "video": "01-soap-film-ko-20260920.mp4",
       "caption": "01-soap-film-ko-20260920.txt",
@@ -3570,6 +3528,52 @@
       "published_at": "2026-10-03T18:01:54+09:00",
       "status": "published",
       "at": "2026-10-03T18:01:54+09:00"
+    },
+    {
+      "num": "119",
+      "slug": "star-twinkle",
+      "title": "별은 반짝이는데 목성은 덜 반짝이는 이유",
+      "cue": null,
+      "next_cue": null,
+      "slot": "B",
+      "fails": 0,
+      "scheduled_at": "2026-09-29T12:00:00+09:00",
+      "sha256": "1a78455eb8d1fe009106f629a7368cbe6081ebd2fbaaa1e8c7707eb57639aed5",
+      "voice": "Supertonic3 M2",
+      "voice_version": "native-m2-20260912",
+      "id": "legacy-119-star-twinkle",
+      "video": "119-star-twinkle.mp4",
+      "caption": "119-star-twinkle.txt",
+      "language": "ko",
+      "reviewed": true,
+      "video_sha256": "1a78455eb8d1fe009106f629a7368cbe6081ebd2fbaaa1e8c7707eb57639aed5",
+      "caption_sha256": "ecab85206aae66459cd5d85bd8660344e67f2045ba4c05e24a3650ddd941878e",
+      "original_scheduled_at": "2026-09-27T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "별"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#별빛",
+          "#대기난류"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155922151537390",
+      "publish_requested_at": "2026-10-04T12:01:35.754438+09:00",
+      "media_id": "18093165710461851",
+      "permalink": "https://www.instagram.com/reel/DeDnsRwn0fr/",
+      "published_at": "2026-10-04T12:01:39+09:00",
+      "status": "published",
+      "at": "2026-10-04T12:01:39+09:00"
     }
   ],
   "cancelled_for_remake": [
