@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "01-soap-film-ko-20260920",
-      "video": "01-soap-film-ko-20260920.mp4",
-      "caption": "01-soap-film-ko-20260920.txt",
-      "video_sha256": "b38c2fd6e02bafa0066a687d314198d0aba0b5ef5b0296a5b4b02477e5007451",
-      "caption_sha256": "6a96b277926f53441fa89f27f5f7a2fd45ea1bcfdb9f4b45ef920fce32cfa4ff",
-      "title": "비눗방울은 왜 무지갯빛일까?",
-      "slug": "01-soap-film",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "121",
-      "sha256": "b38c2fd6e02bafa0066a687d314198d0aba0b5ef5b0296a5b4b02477e5007451",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "A",
-      "scheduled_at": "2026-09-29T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "비눗방울"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#비눗방울",
-          "#박막간섭"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18155968438537390",
-      "publish_requested_at": "2026-10-04T18:01:16.656544+09:00",
-      "media_id": "18125540827864390"
-    },
-    {
       "id": "02-polarizers-ko-20260920",
       "video": "02-polarizers-ko-20260920.mp4",
       "caption": "02-polarizers-ko-20260920.txt",
@@ -3577,6 +3535,51 @@
       "published_at": "2026-10-04T12:01:39+09:00",
       "status": "published",
       "at": "2026-10-04T12:01:39+09:00"
+    },
+    {
+      "id": "01-soap-film-ko-20260920",
+      "video": "01-soap-film-ko-20260920.mp4",
+      "caption": "01-soap-film-ko-20260920.txt",
+      "video_sha256": "b38c2fd6e02bafa0066a687d314198d0aba0b5ef5b0296a5b4b02477e5007451",
+      "caption_sha256": "6a96b277926f53441fa89f27f5f7a2fd45ea1bcfdb9f4b45ef920fce32cfa4ff",
+      "title": "비눗방울은 왜 무지갯빛일까?",
+      "slug": "01-soap-film",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "121",
+      "sha256": "b38c2fd6e02bafa0066a687d314198d0aba0b5ef5b0296a5b4b02477e5007451",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "A",
+      "scheduled_at": "2026-09-29T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "비눗방울"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#비눗방울",
+          "#박막간섭"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18155968438537390",
+      "publish_requested_at": "2026-10-04T18:01:16.656544+09:00",
+      "media_id": "18125540827864390",
+      "permalink": "https://www.instagram.com/reel/DeEQ36IEd_V/",
+      "published_at": "2026-10-04T18:01:19+09:00",
+      "at": "2026-10-04T18:01:19+09:00"
     }
   ],
   "cancelled_for_remake": [
