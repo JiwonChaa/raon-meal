@@ -961,6 +961,46 @@
       "total_interactions": 9,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 1.049
+    },
+    {
+      "item_id": "24-led-colors-en-20260920",
+      "media_id": "18148935064531046",
+      "permalink": "https://www.instagram.com/reel/Dd8isOpDgzX/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.488,
+      "captured_at": "2026-10-04T12:32:23.457917+00:00",
+      "views": 223,
+      "reach": 204,
+      "average_watch_time_ms": 5110,
+      "total_watch_time_ms": 1042448,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "28-magnetic-domains-en-20260920",
+      "media_id": "18093451301159747",
+      "permalink": "https://www.instagram.com/reel/DeBsHC8jN0Z/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.508,
+      "captured_at": "2026-10-04T12:32:23.457917+00:00",
+      "views": 495,
+      "reach": 416,
+      "average_watch_time_ms": 8504,
+      "total_watch_time_ms": 3529532,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
