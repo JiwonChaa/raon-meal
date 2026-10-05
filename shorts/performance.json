@@ -641,6 +641,46 @@
       "total_interactions": 13,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 4.545
+    },
+    {
+      "item_id": "legacy-109-starch-60",
+      "media_id": "17899147122603330",
+      "permalink": "https://www.instagram.com/reel/Dd_HUT7lJOB/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 77.93,
+      "captured_at": "2026-10-05T14:57:25.270564+00:00",
+      "views": 1890,
+      "reach": 1474,
+      "average_watch_time_ms": 5538,
+      "total_watch_time_ms": 8417814,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 4,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.357
+    },
+    {
+      "item_id": "01-soap-film-ko-20260920",
+      "media_id": "18125540827864390",
+      "permalink": "https://www.instagram.com/reel/DeEQ36IEd_V/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 29.935,
+      "captured_at": "2026-10-05T14:57:25.270564+00:00",
+      "views": 1268,
+      "reach": 909,
+      "average_watch_time_ms": 4586,
+      "total_watch_time_ms": 4237714,
+      "likes": 5,
+      "comments": 0,
+      "shares": 2,
+      "saved": 2,
+      "total_interactions": 9,
+      "shares_per_1000_reach": 2.2,
+      "saves_per_1000_reach": 2.2
     }
   ]
 }
