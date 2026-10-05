@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "chocolate-bloom-v2-en-20260920",
-      "video": "chocolate-bloom-v2-en-20260920.mp4",
-      "caption": "chocolate-bloom-v2-en-20260920.txt",
-      "video_sha256": "231b969e18048fb49ba0620ceb480e3576a9fd093946a860bdfa98aca35242a1",
-      "caption_sha256": "0a595e4e781c37f74c69b025b39275e2ccaec639102e71214aaabde9694ab785",
-      "title": "Why chocolate turns white",
-      "slug": "chocolate-bloom-v2",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-05T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "food",
-        "keywords": [
-          "chocolate"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#ChocolateBloom",
-          "#FoodScience"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18121804333768269",
-      "publish_requested_at": "2026-10-05T12:01:32.827318+09:00",
-      "media_id": "18122188627902364"
-    },
-    {
       "id": "microwave-hot-spots-katex-en-20260920",
       "video": "microwave-hot-spots-katex-en-20260920.mp4",
       "caption": "microwave-hot-spots-katex-en-20260920.txt",
@@ -2106,6 +2069,45 @@
       "media_id": "18344818093280394",
       "permalink": "https://www.instagram.com/reel/DeEQ8yuEc99/",
       "published_at": "2026-10-04T18:02:01+09:00"
+    },
+    {
+      "id": "chocolate-bloom-v2-en-20260920",
+      "video": "chocolate-bloom-v2-en-20260920.mp4",
+      "caption": "chocolate-bloom-v2-en-20260920.txt",
+      "video_sha256": "231b969e18048fb49ba0620ceb480e3576a9fd093946a860bdfa98aca35242a1",
+      "caption_sha256": "0a595e4e781c37f74c69b025b39275e2ccaec639102e71214aaabde9694ab785",
+      "title": "Why chocolate turns white",
+      "slug": "chocolate-bloom-v2",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-05T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "food",
+        "keywords": [
+          "chocolate"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#ChocolateBloom",
+          "#FoodScience"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18121804333768269",
+      "publish_requested_at": "2026-10-05T12:01:32.827318+09:00",
+      "media_id": "18122188627902364",
+      "permalink": "https://www.instagram.com/reel/DeGMf_0j0z7/",
+      "published_at": "2026-10-05T12:01:34+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
