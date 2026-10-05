@@ -1041,6 +1041,46 @@
       "total_interactions": 2,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "26-round-drops-en-20260920",
+      "media_id": "17910611106548456",
+      "permalink": "https://www.instagram.com/reel/Dd_HVdZFMPF/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 77.857,
+      "captured_at": "2026-10-05T14:57:28.922211+00:00",
+      "views": 487,
+      "reach": 410,
+      "average_watch_time_ms": 8914,
+      "total_watch_time_ms": 3637266,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 2.439
+    },
+    {
+      "item_id": "30-lotus-leaf-en-20260920",
+      "media_id": "18344818093280394",
+      "permalink": "https://www.instagram.com/reel/DeEQ8yuEc99/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 29.924,
+      "captured_at": "2026-10-05T14:57:28.922211+00:00",
+      "views": 516,
+      "reach": 461,
+      "average_watch_time_ms": 7041,
+      "total_watch_time_ms": 3224976,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
