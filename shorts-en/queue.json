@@ -9,43 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "microwave-hot-spots-katex-en-20260920",
-      "video": "microwave-hot-spots-katex-en-20260920.mp4",
-      "caption": "microwave-hot-spots-katex-en-20260920.txt",
-      "video_sha256": "94cee617435774c70b960c69613753a3342711eb084dd795fcaa687590ec4020",
-      "caption_sha256": "f0f3de5d4ccfa6d70a60c24fe2b941f62a15ccc3bd0f2d4060c7730216ae87ab",
-      "title": "Why microwaves leave hot and cold spots",
-      "slug": "microwave-hot-spots-katex",
-      "language": "en",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-05T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "food",
-        "keywords": [
-          "microwaves"
-        ],
-        "hashtags": [
-          "#Science",
-          "#EverydayScience",
-          "#MicrowaveOven",
-          "#StandingWaves"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18121877104768269",
-      "publish_requested_at": "2026-10-05T18:01:51.182484+09:00",
-      "media_id": "18122741726312455"
-    },
-    {
       "id": "equation-01-wireless-en-20261001",
       "slug": "equation-01-wireless",
       "title": "How does wireless charging transfer energy?",
@@ -2111,6 +2074,45 @@
       "media_id": "18122188627902364",
       "permalink": "https://www.instagram.com/reel/DeGMf_0j0z7/",
       "published_at": "2026-10-05T12:01:34+09:00"
+    },
+    {
+      "id": "microwave-hot-spots-katex-en-20260920",
+      "video": "microwave-hot-spots-katex-en-20260920.mp4",
+      "caption": "microwave-hot-spots-katex-en-20260920.txt",
+      "video_sha256": "94cee617435774c70b960c69613753a3342711eb084dd795fcaa687590ec4020",
+      "caption_sha256": "f0f3de5d4ccfa6d70a60c24fe2b941f62a15ccc3bd0f2d4060c7730216ae87ab",
+      "title": "Why microwaves leave hot and cold spots",
+      "slug": "microwave-hot-spots-katex",
+      "language": "en",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-05T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "food",
+        "keywords": [
+          "microwaves"
+        ],
+        "hashtags": [
+          "#Science",
+          "#EverydayScience",
+          "#MicrowaveOven",
+          "#StandingWaves"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18121877104768269",
+      "publish_requested_at": "2026-10-05T18:01:51.182484+09:00",
+      "media_id": "18122741726312455",
+      "permalink": "https://www.instagram.com/reel/DeG1sh7FIjA/",
+      "published_at": "2026-10-05T18:01:53+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
