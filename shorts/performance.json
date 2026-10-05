@@ -601,6 +601,46 @@
       "total_interactions": 21,
       "shares_per_1000_reach": 4.135,
       "saves_per_1000_reach": 1.772
+    },
+    {
+      "item_id": "legacy-116-meteor-100km",
+      "media_id": "17896213170612055",
+      "permalink": "https://www.instagram.com/reel/Dd-eHxTCaGm/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.865,
+      "captured_at": "2026-10-05T05:53:32.536724+00:00",
+      "views": 1063,
+      "reach": 714,
+      "average_watch_time_ms": 5164,
+      "total_watch_time_ms": 3852847,
+      "likes": 6,
+      "comments": 0,
+      "shares": 2,
+      "saved": 0,
+      "total_interactions": 8,
+      "shares_per_1000_reach": 2.801,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "legacy-119-star-twinkle",
+      "media_id": "18093165710461851",
+      "permalink": "https://www.instagram.com/reel/DeDnsRwn0fr/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.865,
+      "captured_at": "2026-10-05T05:53:32.536724+00:00",
+      "views": 1005,
+      "reach": 660,
+      "average_watch_time_ms": 7342,
+      "total_watch_time_ms": 4970649,
+      "likes": 10,
+      "comments": 0,
+      "shares": 0,
+      "saved": 3,
+      "total_interactions": 13,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 4.545
     }
   ]
 }
