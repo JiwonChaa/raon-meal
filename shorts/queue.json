@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "03-optical-fiber-ko-20260920",
-      "video": "03-optical-fiber-ko-20260920.mp4",
-      "caption": "03-optical-fiber-ko-20260920.txt",
-      "video_sha256": "3893ad4e60e4be3aa27638d7bf0d7767945aeb0344c38fdb45b3ebb084d46518",
-      "caption_sha256": "8791a2f70f3f0efb5d74146544c6058bdafeefeeca509229124023535664a366",
-      "title": "빛은 어떻게 굽은 선을 따라갈까?",
-      "slug": "03-optical-fiber",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "123",
-      "sha256": "3893ad4e60e4be3aa27638d7bf0d7767945aeb0344c38fdb45b3ebb084d46518",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "A",
-      "scheduled_at": "2026-09-30T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "빛"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#광섬유",
-          "#전반사"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156173374537390",
-      "publish_requested_at": "2026-10-05T18:01:47.231685+09:00",
-      "media_id": "17927914995421622"
-    },
-    {
       "id": "04-disc-colors-ko-20260920",
       "video": "04-disc-colors-ko-20260920.mp4",
       "caption": "04-disc-colors-ko-20260920.txt",
@@ -3589,6 +3547,51 @@
       "permalink": "https://www.instagram.com/reel/DeGMfuIFI-D/",
       "published_at": "2026-10-05T12:01:36+09:00",
       "at": "2026-10-05T12:01:36+09:00"
+    },
+    {
+      "id": "03-optical-fiber-ko-20260920",
+      "video": "03-optical-fiber-ko-20260920.mp4",
+      "caption": "03-optical-fiber-ko-20260920.txt",
+      "video_sha256": "3893ad4e60e4be3aa27638d7bf0d7767945aeb0344c38fdb45b3ebb084d46518",
+      "caption_sha256": "8791a2f70f3f0efb5d74146544c6058bdafeefeeca509229124023535664a366",
+      "title": "빛은 어떻게 굽은 선을 따라갈까?",
+      "slug": "03-optical-fiber",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "123",
+      "sha256": "3893ad4e60e4be3aa27638d7bf0d7767945aeb0344c38fdb45b3ebb084d46518",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "A",
+      "scheduled_at": "2026-09-30T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "빛"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#광섬유",
+          "#전반사"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156173374537390",
+      "publish_requested_at": "2026-10-05T18:01:47.231685+09:00",
+      "media_id": "17927914995421622",
+      "permalink": "https://www.instagram.com/reel/DeG1u62AOrz/",
+      "published_at": "2026-10-05T18:01:50+09:00",
+      "at": "2026-10-05T18:01:50+09:00"
     }
   ],
   "cancelled_for_remake": [
