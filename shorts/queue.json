@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "02-polarizers-ko-20260920",
-      "video": "02-polarizers-ko-20260920.mp4",
-      "caption": "02-polarizers-ko-20260920.txt",
-      "video_sha256": "744ae8ef696c660d52f36b68edb08ed82ba1f8eb124e56b6f2393ecfb6d9ae8b",
-      "caption_sha256": "97102b9c54b10673deed99b58168f00273ef8c4900c2939060bf868668bad012",
-      "title": "선글라스를 돌리면 왜 어두워질까?",
-      "slug": "02-polarizers",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "122",
-      "sha256": "744ae8ef696c660d52f36b68edb08ed82ba1f8eb124e56b6f2393ecfb6d9ae8b",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "B",
-      "scheduled_at": "2026-09-30T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "선글라스"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#편광",
-          "#선글라스"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156132832537390",
-      "publish_requested_at": "2026-10-05T12:01:30.830615+09:00",
-      "media_id": "18198704647377334"
-    },
-    {
       "id": "03-optical-fiber-ko-20260920",
       "video": "03-optical-fiber-ko-20260920.mp4",
       "caption": "03-optical-fiber-ko-20260920.txt",
@@ -3583,6 +3541,51 @@
       "permalink": "https://www.instagram.com/reel/DeEQ36IEd_V/",
       "published_at": "2026-10-04T18:01:19+09:00",
       "at": "2026-10-04T18:01:19+09:00"
+    },
+    {
+      "id": "02-polarizers-ko-20260920",
+      "video": "02-polarizers-ko-20260920.mp4",
+      "caption": "02-polarizers-ko-20260920.txt",
+      "video_sha256": "744ae8ef696c660d52f36b68edb08ed82ba1f8eb124e56b6f2393ecfb6d9ae8b",
+      "caption_sha256": "97102b9c54b10673deed99b58168f00273ef8c4900c2939060bf868668bad012",
+      "title": "선글라스를 돌리면 왜 어두워질까?",
+      "slug": "02-polarizers",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "122",
+      "sha256": "744ae8ef696c660d52f36b68edb08ed82ba1f8eb124e56b6f2393ecfb6d9ae8b",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "B",
+      "scheduled_at": "2026-09-30T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "선글라스"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#편광",
+          "#선글라스"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156132832537390",
+      "publish_requested_at": "2026-10-05T12:01:30.830615+09:00",
+      "media_id": "18198704647377334",
+      "permalink": "https://www.instagram.com/reel/DeGMfuIFI-D/",
+      "published_at": "2026-10-05T12:01:36+09:00",
+      "at": "2026-10-05T12:01:36+09:00"
     }
   ],
   "cancelled_for_remake": [
