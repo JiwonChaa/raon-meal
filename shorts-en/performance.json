@@ -1081,6 +1081,46 @@
       "total_interactions": 2,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "27-gecko-feet-en-20260920",
+      "media_id": "18132666739589964",
+      "permalink": "https://www.instagram.com/reel/DeBC7wXkwOZ/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.506,
+      "captured_at": "2026-10-06T06:32:12.078068+00:00",
+      "views": 1450,
+      "reach": 1177,
+      "average_watch_time_ms": 11332,
+      "total_watch_time_ms": 13622217,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 12,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.85
+    },
+    {
+      "item_id": "chocolate-bloom-v2-en-20260920",
+      "media_id": "18122188627902364",
+      "permalink": "https://www.instagram.com/reel/DeGMf_0j0z7/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 27.511,
+      "captured_at": "2026-10-06T06:32:12.078068+00:00",
+      "views": 807,
+      "reach": 667,
+      "average_watch_time_ms": 9324,
+      "total_watch_time_ms": 6098271,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 6,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.499
     }
   ]
 }
