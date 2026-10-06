@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "04-disc-colors-ko-20260920",
-      "video": "04-disc-colors-ko-20260920.mp4",
-      "caption": "04-disc-colors-ko-20260920.txt",
-      "video_sha256": "a867ddfaefe25d65f0f1e2b598ea683ff30be4baf26eb4d7eacfc729f519a28b",
-      "caption_sha256": "b38e499545bcf53206075c850626af7e97924eeb2473d050604dc16f54d57106",
-      "title": "시디 표면은 왜 무지갯빛일까?",
-      "slug": "04-disc-colors",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "124",
-      "sha256": "a867ddfaefe25d65f0f1e2b598ea683ff30be4baf26eb4d7eacfc729f519a28b",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "B",
-      "scheduled_at": "2026-10-01T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "시디"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#회절",
-          "#시디"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156311041537390",
-      "publish_requested_at": "2026-10-06T12:02:18.254260+09:00",
-      "media_id": "18129239999498027"
-    },
-    {
       "id": "05-retroreflector-ko-20260920",
       "video": "05-retroreflector-ko-20260920.mp4",
       "caption": "05-retroreflector-ko-20260920.txt",
@@ -3595,6 +3553,51 @@
       "permalink": "https://www.instagram.com/reel/DeG1u62AOrz/",
       "published_at": "2026-10-05T18:01:50+09:00",
       "at": "2026-10-05T18:01:50+09:00"
+    },
+    {
+      "id": "04-disc-colors-ko-20260920",
+      "video": "04-disc-colors-ko-20260920.mp4",
+      "caption": "04-disc-colors-ko-20260920.txt",
+      "video_sha256": "a867ddfaefe25d65f0f1e2b598ea683ff30be4baf26eb4d7eacfc729f519a28b",
+      "caption_sha256": "b38e499545bcf53206075c850626af7e97924eeb2473d050604dc16f54d57106",
+      "title": "시디 표면은 왜 무지갯빛일까?",
+      "slug": "04-disc-colors",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "124",
+      "sha256": "a867ddfaefe25d65f0f1e2b598ea683ff30be4baf26eb4d7eacfc729f519a28b",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "B",
+      "scheduled_at": "2026-10-01T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "시디"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#회절",
+          "#시디"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156311041537390",
+      "publish_requested_at": "2026-10-06T12:02:18.254260+09:00",
+      "media_id": "18129239999498027",
+      "permalink": "https://www.instagram.com/reel/DeIxX5qlCNU/",
+      "published_at": "2026-10-06T12:02:21+09:00",
+      "at": "2026-10-06T12:02:21+09:00"
     }
   ],
   "cancelled_for_remake": [
