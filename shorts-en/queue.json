@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-02-carbonation-en-20261001",
-      "slug": "equation-02-carbonation",
-      "title": "Why does soda fizz when opened?",
-      "language": "en",
-      "video": "equation-02-carbonation-en-20261001.mp4",
-      "caption": "equation-02-carbonation-en-20261001.txt",
-      "video_sha256": "c532e82365b3b150a83ed1aaf1a185044f3cf8aa246e73382ce88ed41ef331a0",
-      "caption_sha256": "c6600293212b40bd7fb0ed49238ed4ec48370a730be89f4215483086e99849eb",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-06T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-02-carbonation",
-        "keywords": [
-          "carbonated drinks",
-          "Henry law",
-          "carbon dioxide"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#soda",
-          "#henryslaw",
-          "#carbondioxide"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-02-carbonation",
-      "creation_id": "18122186572768269",
-      "publish_requested_at": "2026-10-06T18:02:14.504835+09:00",
-      "media_id": "17998046460028863"
-    },
-    {
       "id": "equation-03-barometer-en-20261001",
       "slug": "equation-03-barometer",
       "title": "How can pressure reveal your height?",
@@ -2121,6 +2077,52 @@
       "media_id": "18014032964976737",
       "permalink": "https://www.instagram.com/reel/DeIxSr2At_9/",
       "published_at": "2026-10-06T12:01:41+09:00"
+    },
+    {
+      "id": "equation-02-carbonation-en-20261001",
+      "slug": "equation-02-carbonation",
+      "title": "Why does soda fizz when opened?",
+      "language": "en",
+      "video": "equation-02-carbonation-en-20261001.mp4",
+      "caption": "equation-02-carbonation-en-20261001.txt",
+      "video_sha256": "c532e82365b3b150a83ed1aaf1a185044f3cf8aa246e73382ce88ed41ef331a0",
+      "caption_sha256": "c6600293212b40bd7fb0ed49238ed4ec48370a730be89f4215483086e99849eb",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-06T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-02-carbonation",
+        "keywords": [
+          "carbonated drinks",
+          "Henry law",
+          "carbon dioxide"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#soda",
+          "#henryslaw",
+          "#carbondioxide"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-02-carbonation",
+      "creation_id": "18122186572768269",
+      "publish_requested_at": "2026-10-06T18:02:14.504835+09:00",
+      "media_id": "17998046460028863",
+      "permalink": "https://www.instagram.com/reel/DeJajz-Dy9R/",
+      "published_at": "2026-10-06T18:02:46+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
