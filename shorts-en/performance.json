@@ -1121,6 +1121,46 @@
       "total_interactions": 6,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 1.499
+    },
+    {
+      "item_id": "28-magnetic-domains-en-20260920",
+      "media_id": "18093451301159747",
+      "permalink": "https://www.instagram.com/reel/DeBsHC8jN0Z/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 78.998,
+      "captured_at": "2026-10-06T16:01:45.284018+00:00",
+      "views": 510,
+      "reach": 430,
+      "average_watch_time_ms": 8306,
+      "total_watch_time_ms": 3563470,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "microwave-hot-spots-katex-en-20260920",
+      "media_id": "18122741726312455",
+      "permalink": "https://www.instagram.com/reel/DeG1sh7FIjA/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 30.998,
+      "captured_at": "2026-10-06T16:01:45.284018+00:00",
+      "views": 260,
+      "reach": 237,
+      "average_watch_time_ms": 5939,
+      "total_watch_time_ms": 1401812,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 8.439
     }
   ]
 }
