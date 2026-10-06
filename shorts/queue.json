@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "05-retroreflector-ko-20260920",
-      "video": "05-retroreflector-ko-20260920.mp4",
-      "caption": "05-retroreflector-ko-20260920.txt",
-      "video_sha256": "1db2fb5100bda14dade33c81bcc1b8282276f1d84c9b1bde8e4df6b3f55b96fb",
-      "caption_sha256": "842c3f7fdb172e4479181ee30301d115787072c399abe2da5c4a296fbd66a1de",
-      "title": "반사판은 어떻게 빛을 돌려보낼까?",
-      "slug": "05-retroreflector",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "125",
-      "sha256": "1db2fb5100bda14dade33c81bcc1b8282276f1d84c9b1bde8e4df6b3f55b96fb",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "A",
-      "scheduled_at": "2026-10-01T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "반사판"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#재귀반사",
-          "#반사판"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156348640537390",
-      "publish_requested_at": "2026-10-06T18:02:10.086106+09:00",
-      "media_id": "18343418452253486"
-    },
-    {
       "id": "06-road-mirage-ko-20260920",
       "video": "06-road-mirage-ko-20260920.mp4",
       "caption": "06-road-mirage-ko-20260920.txt",
@@ -3601,6 +3559,51 @@
       "permalink": "https://www.instagram.com/reel/DeIxX5qlCNU/",
       "published_at": "2026-10-06T12:02:21+09:00",
       "at": "2026-10-06T12:02:21+09:00"
+    },
+    {
+      "id": "05-retroreflector-ko-20260920",
+      "video": "05-retroreflector-ko-20260920.mp4",
+      "caption": "05-retroreflector-ko-20260920.txt",
+      "video_sha256": "1db2fb5100bda14dade33c81bcc1b8282276f1d84c9b1bde8e4df6b3f55b96fb",
+      "caption_sha256": "842c3f7fdb172e4479181ee30301d115787072c399abe2da5c4a296fbd66a1de",
+      "title": "반사판은 어떻게 빛을 돌려보낼까?",
+      "slug": "05-retroreflector",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "125",
+      "sha256": "1db2fb5100bda14dade33c81bcc1b8282276f1d84c9b1bde8e4df6b3f55b96fb",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "A",
+      "scheduled_at": "2026-10-01T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "반사판"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#재귀반사",
+          "#반사판"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156348640537390",
+      "publish_requested_at": "2026-10-06T18:02:10.086106+09:00",
+      "media_id": "18343418452253486",
+      "permalink": "https://www.instagram.com/reel/DeJakGdjPBu/",
+      "published_at": "2026-10-06T18:02:15+09:00",
+      "at": "2026-10-06T18:02:15+09:00"
     }
   ],
   "cancelled_for_remake": [
