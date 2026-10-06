@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-01-wireless-en-20261001",
-      "slug": "equation-01-wireless",
-      "title": "How does wireless charging transfer energy?",
-      "language": "en",
-      "video": "equation-01-wireless-en-20261001.mp4",
-      "caption": "equation-01-wireless-en-20261001.txt",
-      "video_sha256": "983f15fc956eb0c8525a14f0ff2d3200cc1e5acfa5878f46f83ed5d32a18914e",
-      "caption_sha256": "2471defbfaab43f80c7b8302454e928813862481ef747cc8a0c206157727818b",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-06T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-01-wireless",
-        "keywords": [
-          "wireless charging",
-          "electromagnetic induction",
-          "Faraday law"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#wirelesscharging",
-          "#induction",
-          "#faraday"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-01-wireless",
-      "creation_id": "18122114455768269",
-      "publish_requested_at": "2026-10-06T12:01:39.031308+09:00",
-      "media_id": "18014032964976737"
-    },
-    {
       "id": "equation-02-carbonation-en-20261001",
       "slug": "equation-02-carbonation",
       "title": "Why does soda fizz when opened?",
@@ -2116,6 +2072,52 @@
       "media_id": "18122741726312455",
       "permalink": "https://www.instagram.com/reel/DeG1sh7FIjA/",
       "published_at": "2026-10-05T18:01:53+09:00"
+    },
+    {
+      "id": "equation-01-wireless-en-20261001",
+      "slug": "equation-01-wireless",
+      "title": "How does wireless charging transfer energy?",
+      "language": "en",
+      "video": "equation-01-wireless-en-20261001.mp4",
+      "caption": "equation-01-wireless-en-20261001.txt",
+      "video_sha256": "983f15fc956eb0c8525a14f0ff2d3200cc1e5acfa5878f46f83ed5d32a18914e",
+      "caption_sha256": "2471defbfaab43f80c7b8302454e928813862481ef747cc8a0c206157727818b",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-06T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-01-wireless",
+        "keywords": [
+          "wireless charging",
+          "electromagnetic induction",
+          "Faraday law"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#wirelesscharging",
+          "#induction",
+          "#faraday"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-01-wireless",
+      "creation_id": "18122114455768269",
+      "publish_requested_at": "2026-10-06T12:01:39.031308+09:00",
+      "media_id": "18014032964976737",
+      "permalink": "https://www.instagram.com/reel/DeIxSr2At_9/",
+      "published_at": "2026-10-06T12:01:41+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
