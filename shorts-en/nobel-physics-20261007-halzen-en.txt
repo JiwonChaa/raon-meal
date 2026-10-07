@@ -1,0 +1,10 @@
+2026 Nobel Prize in Physics winner Francis Halzen and IceCube.
+Light in Antarctic ice reveals high-energy neutrinos from the cosmos.
+
+A rare neutrino interaction can produce charged secondary particles in the ice. Their Cherenkov light reaches buried sensors at different times. Timing and brightness help estimate the neutrino's direction and energy. Scientists analyzed atmospheric backgrounds as they collected events. In 2013, IceCube reported evidence for high-energy neutrinos arriving from the cosmos.
+
+This educational animation follows one illustrative muon track. Geometry, time, detector layout and direction uncertainty are part of the model. They aren't measurements from an observed event.
+
+Sources: Royal Swedish Academy of Sciences 2026 announcement, IceCube detector documentation, IceCube Collaboration's 2013 paper (arXiv:1311.5238).
+
+#Science #Physics #NobelPrize #Neutrinos #IceCube
