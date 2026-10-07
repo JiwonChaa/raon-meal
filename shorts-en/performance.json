@@ -1161,6 +1161,46 @@
       "total_interactions": 3,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 8.439
+    },
+    {
+      "item_id": "29-tempered-glass-en-20260920",
+      "media_id": "18079012736422781",
+      "permalink": "https://www.instagram.com/reel/DeDntVLjTsF/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.152,
+      "captured_at": "2026-10-07T06:10:46.410709+00:00",
+      "views": 799,
+      "reach": 649,
+      "average_watch_time_ms": 9374,
+      "total_watch_time_ms": 6027605,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-01-wireless-en-20261001",
+      "media_id": "18014032964976737",
+      "permalink": "https://www.instagram.com/reel/DeIxSr2At_9/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.152,
+      "captured_at": "2026-10-07T06:10:46.410709+00:00",
+      "views": 167,
+      "reach": 150,
+      "average_watch_time_ms": 8694,
+      "total_watch_time_ms": 1304226,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
