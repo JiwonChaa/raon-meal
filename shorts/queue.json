@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "06-road-mirage-ko-20260920",
-      "video": "06-road-mirage-ko-20260920.mp4",
-      "caption": "06-road-mirage-ko-20260920.txt",
-      "video_sha256": "29d7bbe287b84974392acefb27fc931f57929c76374aad36e028090ac628e796",
-      "caption_sha256": "d3e7199137e84c770f3b5af8dcbd7e01d6458fcf7f624123eff20d62bf9769ab",
-      "title": "뜨거운 도로가 왜 젖어 보일까?",
-      "slug": "06-road-mirage",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "126",
-      "sha256": "29d7bbe287b84974392acefb27fc931f57929c76374aad36e028090ac628e796",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "B",
-      "scheduled_at": "2026-10-02T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "도로"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#신기루",
-          "#빛의굴절"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156492142537390",
-      "publish_requested_at": "2026-10-07T12:01:24.787390+09:00",
-      "media_id": "18112430228175434"
-    },
-    {
       "id": "07-noise-cancel-ko-20260920",
       "video": "07-noise-cancel-ko-20260920.mp4",
       "caption": "07-noise-cancel-ko-20260920.txt",
@@ -3607,6 +3565,51 @@
       "permalink": "https://www.instagram.com/reel/DeJakGdjPBu/",
       "published_at": "2026-10-06T18:02:15+09:00",
       "at": "2026-10-06T18:02:15+09:00"
+    },
+    {
+      "id": "06-road-mirage-ko-20260920",
+      "video": "06-road-mirage-ko-20260920.mp4",
+      "caption": "06-road-mirage-ko-20260920.txt",
+      "video_sha256": "29d7bbe287b84974392acefb27fc931f57929c76374aad36e028090ac628e796",
+      "caption_sha256": "d3e7199137e84c770f3b5af8dcbd7e01d6458fcf7f624123eff20d62bf9769ab",
+      "title": "뜨거운 도로가 왜 젖어 보일까?",
+      "slug": "06-road-mirage",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "126",
+      "sha256": "29d7bbe287b84974392acefb27fc931f57929c76374aad36e028090ac628e796",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "B",
+      "scheduled_at": "2026-10-02T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "도로"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#신기루",
+          "#빛의굴절"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156492142537390",
+      "publish_requested_at": "2026-10-07T12:01:24.787390+09:00",
+      "media_id": "18112430228175434",
+      "permalink": "https://www.instagram.com/reel/DeLWElCDHMN/",
+      "published_at": "2026-10-07T12:01:27+09:00",
+      "at": "2026-10-07T12:01:27+09:00"
     }
   ],
   "cancelled_for_remake": [
