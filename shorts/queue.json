@@ -6,47 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-20261007-halzen-ko",
-      "slug": "nobel-physics-20261007-halzen",
-      "language": "ko",
-      "title": "2026 노벨물리학상, 프랜시스 할젠과 아이스큐브",
-      "video": "nobel-physics-20261007-halzen-ko.mp4",
-      "caption": "nobel-physics-20261007-halzen-ko.txt",
-      "video_sha256": "56c3a2a8aac27602a0ef26fe085a2813e8c73cee1b3487666bc5984923a53a04",
-      "caption_sha256": "3e860d9c3d84579ae1d630695f082aea5fd36e7e93908904ede6684809148c72",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-07T18:00:00+09:00",
-      "approval": "이거 인스타그램에 올리고, 유튜브에도 올리자.",
-      "human_listening_approved": true,
-      "pair_id": "nobel-physics-20261007-halzen",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "general_physics",
-        "pair_id": "nobel-physics-20261007-halzen",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2026 노벨물리학상",
-          "중성미자",
-          "아이스큐브"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#중성미자",
-          "#아이스큐브"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      }
-    },
-    {
       "id": "07-noise-cancel-ko-20260920",
       "video": "07-noise-cancel-ko-20260920.mp4",
       "caption": "07-noise-cancel-ko-20260920.txt",
