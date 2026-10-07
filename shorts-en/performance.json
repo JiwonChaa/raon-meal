@@ -1201,6 +1201,46 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "30-lotus-leaf-en-20260920",
+      "media_id": "18344818093280394",
+      "permalink": "https://www.instagram.com/reel/DeEQ8yuEc99/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 76.579,
+      "captured_at": "2026-10-07T13:36:45.233102+00:00",
+      "views": 543,
+      "reach": 485,
+      "average_watch_time_ms": 7025,
+      "total_watch_time_ms": 3407292,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-02-carbonation-en-20261001",
+      "media_id": "17998046460028863",
+      "permalink": "https://www.instagram.com/reel/DeJajz-Dy9R/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 28.566,
+      "captured_at": "2026-10-07T13:36:45.233102+00:00",
+      "views": 175,
+      "reach": 163,
+      "average_watch_time_ms": 6387,
+      "total_watch_time_ms": 1028374,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
