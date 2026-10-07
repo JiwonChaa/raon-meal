@@ -9,6 +9,47 @@
   "paused": false,
   "queue": [
     {
+      "id": "nobel-physics-20261007-halzen-en",
+      "slug": "nobel-physics-20261007-halzen",
+      "language": "en",
+      "title": "2026 Nobel Prize in Physics, Francis Halzen and IceCube",
+      "video": "nobel-physics-20261007-halzen-en.mp4",
+      "caption": "nobel-physics-20261007-halzen-en.txt",
+      "video_sha256": "ecd32fda90a209df0351692db0b476d929d0b524c88a92be07b965860a572e86",
+      "caption_sha256": "ce25ea839d1b3365488e32b4513a134a39345574433616ea1f153ceb5a403d4c",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-07T18:00:00+09:00",
+      "approval": "이거 인스타그램에 올리고, 유튜브에도 올리자.",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-20261007-halzen",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "general_physics",
+        "pair_id": "nobel-physics-20261007-halzen",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2026 Nobel Prize in Physics",
+          "neutrinos",
+          "IceCube"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Physics",
+          "#NobelPrize",
+          "#Neutrinos",
+          "#IceCube"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-04-potato-en-20261001",
       "slug": "equation-04-potato",
       "title": "How does thickness change heating time?",
