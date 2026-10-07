@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-03-barometer-en-20261001",
-      "slug": "equation-03-barometer",
-      "title": "How can pressure reveal your height?",
-      "language": "en",
-      "video": "equation-03-barometer-en-20261001.mp4",
-      "caption": "equation-03-barometer-en-20261001.txt",
-      "video_sha256": "f68f2d73f5ffe5a649a3a63dbe8868ad89cf24560f6028de2ecabf471f09622f",
-      "caption_sha256": "2fb474b06186c27d1407336708fb967aa658a7b2a2863eab4dbc449980fb4463",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-07T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-03-barometer",
-        "keywords": [
-          "barometer",
-          "smartphone",
-          "altitude"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#barometer",
-          "#smartphone",
-          "#altitude"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-03-barometer",
-      "creation_id": "18122425990768269",
-      "publish_requested_at": "2026-10-07T12:01:31.518959+09:00",
-      "media_id": "18565684957074615"
-    },
-    {
       "id": "equation-04-potato-en-20261001",
       "slug": "equation-04-potato",
       "title": "How does thickness change heating time?",
@@ -2126,6 +2082,52 @@
       "media_id": "17998046460028863",
       "permalink": "https://www.instagram.com/reel/DeJajz-Dy9R/",
       "published_at": "2026-10-06T18:02:46+09:00"
+    },
+    {
+      "id": "equation-03-barometer-en-20261001",
+      "slug": "equation-03-barometer",
+      "title": "How can pressure reveal your height?",
+      "language": "en",
+      "video": "equation-03-barometer-en-20261001.mp4",
+      "caption": "equation-03-barometer-en-20261001.txt",
+      "video_sha256": "f68f2d73f5ffe5a649a3a63dbe8868ad89cf24560f6028de2ecabf471f09622f",
+      "caption_sha256": "2fb474b06186c27d1407336708fb967aa658a7b2a2863eab4dbc449980fb4463",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-07T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-03-barometer",
+        "keywords": [
+          "barometer",
+          "smartphone",
+          "altitude"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#barometer",
+          "#smartphone",
+          "#altitude"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-03-barometer",
+      "creation_id": "18122425990768269",
+      "publish_requested_at": "2026-10-07T12:01:31.518959+09:00",
+      "media_id": "18565684957074615",
+      "permalink": "https://www.instagram.com/reel/DeLWElbEvbd/",
+      "published_at": "2026-10-07T12:01:35+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
