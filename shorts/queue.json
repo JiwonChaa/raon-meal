@@ -6,50 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-medicine-20261008-optogenetics-ko",
-      "slug": "nobel-medicine-20261008-optogenetics",
-      "language": "ko",
-      "title": "2026 노벨생리의학상, 빛으로 신경세포를 켜고 끄는 광유전학",
-      "video": "nobel-medicine-20261008-optogenetics-ko.mp4",
-      "caption": "nobel-medicine-20261008-optogenetics-ko.txt",
-      "video_sha256": "12a12b46be5b4a23761875b68f95b88cde9e8fed9bded6284924488a1125f3b0",
-      "caption_sha256": "7d5aa361c515b7acb6dc078ad85648a4029c9e925afd086879d1f6f22e7b2dd6",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-08T12:00:00+09:00",
-      "approval": "나머지는 딱히 없음. 그거만 고치고, 내일 12시에 업로드 걸어놔. (2026-10-08 새벽, 날짜는 10/8 낮 12시로 사용자 확인)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-medicine-20261008-optogenetics",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "life_science",
-        "pair_id": "nobel-medicine-20261008-optogenetics",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2026 노벨생리의학상",
-          "광유전학",
-          "채널로돕신"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생명과학",
-          "#노벨생리의학상",
-          "#광유전학",
-          "#뇌과학"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156684589537390",
-      "publish_requested_at": "2026-10-08T12:02:23.090082+09:00",
-      "media_id": "18110716123887853"
-    },
-    {
       "id": "07-noise-cancel-ko-20260920",
       "video": "07-noise-cancel-ko-20260920.mp4",
       "caption": "07-noise-cancel-ko-20260920.txt",
@@ -3654,6 +3610,53 @@
       "permalink": "https://www.instagram.com/reel/DeLWElCDHMN/",
       "published_at": "2026-10-07T12:01:27+09:00",
       "at": "2026-10-07T12:01:27+09:00"
+    },
+    {
+      "id": "nobel-medicine-20261008-optogenetics-ko",
+      "slug": "nobel-medicine-20261008-optogenetics",
+      "language": "ko",
+      "title": "2026 노벨생리의학상, 빛으로 신경세포를 켜고 끄는 광유전학",
+      "video": "nobel-medicine-20261008-optogenetics-ko.mp4",
+      "caption": "nobel-medicine-20261008-optogenetics-ko.txt",
+      "video_sha256": "12a12b46be5b4a23761875b68f95b88cde9e8fed9bded6284924488a1125f3b0",
+      "caption_sha256": "7d5aa361c515b7acb6dc078ad85648a4029c9e925afd086879d1f6f22e7b2dd6",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-08T12:00:00+09:00",
+      "approval": "나머지는 딱히 없음. 그거만 고치고, 내일 12시에 업로드 걸어놔. (2026-10-08 새벽, 날짜는 10/8 낮 12시로 사용자 확인)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-medicine-20261008-optogenetics",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "life_science",
+        "pair_id": "nobel-medicine-20261008-optogenetics",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2026 노벨생리의학상",
+          "광유전학",
+          "채널로돕신"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생명과학",
+          "#노벨생리의학상",
+          "#광유전학",
+          "#뇌과학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156684589537390",
+      "publish_requested_at": "2026-10-08T12:02:23.090082+09:00",
+      "media_id": "18110716123887853",
+      "permalink": "https://www.instagram.com/reel/DeN6460ACkp/",
+      "published_at": "2026-10-08T12:02:25+09:00",
+      "at": "2026-10-08T12:02:25+09:00"
     }
   ],
   "cancelled_for_remake": [
