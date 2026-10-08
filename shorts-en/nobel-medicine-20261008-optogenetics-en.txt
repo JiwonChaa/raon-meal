@@ -1,0 +1,10 @@
+2026 Nobel Medicine: Deisseroth, Hegemann and Nagel's optogenetics.
+Channelrhodopsin lets light control neurons.
+
+Chlamydomonas channelrhodopsin opens an ion pore in light. In 2005, its gene enabled blue light to trigger neuronal spikes. Targeting cell types tests links between neural activity and behavior. In 2021, one patient with retinitis pigmentosa partly regained vision.
+
+Models use illustrative scales, timing and colors. Synthetic narration.
+
+Sources: PDB 6EID, 3A7K; NeuroMorpho.Org NMO_00940, NMO_00227 (Ishizuka et al. 1995, CC BY 4.0); Chlamydomonas TEM: Dartmouth EM Facility (public domain). Papers: Nagel 2003, Boyden 2005, Adamantidis 2007, Liu 2012, Sahel 2021.
+
+#Science #Biology #NobelPrize #Optogenetics #Neuroscience
