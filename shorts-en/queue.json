@@ -9,6 +9,47 @@
   "paused": false,
   "queue": [
     {
+      "id": "nobel-chemistry-20261008-homochirality-en",
+      "slug": "nobel-chemistry-20261008-homochirality",
+      "language": "en",
+      "title": "2026 Nobel Prize in Chemistry: how one mirror-image form takes over",
+      "video": "nobel-chemistry-20261008-homochirality-en.mp4",
+      "caption": "nobel-chemistry-20261008-homochirality-en.txt",
+      "video_sha256": "9b30d55f3f9cad148304a0e047fab003cbf2d656ebdfbbac7b83228531c3901d",
+      "caption_sha256": "dc59cc8b3b3f5eedc9bab49c65d1555c45ee3b8f61f1e5f2a22a9f61cf63904a",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-09T18:00:00+09:00",
+      "approval": "영어판도 만들자. (2026-10-08 사용자 지시. 영어 계정 게시 시각은 총괄이 한국어판 다음 날 같은 슬롯으로 정해 사전에 알림)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-chemistry-20261008-homochirality",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "pair_id": "nobel-chemistry-20261008-homochirality",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2026 Nobel Chemistry",
+          "mirror-image molecules",
+          "Autocatalysis"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#Homochirality",
+          "#Autocatalysis"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-05-polarizer-en-20261001",
       "slug": "equation-05-polarizer",
       "title": "Why does a rotated polarizer darken light?",
