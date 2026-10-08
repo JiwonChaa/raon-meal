@@ -6,50 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-20261008-homochirality-ko",
-      "slug": "nobel-chemistry-20261008-homochirality",
-      "language": "ko",
-      "title": "2026 노벨화학상, 50 대 50에서 한쪽 거울상만 남는 반응",
-      "video": "nobel-chemistry-20261008-homochirality-ko.mp4",
-      "caption": "nobel-chemistry-20261008-homochirality-ko.txt",
-      "video_sha256": "4c61b7b01c628d1a02ff22eed386f59af95b8e028c7b7e613a5b33f4df03117a",
-      "caption_sha256": "6a313390074a67840ef2619c9895d31a7841588430ea07835aaa8cd89d7f5c41",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-08T18:00:00+09:00",
-      "approval": "음 좋아. 이제 싹 만들어보고, 예약까지 걸어놔. (2026-10-08, 목표 시각 오후 6시)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-chemistry-20261008-homochirality",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "pair_id": "nobel-chemistry-20261008-homochirality",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2026 노벨화학상",
-          "거울상 분자",
-          "자기촉매"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#거울상이성질체",
-          "#카이랄"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156729439537390",
-      "publish_requested_at": "2026-10-08T18:02:07.404971+09:00",
-      "media_id": "18010173329992436"
-    },
-    {
       "id": "07-noise-cancel-ko-20260920",
       "video": "07-noise-cancel-ko-20260920.mp4",
       "caption": "07-noise-cancel-ko-20260920.txt",
@@ -3701,6 +3657,53 @@
       "permalink": "https://www.instagram.com/reel/DeN6460ACkp/",
       "published_at": "2026-10-08T12:02:25+09:00",
       "at": "2026-10-08T12:02:25+09:00"
+    },
+    {
+      "id": "nobel-chemistry-20261008-homochirality-ko",
+      "slug": "nobel-chemistry-20261008-homochirality",
+      "language": "ko",
+      "title": "2026 노벨화학상, 50 대 50에서 한쪽 거울상만 남는 반응",
+      "video": "nobel-chemistry-20261008-homochirality-ko.mp4",
+      "caption": "nobel-chemistry-20261008-homochirality-ko.txt",
+      "video_sha256": "4c61b7b01c628d1a02ff22eed386f59af95b8e028c7b7e613a5b33f4df03117a",
+      "caption_sha256": "6a313390074a67840ef2619c9895d31a7841588430ea07835aaa8cd89d7f5c41",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-08T18:00:00+09:00",
+      "approval": "음 좋아. 이제 싹 만들어보고, 예약까지 걸어놔. (2026-10-08, 목표 시각 오후 6시)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-chemistry-20261008-homochirality",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "pair_id": "nobel-chemistry-20261008-homochirality",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2026 노벨화학상",
+          "거울상 분자",
+          "자기촉매"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#거울상이성질체",
+          "#카이랄"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156729439537390",
+      "publish_requested_at": "2026-10-08T18:02:07.404971+09:00",
+      "media_id": "18010173329992436",
+      "permalink": "https://www.instagram.com/reel/DeOkF-ZEaac/",
+      "published_at": "2026-10-08T18:02:10+09:00",
+      "at": "2026-10-08T18:02:10+09:00"
     }
   ],
   "cancelled_for_remake": [
