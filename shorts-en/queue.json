@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-04-potato-en-20261001",
-      "slug": "equation-04-potato",
-      "title": "How does thickness change heating time?",
-      "language": "en",
-      "video": "equation-04-potato-en-20261001.mp4",
-      "caption": "equation-04-potato-en-20261001.txt",
-      "video_sha256": "409f54d54912dccf79248534147eef9e9023ffe0f5c50ebff60387054b7f06ea",
-      "caption_sha256": "b1811ca6608e9f191a26ac62cc0e23cba65db7bde9b294e2f6a5fbb0f128f964",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-07T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-04-potato",
-        "keywords": [
-          "potato",
-          "heatdiffusion",
-          "cooking"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#potato",
-          "#heatdiffusion",
-          "#cooking"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-04-potato",
-      "creation_id": "18122830237768269",
-      "publish_requested_at": "2026-10-08T18:01:35.389042+09:00",
-      "media_id": "18131773912756155"
-    },
-    {
       "id": "equation-05-polarizer-en-20261001",
       "slug": "equation-05-polarizer",
       "title": "Why does a rotated polarizer darken light?",
@@ -2177,6 +2133,52 @@
       "media_id": "18397018390165401",
       "permalink": "https://www.instagram.com/reel/DeL_ThkkfH_/",
       "published_at": "2026-10-07T18:02:13+09:00"
+    },
+    {
+      "id": "equation-04-potato-en-20261001",
+      "slug": "equation-04-potato",
+      "title": "How does thickness change heating time?",
+      "language": "en",
+      "video": "equation-04-potato-en-20261001.mp4",
+      "caption": "equation-04-potato-en-20261001.txt",
+      "video_sha256": "409f54d54912dccf79248534147eef9e9023ffe0f5c50ebff60387054b7f06ea",
+      "caption_sha256": "b1811ca6608e9f191a26ac62cc0e23cba65db7bde9b294e2f6a5fbb0f128f964",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-07T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-04-potato",
+        "keywords": [
+          "potato",
+          "heatdiffusion",
+          "cooking"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#potato",
+          "#heatdiffusion",
+          "#cooking"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-04-potato",
+      "creation_id": "18122830237768269",
+      "publish_requested_at": "2026-10-08T18:01:35.389042+09:00",
+      "media_id": "18131773912756155",
+      "permalink": "https://www.instagram.com/reel/DeOkFprkRIH/",
+      "published_at": "2026-10-08T18:01:38+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
