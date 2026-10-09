@@ -214,6 +214,47 @@
       "pair_id": "equation-stories-20261001-07-focus"
     },
     {
+      "id": "nobel-physics-2002-neutrino-xray-astronomy-en",
+      "slug": "nobel-physics-2002-neutrino-xray-astronomy",
+      "language": "en",
+      "title": "21st-Century Nobel Prizes in Physics, Part 3 (2002)",
+      "video": "nobel-physics-2002-neutrino-xray-astronomy-en.mp4",
+      "caption": "nobel-physics-2002-neutrino-xray-astronomy-en.txt",
+      "video_sha256": "d4ad6d4e3c0697e5e4d0f51156cedda2a85b1af7b8334804a8deaaf40416227f",
+      "caption_sha256": "70f183a5a618be2f099ad902d28bf6ea6658f3b5741d9e71e9a43c259b5e1fa0",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-12T18:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2002-neutrino-xray-astronomy",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2002-neutrino-xray-astronomy",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2002 Nobel Prize in Physics",
+          "Solar Neutrinos",
+          "Cosmic X-rays"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Physics",
+          "#NobelPrize",
+          "#SolarNeutrinos",
+          "#CosmicXrays"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-08-honey-en-20261001",
       "slug": "equation-08-honey",
       "title": "How much does a wider tube change honey flow?",
