@@ -365,6 +365,47 @@
       }
     },
     {
+      "id": "nobel-physics-2005-frequency-comb-ko",
+      "slug": "nobel-physics-2005-frequency-comb",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 6편, 2005년 양자광학과 광주파수 빗",
+      "video": "nobel-physics-2005-frequency-comb-ko.mp4",
+      "caption": "nobel-physics-2005-frequency-comb-ko.txt",
+      "video_sha256": "f3d8b07bd42195718e2bc4cf52cfa16b0ad249a1648a049a54029e494626905d",
+      "caption_sha256": "7ee6f569cb1cb3a70cb1d1149a0458c30594483328294905e7b40e681b7cb7b6",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-14T18:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2005-frequency-comb",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2005-frequency-comb",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2005 노벨물리학상",
+          "광주파수 빗",
+          "레이저 정밀 분광학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#광주파수빗",
+          "#레이저정밀분광학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "13-cold-metal-ko-20260920",
       "video": "13-cold-metal-ko-20260920.mp4",
       "caption": "13-cold-metal-ko-20260920.txt",
