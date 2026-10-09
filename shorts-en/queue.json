@@ -255,6 +255,47 @@
       }
     },
     {
+      "id": "nobel-physics-2004-asymptotic-freedom-en",
+      "slug": "nobel-physics-2004-asymptotic-freedom",
+      "language": "en",
+      "title": "21st-Century Nobel Prizes in Physics, Part 5 (2004)",
+      "video": "nobel-physics-2004-asymptotic-freedom-en.mp4",
+      "caption": "nobel-physics-2004-asymptotic-freedom-en.txt",
+      "video_sha256": "377d18e027736201b5b155a0d9ca1b928981ed301ab24fbd6fbc32db00d5a13e",
+      "caption_sha256": "a644216eeeb6e3c938667186c15c80d6f0d7c536160cad9c5b938280a48c5d47",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-13T12:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2004-asymptotic-freedom",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2004-asymptotic-freedom",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2004 Nobel Prize in Physics",
+          "Asymptotic freedom",
+          "Strong interaction"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Physics",
+          "#NobelPrize",
+          "#AsymptoticFreedom",
+          "#StrongInteraction"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-08-honey-en-20261001",
       "slug": "equation-08-honey",
       "title": "How much does a wider tube change honey flow?",
