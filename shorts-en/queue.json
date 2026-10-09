@@ -378,6 +378,47 @@
       "pair_id": "equation-stories-20261001-09-anc"
     },
     {
+      "id": "nobel-physics-2003-superconductor-superfluid-en",
+      "slug": "nobel-physics-2003-superconductor-superfluid",
+      "language": "en",
+      "title": "21st-Century Nobel Prizes in Physics, Part 4 (2003)",
+      "video": "nobel-physics-2003-superconductor-superfluid-en.mp4",
+      "caption": "nobel-physics-2003-superconductor-superfluid-en.txt",
+      "video_sha256": "7ff75de5617295b65d2cae22b9c2aa7dbb2d45617187cbe2b112d0fc36c99e63",
+      "caption_sha256": "9102d88fc9f9cf944e3f662d03c908cb07b0347519ba935297cdc4c5ed367251",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-14T18:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2003-superconductor-superfluid",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2003-superconductor-superfluid",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2003 Nobel Prize in Physics",
+          "superconductor theory",
+          "superfluid theory"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Physics",
+          "#NobelPrize",
+          "#Superconductors",
+          "#Superfluids"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-10-ice-en-20261001",
       "slug": "equation-10-ice",
       "title": "Why does most ice stay underwater?",

@@ -1,0 +1,8 @@
+21st-Century Nobel Prizes in Physics, part 4: the 2003 Nobel Prize in Physics honored pioneering superconductor theory and superfluid theory.
+Abrikosov and Ginzburg explained strong-field tolerance; Leggett explained superfluidity in very cold liquid helium.
+
+Fields enter thin channels; the rest stays superconducting. Circling currents confine the field; stronger fields add channels until they touch, ending superconductivity. Abrikosov's 1953 lattice prediction using Ginzburg's theory was later confirmed by magnetic powder patterns. These magnets serve MRI and particle accelerators.
+
+Visuals are explanatory models; proportions may vary. Synthetic narration.
+Sources: Nobel Committee press release and scientific background, 2003 (nobelprize.org).
+#Science #Physics #NobelPrize #Superconductors #Superfluids
