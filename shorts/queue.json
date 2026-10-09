@@ -6,6 +6,47 @@
   "paused": false,
   "queue": [
     {
+      "id": "nobel-physics-2000-chip-laser-ko",
+      "slug": "nobel-physics-2000-chip-laser",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 1편, 2000년 반도체 이종접합과 집적회로",
+      "video": "nobel-physics-2000-chip-laser-ko.mp4",
+      "caption": "nobel-physics-2000-chip-laser-ko.txt",
+      "video_sha256": "ce75e48e286694102324ee8cc34bb4a2bd23df03316a173df5d6ab8cd6235b7f",
+      "caption_sha256": "9dc81f3de89b222c81d74f041e6a159b140a00d34afc93c78d4a778290455ecb",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-09T12:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2000-chip-laser",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2000-chip-laser",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2000 노벨물리학상",
+          "집적회로",
+          "반도체 레이저"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#집적회로",
+          "#반도체레이저"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "07-noise-cancel-ko-20260920",
       "video": "07-noise-cancel-ko-20260920.mp4",
       "caption": "07-noise-cancel-ko-20260920.txt",
