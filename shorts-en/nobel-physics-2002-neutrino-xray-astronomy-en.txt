@@ -1,9 +1,12 @@
-Part 3 covers the 2002 Nobel Prize in Physics: Solar Neutrinos and Cosmic X-rays.
+Part 3: 2002 Nobel Prize in Physics, solar neutrinos and cosmic X-rays.
 Davis and Koshiba detected solar neutrinos; Giacconi found cosmic X-rays.
 
-Hydrogen fusing into helium emits neutrinos that reach Earth. Davis used 615 t of dry-cleaning fluid 1,500 m down a gold mine, yielding about 17 argon atoms every two months. His 1970–1994 data supported solar fusion, and Koshiba traced neutrinos to the Sun using light in water. Giacconi found cosmic X-rays with a rocket detector.
+Fusion turns hydrogen into helium, releasing neutrinos that reach Earth.
+Davis's tank held 615 t of dry-cleaning fluid 1,500 m underground; chlorine produced an average of 17 argon atoms every two months.
+His 1970–1994 observations supported solar fusion; Koshiba traced neutrinos to the Sun using light in a water tank.
+Giacconi's rocket carried a detector to find invisible cosmic X-rays.
 
-Visuals are explanatory models; proportions may differ from real devices; synthetic narration.
+Visuals are explanatory models; device proportions may differ. Synthetic narration.
 
 Sources: Nobel Committee press release and scientific background, 2002 (nobelprize.org).
 #Science #Physics #NobelPrize #SolarNeutrinos #CosmicXrays
