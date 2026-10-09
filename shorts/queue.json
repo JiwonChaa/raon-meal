@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "07-noise-cancel-ko-20260920",
-      "video": "07-noise-cancel-ko-20260920.mp4",
-      "caption": "07-noise-cancel-ko-20260920.txt",
-      "video_sha256": "b809243f49df6e4777bce4bc4621850cf3bdbc35c4e6efd428b330bc0da126ee",
-      "caption_sha256": "05431514564af0a905e3603291fb62ff79a961ec1fa4b30fa70a2a55533b4a9d",
-      "title": "소리에 소리를 더하면 조용해질까?",
-      "slug": "07-noise-cancel",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "127",
-      "sha256": "b809243f49df6e4777bce4bc4621850cf3bdbc35c4e6efd428b330bc0da126ee",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "A",
-      "scheduled_at": "2026-10-02T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "소리"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#노이즈캔슬링",
-          "#파동간섭"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18156913633537390",
-      "publish_requested_at": "2026-10-09T18:02:02.725188+09:00",
-      "media_id": "18108208721357937"
-    },
-    {
       "id": "08-doppler-ko-20260920",
       "video": "08-doppler-ko-20260920.mp4",
       "caption": "08-doppler-ko-20260920.txt",
@@ -3795,6 +3753,51 @@
       "permalink": "https://www.instagram.com/reel/DeQfsE_DoOO/",
       "published_at": "2026-10-09T12:02:09+09:00",
       "at": "2026-10-09T12:02:09+09:00"
+    },
+    {
+      "id": "07-noise-cancel-ko-20260920",
+      "video": "07-noise-cancel-ko-20260920.mp4",
+      "caption": "07-noise-cancel-ko-20260920.txt",
+      "video_sha256": "b809243f49df6e4777bce4bc4621850cf3bdbc35c4e6efd428b330bc0da126ee",
+      "caption_sha256": "05431514564af0a905e3603291fb62ff79a961ec1fa4b30fa70a2a55533b4a9d",
+      "title": "소리에 소리를 더하면 조용해질까?",
+      "slug": "07-noise-cancel",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "127",
+      "sha256": "b809243f49df6e4777bce4bc4621850cf3bdbc35c4e6efd428b330bc0da126ee",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "A",
+      "scheduled_at": "2026-10-02T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "소리"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#노이즈캔슬링",
+          "#파동간섭"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18156913633537390",
+      "publish_requested_at": "2026-10-09T18:02:02.725188+09:00",
+      "media_id": "18108208721357937",
+      "permalink": "https://www.instagram.com/reel/DeRI7M_AMw4/",
+      "published_at": "2026-10-09T18:02:04+09:00",
+      "at": "2026-10-09T18:02:04+09:00"
     }
   ],
   "cancelled_for_remake": [
