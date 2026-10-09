@@ -84,6 +84,47 @@
       }
     },
     {
+      "id": "nobel-physics-2001-bose-einstein-condensate-ko",
+      "slug": "nobel-physics-2001-bose-einstein-condensate",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 2편, 2001년 초저온 기체의 보스-아인슈타인 응축",
+      "video": "nobel-physics-2001-bose-einstein-condensate-ko.mp4",
+      "caption": "nobel-physics-2001-bose-einstein-condensate-ko.txt",
+      "video_sha256": "bf74028d0884990105bdf5acbae9087701c97431f68090823fbb255c79fef41c",
+      "caption_sha256": "8a618831bdd20ad75546526d236d837396c276ce57576bb4b266d5d12927dbf5",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-10T18:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2001-bose-einstein-condensate",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2001-bose-einstein-condensate",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2001 노벨물리학상",
+          "보스-아인슈타인 응축",
+          "원자 레이저"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#보스아인슈타인응축",
+          "#원자레이저"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "09-ultrasound-echo-ko-20260920",
       "video": "09-ultrasound-echo-ko-20260920.mp4",
       "caption": "09-ultrasound-echo-ko-20260920.txt",
