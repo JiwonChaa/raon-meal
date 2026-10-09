@@ -1,0 +1,8 @@
+2000 Nobel Prize in Physics, part 1: Integrated circuits and Semiconductor lasers.
+Kilby, Alferov, and Kroemer's work gave us chips and optical communication lasers.
+
+Late-1947 transistors saved space and power, but wiring over 10,000 was hard. Kilby ran a germanium circuit in September 1958. The 1962 laser could not stay on at room temperature; in 1963, Alferov and Kroemer independently proposed layers trapping electrons and light. In May 1970, Alferov's team achieved continuous room-temperature lasing for fiber optics, CDs, and barcode readers.
+
+Visuals are explanatory models; scale may differ. Synthetic narration.
+Sources: Nobel Committee press release and scientific background, 2000 (nobelprize.org).
+#Science #Physics #NobelPrize #IntegratedCircuits #SemiconductorLasers

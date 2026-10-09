@@ -91,6 +91,47 @@
       "pair_id": "equation-stories-20261001-05-polarizer"
     },
     {
+      "id": "nobel-physics-2000-chip-laser-en",
+      "slug": "nobel-physics-2000-chip-laser",
+      "language": "en",
+      "title": "21st-Century Nobel Prizes in Physics, Part 1 (2000)",
+      "video": "nobel-physics-2000-chip-laser-en.mp4",
+      "caption": "nobel-physics-2000-chip-laser-en.txt",
+      "video_sha256": "d62deb0a6a615cccd3acc670dbcc3a07cb1af6f9a10a0cb5473b761fcbeeda9f",
+      "caption_sha256": "7e20965e8f7e3396b84cf6c38e9acfc040e6931f7cc27e5dbc9d7d88ab7e6dfc",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-10T18:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2000-chip-laser",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2000-chip-laser",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2000 Nobel Prize in Physics",
+          "Integrated circuits",
+          "Semiconductor lasers"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Physics",
+          "#NobelPrize",
+          "#IntegratedCircuits",
+          "#SemiconductorLasers"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-06-cream-en-20261001",
       "slug": "equation-06-cream",
       "title": "Why do smaller fat droplets rise slower?",
