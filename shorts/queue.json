@@ -86,6 +86,47 @@
       }
     },
     {
+      "id": "nobel-physics-2002-neutrino-xray-astronomy-ko",
+      "slug": "nobel-physics-2002-neutrino-xray-astronomy",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 3편, 2002년 태양 중성미자와 우주 X선 천문학",
+      "video": "nobel-physics-2002-neutrino-xray-astronomy-ko.mp4",
+      "caption": "nobel-physics-2002-neutrino-xray-astronomy-ko.txt",
+      "video_sha256": "816b2920a30147acd9c3deeb961a6b482c4240a57fd1c8b7351381ebb27f26e5",
+      "caption_sha256": "6a02ed18d45547835a7b57afb5d1427235ed61fa4a045208f0ffec17d19615d3",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-11T12:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2002-neutrino-xray-astronomy",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2002-neutrino-xray-astronomy",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2002 노벨물리학상",
+          "태양 중성미자",
+          "우주 엑스선"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#태양중성미자",
+          "#우주엑스선"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "09-ultrasound-echo-ko-20260920",
       "video": "09-ultrasound-echo-ko-20260920.mp4",
       "caption": "09-ultrasound-echo-ko-20260920.txt",
