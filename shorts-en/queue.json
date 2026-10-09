@@ -132,6 +132,47 @@
       }
     },
     {
+      "id": "nobel-physics-2001-bose-einstein-condensate-en",
+      "slug": "nobel-physics-2001-bose-einstein-condensate",
+      "language": "en",
+      "title": "21st-Century Nobel Prizes in Physics, Part 2 (2001)",
+      "video": "nobel-physics-2001-bose-einstein-condensate-en.mp4",
+      "caption": "nobel-physics-2001-bose-einstein-condensate-en.txt",
+      "video_sha256": "8a7511c4ea14b83b70905ca62b8f01a657bab2dad322fe5d966e19457cf74678",
+      "caption_sha256": "764317155b79db2d2276679de476175e295193559108a5a03fe6bafddfe40b09",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-11T12:00:00+09:00",
+      "approval": "좋네. 이제 쭉~ 작업해. (2026-10-09, 연재 「21세기 노벨물리학상 총정리」 하루 1편)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2001-bose-einstein-condensate",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2001-bose-einstein-condensate",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2001 Nobel Prize in Physics",
+          "Bose-Einstein condensation",
+          "atom laser"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Physics",
+          "#NobelPrize",
+          "#BoseEinsteinCondensation",
+          "#AtomLaser"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
       "id": "equation-06-cream-en-20261001",
       "slug": "equation-06-cream",
       "title": "Why do smaller fat droplets rise slower?",
