@@ -6,47 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2000-chip-laser-sketch-ko",
-      "slug": "nobel-physics-2000-chip-laser",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 1편, 2000년 반도체 이종접합과 집적회로",
-      "video": "nobel-physics-2000-chip-laser-sketch-ko.mp4",
-      "caption": "nobel-physics-2000-chip-laser-sketch-ko.txt",
-      "video_sha256": "03a5874f06eb67863497cb171883d3d4c4667591d75181c631333297ee5f8454",
-      "caption_sha256": "9dc81f3de89b222c81d74f041e6a159b140a00d34afc93c78d4a778290455ecb",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-10T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2000-chip-laser",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2000-chip-laser",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2000 노벨물리학상",
-          "집적회로",
-          "반도체 레이저"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#집적회로",
-          "#반도체레이저"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      }
-    },
-    {
       "id": "nobel-physics-2001-bose-einstein-condensate-ko",
       "slug": "nobel-physics-2001-bose-einstein-condensate",
       "language": "ko",
@@ -3073,6 +3032,51 @@
       "permalink": "https://www.instagram.com/reel/DeTElHGFK1K/",
       "published_at": "2026-10-10T12:02:33+09:00",
       "at": "2026-10-10T12:02:33+09:00"
+    },
+    {
+      "id": "nobel-physics-2000-chip-laser-sketch-ko",
+      "slug": "nobel-physics-2000-chip-laser",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 1편, 2000년 반도체 이종접합과 집적회로",
+      "video": "nobel-physics-2000-chip-laser-sketch-ko.mp4",
+      "caption": "nobel-physics-2000-chip-laser-sketch-ko.txt",
+      "video_sha256": "03a5874f06eb67863497cb171883d3d4c4667591d75181c631333297ee5f8454",
+      "caption_sha256": "9dc81f3de89b222c81d74f041e6a159b140a00d34afc93c78d4a778290455ecb",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-10T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2000-chip-laser",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2000-chip-laser",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2000 노벨물리학상",
+          "집적회로",
+          "반도체 레이저"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#집적회로",
+          "#반도체레이저"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "media_id": "17971476504149708",
+      "permalink": "https://www.instagram.com/reel/DeQfsE_DoOO/",
+      "published_at": "2026-10-09T12:02:09+09:00",
+      "at": "2026-10-09T12:02:09+09:00"
     }
   ],
   "cancelled_for_remake": [
