@@ -981,6 +981,46 @@
       "total_interactions": 4402,
       "shares_per_1000_reach": 17.37,
       "saves_per_1000_reach": 7.032
+    },
+    {
+      "item_id": "06-road-mirage-ko-20260920",
+      "media_id": "18112430228175434",
+      "permalink": "https://www.instagram.com/reel/DeLWElCDHMN/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.04,
+      "captured_at": "2026-10-10T06:03:51.221514+00:00",
+      "views": 3147,
+      "reach": 2678,
+      "average_watch_time_ms": 5464,
+      "total_watch_time_ms": 14869883,
+      "likes": 8,
+      "comments": 0,
+      "shares": 5,
+      "saved": 5,
+      "total_interactions": 18,
+      "shares_per_1000_reach": 1.867,
+      "saves_per_1000_reach": 1.867
+    },
+    {
+      "item_id": "nobel-physics-2000-chip-laser-ko",
+      "media_id": "17971476504149708",
+      "permalink": "https://www.instagram.com/reel/DeQfsE_DoOO/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.028,
+      "captured_at": "2026-10-10T06:03:51.221514+00:00",
+      "views": 6387,
+      "reach": 4704,
+      "average_watch_time_ms": 15864,
+      "total_watch_time_ms": 79798111,
+      "likes": 110,
+      "comments": 0,
+      "shares": 32,
+      "saved": 62,
+      "total_interactions": 208,
+      "shares_per_1000_reach": 6.803,
+      "saves_per_1000_reach": 13.18
     }
   ]
 }
