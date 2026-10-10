@@ -381,7 +381,7 @@ def run(args):
         log("Reel reel is no longer eligible; no publication", to_file=False)
         return 0
     todays_posts = [r for r in recent if dt.datetime.fromisoformat(r["timestamp"]).astimezone(KST).date() == now().date()]
-    if len(todays_posts) >= 2:
+    if len(todays_posts) >= 3:
         log("Reel account already has two posts today", to_file=False)
         return 0
     url = host_url(video)

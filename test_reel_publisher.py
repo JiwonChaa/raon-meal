@@ -58,7 +58,7 @@ class PublisherTests(unittest.TestCase):
         with self.assertRaises(RuntimeError):self.run_api(api)
         api.create.assert_not_called();api.publish.assert_not_called()
     def test_remote_daily_cap_blocks_post(self):
-        self.item();api=self.api();api.recent.return_value=[{'timestamp':self.at.isoformat(),'caption':'other'}]*2
+        self.item();api=self.api();api.recent.return_value=[{'timestamp':self.at.isoformat(),'caption':'other'}]*3
         self.run_api(api);api.create.assert_not_called();api.publish.assert_not_called()
     def test_duplicate_reconciles_without_publish(self):
         self.item();api=self.api();api.recent.return_value=[dict(api.media_info.return_value)]
