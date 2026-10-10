@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-05-polarizer-en-20261001",
-      "slug": "equation-05-polarizer",
-      "title": "Why does a rotated polarizer darken light?",
-      "language": "en",
-      "video": "equation-05-polarizer-en-20261001.mp4",
-      "caption": "equation-05-polarizer-en-20261001.txt",
-      "video_sha256": "b8575bbbf0dcd1f4e07034807f9c3ceb766781cdc90607768c82d053f962a350",
-      "caption_sha256": "2fd4db8aa3e5298df9d8f439723991f74aaef58bb7179d8825b5d98ebb8a9138",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-08T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-05-polarizer",
-        "keywords": [
-          "polarization",
-          "maluslaw",
-          "light"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#polarization",
-          "#maluslaw",
-          "#light"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-05-polarizer",
-      "creation_id": "18123390520768269",
-      "publish_requested_at": "2026-10-10T12:02:36.685373+09:00",
-      "media_id": "18111463253600284"
-    },
-    {
       "id": "equation-06-cream-en-20261001",
       "slug": "equation-06-cream",
       "title": "Why do smaller fat droplets rise slower?",
@@ -2274,6 +2230,52 @@
       "media_id": "18161449078499435",
       "permalink": "https://www.instagram.com/reel/DeRI5EcFMIC/",
       "published_at": "2026-10-09T18:02:22+09:00"
+    },
+    {
+      "id": "equation-05-polarizer-en-20261001",
+      "slug": "equation-05-polarizer",
+      "title": "Why does a rotated polarizer darken light?",
+      "language": "en",
+      "video": "equation-05-polarizer-en-20261001.mp4",
+      "caption": "equation-05-polarizer-en-20261001.txt",
+      "video_sha256": "b8575bbbf0dcd1f4e07034807f9c3ceb766781cdc90607768c82d053f962a350",
+      "caption_sha256": "2fd4db8aa3e5298df9d8f439723991f74aaef58bb7179d8825b5d98ebb8a9138",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-08T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-05-polarizer",
+        "keywords": [
+          "polarization",
+          "maluslaw",
+          "light"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#polarization",
+          "#maluslaw",
+          "#light"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-05-polarizer",
+      "creation_id": "18123390520768269",
+      "publish_requested_at": "2026-10-10T12:02:36.685373+09:00",
+      "media_id": "18111463253600284",
+      "permalink": "https://www.instagram.com/reel/DeTEmKiD9TK/",
+      "published_at": "2026-10-10T12:02:39+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
