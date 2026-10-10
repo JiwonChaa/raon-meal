@@ -1021,6 +1021,46 @@
       "total_interactions": 208,
       "shares_per_1000_reach": 6.803,
       "saves_per_1000_reach": 13.18
+    },
+    {
+      "item_id": "07-noise-cancel-ko-20260920",
+      "media_id": "18108208721357937",
+      "permalink": "https://www.instagram.com/reel/DeRI7M_AMw4/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.719,
+      "captured_at": "2026-10-10T12:45:11.132539+00:00",
+      "views": 1238,
+      "reach": 807,
+      "average_watch_time_ms": 5059,
+      "total_watch_time_ms": 4235084,
+      "likes": 3,
+      "comments": 0,
+      "shares": 1,
+      "saved": 0,
+      "total_interactions": 4,
+      "shares_per_1000_reach": 1.239,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-physics-2000-chip-laser-sketch-ko",
+      "media_id": "17971476504149708",
+      "permalink": "https://www.instagram.com/reel/DeQfsE_DoOO/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 33.717,
+      "captured_at": "2026-10-10T12:45:11.132539+00:00",
+      "views": 6845,
+      "reach": 5351,
+      "average_watch_time_ms": 15922,
+      "total_watch_time_ms": 86491538,
+      "likes": 114,
+      "comments": 0,
+      "shares": 56,
+      "saved": 68,
+      "total_interactions": 242,
+      "shares_per_1000_reach": 10.465,
+      "saves_per_1000_reach": 12.708
     }
   ]
 }
