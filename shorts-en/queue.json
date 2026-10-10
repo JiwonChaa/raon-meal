@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-06-cream-en-20261001",
-      "slug": "equation-06-cream",
-      "title": "Why do smaller fat droplets rise slower?",
-      "language": "en",
-      "video": "equation-06-cream-en-20261001.mp4",
-      "caption": "equation-06-cream-en-20261001.txt",
-      "video_sha256": "5075d99358890629edc9abeb96b540f060aee18b9e0faeecfec61349e6e5116b",
-      "caption_sha256": "a5c54ec1419d9aa61a77afc4f0b93aef8a9210706b81d15f70366fc99d74f82b",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-08T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-06-cream",
-        "keywords": [
-          "milk",
-          "fatdroplets",
-          "creaming"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#milk",
-          "#fatdroplets",
-          "#creaming"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-06-cream",
-      "creation_id": "18123463132768269",
-      "publish_requested_at": "2026-10-10T18:03:20.897144+09:00",
-      "media_id": "17952826908269536"
-    },
-    {
       "id": "equation-07-focus-en-20261001",
       "slug": "equation-07-focus",
       "title": "Why does focusing move a lens?",
@@ -2279,6 +2235,52 @@
       "media_id": "18111463253600284",
       "permalink": "https://www.instagram.com/reel/DeTEmKiD9TK/",
       "published_at": "2026-10-10T12:02:39+09:00"
+    },
+    {
+      "id": "equation-06-cream-en-20261001",
+      "slug": "equation-06-cream",
+      "title": "Why do smaller fat droplets rise slower?",
+      "language": "en",
+      "video": "equation-06-cream-en-20261001.mp4",
+      "caption": "equation-06-cream-en-20261001.txt",
+      "video_sha256": "5075d99358890629edc9abeb96b540f060aee18b9e0faeecfec61349e6e5116b",
+      "caption_sha256": "a5c54ec1419d9aa61a77afc4f0b93aef8a9210706b81d15f70366fc99d74f82b",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-08T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-06-cream",
+        "keywords": [
+          "milk",
+          "fatdroplets",
+          "creaming"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#milk",
+          "#fatdroplets",
+          "#creaming"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-06-cream",
+      "creation_id": "18123463132768269",
+      "publish_requested_at": "2026-10-10T18:03:20.897144+09:00",
+      "media_id": "17952826908269536",
+      "permalink": "https://www.instagram.com/reel/DeTt4S6DCPk/",
+      "published_at": "2026-10-10T18:03:23+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
