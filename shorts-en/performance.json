@@ -1421,6 +1421,46 @@
       "total_interactions": 2,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-physics-20261007-halzen-en",
+      "media_id": "18397018390165401",
+      "permalink": "https://www.instagram.com/reel/DeL_ThkkfH_/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.717,
+      "captured_at": "2026-10-10T12:45:15.890144+00:00",
+      "views": 3366,
+      "reach": 2977,
+      "average_watch_time_ms": 28544,
+      "total_watch_time_ms": 85319938,
+      "likes": 86,
+      "comments": 2,
+      "shares": 7,
+      "saved": 16,
+      "total_interactions": 113,
+      "shares_per_1000_reach": 2.351,
+      "saves_per_1000_reach": 5.375
+    },
+    {
+      "item_id": "nobel-chemistry-20261008-homochirality-en",
+      "media_id": "18161449078499435",
+      "permalink": "https://www.instagram.com/reel/DeRI5EcFMIC/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 27.715,
+      "captured_at": "2026-10-10T12:45:15.890144+00:00",
+      "views": 3023,
+      "reach": 2637,
+      "average_watch_time_ms": 29994,
+      "total_watch_time_ms": 79035186,
+      "likes": 79,
+      "comments": 0,
+      "shares": 17,
+      "saved": 15,
+      "total_interactions": 112,
+      "shares_per_1000_reach": 6.447,
+      "saves_per_1000_reach": 5.688
     }
   ]
 }
