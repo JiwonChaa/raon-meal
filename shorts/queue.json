@@ -45,6 +45,908 @@
           72
         ]
       }
+    },
+    {
+      "id": "nobel-physics-2001-bose-einstein-condensate-ko",
+      "slug": "nobel-physics-2001-bose-einstein-condensate",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 2편, 2001년 초저온 기체의 보스-아인슈타인 응축",
+      "video": "nobel-physics-2001-bose-einstein-condensate-ko.mp4",
+      "caption": "nobel-physics-2001-bose-einstein-condensate-ko.txt",
+      "video_sha256": "7a46bc245f20b7916c4c52b0c87fb81119d3ad800cf31fd37d825ab500076beb",
+      "caption_sha256": "8a618831bdd20ad75546526d236d837396c276ce57576bb4b266d5d12927dbf5",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-11T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2001-bose-einstein-condensate",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2001-bose-einstein-condensate",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2001 노벨물리학상",
+          "보스-아인슈타인 응축",
+          "원자 레이저"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#보스아인슈타인응축",
+          "#원자레이저"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2002-neutrino-xray-astronomy-ko",
+      "slug": "nobel-physics-2002-neutrino-xray-astronomy",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 3편, 2002년 태양 중성미자와 우주 X선 천문학",
+      "video": "nobel-physics-2002-neutrino-xray-astronomy-ko.mp4",
+      "caption": "nobel-physics-2002-neutrino-xray-astronomy-ko.txt",
+      "video_sha256": "ffaef614e5ee09522d1af6b2909762858dc1cd47ca932788d61df1293f8024f3",
+      "caption_sha256": "cd3a3a57d3abca0e76556627a74b5034a5673ca39fcf119a191010908d1a2cd9",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-11T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2002-neutrino-xray-astronomy",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2002-neutrino-xray-astronomy",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2002 노벨물리학상",
+          "태양 중성미자",
+          "우주 엑스선"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#태양중성미자",
+          "#우주엑스선"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2003-superconductor-superfluid-ko",
+      "slug": "nobel-physics-2003-superconductor-superfluid",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 4편, 2003년 초전도와 초유동의 양자 질서",
+      "video": "nobel-physics-2003-superconductor-superfluid-ko.mp4",
+      "caption": "nobel-physics-2003-superconductor-superfluid-ko.txt",
+      "video_sha256": "b8c9b2b9133b4b5d2acf2af69258af4905eb370e0a5c0694274cfdba5b340928",
+      "caption_sha256": "0531df54f2a49b97d5e6901b20e28ad9dc5af0b43b65401091ac8a0c3804997a",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-12T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2003-superconductor-superfluid",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2003-superconductor-superfluid",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2003 노벨물리학상",
+          "초전도체",
+          "초유체"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#초전도체",
+          "#초유체"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2004-asymptotic-freedom-ko",
+      "slug": "nobel-physics-2004-asymptotic-freedom",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 5편, 2004년 강한 상호작용의 점근적 자유",
+      "video": "nobel-physics-2004-asymptotic-freedom-ko.mp4",
+      "caption": "nobel-physics-2004-asymptotic-freedom-ko.txt",
+      "video_sha256": "4f1127b784287c8f848946a9a181281168ce3346c63019ab91395b804af6e1c2",
+      "caption_sha256": "9b4807b4c8a4d6726f7ec4cd82d8a4e089686420506ac483c43deac15091bbce",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-12T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2004-asymptotic-freedom",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2004-asymptotic-freedom",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2004 노벨물리학상",
+          "점근 자유성",
+          "강한 상호작용"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#점근자유성",
+          "#강한상호작용"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2005-frequency-comb-ko",
+      "slug": "nobel-physics-2005-frequency-comb",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 6편, 2005년 양자광학과 광주파수 빗",
+      "video": "nobel-physics-2005-frequency-comb-ko.mp4",
+      "caption": "nobel-physics-2005-frequency-comb-ko.txt",
+      "video_sha256": "33404419bc6ace503d31182607fa963829511a14a73ddb5fd775f098d245df7f",
+      "caption_sha256": "7ee6f569cb1cb3a70cb1d1149a0458c30594483328294905e7b40e681b7cb7b6",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-13T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2005-frequency-comb",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2005-frequency-comb",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2005 노벨물리학상",
+          "광주파수 빗",
+          "레이저 정밀 분광학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#광주파수빗",
+          "#레이저정밀분광학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2006-cosmic-microwave-background-ko",
+      "slug": "nobel-physics-2006-cosmic-microwave-background",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 7편, 2006년 우주배경복사의 흑체 스펙트럼과 요동",
+      "video": "nobel-physics-2006-cosmic-microwave-background-ko.mp4",
+      "caption": "nobel-physics-2006-cosmic-microwave-background-ko.txt",
+      "video_sha256": "059820c9ac2473e6e46ca0b0f9e6ba4bcbf36621a98ef1f67c8ef8857d29decb",
+      "caption_sha256": "beb6f32797840a9576fcee39ceeb0b469d4b3a5c459a3bd180220aba18bf1887",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-13T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2006-cosmic-microwave-background",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2006-cosmic-microwave-background",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2006 노벨물리학상",
+          "우주 배경 복사",
+          "코비 위성"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#우주배경복사",
+          "#코비위성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2007-giant-magnetoresistance-ko",
+      "slug": "nobel-physics-2007-giant-magnetoresistance",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 8편, 2007년 얇은 금속층의 거대 자기저항",
+      "video": "nobel-physics-2007-giant-magnetoresistance-ko.mp4",
+      "caption": "nobel-physics-2007-giant-magnetoresistance-ko.txt",
+      "video_sha256": "f04a5ba55ecaa2a1201e6475333a3a8873be0a7de5ad3ecdf027b02d0a3f1386",
+      "caption_sha256": "4a295bcbeec0893d96558262bccf8bbd1b79a3d1016ef7cebdbffd52e7a99447",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-14T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2007-giant-magnetoresistance",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2007-giant-magnetoresistance",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2007 노벨물리학상",
+          "거대 자기저항",
+          "하드디스크 읽기 장치"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#거대자기저항",
+          "#하드디스크"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2008-symmetry-breaking-ko",
+      "slug": "nobel-physics-2008-symmetry-breaking",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 9편, 2008년 자발적 대칭 깨짐과 쿼크의 세 세대",
+      "video": "nobel-physics-2008-symmetry-breaking-ko.mp4",
+      "caption": "nobel-physics-2008-symmetry-breaking-ko.txt",
+      "video_sha256": "cc102bab399d04494bf6daa48c0c93f4637b359e8b6d4a0b66da39fa6f073034",
+      "caption_sha256": "b613530b9d968eda3382f52b0dfd3afc3371a3796ccc464154cf7542d4ad539f",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-14T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2008-symmetry-breaking",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2008-symmetry-breaking",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2008 노벨물리학상",
+          "자발적 대칭 깨짐",
+          "쿼크 여섯 종류"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#자발적대칭깨짐",
+          "#쿼크"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2009-fiber-ccd-ko",
+      "slug": "nobel-physics-2009-fiber-ccd",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 10편, 2009년 광섬유 통신과 CCD 영상 센서",
+      "video": "nobel-physics-2009-fiber-ccd-ko.mp4",
+      "caption": "nobel-physics-2009-fiber-ccd-ko.txt",
+      "video_sha256": "687ed87146940b703893dfb06c96f2b00b938e8b3e5d0550c349a68f669e9fa0",
+      "caption_sha256": "8fef44d280d6a2fa0f2545f92724e989591facbe7ac10f3e4e916ebf7cb280a0",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-15T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2009-fiber-ccd",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2009-fiber-ccd",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2009 노벨물리학상",
+          "광섬유 통신",
+          "CCD 영상 센서"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#광섬유통신",
+          "#CCD"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2010-graphene-ko",
+      "slug": "nobel-physics-2010-graphene",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 11편, 2010년 원자 한 층짜리 탄소, 그래핀",
+      "video": "nobel-physics-2010-graphene-ko.mp4",
+      "caption": "nobel-physics-2010-graphene-ko.txt",
+      "video_sha256": "149d9499ba553511045a9f1a504b3a7837c638e994b16f515630c9925faf5a22",
+      "caption_sha256": "467a5ca6e7ba41b1f8093c1a668f898600fc1ad651f1a366036b9279942ab766",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-15T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2010-graphene",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2010-graphene",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2010 노벨물리학상",
+          "그래핀",
+          "접착테이프"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#그래핀",
+          "#2차원물질"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2011-accelerating-universe-ko",
+      "slug": "nobel-physics-2011-accelerating-universe",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 12편, 2011년 초신성으로 밝혀낸 우주의 가속 팽창",
+      "video": "nobel-physics-2011-accelerating-universe-ko.mp4",
+      "caption": "nobel-physics-2011-accelerating-universe-ko.txt",
+      "video_sha256": "e18edc6725915217c0f9675f86acbb2721cb581eec8777312ba0c8c239b35530",
+      "caption_sha256": "50525c356e4e0de8e4d2490aae99722df766f5637e306ce8834061ec08ca3b2c",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-16T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2011-accelerating-universe",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2011-accelerating-universe",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2011 노벨물리학상",
+          "우주 가속 팽창",
+          "Ia형 초신성"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#우주가속팽창",
+          "#Ia형초신성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2012-single-quantum-systems-ko",
+      "slug": "nobel-physics-2012-single-quantum-systems",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 13편, 2012년 양자 광학과 단일 양자계의 제어",
+      "video": "nobel-physics-2012-single-quantum-systems-ko.mp4",
+      "caption": "nobel-physics-2012-single-quantum-systems-ko.txt",
+      "video_sha256": "ae42512a62d98a8d16eb52e090201dde30c20209a9738989561dbb4325a42032",
+      "caption_sha256": "1e08fd942b1ae6dd299c6b26f9acb3ac7694f3e8408360e43f74601ab813425a",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-16T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2012-single-quantum-systems",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2012-single-quantum-systems",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2012 노벨물리학상",
+          "이온 포획",
+          "광자 측정"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#이온포획",
+          "#광자측정"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2013-higgs-ko",
+      "slug": "nobel-physics-2013-higgs",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 14편, 2013년 힉스 입자와 기본입자의 질량",
+      "video": "nobel-physics-2013-higgs-ko.mp4",
+      "caption": "nobel-physics-2013-higgs-ko.txt",
+      "video_sha256": "23300cc8a381b46f84f476b422095d501ab9ac89846d9949e83c46bebdcbe452",
+      "caption_sha256": "ffad3f974e28dc211f28f25c6aaf32f86fb8dfe25b00599ed5a33ca69de76ca9",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-17T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2013-higgs",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2013-higgs",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2013 노벨물리학상",
+          "힉스 장",
+          "힉스 입자"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#힉스장",
+          "#힉스입자"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2014-blue-led-ko",
+      "slug": "nobel-physics-2014-blue-led",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 15편, 2014년 백색 조명을 가능하게 한 청색 LED",
+      "video": "nobel-physics-2014-blue-led-ko.mp4",
+      "caption": "nobel-physics-2014-blue-led-ko.txt",
+      "video_sha256": "d9af0fa38391426f4d92ae5c1bdc3774249c0b8ab6d0d9ced980d8ddfc26be43",
+      "caption_sha256": "48234fe9fe58f5f65ffe138d03d5faa4d13f3f8a6404a17da692a8aefdf3e37f",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-17T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2014-blue-led",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2014-blue-led",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2014 노벨물리학상",
+          "청색 LED",
+          "질화 갈륨"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#청색LED",
+          "#질화갈륨"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2015-neutrino-oscillation-ko",
+      "slug": "nobel-physics-2015-neutrino-oscillation",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 16편, 2015년 중성미자 진동과 작은 질량의 발견",
+      "video": "nobel-physics-2015-neutrino-oscillation-ko.mp4",
+      "caption": "nobel-physics-2015-neutrino-oscillation-ko.txt",
+      "video_sha256": "696963132fd330bb7d248d16a3f89920dc2482e8e75d5af3a63494fa35f8b003",
+      "caption_sha256": "6c67fae9dfb7a4d0d682e02bad690b2f3360000fbb3c35522db9ab54cf505052",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-18T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2015-neutrino-oscillation",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2015-neutrino-oscillation",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2015 노벨물리학상",
+          "중성미자 진동",
+          "중성미자 질량"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#중성미자진동",
+          "#중성미자질량"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2016-topological-matter-ko",
+      "slug": "nobel-physics-2016-topological-matter",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 17편, 2016년 소용돌이와 물질의 위상적 상태",
+      "video": "nobel-physics-2016-topological-matter-ko.mp4",
+      "caption": "nobel-physics-2016-topological-matter-ko.txt",
+      "video_sha256": "6f5ef42158df66f592c67232b7b57fcc196a010ce38ff5b5a24f37f6de234b92",
+      "caption_sha256": "f7a47ee392e17291a7ed81ff1c2f2a7b05e5b7b3e25c582899953caecdb15e69",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-18T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2016-topological-matter",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2016-topological-matter",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2016 노벨물리학상",
+          "위상 상전이",
+          "양자 홀 효과"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#위상상전이",
+          "#양자홀효과"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2017-gravitational-waves-ko",
+      "slug": "nobel-physics-2017-gravitational-waves",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 18편, 2017년 레이저 간섭계로 관측한 중력파",
+      "video": "nobel-physics-2017-gravitational-waves-ko.mp4",
+      "caption": "nobel-physics-2017-gravitational-waves-ko.txt",
+      "video_sha256": "1f550e9e0627e1b7a83ce32ab39b0564bbd9f1cd152e6e88d9da38873c6eebbe",
+      "caption_sha256": "b96a7ef466dda27f0c7b6494cf9234c2195f76837ff867547d2d0ed770e36ef2",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-19T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2017-gravitational-waves",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2017-gravitational-waves",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2017 노벨물리학상",
+          "중력파 관측",
+          "레이저 간섭계"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#중력파",
+          "#레이저간섭계"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2018-optical-tweezers-cpa-ko",
+      "slug": "nobel-physics-2018-optical-tweezers-cpa",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 19편, 2018년 광학 집게와 처프 펄스 증폭",
+      "video": "nobel-physics-2018-optical-tweezers-cpa-ko.mp4",
+      "caption": "nobel-physics-2018-optical-tweezers-cpa-ko.txt",
+      "video_sha256": "85ab5c56b516fa96070eaeb79ea04c480775225d1a5f518728b5950b3fccf901",
+      "caption_sha256": "4ee56d730f262f6b3270d691c97a13725a8f3c790aed9a18455d406e68b82c19",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-19T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2018-optical-tweezers-cpa",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2018-optical-tweezers-cpa",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2018 노벨물리학상",
+          "처프 펄스 증폭",
+          "광학 집게"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#처프펄스증폭",
+          "#광학집게"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2019-cosmology-exoplanet-ko",
+      "slug": "nobel-physics-2019-cosmology-exoplanet",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 20편, 2019년 물리적 우주론과 외계행성의 발견",
+      "video": "nobel-physics-2019-cosmology-exoplanet-ko.mp4",
+      "caption": "nobel-physics-2019-cosmology-exoplanet-ko.txt",
+      "video_sha256": "e7f95d43fd12c5438775b041f41f621bea3d2194610f692c1e315f55d8e5ea4c",
+      "caption_sha256": "e472371c8af1a27537d2d33f5b81392a7f71701f0b805b95127a32aa07ef7ad4",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-20T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2019-cosmology-exoplanet",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2019-cosmology-exoplanet",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2019 노벨물리학상",
+          "외계행성 발견",
+          "도플러 효과"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#외계행성",
+          "#도플러효과"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2020-black-holes-ko",
+      "slug": "nobel-physics-2020-black-holes",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 21편, 2020년 블랙홀의 형성과 은하 중심의 별 궤도",
+      "video": "nobel-physics-2020-black-holes-ko.mp4",
+      "caption": "nobel-physics-2020-black-holes-ko.txt",
+      "video_sha256": "12e7f1053e35cb849af70dc6db68e13687ae29e4b1aa4900e28d3f7fb07626e0",
+      "caption_sha256": "faf6573314133d9d69f104e612255456d5f0d82f1d479df0aec0513b934a3e9f",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-20T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2020-black-holes",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2020-black-holes",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2020 노벨물리학상",
+          "은하 중심 블랙홀",
+          "별의 궤도"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#블랙홀",
+          "#별의궤도"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2021-climate-spin-glass-ko",
+      "slug": "nobel-physics-2021-climate-spin-glass",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 22편, 2021년 기후 모형과 스핀 유리의 복잡계 물리학",
+      "video": "nobel-physics-2021-climate-spin-glass-ko.mp4",
+      "caption": "nobel-physics-2021-climate-spin-glass-ko.txt",
+      "video_sha256": "95867930014d5f41dfec8302b2f257fbf0b4ba13f72ce83ffce9268e5e3afd91",
+      "caption_sha256": "4314da651da9067d47c173df52ccb23274e324b141fc23a5431a7992df569b0a",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "B",
+      "scheduled_at": "2026-10-21T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2021-climate-spin-glass",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2021-climate-spin-glass",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2021 노벨물리학상",
+          "온실 효과",
+          "기후 예측"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#온실효과",
+          "#기후예측"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
+    },
+    {
+      "id": "nobel-physics-2022-entanglement-ko",
+      "slug": "nobel-physics-2022-entanglement",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 23편, 2022년 양자 얽힘과 벨 부등식의 검증",
+      "video": "nobel-physics-2022-entanglement-ko.mp4",
+      "caption": "nobel-physics-2022-entanglement-ko.txt",
+      "video_sha256": "24321b22e408852c0ec02f8f8eb6e48b9f76c3032637ac0c26e8aac92dbbb727",
+      "caption_sha256": "e208b58c0a9a79e4d16b480c8299990308e70cd070c0da107c80adc5671b12f4",
+      "reviewed": true,
+      "status": "pending",
+      "slot": "A",
+      "scheduled_at": "2026-10-21T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2022-entanglement",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2022-entanglement",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2022 노벨물리학상",
+          "양자 얽힘",
+          "벨 부등식"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#양자얽힘",
+          "#벨부등식"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      }
     }
   ],
   "done": [
