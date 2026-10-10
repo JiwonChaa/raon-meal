@@ -1381,6 +1381,46 @@
       "total_interactions": 1,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 4.31
+    },
+    {
+      "item_id": "equation-03-barometer-en-20261001",
+      "media_id": "18565684957074615",
+      "permalink": "https://www.instagram.com/reel/DeLWElbEvbd/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.039,
+      "captured_at": "2026-10-10T06:03:56.166015+00:00",
+      "views": 269,
+      "reach": 257,
+      "average_watch_time_ms": 5359,
+      "total_watch_time_ms": 1382696,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-medicine-20261008-optogenetics-en",
+      "media_id": "18073247285749796",
+      "permalink": "https://www.instagram.com/reel/DeQfsw4D-P6/",
+      "topic_family": "life_science",
+      "window_hours": 24,
+      "actual_age_hours": 27.026,
+      "captured_at": "2026-10-10T06:03:56.166015+00:00",
+      "views": 126,
+      "reach": 114,
+      "average_watch_time_ms": 6844,
+      "total_watch_time_ms": 787137,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
