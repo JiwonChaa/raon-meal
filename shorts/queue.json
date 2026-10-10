@@ -6,48 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "08-doppler-ko-20260920",
-      "video": "08-doppler-ko-20260920.mp4",
-      "caption": "08-doppler-ko-20260920.txt",
-      "video_sha256": "e0a0e771f4b56601950de39622f6296fd38d51d2adf216f88694fd9aa193f137",
-      "caption_sha256": "67c6561eeb18d410183b60064c911832b287a909a47f65f0a912469e623f2a5d",
-      "title": "사이렌은 왜 지나가면 낮아질까?",
-      "slug": "08-doppler",
-      "language": "ko",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
-      "human_listening_approved": false,
-      "num": "128",
-      "sha256": "e0a0e771f4b56601950de39622f6296fd38d51d2adf216f88694fd9aa193f137",
-      "cue": null,
-      "next_cue": null,
-      "fails": 0,
-      "slot": "B",
-      "scheduled_at": "2026-10-03T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "general_physics",
-        "keywords": [
-          "사이렌"
-        ],
-        "hashtags": [
-          "#과학",
-          "#생활과학",
-          "#도플러효과",
-          "#사이렌"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18157072339537390",
-      "publish_requested_at": "2026-10-10T12:02:29.559372+09:00",
-      "media_id": "18120661466065491"
-    },
-    {
       "id": "nobel-physics-2001-bose-einstein-condensate-ko",
       "slug": "nobel-physics-2001-bose-einstein-condensate",
       "language": "ko",
@@ -3842,6 +3800,51 @@
       "permalink": "https://www.instagram.com/reel/DeRI7M_AMw4/",
       "published_at": "2026-10-09T18:02:04+09:00",
       "at": "2026-10-09T18:02:04+09:00"
+    },
+    {
+      "id": "08-doppler-ko-20260920",
+      "video": "08-doppler-ko-20260920.mp4",
+      "caption": "08-doppler-ko-20260920.txt",
+      "video_sha256": "e0a0e771f4b56601950de39622f6296fd38d51d2adf216f88694fd9aa193f137",
+      "caption_sha256": "67c6561eeb18d410183b60064c911832b287a909a47f65f0a912469e623f2a5d",
+      "title": "사이렌은 왜 지나가면 낮아질까?",
+      "slug": "08-doppler",
+      "language": "ko",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested all completed Korean and English videos be queued on 2026-09-20.",
+      "human_listening_approved": false,
+      "num": "128",
+      "sha256": "e0a0e771f4b56601950de39622f6296fd38d51d2adf216f88694fd9aa193f137",
+      "cue": null,
+      "next_cue": null,
+      "fails": 0,
+      "slot": "B",
+      "scheduled_at": "2026-10-03T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "general_physics",
+        "keywords": [
+          "사이렌"
+        ],
+        "hashtags": [
+          "#과학",
+          "#생활과학",
+          "#도플러효과",
+          "#사이렌"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18157072339537390",
+      "publish_requested_at": "2026-10-10T12:02:29.559372+09:00",
+      "media_id": "18120661466065491",
+      "permalink": "https://www.instagram.com/reel/DeTElHGFK1K/",
+      "published_at": "2026-10-10T12:02:33+09:00",
+      "at": "2026-10-10T12:02:33+09:00"
     }
   ],
   "cancelled_for_remake": [
