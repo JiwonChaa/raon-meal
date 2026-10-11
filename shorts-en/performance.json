@@ -1461,6 +1461,26 @@
       "total_interactions": 112,
       "shares_per_1000_reach": 6.447,
       "saves_per_1000_reach": 5.688
+    },
+    {
+      "item_id": "equation-05-polarizer-en-20261001",
+      "media_id": "18111463253600284",
+      "permalink": "https://www.instagram.com/reel/DeTEmKiD9TK/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.962,
+      "captured_at": "2026-10-11T06:00:20.403890+00:00",
+      "views": 1184,
+      "reach": 1096,
+      "average_watch_time_ms": 7082,
+      "total_watch_time_ms": 7677332,
+      "likes": 3,
+      "comments": 0,
+      "shares": 2,
+      "saved": 1,
+      "total_interactions": 6,
+      "shares_per_1000_reach": 1.825,
+      "saves_per_1000_reach": 0.912
     }
   ]
 }
