@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-07-focus-en-20261001",
-      "slug": "equation-07-focus",
-      "title": "Why does focusing move a lens?",
-      "language": "en",
-      "video": "equation-07-focus-en-20261001.mp4",
-      "caption": "equation-07-focus-en-20261001.txt",
-      "video_sha256": "858717a265516a3294a43131b275a6148162cd01d58f554ed25e703813e9738b",
-      "caption_sha256": "ab9375dd9eae4da9f2986df0ac166ec763bf2d1fd242a5d20b5423d0aeecc871",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-09T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-07-focus",
-        "keywords": [
-          "camera",
-          "focus",
-          "lens"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#camera",
-          "#focus",
-          "#lens"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-07-focus",
-      "creation_id": "18123721909768269",
-      "publish_requested_at": "2026-10-11T12:01:45.716004+09:00",
-      "media_id": "18010684655993781"
-    },
-    {
       "id": "equation-08-honey-en-20261001",
       "slug": "equation-08-honey",
       "title": "How much does a wider tube change honey flow?",
@@ -2284,6 +2240,52 @@
       "media_id": "17952826908269536",
       "permalink": "https://www.instagram.com/reel/DeTt4S6DCPk/",
       "published_at": "2026-10-10T18:03:23+09:00"
+    },
+    {
+      "id": "equation-07-focus-en-20261001",
+      "slug": "equation-07-focus",
+      "title": "Why does focusing move a lens?",
+      "language": "en",
+      "video": "equation-07-focus-en-20261001.mp4",
+      "caption": "equation-07-focus-en-20261001.txt",
+      "video_sha256": "858717a265516a3294a43131b275a6148162cd01d58f554ed25e703813e9738b",
+      "caption_sha256": "ab9375dd9eae4da9f2986df0ac166ec763bf2d1fd242a5d20b5423d0aeecc871",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-09T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-07-focus",
+        "keywords": [
+          "camera",
+          "focus",
+          "lens"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#camera",
+          "#focus",
+          "#lens"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-07-focus",
+      "creation_id": "18123721909768269",
+      "publish_requested_at": "2026-10-11T12:01:45.716004+09:00",
+      "media_id": "18010684655993781",
+      "permalink": "https://www.instagram.com/reel/DeVpRs1EmjG/",
+      "published_at": "2026-10-11T12:01:49+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
