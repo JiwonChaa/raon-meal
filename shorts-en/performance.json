@@ -1481,6 +1481,46 @@
       "total_interactions": 6,
       "shares_per_1000_reach": 1.825,
       "saves_per_1000_reach": 0.912
+    },
+    {
+      "item_id": "equation-04-potato-en-20261001",
+      "media_id": "18131773912756155",
+      "permalink": "https://www.instagram.com/reel/DeOkFprkRIH/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 76.072,
+      "captured_at": "2026-10-11T13:05:56.196993+00:00",
+      "views": 269,
+      "reach": 235,
+      "average_watch_time_ms": 5985,
+      "total_watch_time_ms": 1406567,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 4.255
+    },
+    {
+      "item_id": "equation-06-cream-en-20261001",
+      "media_id": "17952826908269536",
+      "permalink": "https://www.instagram.com/reel/DeTt4S6DCPk/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 28.043,
+      "captured_at": "2026-10-11T13:05:56.196993+00:00",
+      "views": 1279,
+      "reach": 1144,
+      "average_watch_time_ms": 10090,
+      "total_watch_time_ms": 11473371,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 4,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.874
     }
   ]
 }
