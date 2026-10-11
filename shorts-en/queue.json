@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-08-honey-en-20261001",
-      "slug": "equation-08-honey",
-      "title": "How much does a wider tube change honey flow?",
-      "language": "en",
-      "video": "equation-08-honey-en-20261001.mp4",
-      "caption": "equation-08-honey-en-20261001.txt",
-      "video_sha256": "b1885d49aae82ca0a1e4c7ce079aa6cd2f77f58d5fcd474835d65b698608f377",
-      "caption_sha256": "901f9dba28a25db8d0fdd38ee87ad245135ff05f0f49bf82f0d5b236414d3fed",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-09T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-08-honey",
-        "keywords": [
-          "honey",
-          "viscosity",
-          "flow"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#honey",
-          "#viscosity",
-          "#flow"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-08-honey",
-      "creation_id": "18123804178768269",
-      "publish_requested_at": "2026-10-11T18:01:57.528748+09:00",
-      "media_id": "18166201432485814"
-    },
-    {
       "id": "equation-09-anc-en-20261001",
       "slug": "equation-09-anc",
       "title": "How can adding sound make silence?",
@@ -2289,6 +2245,52 @@
       "media_id": "18010684655993781",
       "permalink": "https://www.instagram.com/reel/DeVpRs1EmjG/",
       "published_at": "2026-10-11T12:01:49+09:00"
+    },
+    {
+      "id": "equation-08-honey-en-20261001",
+      "slug": "equation-08-honey",
+      "title": "How much does a wider tube change honey flow?",
+      "language": "en",
+      "video": "equation-08-honey-en-20261001.mp4",
+      "caption": "equation-08-honey-en-20261001.txt",
+      "video_sha256": "b1885d49aae82ca0a1e4c7ce079aa6cd2f77f58d5fcd474835d65b698608f377",
+      "caption_sha256": "901f9dba28a25db8d0fdd38ee87ad245135ff05f0f49bf82f0d5b236414d3fed",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-09T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-08-honey",
+        "keywords": [
+          "honey",
+          "viscosity",
+          "flow"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#honey",
+          "#viscosity",
+          "#flow"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-08-honey",
+      "creation_id": "18123804178768269",
+      "publish_requested_at": "2026-10-11T18:01:57.528748+09:00",
+      "media_id": "18166201432485814",
+      "permalink": "https://www.instagram.com/reel/DeWSgZQgqeM/",
+      "published_at": "2026-10-11T18:02:00+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
