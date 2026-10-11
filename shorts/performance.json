@@ -1101,6 +1101,26 @@
       "total_interactions": 5,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-20261008-homochirality-ko",
+      "media_id": "18010173329992436",
+      "permalink": "https://www.instagram.com/reel/DeOkF-ZEaac/",
+      "topic_family": "chemistry",
+      "window_hours": 72,
+      "actual_age_hours": 76.062,
+      "captured_at": "2026-10-11T13:05:53.394989+00:00",
+      "views": 135259,
+      "reach": 115080,
+      "average_watch_time_ms": 27614,
+      "total_watch_time_ms": 3143740090,
+      "likes": 2622,
+      "comments": 20,
+      "shares": 2037,
+      "saved": 827,
+      "total_interactions": 5573,
+      "shares_per_1000_reach": 17.701,
+      "saves_per_1000_reach": 7.186
     }
   ]
 }
