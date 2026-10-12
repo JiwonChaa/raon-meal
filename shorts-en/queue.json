@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-10-ice-en-20261001",
-      "slug": "equation-10-ice",
-      "title": "Why does most ice stay underwater?",
-      "language": "en",
-      "video": "equation-10-ice-en-20261001.mp4",
-      "caption": "equation-10-ice-en-20261001.txt",
-      "video_sha256": "6bfeb093590aff6348f95575dbf655b1c26fd205031600555de34bd19529b8b1",
-      "caption_sha256": "d57941a8b2abb868ea471528dff1349230001a028cf43210668aa94b65e1ecc1",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-10T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-10-ice",
-        "keywords": [
-          "ice",
-          "buoyancy",
-          "density"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#ice",
-          "#buoyancy",
-          "#density"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-10-ice",
-      "creation_id": "18124141285768269",
-      "publish_requested_at": "2026-10-12T18:01:38.228051+09:00",
-      "media_id": "18115091101820413"
-    },
-    {
       "id": "equation-11-fiber-en-20261001",
       "slug": "equation-11-fiber",
       "title": "What keeps light inside an optical fiber?",
@@ -2299,6 +2255,52 @@
       "media_id": "18286229647289099",
       "permalink": "https://www.instagram.com/reel/DeYOE6SD8kA/",
       "published_at": "2026-10-12T12:01:49+09:00"
+    },
+    {
+      "id": "equation-10-ice-en-20261001",
+      "slug": "equation-10-ice",
+      "title": "Why does most ice stay underwater?",
+      "language": "en",
+      "video": "equation-10-ice-en-20261001.mp4",
+      "caption": "equation-10-ice-en-20261001.txt",
+      "video_sha256": "6bfeb093590aff6348f95575dbf655b1c26fd205031600555de34bd19529b8b1",
+      "caption_sha256": "d57941a8b2abb868ea471528dff1349230001a028cf43210668aa94b65e1ecc1",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-10T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-10-ice",
+        "keywords": [
+          "ice",
+          "buoyancy",
+          "density"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#ice",
+          "#buoyancy",
+          "#density"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-10-ice",
+      "creation_id": "18124141285768269",
+      "publish_requested_at": "2026-10-12T18:01:38.228051+09:00",
+      "media_id": "18115091101820413",
+      "permalink": "https://www.instagram.com/reel/DeY3QVmAT9Z/",
+      "published_at": "2026-10-12T18:01:40+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
