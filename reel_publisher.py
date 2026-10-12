@@ -147,9 +147,11 @@ class API:
             raise RuntimeError("Reel publishing-limit read check returned invalid quota data")
         return rows[0]
 
-    def create(self, url, caption, thumb_offset=None):
+    def create(self, url, caption, thumb_offset=None, cover_url=None):
         data = {"media_type": "REELS", "video_url": url, "caption": caption, "share_to_feed": "true"}
-        if thumb_offset is not None:
+        if cover_url:
+            data["cover_url"] = cover_url                    # explicit cover image (wins over thumb_offset)
+        elif thumb_offset is not None:
             data["thumb_offset"] = str(int(thumb_offset))   # cover frame, milliseconds into the film
         return self.call("POST", "/" + str(self.c["user_id"]) + "/media", data=data)["id"]
 
@@ -387,9 +389,13 @@ def run(args):
         return 0
     url = host_url(video)
     if not item.get("creation_id"):
-        offset = item.get("thumb_offset_ms")
-        item["creation_id"] = (api.create(url, caption, thumb_offset=offset)
-                               if type(offset) is int and 0 <= offset <= 600000 else api.create(url, caption))
+        extra, offset, cover = {}, item.get("thumb_offset_ms"), item.get("cover", "")
+        cover_path = DATA / cover if cover and Path(cover).name == cover and cover.lower().endswith(".jpg") else None
+        if cover_path is not None and cover_path.is_file():
+            extra["cover_url"] = host_url(cover_path)
+        elif type(offset) is int and 0 <= offset <= 600000:
+            extra["thumb_offset"] = offset
+        item["creation_id"] = api.create(url, caption, **extra)
         log("Created Reel media container")
         persist(q, "container created")
     try:
