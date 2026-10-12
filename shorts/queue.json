@@ -44,7 +44,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3050
     },
     {
       "id": "nobel-physics-2005-frequency-comb-ko",
@@ -85,7 +86,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3300
     },
     {
       "id": "nobel-physics-2006-cosmic-microwave-background-ko",
@@ -126,7 +128,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3050
     },
     {
       "id": "nobel-physics-2007-giant-magnetoresistance-ko",
@@ -167,7 +170,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3520
     },
     {
       "id": "nobel-physics-2008-symmetry-breaking-ko",
@@ -208,7 +212,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3300
     },
     {
       "id": "nobel-physics-2009-fiber-ccd-ko",
@@ -249,7 +254,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3550
     },
     {
       "id": "nobel-physics-2010-graphene-ko",
@@ -290,7 +296,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3709
     },
     {
       "id": "nobel-physics-2011-accelerating-universe-ko",
@@ -331,7 +338,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3420
     },
     {
       "id": "nobel-physics-2012-single-quantum-systems-ko",
@@ -372,7 +380,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3440
     },
     {
       "id": "nobel-physics-2013-higgs-ko",
@@ -413,7 +422,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3120
     },
     {
       "id": "nobel-physics-2014-blue-led-ko",
@@ -454,7 +464,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3423
     },
     {
       "id": "nobel-physics-2015-neutrino-oscillation-ko",
@@ -495,7 +506,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3280
     },
     {
       "id": "nobel-physics-2016-topological-matter-ko",
@@ -536,7 +548,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3157
     },
     {
       "id": "nobel-physics-2017-gravitational-waves-ko",
@@ -577,7 +590,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3300
     },
     {
       "id": "nobel-physics-2018-optical-tweezers-cpa-ko",
@@ -618,7 +632,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3260
     },
     {
       "id": "nobel-physics-2019-cosmology-exoplanet-ko",
@@ -659,7 +674,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3300
     },
     {
       "id": "nobel-physics-2020-black-holes-ko",
@@ -700,7 +716,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3050
     },
     {
       "id": "nobel-physics-2021-climate-spin-glass-ko",
@@ -741,7 +758,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3300
     },
     {
       "id": "nobel-physics-2022-entanglement-ko",
@@ -782,7 +800,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3585
     },
     {
       "id": "nobel-physics-2023-attosecond-ko",
@@ -823,7 +842,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3540
     },
     {
       "id": "nobel-physics-2024-neural-networks-ko",
@@ -864,7 +884,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3227
     },
     {
       "id": "nobel-physics-2025-quantum-tunneling-circuit-ko",
@@ -905,7 +926,8 @@
           24,
           72
         ]
-      }
+      },
+      "thumb_offset_ms": 3400
     }
   ],
   "done": [

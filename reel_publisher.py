@@ -147,10 +147,11 @@ class API:
             raise RuntimeError("Reel publishing-limit read check returned invalid quota data")
         return rows[0]
 
-    def create(self, url, caption):
-        return self.call("POST", "/" + str(self.c["user_id"]) + "/media", data={
-            "media_type": "REELS", "video_url": url, "caption": caption,
-            "share_to_feed": "true"})["id"]
+    def create(self, url, caption, thumb_offset=None):
+        data = {"media_type": "REELS", "video_url": url, "caption": caption, "share_to_feed": "true"}
+        if thumb_offset is not None:
+            data["thumb_offset"] = str(int(thumb_offset))   # cover frame, milliseconds into the film
+        return self.call("POST", "/" + str(self.c["user_id"]) + "/media", data=data)["id"]
 
     def ready(self, cid):
         for _ in range(60):
@@ -386,7 +387,9 @@ def run(args):
         return 0
     url = host_url(video)
     if not item.get("creation_id"):
-        item["creation_id"] = api.create(url, caption)
+        offset = item.get("thumb_offset_ms")
+        item["creation_id"] = (api.create(url, caption, thumb_offset=offset)
+                               if type(offset) is int and 0 <= offset <= 600000 else api.create(url, caption))
         log("Created Reel media container")
         persist(q, "container created")
     try:
