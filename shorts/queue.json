@@ -6,50 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2003-superconductor-superfluid-ko",
-      "slug": "nobel-physics-2003-superconductor-superfluid",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 4편, 2003년 초전도와 초유동의 양자 질서",
-      "video": "nobel-physics-2003-superconductor-superfluid-ko.mp4",
-      "caption": "nobel-physics-2003-superconductor-superfluid-ko.txt",
-      "video_sha256": "b8c9b2b9133b4b5d2acf2af69258af4905eb370e0a5c0694274cfdba5b340928",
-      "caption_sha256": "0531df54f2a49b97d5e6901b20e28ad9dc5af0b43b65401091ac8a0c3804997a",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-12T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2003-superconductor-superfluid",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2003-superconductor-superfluid",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2003 노벨물리학상",
-          "초전도체",
-          "초유체"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#초전도체",
-          "#초유체"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "creation_id": "18157486885537390",
-      "publish_requested_at": "2026-10-12T12:44:35.409201+09:00",
-      "media_id": "18115043648015260"
-    },
-    {
       "id": "nobel-physics-2004-asymptotic-freedom-ko",
       "slug": "nobel-physics-2004-asymptotic-freedom",
       "language": "ko",
@@ -3043,6 +2999,53 @@
       "permalink": "https://www.instagram.com/reel/DeUXnUJjBA9/",
       "published_at": "2026-10-11T00:08:26+09:00",
       "at": "2026-10-11T00:08:26+09:00"
+    },
+    {
+      "id": "nobel-physics-2003-superconductor-superfluid-ko",
+      "slug": "nobel-physics-2003-superconductor-superfluid",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 4편, 2003년 초전도와 초유동의 양자 질서",
+      "video": "nobel-physics-2003-superconductor-superfluid-ko.mp4",
+      "caption": "nobel-physics-2003-superconductor-superfluid-ko.txt",
+      "video_sha256": "b8c9b2b9133b4b5d2acf2af69258af4905eb370e0a5c0694274cfdba5b340928",
+      "caption_sha256": "0531df54f2a49b97d5e6901b20e28ad9dc5af0b43b65401091ac8a0c3804997a",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-12T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2003-superconductor-superfluid",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2003-superconductor-superfluid",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2003 노벨물리학상",
+          "초전도체",
+          "초유체"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#초전도체",
+          "#초유체"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "creation_id": "18157486885537390",
+      "publish_requested_at": "2026-10-12T12:44:35.409201+09:00",
+      "media_id": "18115043648015260",
+      "permalink": "https://www.instagram.com/reel/DeYS78OFMLx/",
+      "published_at": "2026-10-12T12:44:37+09:00",
+      "at": "2026-10-12T12:44:37+09:00"
     }
   ],
   "cancelled_for_remake": [
