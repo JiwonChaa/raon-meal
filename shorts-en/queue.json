@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-09-anc-en-20261001",
-      "slug": "equation-09-anc",
-      "title": "How can adding sound make silence?",
-      "language": "en",
-      "video": "equation-09-anc-en-20261001.mp4",
-      "caption": "equation-09-anc-en-20261001.txt",
-      "video_sha256": "495a88c04a8d1158b55b0d7a536a0277fb97ec5340749c996974e7aeedb7f5ea",
-      "caption_sha256": "6aeb4288d7c9dbae9c4c02f03a8600032e9cb4266329baa19be5ab5bbe06b49e",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-10T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-09-anc",
-        "keywords": [
-          "noisecancelling",
-          "sound",
-          "interference"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#noisecancelling",
-          "#sound",
-          "#interference"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-09-anc",
-      "creation_id": "18124067008768269",
-      "publish_requested_at": "2026-10-12T12:01:47.524278+09:00",
-      "media_id": "18286229647289099"
-    },
-    {
       "id": "equation-10-ice-en-20261001",
       "slug": "equation-10-ice",
       "title": "Why does most ice stay underwater?",
@@ -2294,6 +2250,52 @@
       "media_id": "18166201432485814",
       "permalink": "https://www.instagram.com/reel/DeWSgZQgqeM/",
       "published_at": "2026-10-11T18:02:00+09:00"
+    },
+    {
+      "id": "equation-09-anc-en-20261001",
+      "slug": "equation-09-anc",
+      "title": "How can adding sound make silence?",
+      "language": "en",
+      "video": "equation-09-anc-en-20261001.mp4",
+      "caption": "equation-09-anc-en-20261001.txt",
+      "video_sha256": "495a88c04a8d1158b55b0d7a536a0277fb97ec5340749c996974e7aeedb7f5ea",
+      "caption_sha256": "6aeb4288d7c9dbae9c4c02f03a8600032e9cb4266329baa19be5ab5bbe06b49e",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-10T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-09-anc",
+        "keywords": [
+          "noisecancelling",
+          "sound",
+          "interference"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#noisecancelling",
+          "#sound",
+          "#interference"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-09-anc",
+      "creation_id": "18124067008768269",
+      "publish_requested_at": "2026-10-12T12:01:47.524278+09:00",
+      "media_id": "18286229647289099",
+      "permalink": "https://www.instagram.com/reel/DeYOE6SD8kA/",
+      "published_at": "2026-10-12T12:01:49+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
