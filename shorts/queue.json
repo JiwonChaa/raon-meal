@@ -6,51 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2004-asymptotic-freedom-ko",
-      "slug": "nobel-physics-2004-asymptotic-freedom",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 5편, 2004년 강한 상호작용의 점근적 자유",
-      "video": "nobel-physics-2004-asymptotic-freedom-ko.mp4",
-      "caption": "nobel-physics-2004-asymptotic-freedom-ko.txt",
-      "video_sha256": "4f1127b784287c8f848946a9a181281168ce3346c63019ab91395b804af6e1c2",
-      "caption_sha256": "9b4807b4c8a4d6726f7ec4cd82d8a4e089686420506ac483c43deac15091bbce",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-12T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2004-asymptotic-freedom",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2004-asymptotic-freedom",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2004 노벨물리학상",
-          "점근 자유성",
-          "강한 상호작용"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#점근자유성",
-          "#강한상호작용"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3050,
-      "creation_id": "18157523629537390",
-      "publish_requested_at": "2026-10-12T18:01:56.241309+09:00",
-      "media_id": "18467118613189666"
-    },
-    {
       "id": "nobel-physics-2005-frequency-comb-ko",
       "slug": "nobel-physics-2005-frequency-comb",
       "language": "ko",
@@ -3071,6 +3026,54 @@
       "permalink": "https://www.instagram.com/reel/DeYS78OFMLx/",
       "published_at": "2026-10-12T12:44:37+09:00",
       "at": "2026-10-12T12:44:37+09:00"
+    },
+    {
+      "id": "nobel-physics-2004-asymptotic-freedom-ko",
+      "slug": "nobel-physics-2004-asymptotic-freedom",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 5편, 2004년 강한 상호작용의 점근적 자유",
+      "video": "nobel-physics-2004-asymptotic-freedom-ko.mp4",
+      "caption": "nobel-physics-2004-asymptotic-freedom-ko.txt",
+      "video_sha256": "4f1127b784287c8f848946a9a181281168ce3346c63019ab91395b804af6e1c2",
+      "caption_sha256": "9b4807b4c8a4d6726f7ec4cd82d8a4e089686420506ac483c43deac15091bbce",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-12T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2004-asymptotic-freedom",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2004-asymptotic-freedom",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2004 노벨물리학상",
+          "점근 자유성",
+          "강한 상호작용"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#점근자유성",
+          "#강한상호작용"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3050,
+      "creation_id": "18157523629537390",
+      "publish_requested_at": "2026-10-12T18:01:56.241309+09:00",
+      "media_id": "18467118613189666",
+      "permalink": "https://www.instagram.com/reel/DeY3QOljKRb/",
+      "published_at": "2026-10-12T18:01:59+09:00",
+      "at": "2026-10-12T18:01:59+09:00"
     }
   ],
   "cancelled_for_remake": [
