@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2006-cosmic-microwave-background-ko",
-      "slug": "nobel-physics-2006-cosmic-microwave-background",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 7편, 2006년 우주배경복사의 흑체 스펙트럼과 요동",
-      "video": "nobel-physics-2006-cosmic-microwave-background-ko.mp4",
-      "caption": "nobel-physics-2006-cosmic-microwave-background-ko.txt",
-      "video_sha256": "059820c9ac2473e6e46ca0b0f9e6ba4bcbf36621a98ef1f67c8ef8857d29decb",
-      "caption_sha256": "beb6f32797840a9576fcee39ceeb0b469d4b3a5c459a3bd180220aba18bf1887",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-13T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2006-cosmic-microwave-background",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2006-cosmic-microwave-background",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2006 노벨물리학상",
-          "우주 배경 복사",
-          "코비 위성"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#우주배경복사",
-          "#코비위성"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3050,
-      "cover": "nobel-physics-2006-cosmic-microwave-background-ko-cover.jpg",
-      "creation_id": "18157716733537390",
-      "publish_requested_at": "2026-10-13T18:02:10.283740+09:00",
-      "media_id": "18122927479729108"
-    },
-    {
       "id": "nobel-physics-2007-giant-magnetoresistance-ko",
       "slug": "nobel-physics-2007-giant-magnetoresistance",
       "language": "ko",
@@ -3104,6 +3058,55 @@
       "permalink": "https://www.instagram.com/reel/Deay5RvG4Va/",
       "published_at": "2026-10-13T12:02:34+09:00",
       "at": "2026-10-13T12:02:34+09:00"
+    },
+    {
+      "id": "nobel-physics-2006-cosmic-microwave-background-ko",
+      "slug": "nobel-physics-2006-cosmic-microwave-background",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 7편, 2006년 우주배경복사의 흑체 스펙트럼과 요동",
+      "video": "nobel-physics-2006-cosmic-microwave-background-ko.mp4",
+      "caption": "nobel-physics-2006-cosmic-microwave-background-ko.txt",
+      "video_sha256": "059820c9ac2473e6e46ca0b0f9e6ba4bcbf36621a98ef1f67c8ef8857d29decb",
+      "caption_sha256": "beb6f32797840a9576fcee39ceeb0b469d4b3a5c459a3bd180220aba18bf1887",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-13T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2006-cosmic-microwave-background",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2006-cosmic-microwave-background",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2006 노벨물리학상",
+          "우주 배경 복사",
+          "코비 위성"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#우주배경복사",
+          "#코비위성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3050,
+      "cover": "nobel-physics-2006-cosmic-microwave-background-ko-cover.jpg",
+      "creation_id": "18157716733537390",
+      "publish_requested_at": "2026-10-13T18:02:10.283740+09:00",
+      "media_id": "18122927479729108",
+      "permalink": "https://www.instagram.com/reel/DebcFFZH1ZD/",
+      "published_at": "2026-10-13T18:02:13+09:00",
+      "at": "2026-10-13T18:02:13+09:00"
     }
   ],
   "cancelled_for_remake": [
