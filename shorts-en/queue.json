@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-11-fiber-en-20261001",
-      "slug": "equation-11-fiber",
-      "title": "What keeps light inside an optical fiber?",
-      "language": "en",
-      "video": "equation-11-fiber-en-20261001.mp4",
-      "caption": "equation-11-fiber-en-20261001.txt",
-      "video_sha256": "b058ee43da8e95de66b2075b23e5b24733c3fddcd542dda99d08b96132b48c41",
-      "caption_sha256": "9a7a56a7c91a23e7c120e873268b2296a325ccbce636f3498267468f9050711f",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-11T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-11-fiber",
-        "keywords": [
-          "fiberoptics",
-          "totalinternalreflection",
-          "refraction"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#fiberoptics",
-          "#totalinternalreflection",
-          "#refraction"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-11-fiber",
-      "creation_id": "18124419439768269",
-      "publish_requested_at": "2026-10-13T12:01:43.801660+09:00",
-      "media_id": "18124172596928091"
-    },
-    {
       "id": "equation-12-pressure-cooker-en-20261001",
       "slug": "equation-12-pressure-cooker",
       "title": "Why can pressure-cooker water exceed boiling point?",
@@ -2304,6 +2260,52 @@
       "media_id": "18115091101820413",
       "permalink": "https://www.instagram.com/reel/DeY3QVmAT9Z/",
       "published_at": "2026-10-12T18:01:40+09:00"
+    },
+    {
+      "id": "equation-11-fiber-en-20261001",
+      "slug": "equation-11-fiber",
+      "title": "What keeps light inside an optical fiber?",
+      "language": "en",
+      "video": "equation-11-fiber-en-20261001.mp4",
+      "caption": "equation-11-fiber-en-20261001.txt",
+      "video_sha256": "b058ee43da8e95de66b2075b23e5b24733c3fddcd542dda99d08b96132b48c41",
+      "caption_sha256": "9a7a56a7c91a23e7c120e873268b2296a325ccbce636f3498267468f9050711f",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-11T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-11-fiber",
+        "keywords": [
+          "fiberoptics",
+          "totalinternalreflection",
+          "refraction"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#fiberoptics",
+          "#totalinternalreflection",
+          "#refraction"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-11-fiber",
+      "creation_id": "18124419439768269",
+      "publish_requested_at": "2026-10-13T12:01:43.801660+09:00",
+      "media_id": "18124172596928091",
+      "permalink": "https://www.instagram.com/reel/Deay3PEiCwx/",
+      "published_at": "2026-10-13T12:01:47+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
