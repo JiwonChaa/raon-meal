@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-12-pressure-cooker-en-20261001",
-      "slug": "equation-12-pressure-cooker",
-      "title": "Why can pressure-cooker water exceed boiling point?",
-      "language": "en",
-      "video": "equation-12-pressure-cooker-en-20261001.mp4",
-      "caption": "equation-12-pressure-cooker-en-20261001.txt",
-      "video_sha256": "3fbdaa785481af3264ce708735768c34710bfc78063222d4bafe2d41ec7983d4",
-      "caption_sha256": "a5e27bcaccad8d575c50d9204d8804cf4d7f641ba2dfe61d4581e76509dd4a2b",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-11T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-12-pressure-cooker",
-        "keywords": [
-          "pressurecooker",
-          "boilingpoint",
-          "vaporpressure"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#pressurecooker",
-          "#boilingpoint",
-          "#vaporpressure"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-12-pressure-cooker",
-      "creation_id": "18124497406768269",
-      "publish_requested_at": "2026-10-13T18:01:42.663261+09:00",
-      "media_id": "17935848870400177"
-    },
-    {
       "id": "equation-13-eddy-en-20261001",
       "slug": "equation-13-eddy",
       "title": "Why does a magnet fall slowly through copper?",
@@ -2309,6 +2265,52 @@
       "media_id": "18124172596928091",
       "permalink": "https://www.instagram.com/reel/Deay3PEiCwx/",
       "published_at": "2026-10-13T12:01:47+09:00"
+    },
+    {
+      "id": "equation-12-pressure-cooker-en-20261001",
+      "slug": "equation-12-pressure-cooker",
+      "title": "Why can pressure-cooker water exceed boiling point?",
+      "language": "en",
+      "video": "equation-12-pressure-cooker-en-20261001.mp4",
+      "caption": "equation-12-pressure-cooker-en-20261001.txt",
+      "video_sha256": "3fbdaa785481af3264ce708735768c34710bfc78063222d4bafe2d41ec7983d4",
+      "caption_sha256": "a5e27bcaccad8d575c50d9204d8804cf4d7f641ba2dfe61d4581e76509dd4a2b",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-11T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-12-pressure-cooker",
+        "keywords": [
+          "pressurecooker",
+          "boilingpoint",
+          "vaporpressure"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#pressurecooker",
+          "#boilingpoint",
+          "#vaporpressure"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-12-pressure-cooker",
+      "creation_id": "18124497406768269",
+      "publish_requested_at": "2026-10-13T18:01:42.663261+09:00",
+      "media_id": "17935848870400177",
+      "permalink": "https://www.instagram.com/reel/DebcE0_CbxJ/",
+      "published_at": "2026-10-13T18:01:44+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
