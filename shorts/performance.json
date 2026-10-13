@@ -1261,6 +1261,26 @@
       "total_interactions": 151,
       "shares_per_1000_reach": 14.286,
       "saves_per_1000_reach": 6.888
+    },
+    {
+      "item_id": "nobel-physics-2001-bose-einstein-condensate-ko",
+      "media_id": "18213353716362581",
+      "permalink": "https://www.instagram.com/reel/DeUXnUJjBA9/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 76.232,
+      "captured_at": "2026-10-13T19:22:20.484539+00:00",
+      "views": 1348,
+      "reach": 822,
+      "average_watch_time_ms": 9153,
+      "total_watch_time_ms": 8110152,
+      "likes": 18,
+      "comments": 0,
+      "shares": 2,
+      "saved": 4,
+      "total_interactions": 25,
+      "shares_per_1000_reach": 2.433,
+      "saves_per_1000_reach": 4.866
     }
   ]
 }
