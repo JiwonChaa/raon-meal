@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2005-frequency-comb-ko",
-      "slug": "nobel-physics-2005-frequency-comb",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 6편, 2005년 양자광학과 광주파수 빗",
-      "video": "nobel-physics-2005-frequency-comb-ko.mp4",
-      "caption": "nobel-physics-2005-frequency-comb-ko.txt",
-      "video_sha256": "33404419bc6ace503d31182607fa963829511a14a73ddb5fd775f098d245df7f",
-      "caption_sha256": "7ee6f569cb1cb3a70cb1d1149a0458c30594483328294905e7b40e681b7cb7b6",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-13T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2005-frequency-comb",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2005-frequency-comb",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2005 노벨물리학상",
-          "광주파수 빗",
-          "레이저 정밀 분광학"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#광주파수빗",
-          "#레이저정밀분광학"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3300,
-      "cover": "nobel-physics-2005-frequency-comb-ko-cover.jpg",
-      "creation_id": "18157674490537390",
-      "publish_requested_at": "2026-10-13T12:02:31.849800+09:00",
-      "media_id": "18105484004575605"
-    },
-    {
       "id": "nobel-physics-2006-cosmic-microwave-background-ko",
       "slug": "nobel-physics-2006-cosmic-microwave-background",
       "language": "ko",
@@ -3098,6 +3052,55 @@
       "permalink": "https://www.instagram.com/reel/DeY3QOljKRb/",
       "published_at": "2026-10-12T18:01:59+09:00",
       "at": "2026-10-12T18:01:59+09:00"
+    },
+    {
+      "id": "nobel-physics-2005-frequency-comb-ko",
+      "slug": "nobel-physics-2005-frequency-comb",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 6편, 2005년 양자광학과 광주파수 빗",
+      "video": "nobel-physics-2005-frequency-comb-ko.mp4",
+      "caption": "nobel-physics-2005-frequency-comb-ko.txt",
+      "video_sha256": "33404419bc6ace503d31182607fa963829511a14a73ddb5fd775f098d245df7f",
+      "caption_sha256": "7ee6f569cb1cb3a70cb1d1149a0458c30594483328294905e7b40e681b7cb7b6",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-13T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2005-frequency-comb",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2005-frequency-comb",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2005 노벨물리학상",
+          "광주파수 빗",
+          "레이저 정밀 분광학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#광주파수빗",
+          "#레이저정밀분광학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3300,
+      "cover": "nobel-physics-2005-frequency-comb-ko-cover.jpg",
+      "creation_id": "18157674490537390",
+      "publish_requested_at": "2026-10-13T12:02:31.849800+09:00",
+      "media_id": "18105484004575605",
+      "permalink": "https://www.instagram.com/reel/Deay5RvG4Va/",
+      "published_at": "2026-10-13T12:02:34+09:00",
+      "at": "2026-10-13T12:02:34+09:00"
     }
   ],
   "cancelled_for_remake": [
