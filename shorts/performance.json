@@ -1281,6 +1281,26 @@
       "total_interactions": 25,
       "shares_per_1000_reach": 2.433,
       "saves_per_1000_reach": 4.866
+    },
+    {
+      "item_id": "nobel-physics-2005-frequency-comb-ko",
+      "media_id": "18105484004575605",
+      "permalink": "https://www.instagram.com/reel/Deay5RvG4Va/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.039,
+      "captured_at": "2026-10-14T05:04:55.321855+00:00",
+      "views": 2888,
+      "reach": 2381,
+      "average_watch_time_ms": 9169,
+      "total_watch_time_ms": 21666924,
+      "likes": 28,
+      "comments": 0,
+      "shares": 22,
+      "saved": 11,
+      "total_interactions": 61,
+      "shares_per_1000_reach": 9.24,
+      "saves_per_1000_reach": 4.62
     }
   ]
 }
