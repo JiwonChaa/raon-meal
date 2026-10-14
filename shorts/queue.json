@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2007-giant-magnetoresistance-ko",
-      "slug": "nobel-physics-2007-giant-magnetoresistance",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 8편, 2007년 얇은 금속층의 거대 자기저항",
-      "video": "nobel-physics-2007-giant-magnetoresistance-ko.mp4",
-      "caption": "nobel-physics-2007-giant-magnetoresistance-ko.txt",
-      "video_sha256": "f04a5ba55ecaa2a1201e6475333a3a8873be0a7de5ad3ecdf027b02d0a3f1386",
-      "caption_sha256": "4a295bcbeec0893d96558262bccf8bbd1b79a3d1016ef7cebdbffd52e7a99447",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-14T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2007-giant-magnetoresistance",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2007-giant-magnetoresistance",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2007 노벨물리학상",
-          "거대 자기저항",
-          "하드디스크 읽기 장치"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#거대자기저항",
-          "#하드디스크"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3520,
-      "cover": "nobel-physics-2007-giant-magnetoresistance-ko-cover.jpg",
-      "creation_id": "18157860898537390",
-      "publish_requested_at": "2026-10-14T12:01:50.338895+09:00",
-      "media_id": "17940053310364146"
-    },
-    {
       "id": "nobel-physics-2008-symmetry-breaking-ko",
       "slug": "nobel-physics-2008-symmetry-breaking",
       "language": "ko",
@@ -3110,6 +3064,55 @@
       "permalink": "https://www.instagram.com/reel/DebcFFZH1ZD/",
       "published_at": "2026-10-13T18:02:13+09:00",
       "at": "2026-10-13T18:02:13+09:00"
+    },
+    {
+      "id": "nobel-physics-2007-giant-magnetoresistance-ko",
+      "slug": "nobel-physics-2007-giant-magnetoresistance",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 8편, 2007년 얇은 금속층의 거대 자기저항",
+      "video": "nobel-physics-2007-giant-magnetoresistance-ko.mp4",
+      "caption": "nobel-physics-2007-giant-magnetoresistance-ko.txt",
+      "video_sha256": "f04a5ba55ecaa2a1201e6475333a3a8873be0a7de5ad3ecdf027b02d0a3f1386",
+      "caption_sha256": "4a295bcbeec0893d96558262bccf8bbd1b79a3d1016ef7cebdbffd52e7a99447",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-14T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2007-giant-magnetoresistance",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2007-giant-magnetoresistance",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2007 노벨물리학상",
+          "거대 자기저항",
+          "하드디스크 읽기 장치"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#거대자기저항",
+          "#하드디스크"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3520,
+      "cover": "nobel-physics-2007-giant-magnetoresistance-ko-cover.jpg",
+      "creation_id": "18157860898537390",
+      "publish_requested_at": "2026-10-14T12:01:50.338895+09:00",
+      "media_id": "17940053310364146",
+      "permalink": "https://www.instagram.com/reel/DedXnWAjWDO/",
+      "published_at": "2026-10-14T12:01:54+09:00",
+      "at": "2026-10-14T12:01:54+09:00"
     }
   ],
   "cancelled_for_remake": [
