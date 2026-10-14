@@ -1301,6 +1301,26 @@
       "total_interactions": 61,
       "shares_per_1000_reach": 9.24,
       "saves_per_1000_reach": 4.62
+    },
+    {
+      "item_id": "nobel-physics-2006-cosmic-microwave-background-ko",
+      "media_id": "18122927479729108",
+      "permalink": "https://www.instagram.com/reel/DebcFFZH1ZD/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.073,
+      "captured_at": "2026-10-14T12:06:37.290275+00:00",
+      "views": 2179,
+      "reach": 1707,
+      "average_watch_time_ms": 7297,
+      "total_watch_time_ms": 12924345,
+      "likes": 18,
+      "comments": 0,
+      "shares": 7,
+      "saved": 5,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 4.101,
+      "saves_per_1000_reach": 2.929
     }
   ]
 }
