@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2008-symmetry-breaking-ko",
-      "slug": "nobel-physics-2008-symmetry-breaking",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 9편, 2008년 자발적 대칭 깨짐과 쿼크의 세 세대",
-      "video": "nobel-physics-2008-symmetry-breaking-ko.mp4",
-      "caption": "nobel-physics-2008-symmetry-breaking-ko.txt",
-      "video_sha256": "cc102bab399d04494bf6daa48c0c93f4637b359e8b6d4a0b66da39fa6f073034",
-      "caption_sha256": "b613530b9d968eda3382f52b0dfd3afc3371a3796ccc464154cf7542d4ad539f",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-14T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2008-symmetry-breaking",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2008-symmetry-breaking",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2008 노벨물리학상",
-          "자발적 대칭 깨짐",
-          "쿼크 여섯 종류"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#자발적대칭깨짐",
-          "#쿼크"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3300,
-      "cover": "nobel-physics-2008-symmetry-breaking-ko-cover.jpg",
-      "creation_id": "18157906300537390",
-      "publish_requested_at": "2026-10-14T18:02:13.582032+09:00",
-      "media_id": "17886444786492563"
-    },
-    {
       "id": "nobel-physics-2009-fiber-ccd-ko",
       "slug": "nobel-physics-2009-fiber-ccd",
       "language": "ko",
@@ -3116,6 +3070,55 @@
       "permalink": "https://www.instagram.com/reel/DedXnWAjWDO/",
       "published_at": "2026-10-14T12:01:54+09:00",
       "at": "2026-10-14T12:01:54+09:00"
+    },
+    {
+      "id": "nobel-physics-2008-symmetry-breaking-ko",
+      "slug": "nobel-physics-2008-symmetry-breaking",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 9편, 2008년 자발적 대칭 깨짐과 쿼크의 세 세대",
+      "video": "nobel-physics-2008-symmetry-breaking-ko.mp4",
+      "caption": "nobel-physics-2008-symmetry-breaking-ko.txt",
+      "video_sha256": "cc102bab399d04494bf6daa48c0c93f4637b359e8b6d4a0b66da39fa6f073034",
+      "caption_sha256": "b613530b9d968eda3382f52b0dfd3afc3371a3796ccc464154cf7542d4ad539f",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-14T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2008-symmetry-breaking",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2008-symmetry-breaking",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2008 노벨물리학상",
+          "자발적 대칭 깨짐",
+          "쿼크 여섯 종류"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#자발적대칭깨짐",
+          "#쿼크"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3300,
+      "cover": "nobel-physics-2008-symmetry-breaking-ko-cover.jpg",
+      "creation_id": "18157906300537390",
+      "publish_requested_at": "2026-10-14T18:02:13.582032+09:00",
+      "media_id": "17886444786492563",
+      "permalink": "https://www.instagram.com/reel/DeeA4ymCeIP/",
+      "published_at": "2026-10-14T18:02:16+09:00",
+      "at": "2026-10-14T18:02:16+09:00"
     }
   ],
   "cancelled_for_remake": [
