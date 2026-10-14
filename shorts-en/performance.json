@@ -1681,6 +1681,46 @@
       "total_interactions": 1,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 3.968
+    },
+    {
+      "item_id": "equation-07-focus-en-20261001",
+      "media_id": "18010684655993781",
+      "permalink": "https://www.instagram.com/reel/DeVpRs1EmjG/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.053,
+      "captured_at": "2026-10-14T05:04:58.969538+00:00",
+      "views": 223,
+      "reach": 211,
+      "average_watch_time_ms": 3550,
+      "total_watch_time_ms": 752626,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 9.479
+    },
+    {
+      "item_id": "equation-11-fiber-en-20261001",
+      "media_id": "18124172596928091",
+      "permalink": "https://www.instagram.com/reel/Deay3PEiCwx/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.053,
+      "captured_at": "2026-10-14T05:04:58.969538+00:00",
+      "views": 478,
+      "reach": 431,
+      "average_watch_time_ms": 6319,
+      "total_watch_time_ms": 2704840,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 2.32
     }
   ]
 }
