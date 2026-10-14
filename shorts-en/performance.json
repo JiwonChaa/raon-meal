@@ -1721,6 +1721,46 @@
       "total_interactions": 3,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 2.32
+    },
+    {
+      "item_id": "equation-08-honey-en-20261001",
+      "media_id": "18166201432485814",
+      "permalink": "https://www.instagram.com/reel/DeWSgZQgqeM/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 75.078,
+      "captured_at": "2026-10-14T12:06:41.200406+00:00",
+      "views": 1096,
+      "reach": 932,
+      "average_watch_time_ms": 10436,
+      "total_watch_time_ms": 9685269,
+      "likes": 12,
+      "comments": 0,
+      "shares": 1,
+      "saved": 4,
+      "total_interactions": 17,
+      "shares_per_1000_reach": 1.073,
+      "saves_per_1000_reach": 4.292
+    },
+    {
+      "item_id": "equation-12-pressure-cooker-en-20261001",
+      "media_id": "17935848870400177",
+      "permalink": "https://www.instagram.com/reel/DebcE0_CbxJ/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 27.083,
+      "captured_at": "2026-10-14T12:06:41.200406+00:00",
+      "views": 907,
+      "reach": 770,
+      "average_watch_time_ms": 9878,
+      "total_watch_time_ms": 7576948,
+      "likes": 5,
+      "comments": 0,
+      "shares": 3,
+      "saved": 0,
+      "total_interactions": 8,
+      "shares_per_1000_reach": 3.896,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
