@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-14-coffee-en-20261001",
-      "slug": "equation-14-coffee",
-      "title": "Why does coffee cool faster at first?",
-      "language": "en",
-      "video": "equation-14-coffee-en-20261001.mp4",
-      "caption": "equation-14-coffee-en-20261001.txt",
-      "video_sha256": "c1e9ea44df770e9faaa6858315f2aee5a28889d1b39c4d4efb697fb067fd9034",
-      "caption_sha256": "35688cf765933d5796dcadb140eb5a709a4f6447a00af3d16be180e46eef2bc9",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-12T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-14-coffee",
-        "keywords": [
-          "coffee",
-          "cooling",
-          "heattransfer"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#coffee",
-          "#cooling",
-          "#heattransfer"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-14-coffee",
-      "creation_id": "18124832284768269",
-      "publish_requested_at": "2026-10-14T18:01:40.043296+09:00",
-      "media_id": "17975033607140091"
-    },
-    {
       "id": "equation-15-pendulum-en-20261001",
       "slug": "equation-15-pendulum",
       "title": "Why does a longer pendulum swing slower?",
@@ -2319,6 +2275,52 @@
       "media_id": "18142012648615006",
       "permalink": "https://www.instagram.com/reel/DedXnprAXoC/",
       "published_at": "2026-10-14T12:01:19+09:00"
+    },
+    {
+      "id": "equation-14-coffee-en-20261001",
+      "slug": "equation-14-coffee",
+      "title": "Why does coffee cool faster at first?",
+      "language": "en",
+      "video": "equation-14-coffee-en-20261001.mp4",
+      "caption": "equation-14-coffee-en-20261001.txt",
+      "video_sha256": "c1e9ea44df770e9faaa6858315f2aee5a28889d1b39c4d4efb697fb067fd9034",
+      "caption_sha256": "35688cf765933d5796dcadb140eb5a709a4f6447a00af3d16be180e46eef2bc9",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-12T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-14-coffee",
+        "keywords": [
+          "coffee",
+          "cooling",
+          "heattransfer"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#coffee",
+          "#cooling",
+          "#heattransfer"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-14-coffee",
+      "creation_id": "18124832284768269",
+      "publish_requested_at": "2026-10-14T18:01:40.043296+09:00",
+      "media_id": "17975033607140091",
+      "permalink": "https://www.instagram.com/reel/DeeA3McjpU5/",
+      "published_at": "2026-10-14T18:01:42+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
