@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-13-eddy-en-20261001",
-      "slug": "equation-13-eddy",
-      "title": "Why does a magnet fall slowly through copper?",
-      "language": "en",
-      "video": "equation-13-eddy-en-20261001.mp4",
-      "caption": "equation-13-eddy-en-20261001.txt",
-      "video_sha256": "3703824921ed1ae0bf928f0e0ba963f12cac28ef9938bf1507244f4f34e8768d",
-      "caption_sha256": "50eb77d3b9a5573261fbc9e93967d54f00168c9ea2c4010a942551e31d444dbf",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-12T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-13-eddy",
-        "keywords": [
-          "eddycurrents",
-          "magnet",
-          "magneticbraking"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#eddycurrents",
-          "#magnet",
-          "#magneticbraking"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-13-eddy",
-      "creation_id": "18124743448768269",
-      "publish_requested_at": "2026-10-14T12:01:16.302279+09:00",
-      "media_id": "18142012648615006"
-    },
-    {
       "id": "equation-14-coffee-en-20261001",
       "slug": "equation-14-coffee",
       "title": "Why does coffee cool faster at first?",
@@ -2314,6 +2270,52 @@
       "media_id": "17935848870400177",
       "permalink": "https://www.instagram.com/reel/DebcE0_CbxJ/",
       "published_at": "2026-10-13T18:01:44+09:00"
+    },
+    {
+      "id": "equation-13-eddy-en-20261001",
+      "slug": "equation-13-eddy",
+      "title": "Why does a magnet fall slowly through copper?",
+      "language": "en",
+      "video": "equation-13-eddy-en-20261001.mp4",
+      "caption": "equation-13-eddy-en-20261001.txt",
+      "video_sha256": "3703824921ed1ae0bf928f0e0ba963f12cac28ef9938bf1507244f4f34e8768d",
+      "caption_sha256": "50eb77d3b9a5573261fbc9e93967d54f00168c9ea2c4010a942551e31d444dbf",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-12T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-13-eddy",
+        "keywords": [
+          "eddycurrents",
+          "magnet",
+          "magneticbraking"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#eddycurrents",
+          "#magnet",
+          "#magneticbraking"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-13-eddy",
+      "creation_id": "18124743448768269",
+      "publish_requested_at": "2026-10-14T12:01:16.302279+09:00",
+      "media_id": "18142012648615006",
+      "permalink": "https://www.instagram.com/reel/DedXnprAXoC/",
+      "published_at": "2026-10-14T12:01:19+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
