@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-16-salt-en-20261001",
-      "slug": "equation-16-salt",
-      "title": "How far does salt diffuse in four times the time?",
-      "language": "en",
-      "video": "equation-16-salt-en-20261001.mp4",
-      "caption": "equation-16-salt-en-20261001.txt",
-      "video_sha256": "40a7f7f76980c74a4b1a9d5fee22633097572ad29e4686f33506ea3979c9d8b0",
-      "caption_sha256": "eef760e93c81d944d4fb7891eaafda19a6e9afbaa2590f163d9f494073f1a75d",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-13T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-16-salt",
-        "keywords": [
-          "salt",
-          "diffusion",
-          "brining"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#salt",
-          "#diffusion",
-          "#brining"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-16-salt",
-      "creation_id": "18125182210768269",
-      "publish_requested_at": "2026-10-15T18:02:15.009721+09:00",
-      "media_id": "18116533645817361"
-    },
-    {
       "id": "equation-17-doppler-en-20261001",
       "slug": "equation-17-doppler",
       "title": "Why does a moving speaker change pitch?",
@@ -2329,6 +2285,52 @@
       "media_id": "17911403913503247",
       "permalink": "https://www.instagram.com/reel/Def8obeFBu8/",
       "published_at": "2026-10-15T12:03:17+09:00"
+    },
+    {
+      "id": "equation-16-salt-en-20261001",
+      "slug": "equation-16-salt",
+      "title": "How far does salt diffuse in four times the time?",
+      "language": "en",
+      "video": "equation-16-salt-en-20261001.mp4",
+      "caption": "equation-16-salt-en-20261001.txt",
+      "video_sha256": "40a7f7f76980c74a4b1a9d5fee22633097572ad29e4686f33506ea3979c9d8b0",
+      "caption_sha256": "eef760e93c81d944d4fb7891eaafda19a6e9afbaa2590f163d9f494073f1a75d",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-13T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-16-salt",
+        "keywords": [
+          "salt",
+          "diffusion",
+          "brining"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#salt",
+          "#diffusion",
+          "#brining"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-16-salt",
+      "creation_id": "18125182210768269",
+      "publish_requested_at": "2026-10-15T18:02:15.009721+09:00",
+      "media_id": "18116533645817361",
+      "permalink": "https://www.instagram.com/reel/DegltxODkEO/",
+      "published_at": "2026-10-15T18:02:17+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
