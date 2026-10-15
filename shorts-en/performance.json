@@ -1801,6 +1801,46 @@
       "total_interactions": 1,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-10-ice-en-20261001",
+      "media_id": "18115091101820413",
+      "permalink": "https://www.instagram.com/reel/DeY3QVmAT9Z/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 74.692,
+      "captured_at": "2026-10-15T11:43:11.502918+00:00",
+      "views": 289,
+      "reach": 253,
+      "average_watch_time_ms": 5464,
+      "total_watch_time_ms": 1388050,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 3.953
+    },
+    {
+      "item_id": "equation-14-coffee-en-20261001",
+      "media_id": "17975033607140091",
+      "permalink": "https://www.instagram.com/reel/DeeA3McjpU5/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 26.692,
+      "captured_at": "2026-10-15T11:43:11.502918+00:00",
+      "views": 282,
+      "reach": 245,
+      "average_watch_time_ms": 8165,
+      "total_watch_time_ms": 1975983,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
