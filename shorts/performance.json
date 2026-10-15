@@ -1361,6 +1361,46 @@
       "total_interactions": 36,
       "shares_per_1000_reach": 7.688,
       "saves_per_1000_reach": 2.957
+    },
+    {
+      "item_id": "nobel-physics-2004-asymptotic-freedom-ko",
+      "media_id": "18467118613189666",
+      "permalink": "https://www.instagram.com/reel/DeY3QOljKRb/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.686,
+      "captured_at": "2026-10-15T11:43:07.616525+00:00",
+      "views": 5372,
+      "reach": 4460,
+      "average_watch_time_ms": 13423,
+      "total_watch_time_ms": 60956457,
+      "likes": 77,
+      "comments": 0,
+      "shares": 56,
+      "saved": 29,
+      "total_interactions": 165,
+      "shares_per_1000_reach": 12.556,
+      "saves_per_1000_reach": 6.502
+    },
+    {
+      "item_id": "nobel-physics-2008-symmetry-breaking-ko",
+      "media_id": "17886444786492563",
+      "permalink": "https://www.instagram.com/reel/DeeA4ymCeIP/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.681,
+      "captured_at": "2026-10-15T11:43:07.616525+00:00",
+      "views": 2179,
+      "reach": 1787,
+      "average_watch_time_ms": 10313,
+      "total_watch_time_ms": 18656566,
+      "likes": 21,
+      "comments": 0,
+      "shares": 5,
+      "saved": 6,
+      "total_interactions": 32,
+      "shares_per_1000_reach": 2.798,
+      "saves_per_1000_reach": 3.358
     }
   ]
 }
