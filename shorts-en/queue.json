@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-15-pendulum-en-20261001",
-      "slug": "equation-15-pendulum",
-      "title": "Why does a longer pendulum swing slower?",
-      "language": "en",
-      "video": "equation-15-pendulum-en-20261001.mp4",
-      "caption": "equation-15-pendulum-en-20261001.txt",
-      "video_sha256": "d4795f836530fb63a607c8b77dc6f270c63aef8c0e892ace6001e6b2c8e2fdfd",
-      "caption_sha256": "68b774dd5bd754fd7def548588d74b02739a132e92c2323057700d8848269177",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-13T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-15-pendulum",
-        "keywords": [
-          "pendulum",
-          "period",
-          "oscillation"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#pendulum",
-          "#period",
-          "#oscillation"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-15-pendulum",
-      "creation_id": "18125100064768269",
-      "publish_requested_at": "2026-10-15T12:03:14.781480+09:00",
-      "media_id": "17911403913503247"
-    },
-    {
       "id": "equation-16-salt-en-20261001",
       "slug": "equation-16-salt",
       "title": "How far does salt diffuse in four times the time?",
@@ -2324,6 +2280,52 @@
       "media_id": "17975033607140091",
       "permalink": "https://www.instagram.com/reel/DeeA3McjpU5/",
       "published_at": "2026-10-14T18:01:42+09:00"
+    },
+    {
+      "id": "equation-15-pendulum-en-20261001",
+      "slug": "equation-15-pendulum",
+      "title": "Why does a longer pendulum swing slower?",
+      "language": "en",
+      "video": "equation-15-pendulum-en-20261001.mp4",
+      "caption": "equation-15-pendulum-en-20261001.txt",
+      "video_sha256": "d4795f836530fb63a607c8b77dc6f270c63aef8c0e892ace6001e6b2c8e2fdfd",
+      "caption_sha256": "68b774dd5bd754fd7def548588d74b02739a132e92c2323057700d8848269177",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-13T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-15-pendulum",
+        "keywords": [
+          "pendulum",
+          "period",
+          "oscillation"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#pendulum",
+          "#period",
+          "#oscillation"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-15-pendulum",
+      "creation_id": "18125100064768269",
+      "publish_requested_at": "2026-10-15T12:03:14.781480+09:00",
+      "media_id": "17911403913503247",
+      "permalink": "https://www.instagram.com/reel/Def8obeFBu8/",
+      "published_at": "2026-10-15T12:03:17+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
