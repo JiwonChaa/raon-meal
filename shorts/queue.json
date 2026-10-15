@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2009-fiber-ccd-ko",
-      "slug": "nobel-physics-2009-fiber-ccd",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 10편, 2009년 광섬유 통신과 CCD 영상 센서",
-      "video": "nobel-physics-2009-fiber-ccd-ko.mp4",
-      "caption": "nobel-physics-2009-fiber-ccd-ko.txt",
-      "video_sha256": "687ed87146940b703893dfb06c96f2b00b938e8b3e5d0550c349a68f669e9fa0",
-      "caption_sha256": "8fef44d280d6a2fa0f2545f92724e989591facbe7ac10f3e4e916ebf7cb280a0",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-15T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2009-fiber-ccd",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2009-fiber-ccd",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2009 노벨물리학상",
-          "광섬유 통신",
-          "CCD 영상 센서"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#광섬유통신",
-          "#CCD"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3550,
-      "cover": "nobel-physics-2009-fiber-ccd-ko-cover.jpg",
-      "creation_id": "18158061073537390",
-      "publish_requested_at": "2026-10-15T12:02:47.672012+09:00",
-      "media_id": "18053883608802976"
-    },
-    {
       "id": "nobel-physics-2010-graphene-ko",
       "slug": "nobel-physics-2010-graphene",
       "language": "ko",
@@ -3122,6 +3076,55 @@
       "permalink": "https://www.instagram.com/reel/DeeA4ymCeIP/",
       "published_at": "2026-10-14T18:02:16+09:00",
       "at": "2026-10-14T18:02:16+09:00"
+    },
+    {
+      "id": "nobel-physics-2009-fiber-ccd-ko",
+      "slug": "nobel-physics-2009-fiber-ccd",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 10편, 2009년 광섬유 통신과 CCD 영상 센서",
+      "video": "nobel-physics-2009-fiber-ccd-ko.mp4",
+      "caption": "nobel-physics-2009-fiber-ccd-ko.txt",
+      "video_sha256": "687ed87146940b703893dfb06c96f2b00b938e8b3e5d0550c349a68f669e9fa0",
+      "caption_sha256": "8fef44d280d6a2fa0f2545f92724e989591facbe7ac10f3e4e916ebf7cb280a0",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-15T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2009-fiber-ccd",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2009-fiber-ccd",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2009 노벨물리학상",
+          "광섬유 통신",
+          "CCD 영상 센서"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#광섬유통신",
+          "#CCD"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3550,
+      "cover": "nobel-physics-2009-fiber-ccd-ko-cover.jpg",
+      "creation_id": "18158061073537390",
+      "publish_requested_at": "2026-10-15T12:02:47.672012+09:00",
+      "media_id": "18053883608802976",
+      "permalink": "https://www.instagram.com/reel/Def8hBXE9Vp/",
+      "published_at": "2026-10-15T12:02:50+09:00",
+      "at": "2026-10-15T12:02:50+09:00"
     }
   ],
   "cancelled_for_remake": [
