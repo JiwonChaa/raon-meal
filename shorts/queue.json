@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2010-graphene-ko",
-      "slug": "nobel-physics-2010-graphene",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 11편, 2010년 원자 한 층짜리 탄소, 그래핀",
-      "video": "nobel-physics-2010-graphene-ko.mp4",
-      "caption": "nobel-physics-2010-graphene-ko.txt",
-      "video_sha256": "149d9499ba553511045a9f1a504b3a7837c638e994b16f515630c9925faf5a22",
-      "caption_sha256": "467a5ca6e7ba41b1f8093c1a668f898600fc1ad651f1a366036b9279942ab766",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-15T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2010-graphene",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2010-graphene",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2010 노벨물리학상",
-          "그래핀",
-          "접착테이프"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#그래핀",
-          "#2차원물질"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3709,
-      "cover": "nobel-physics-2010-graphene-ko-cover.jpg",
-      "creation_id": "18158113873537390",
-      "publish_requested_at": "2026-10-15T18:02:31.769437+09:00",
-      "media_id": "18099470762330353"
-    },
-    {
       "id": "nobel-physics-2011-accelerating-universe-ko",
       "slug": "nobel-physics-2011-accelerating-universe",
       "language": "ko",
@@ -3128,6 +3082,55 @@
       "permalink": "https://www.instagram.com/reel/Def8hBXE9Vp/",
       "published_at": "2026-10-15T12:02:50+09:00",
       "at": "2026-10-15T12:02:50+09:00"
+    },
+    {
+      "id": "nobel-physics-2010-graphene-ko",
+      "slug": "nobel-physics-2010-graphene",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 11편, 2010년 원자 한 층짜리 탄소, 그래핀",
+      "video": "nobel-physics-2010-graphene-ko.mp4",
+      "caption": "nobel-physics-2010-graphene-ko.txt",
+      "video_sha256": "149d9499ba553511045a9f1a504b3a7837c638e994b16f515630c9925faf5a22",
+      "caption_sha256": "467a5ca6e7ba41b1f8093c1a668f898600fc1ad651f1a366036b9279942ab766",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-15T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2010-graphene",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2010-graphene",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2010 노벨물리학상",
+          "그래핀",
+          "접착테이프"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#그래핀",
+          "#2차원물질"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3709,
+      "cover": "nobel-physics-2010-graphene-ko-cover.jpg",
+      "creation_id": "18158113873537390",
+      "publish_requested_at": "2026-10-15T18:02:31.769437+09:00",
+      "media_id": "18099470762330353",
+      "permalink": "https://www.instagram.com/reel/DegltxvDWlV/",
+      "published_at": "2026-10-15T18:02:34+09:00",
+      "at": "2026-10-15T18:02:34+09:00"
     }
   ],
   "cancelled_for_remake": [
