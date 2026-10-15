@@ -1761,6 +1761,46 @@
       "total_interactions": 8,
       "shares_per_1000_reach": 3.896,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-09-anc-en-20261001",
+      "media_id": "18286229647289099",
+      "permalink": "https://www.instagram.com/reel/DeYOE6SD8kA/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.846,
+      "captured_at": "2026-10-15T04:52:36.095890+00:00",
+      "views": 155,
+      "reach": 137,
+      "average_watch_time_ms": 5472,
+      "total_watch_time_ms": 755159,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-13-eddy-en-20261001",
+      "media_id": "18142012648615006",
+      "permalink": "https://www.instagram.com/reel/DedXnprAXoC/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.855,
+      "captured_at": "2026-10-15T04:52:36.095890+00:00",
+      "views": 171,
+      "reach": 154,
+      "average_watch_time_ms": 5882,
+      "total_watch_time_ms": 900079,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
