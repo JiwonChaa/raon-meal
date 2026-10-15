@@ -1321,6 +1321,46 @@
       "total_interactions": 31,
       "shares_per_1000_reach": 4.101,
       "saves_per_1000_reach": 2.929
+    },
+    {
+      "item_id": "nobel-physics-2003-superconductor-superfluid-ko",
+      "media_id": "18115043648015260",
+      "permalink": "https://www.instagram.com/reel/DeYS78OFMLx/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.132,
+      "captured_at": "2026-10-15T04:52:31.624317+00:00",
+      "views": 814,
+      "reach": 529,
+      "average_watch_time_ms": 5836,
+      "total_watch_time_ms": 3250987,
+      "likes": 9,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 9,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-physics-2007-giant-magnetoresistance-ko",
+      "media_id": "17940053310364146",
+      "permalink": "https://www.instagram.com/reel/DedXnWAjWDO/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.844,
+      "captured_at": "2026-10-15T04:52:31.624317+00:00",
+      "views": 2109,
+      "reach": 1691,
+      "average_watch_time_ms": 7871,
+      "total_watch_time_ms": 13648502,
+      "likes": 18,
+      "comments": 0,
+      "shares": 13,
+      "saved": 5,
+      "total_interactions": 36,
+      "shares_per_1000_reach": 7.688,
+      "saves_per_1000_reach": 2.957
     }
   ]
 }
