@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-17-doppler-en-20261001",
-      "slug": "equation-17-doppler",
-      "title": "Why does a moving speaker change pitch?",
-      "language": "en",
-      "video": "equation-17-doppler-en-20261001.mp4",
-      "caption": "equation-17-doppler-en-20261001.txt",
-      "video_sha256": "76ed18723b695f5f419db8ca5c66838186b0ceefdc2fa054e68b91d21afbe4b8",
-      "caption_sha256": "b5f929f5e6caddee071718077fe564f2963746ce4647e2946da694dd42159390",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-14T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-17-doppler",
-        "keywords": [
-          "dopplereffect",
-          "pitch",
-          "soundwaves"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#dopplereffect",
-          "#pitch",
-          "#soundwaves"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-17-doppler",
-      "creation_id": "18125462251768269",
-      "publish_requested_at": "2026-10-16T12:02:43.228074+09:00",
-      "media_id": "18336638908279460"
-    },
-    {
       "id": "equation-18-foam-en-20261001",
       "slug": "equation-18-foam",
       "title": "Why is pressure higher inside a smaller bubble?",
@@ -2334,6 +2290,52 @@
       "media_id": "18116533645817361",
       "permalink": "https://www.instagram.com/reel/DegltxODkEO/",
       "published_at": "2026-10-15T18:02:17+09:00"
+    },
+    {
+      "id": "equation-17-doppler-en-20261001",
+      "slug": "equation-17-doppler",
+      "title": "Why does a moving speaker change pitch?",
+      "language": "en",
+      "video": "equation-17-doppler-en-20261001.mp4",
+      "caption": "equation-17-doppler-en-20261001.txt",
+      "video_sha256": "76ed18723b695f5f419db8ca5c66838186b0ceefdc2fa054e68b91d21afbe4b8",
+      "caption_sha256": "b5f929f5e6caddee071718077fe564f2963746ce4647e2946da694dd42159390",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-14T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-17-doppler",
+        "keywords": [
+          "dopplereffect",
+          "pitch",
+          "soundwaves"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#dopplereffect",
+          "#pitch",
+          "#soundwaves"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-17-doppler",
+      "creation_id": "18125462251768269",
+      "publish_requested_at": "2026-10-16T12:02:43.228074+09:00",
+      "media_id": "18336638908279460",
+      "permalink": "https://www.instagram.com/reel/DeihX1mm8la/",
+      "published_at": "2026-10-16T12:02:46+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
