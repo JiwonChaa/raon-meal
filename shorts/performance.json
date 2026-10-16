@@ -1401,6 +1401,46 @@
       "total_interactions": 32,
       "shares_per_1000_reach": 2.798,
       "saves_per_1000_reach": 3.358
+    },
+    {
+      "item_id": "nobel-physics-2005-frequency-comb-ko",
+      "media_id": "18105484004575605",
+      "permalink": "https://www.instagram.com/reel/Deay5RvG4Va/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.675,
+      "captured_at": "2026-10-16T04:43:02.266721+00:00",
+      "views": 3097,
+      "reach": 2514,
+      "average_watch_time_ms": 9304,
+      "total_watch_time_ms": 23596045,
+      "likes": 30,
+      "comments": 0,
+      "shares": 22,
+      "saved": 12,
+      "total_interactions": 64,
+      "shares_per_1000_reach": 8.751,
+      "saves_per_1000_reach": 4.773
+    },
+    {
+      "item_id": "nobel-physics-2009-fiber-ccd-ko",
+      "media_id": "18053883608802976",
+      "permalink": "https://www.instagram.com/reel/Def8hBXE9Vp/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.67,
+      "captured_at": "2026-10-16T04:43:02.266721+00:00",
+      "views": 2053,
+      "reach": 1655,
+      "average_watch_time_ms": 9755,
+      "total_watch_time_ms": 16388685,
+      "likes": 17,
+      "comments": 0,
+      "shares": 3,
+      "saved": 6,
+      "total_interactions": 26,
+      "shares_per_1000_reach": 1.813,
+      "saves_per_1000_reach": 3.625
     }
   ]
 }
