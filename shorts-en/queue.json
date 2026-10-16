@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-18-foam-en-20261001",
-      "slug": "equation-18-foam",
-      "title": "Why is pressure higher inside a smaller bubble?",
-      "language": "en",
-      "video": "equation-18-foam-en-20261001.mp4",
-      "caption": "equation-18-foam-en-20261001.txt",
-      "video_sha256": "68d55399411a02170fcc483d15bb62124fb1c5c1923523f00fa712c6ca1ca93b",
-      "caption_sha256": "e4e88a27c82fb4dd7dea7ba2880f0f21493437d77ef760ab401c57d2a608f986",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-14T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-18-foam",
-        "keywords": [
-          "bubbles",
-          "surfacetension",
-          "pressure"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#bubbles",
-          "#surfacetension",
-          "#pressure"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-18-foam",
-      "creation_id": "18125563246768269",
-      "publish_requested_at": "2026-10-16T18:02:11.878743+09:00",
-      "media_id": "17892665910614540"
-    },
-    {
       "id": "equation-19-infrared-en-20261001",
       "slug": "equation-19-infrared",
       "title": "What invisible light does a thermal camera detect?",
@@ -2339,6 +2295,52 @@
       "media_id": "18336638908279460",
       "permalink": "https://www.instagram.com/reel/DeihX1mm8la/",
       "published_at": "2026-10-16T12:02:46+09:00"
+    },
+    {
+      "id": "equation-18-foam-en-20261001",
+      "slug": "equation-18-foam",
+      "title": "Why is pressure higher inside a smaller bubble?",
+      "language": "en",
+      "video": "equation-18-foam-en-20261001.mp4",
+      "caption": "equation-18-foam-en-20261001.txt",
+      "video_sha256": "68d55399411a02170fcc483d15bb62124fb1c5c1923523f00fa712c6ca1ca93b",
+      "caption_sha256": "e4e88a27c82fb4dd7dea7ba2880f0f21493437d77ef760ab401c57d2a608f986",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-14T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-18-foam",
+        "keywords": [
+          "bubbles",
+          "surfacetension",
+          "pressure"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#bubbles",
+          "#surfacetension",
+          "#pressure"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-18-foam",
+      "creation_id": "18125563246768269",
+      "publish_requested_at": "2026-10-16T18:02:11.878743+09:00",
+      "media_id": "17892665910614540",
+      "permalink": "https://www.instagram.com/reel/DejKg-wDy_F/",
+      "published_at": "2026-10-16T18:02:14+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
