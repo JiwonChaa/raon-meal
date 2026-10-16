@@ -1841,6 +1841,46 @@
       "total_interactions": 2,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-11-fiber-en-20261001",
+      "media_id": "18124172596928091",
+      "permalink": "https://www.instagram.com/reel/Deay3PEiCwx/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.689,
+      "captured_at": "2026-10-16T04:43:06.803733+00:00",
+      "views": 490,
+      "reach": 443,
+      "average_watch_time_ms": 6294,
+      "total_watch_time_ms": 2769464,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 2.257
+    },
+    {
+      "item_id": "equation-15-pendulum-en-20261001",
+      "media_id": "17911403913503247",
+      "permalink": "https://www.instagram.com/reel/Def8obeFBu8/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.664,
+      "captured_at": "2026-10-16T04:43:06.803733+00:00",
+      "views": 918,
+      "reach": 795,
+      "average_watch_time_ms": 9938,
+      "total_watch_time_ms": 7890827,
+      "likes": 3,
+      "comments": 0,
+      "shares": 2,
+      "saved": 3,
+      "total_interactions": 8,
+      "shares_per_1000_reach": 2.516,
+      "saves_per_1000_reach": 3.774
     }
   ]
 }
