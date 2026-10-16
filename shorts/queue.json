@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2012-single-quantum-systems-ko",
-      "slug": "nobel-physics-2012-single-quantum-systems",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 13편, 2012년 양자 광학과 단일 양자계의 제어",
-      "video": "nobel-physics-2012-single-quantum-systems-ko.mp4",
-      "caption": "nobel-physics-2012-single-quantum-systems-ko.txt",
-      "video_sha256": "ae42512a62d98a8d16eb52e090201dde30c20209a9738989561dbb4325a42032",
-      "caption_sha256": "1e08fd942b1ae6dd299c6b26f9acb3ac7694f3e8408360e43f74601ab813425a",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-16T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2012-single-quantum-systems",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2012-single-quantum-systems",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2012 노벨물리학상",
-          "이온 포획",
-          "광자 측정"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#이온포획",
-          "#광자측정"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3440,
-      "cover": "nobel-physics-2012-single-quantum-systems-ko-cover.jpg",
-      "creation_id": "18158329294537390",
-      "publish_requested_at": "2026-10-16T18:03:17.900893+09:00",
-      "media_id": "17917771893463323"
-    },
-    {
       "id": "nobel-physics-2013-higgs-ko",
       "slug": "nobel-physics-2013-higgs",
       "language": "ko",
@@ -3140,6 +3094,55 @@
       "permalink": "https://www.instagram.com/reel/DeihStJjKJl/",
       "published_at": "2026-10-16T12:02:39+09:00",
       "at": "2026-10-16T12:02:39+09:00"
+    },
+    {
+      "id": "nobel-physics-2012-single-quantum-systems-ko",
+      "slug": "nobel-physics-2012-single-quantum-systems",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 13편, 2012년 양자 광학과 단일 양자계의 제어",
+      "video": "nobel-physics-2012-single-quantum-systems-ko.mp4",
+      "caption": "nobel-physics-2012-single-quantum-systems-ko.txt",
+      "video_sha256": "ae42512a62d98a8d16eb52e090201dde30c20209a9738989561dbb4325a42032",
+      "caption_sha256": "1e08fd942b1ae6dd299c6b26f9acb3ac7694f3e8408360e43f74601ab813425a",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-16T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2012-single-quantum-systems",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2012-single-quantum-systems",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2012 노벨물리학상",
+          "이온 포획",
+          "광자 측정"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#이온포획",
+          "#광자측정"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3440,
+      "cover": "nobel-physics-2012-single-quantum-systems-ko-cover.jpg",
+      "creation_id": "18158329294537390",
+      "publish_requested_at": "2026-10-16T18:03:17.900893+09:00",
+      "media_id": "17917771893463323",
+      "permalink": "https://www.instagram.com/reel/DejKmtyDmbu/",
+      "published_at": "2026-10-16T18:03:20+09:00",
+      "at": "2026-10-16T18:03:20+09:00"
     }
   ],
   "cancelled_for_remake": [
