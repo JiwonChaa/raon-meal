@@ -1881,6 +1881,46 @@
       "total_interactions": 8,
       "shares_per_1000_reach": 2.516,
       "saves_per_1000_reach": 3.774
+    },
+    {
+      "item_id": "equation-12-pressure-cooker-en-20261001",
+      "media_id": "17935848870400177",
+      "permalink": "https://www.instagram.com/reel/DebcE0_CbxJ/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 74.582,
+      "captured_at": "2026-10-16T11:36:39.329214+00:00",
+      "views": 950,
+      "reach": 803,
+      "average_watch_time_ms": 9979,
+      "total_watch_time_ms": 7983312,
+      "likes": 5,
+      "comments": 0,
+      "shares": 3,
+      "saved": 0,
+      "total_interactions": 8,
+      "shares_per_1000_reach": 3.736,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-16-salt-en-20261001",
+      "media_id": "18116533645817361",
+      "permalink": "https://www.instagram.com/reel/DegltxODkEO/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 26.573,
+      "captured_at": "2026-10-16T11:36:39.329214+00:00",
+      "views": 298,
+      "reach": 271,
+      "average_watch_time_ms": 6244,
+      "total_watch_time_ms": 1698386,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 4,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 3.69
     }
   ]
 }
