@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2011-accelerating-universe-ko",
-      "slug": "nobel-physics-2011-accelerating-universe",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 12편, 2011년 초신성으로 밝혀낸 우주의 가속 팽창",
-      "video": "nobel-physics-2011-accelerating-universe-ko.mp4",
-      "caption": "nobel-physics-2011-accelerating-universe-ko.txt",
-      "video_sha256": "e18edc6725915217c0f9675f86acbb2721cb581eec8777312ba0c8c239b35530",
-      "caption_sha256": "50525c356e4e0de8e4d2490aae99722df766f5637e306ce8834061ec08ca3b2c",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-16T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2011-accelerating-universe",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2011-accelerating-universe",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2011 노벨물리학상",
-          "우주 가속 팽창",
-          "Ia형 초신성"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#우주가속팽창",
-          "#Ia형초신성"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3420,
-      "cover": "nobel-physics-2011-accelerating-universe-ko-cover.jpg",
-      "creation_id": "18158279416537390",
-      "publish_requested_at": "2026-10-16T12:02:36.928672+09:00",
-      "media_id": "18029242931691404"
-    },
-    {
       "id": "nobel-physics-2012-single-quantum-systems-ko",
       "slug": "nobel-physics-2012-single-quantum-systems",
       "language": "ko",
@@ -3134,6 +3088,55 @@
       "permalink": "https://www.instagram.com/reel/DegltxvDWlV/",
       "published_at": "2026-10-15T18:02:34+09:00",
       "at": "2026-10-15T18:02:34+09:00"
+    },
+    {
+      "id": "nobel-physics-2011-accelerating-universe-ko",
+      "slug": "nobel-physics-2011-accelerating-universe",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 12편, 2011년 초신성으로 밝혀낸 우주의 가속 팽창",
+      "video": "nobel-physics-2011-accelerating-universe-ko.mp4",
+      "caption": "nobel-physics-2011-accelerating-universe-ko.txt",
+      "video_sha256": "e18edc6725915217c0f9675f86acbb2721cb581eec8777312ba0c8c239b35530",
+      "caption_sha256": "50525c356e4e0de8e4d2490aae99722df766f5637e306ce8834061ec08ca3b2c",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-16T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2011-accelerating-universe",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2011-accelerating-universe",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2011 노벨물리학상",
+          "우주 가속 팽창",
+          "Ia형 초신성"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#우주가속팽창",
+          "#Ia형초신성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3420,
+      "cover": "nobel-physics-2011-accelerating-universe-ko-cover.jpg",
+      "creation_id": "18158279416537390",
+      "publish_requested_at": "2026-10-16T12:02:36.928672+09:00",
+      "media_id": "18029242931691404",
+      "permalink": "https://www.instagram.com/reel/DeihStJjKJl/",
+      "published_at": "2026-10-16T12:02:39+09:00",
+      "at": "2026-10-16T12:02:39+09:00"
     }
   ],
   "cancelled_for_remake": [
