@@ -1441,6 +1441,46 @@
       "total_interactions": 26,
       "shares_per_1000_reach": 1.813,
       "saves_per_1000_reach": 3.625
+    },
+    {
+      "item_id": "nobel-physics-2006-cosmic-microwave-background-ko",
+      "media_id": "18122927479729108",
+      "permalink": "https://www.instagram.com/reel/DebcFFZH1ZD/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.573,
+      "captured_at": "2026-10-16T11:36:34.846077+00:00",
+      "views": 2269,
+      "reach": 1760,
+      "average_watch_time_ms": 7350,
+      "total_watch_time_ms": 13502303,
+      "likes": 18,
+      "comments": 0,
+      "shares": 8,
+      "saved": 5,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 4.545,
+      "saves_per_1000_reach": 2.841
+    },
+    {
+      "item_id": "nobel-physics-2010-graphene-ko",
+      "media_id": "18099470762330353",
+      "permalink": "https://www.instagram.com/reel/DegltxvDWlV/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.567,
+      "captured_at": "2026-10-16T11:36:34.846077+00:00",
+      "views": 2297,
+      "reach": 1907,
+      "average_watch_time_ms": 10166,
+      "total_watch_time_ms": 19386823,
+      "likes": 18,
+      "comments": 0,
+      "shares": 7,
+      "saved": 7,
+      "total_interactions": 32,
+      "shares_per_1000_reach": 3.671,
+      "saves_per_1000_reach": 3.671
     }
   ]
 }
