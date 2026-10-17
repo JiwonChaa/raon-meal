@@ -1521,6 +1521,46 @@
       "total_interactions": 40,
       "shares_per_1000_reach": 8.716,
       "saves_per_1000_reach": 2.324
+    },
+    {
+      "item_id": "nobel-physics-2008-symmetry-breaking-ko",
+      "media_id": "17886444786492563",
+      "permalink": "https://www.instagram.com/reel/DeeA4ymCeIP/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.904,
+      "captured_at": "2026-10-17T10:56:30.167368+00:00",
+      "views": 2366,
+      "reach": 1912,
+      "average_watch_time_ms": 10926,
+      "total_watch_time_ms": 21469907,
+      "likes": 22,
+      "comments": 0,
+      "shares": 25,
+      "saved": 7,
+      "total_interactions": 55,
+      "shares_per_1000_reach": 13.075,
+      "saves_per_1000_reach": 3.661
+    },
+    {
+      "item_id": "nobel-physics-2012-single-quantum-systems-ko",
+      "media_id": "17917771893463323",
+      "permalink": "https://www.instagram.com/reel/DejKmtyDmbu/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.886,
+      "captured_at": "2026-10-17T10:56:30.167368+00:00",
+      "views": 2157,
+      "reach": 1716,
+      "average_watch_time_ms": 9159,
+      "total_watch_time_ms": 16312598,
+      "likes": 26,
+      "comments": 0,
+      "shares": 5,
+      "saved": 3,
+      "total_interactions": 34,
+      "shares_per_1000_reach": 2.914,
+      "saves_per_1000_reach": 1.748
     }
   ]
 }
