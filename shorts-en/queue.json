@@ -9,50 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "equation-19-infrared-en-20261001",
-      "slug": "equation-19-infrared",
-      "title": "What invisible light does a thermal camera detect?",
-      "language": "en",
-      "video": "equation-19-infrared-en-20261001.mp4",
-      "caption": "equation-19-infrared-en-20261001.txt",
-      "video_sha256": "c0b1950bd5c2c2f844092209afd5ba7ebf52117e89fa3bf041b6fb8bb9759b5d",
-      "caption_sha256": "088873cb726c7f988c82ef19fd913fa33fef418de84a48a099bcbe118c36ef73",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-15T12:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-19-infrared",
-        "keywords": [
-          "thermalimaging",
-          "infrared",
-          "radiation"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#thermalimaging",
-          "#infrared",
-          "#radiation"
-        ],
-        "version": 1,
-        "topic_family": "general_physics",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-19-infrared",
-      "creation_id": "18125817970768269",
-      "publish_requested_at": "2026-10-17T12:02:38.793373+09:00",
-      "media_id": "18100002365417308"
-    },
-    {
       "id": "equation-20-microwave-en-20261001",
       "slug": "equation-20-microwave",
       "title": "Why can microwave heating form bands?",
@@ -2344,6 +2300,52 @@
       "media_id": "17892665910614540",
       "permalink": "https://www.instagram.com/reel/DejKg-wDy_F/",
       "published_at": "2026-10-16T18:02:14+09:00"
+    },
+    {
+      "id": "equation-19-infrared-en-20261001",
+      "slug": "equation-19-infrared",
+      "title": "What invisible light does a thermal camera detect?",
+      "language": "en",
+      "video": "equation-19-infrared-en-20261001.mp4",
+      "caption": "equation-19-infrared-en-20261001.txt",
+      "video_sha256": "c0b1950bd5c2c2f844092209afd5ba7ebf52117e89fa3bf041b6fb8bb9759b5d",
+      "caption_sha256": "088873cb726c7f988c82ef19fd913fa33fef418de84a48a099bcbe118c36ef73",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-15T12:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-19-infrared",
+        "keywords": [
+          "thermalimaging",
+          "infrared",
+          "radiation"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#thermalimaging",
+          "#infrared",
+          "#radiation"
+        ],
+        "version": 1,
+        "topic_family": "general_physics",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-19-infrared",
+      "creation_id": "18125817970768269",
+      "publish_requested_at": "2026-10-17T12:02:38.793373+09:00",
+      "media_id": "18100002365417308",
+      "permalink": "https://www.instagram.com/reel/DelGKlIj0aT/",
+      "published_at": "2026-10-17T12:02:41+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
