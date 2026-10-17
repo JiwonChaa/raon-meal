@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2014-blue-led-ko",
-      "slug": "nobel-physics-2014-blue-led",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 15편, 2014년 백색 조명을 가능하게 한 청색 LED",
-      "video": "nobel-physics-2014-blue-led-ko.mp4",
-      "caption": "nobel-physics-2014-blue-led-ko.txt",
-      "video_sha256": "d9af0fa38391426f4d92ae5c1bdc3774249c0b8ab6d0d9ced980d8ddfc26be43",
-      "caption_sha256": "48234fe9fe58f5f65ffe138d03d5faa4d13f3f8a6404a17da692a8aefdf3e37f",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-17T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2014-blue-led",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2014-blue-led",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2014 노벨물리학상",
-          "청색 LED",
-          "질화 갈륨"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#청색LED",
-          "#질화갈륨"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3423,
-      "cover": "nobel-physics-2014-blue-led-ko-cover.jpg",
-      "creation_id": "18158555602537390",
-      "publish_requested_at": "2026-10-17T18:03:02.593312+09:00",
-      "media_id": "18183566380420130"
-    },
-    {
       "id": "nobel-physics-2015-neutrino-oscillation-ko",
       "slug": "nobel-physics-2015-neutrino-oscillation",
       "language": "ko",
@@ -3152,6 +3106,55 @@
       "permalink": "https://www.instagram.com/reel/DelGGvfiUMW/",
       "published_at": "2026-10-17T12:02:39+09:00",
       "at": "2026-10-17T12:02:39+09:00"
+    },
+    {
+      "id": "nobel-physics-2014-blue-led-ko",
+      "slug": "nobel-physics-2014-blue-led",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 15편, 2014년 백색 조명을 가능하게 한 청색 LED",
+      "video": "nobel-physics-2014-blue-led-ko.mp4",
+      "caption": "nobel-physics-2014-blue-led-ko.txt",
+      "video_sha256": "d9af0fa38391426f4d92ae5c1bdc3774249c0b8ab6d0d9ced980d8ddfc26be43",
+      "caption_sha256": "48234fe9fe58f5f65ffe138d03d5faa4d13f3f8a6404a17da692a8aefdf3e37f",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-17T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2014-blue-led",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2014-blue-led",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2014 노벨물리학상",
+          "청색 LED",
+          "질화 갈륨"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#청색LED",
+          "#질화갈륨"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3423,
+      "cover": "nobel-physics-2014-blue-led-ko-cover.jpg",
+      "creation_id": "18158555602537390",
+      "publish_requested_at": "2026-10-17T18:03:02.593312+09:00",
+      "media_id": "18183566380420130",
+      "permalink": "https://www.instagram.com/reel/DelvUpyDQXo/",
+      "published_at": "2026-10-17T18:03:05+09:00",
+      "at": "2026-10-17T18:03:05+09:00"
     }
   ],
   "cancelled_for_remake": [
