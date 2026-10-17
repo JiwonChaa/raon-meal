@@ -1481,6 +1481,46 @@
       "total_interactions": 32,
       "shares_per_1000_reach": 3.671,
       "saves_per_1000_reach": 3.671
+    },
+    {
+      "item_id": "nobel-physics-2007-giant-magnetoresistance-ko",
+      "media_id": "17940053310364146",
+      "permalink": "https://www.instagram.com/reel/DedXnWAjWDO/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.638,
+      "captured_at": "2026-10-17T04:40:10.064645+00:00",
+      "views": 2205,
+      "reach": 1763,
+      "average_watch_time_ms": 7863,
+      "total_watch_time_ms": 14240118,
+      "likes": 19,
+      "comments": 0,
+      "shares": 13,
+      "saved": 5,
+      "total_interactions": 37,
+      "shares_per_1000_reach": 7.374,
+      "saves_per_1000_reach": 2.836
+    },
+    {
+      "item_id": "nobel-physics-2011-accelerating-universe-ko",
+      "media_id": "18029242931691404",
+      "permalink": "https://www.instagram.com/reel/DeihStJjKJl/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.625,
+      "captured_at": "2026-10-17T04:40:10.064645+00:00",
+      "views": 2173,
+      "reach": 1721,
+      "average_watch_time_ms": 11803,
+      "total_watch_time_ms": 20337703,
+      "likes": 21,
+      "comments": 0,
+      "shares": 15,
+      "saved": 4,
+      "total_interactions": 40,
+      "shares_per_1000_reach": 8.716,
+      "saves_per_1000_reach": 2.324
     }
   ]
 }
