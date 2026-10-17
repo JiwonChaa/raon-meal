@@ -7,52 +7,7 @@
     "A": "18:00"
   },
   "paused": false,
-  "queue": [
-    {
-      "id": "equation-20-microwave-en-20261001",
-      "slug": "equation-20-microwave",
-      "title": "Why can microwave heating form bands?",
-      "language": "en",
-      "video": "equation-20-microwave-en-20261001.mp4",
-      "caption": "equation-20-microwave-en-20261001.txt",
-      "video_sha256": "0f14e1113ef6d51a34a90068e6f268772a7e080326ba052fa16cf14cced1eecc",
-      "caption_sha256": "af865bee9dd846862e1ed84659e63178b5cbdd67bd5385138340b9e273ddaa8f",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-10-15T18:00:00+09:00",
-      "content_policy": {
-        "mode": "full",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "equation-stories-20261001-20-microwave",
-        "keywords": [
-          "microwave",
-          "standingwaves",
-          "heating"
-        ],
-        "hashtags": [
-          "#science",
-          "#foodscience",
-          "#microwave",
-          "#standingwaves",
-          "#heating"
-        ],
-        "version": 1,
-        "topic_family": "food",
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "pair_id": "equation-stories-20261001-20-microwave",
-      "creation_id": "18125910457768269",
-      "publish_requested_at": "2026-10-17T18:02:42.756610+09:00",
-      "media_id": "18130481030501215"
-    }
-  ],
+  "queue": [],
   "done": [
     {
       "id": "toast-fall-en-20260914",
@@ -2349,6 +2304,52 @@
       "media_id": "18100002365417308",
       "permalink": "https://www.instagram.com/reel/DelGKlIj0aT/",
       "published_at": "2026-10-17T12:02:41+09:00"
+    },
+    {
+      "id": "equation-20-microwave-en-20261001",
+      "slug": "equation-20-microwave",
+      "title": "Why can microwave heating form bands?",
+      "language": "en",
+      "video": "equation-20-microwave-en-20261001.mp4",
+      "caption": "equation-20-microwave-en-20261001.txt",
+      "video_sha256": "0f14e1113ef6d51a34a90068e6f268772a7e080326ba052fa16cf14cced1eecc",
+      "caption_sha256": "af865bee9dd846862e1ed84659e63178b5cbdd67bd5385138340b9e273ddaa8f",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly requested adding all completed bilingual equation videos to the queue on 2026-10-01.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-15T18:00:00+09:00",
+      "content_policy": {
+        "mode": "full",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "equation-stories-20261001-20-microwave",
+        "keywords": [
+          "microwave",
+          "standingwaves",
+          "heating"
+        ],
+        "hashtags": [
+          "#science",
+          "#foodscience",
+          "#microwave",
+          "#standingwaves",
+          "#heating"
+        ],
+        "version": 1,
+        "topic_family": "food",
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "pair_id": "equation-stories-20261001-20-microwave",
+      "creation_id": "18125910457768269",
+      "publish_requested_at": "2026-10-17T18:02:42.756610+09:00",
+      "media_id": "18130481030501215",
+      "permalink": "https://www.instagram.com/reel/DelvWUTitCt/",
+      "published_at": "2026-10-17T18:02:45+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
