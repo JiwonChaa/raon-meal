@@ -1921,6 +1921,46 @@
       "total_interactions": 4,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 3.69
+    },
+    {
+      "item_id": "equation-13-eddy-en-20261001",
+      "media_id": "18142012648615006",
+      "permalink": "https://www.instagram.com/reel/DedXnprAXoC/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.648,
+      "captured_at": "2026-10-17T04:40:12.871970+00:00",
+      "views": 177,
+      "reach": 159,
+      "average_watch_time_ms": 6042,
+      "total_watch_time_ms": 954683,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-17-doppler-en-20261001",
+      "media_id": "18336638908279460",
+      "permalink": "https://www.instagram.com/reel/DeihX1mm8la/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.624,
+      "captured_at": "2026-10-17T04:40:12.871970+00:00",
+      "views": 113,
+      "reach": 107,
+      "average_watch_time_ms": 4414,
+      "total_watch_time_ms": 472298,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
