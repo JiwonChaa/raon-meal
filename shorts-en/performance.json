@@ -1961,6 +1961,46 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-14-coffee-en-20261001",
+      "media_id": "17975033607140091",
+      "permalink": "https://www.instagram.com/reel/DeeA3McjpU5/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 73.915,
+      "captured_at": "2026-10-17T10:56:35.278823+00:00",
+      "views": 334,
+      "reach": 291,
+      "average_watch_time_ms": 8189,
+      "total_watch_time_ms": 2342135,
+      "likes": 2,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 2,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-18-foam-en-20261001",
+      "media_id": "17892665910614540",
+      "permalink": "https://www.instagram.com/reel/DejKg-wDy_F/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 25.906,
+      "captured_at": "2026-10-17T10:56:35.278823+00:00",
+      "views": 213,
+      "reach": 182,
+      "average_watch_time_ms": 6162,
+      "total_watch_time_ms": 1140128,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
