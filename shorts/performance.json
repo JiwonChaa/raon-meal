@@ -1601,6 +1601,46 @@
       "total_interactions": 54,
       "shares_per_1000_reach": 1.426,
       "saves_per_1000_reach": 5.703
+    },
+    {
+      "item_id": "nobel-physics-2010-graphene-ko",
+      "media_id": "18099470762330353",
+      "permalink": "https://www.instagram.com/reel/DegltxvDWlV/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.333,
+      "captured_at": "2026-10-18T11:22:32.841069+00:00",
+      "views": 2532,
+      "reach": 2046,
+      "average_watch_time_ms": 10324,
+      "total_watch_time_ms": 21723204,
+      "likes": 29,
+      "comments": 1,
+      "shares": 8,
+      "saved": 9,
+      "total_interactions": 47,
+      "shares_per_1000_reach": 3.91,
+      "saves_per_1000_reach": 4.399
+    },
+    {
+      "item_id": "nobel-physics-2014-blue-led-ko",
+      "media_id": "18183566380420130",
+      "permalink": "https://www.instagram.com/reel/DelvUpyDQXo/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.324,
+      "captured_at": "2026-10-18T11:22:32.841069+00:00",
+      "views": 2633,
+      "reach": 2141,
+      "average_watch_time_ms": 25490,
+      "total_watch_time_ms": 55493420,
+      "likes": 35,
+      "comments": 0,
+      "shares": 9,
+      "saved": 9,
+      "total_interactions": 53,
+      "shares_per_1000_reach": 4.204,
+      "saves_per_1000_reach": 4.204
     }
   ]
 }
