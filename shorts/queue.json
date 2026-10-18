@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2016-topological-matter-ko",
-      "slug": "nobel-physics-2016-topological-matter",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 17편, 2016년 소용돌이와 물질의 위상적 상태",
-      "video": "nobel-physics-2016-topological-matter-ko.mp4",
-      "caption": "nobel-physics-2016-topological-matter-ko.txt",
-      "video_sha256": "6f5ef42158df66f592c67232b7b57fcc196a010ce38ff5b5a24f37f6de234b92",
-      "caption_sha256": "f7a47ee392e17291a7ed81ff1c2f2a7b05e5b7b3e25c582899953caecdb15e69",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-18T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2016-topological-matter",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2016-topological-matter",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2016 노벨물리학상",
-          "위상 상전이",
-          "양자 홀 효과"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#위상상전이",
-          "#양자홀효과"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3157,
-      "cover": "nobel-physics-2016-topological-matter-ko-cover.jpg",
-      "creation_id": "18158767378537390",
-      "publish_requested_at": "2026-10-18T18:01:49.195455+09:00",
-      "media_id": "18075489254745979"
-    },
-    {
       "id": "nobel-physics-2017-gravitational-waves-ko",
       "slug": "nobel-physics-2017-gravitational-waves",
       "language": "ko",
@@ -3164,6 +3118,55 @@
       "permalink": "https://www.instagram.com/reel/DenqzmLj0aZ/",
       "published_at": "2026-10-18T12:02:01+09:00",
       "at": "2026-10-18T12:02:01+09:00"
+    },
+    {
+      "id": "nobel-physics-2016-topological-matter-ko",
+      "slug": "nobel-physics-2016-topological-matter",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 17편, 2016년 소용돌이와 물질의 위상적 상태",
+      "video": "nobel-physics-2016-topological-matter-ko.mp4",
+      "caption": "nobel-physics-2016-topological-matter-ko.txt",
+      "video_sha256": "6f5ef42158df66f592c67232b7b57fcc196a010ce38ff5b5a24f37f6de234b92",
+      "caption_sha256": "f7a47ee392e17291a7ed81ff1c2f2a7b05e5b7b3e25c582899953caecdb15e69",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-18T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2016-topological-matter",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2016-topological-matter",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2016 노벨물리학상",
+          "위상 상전이",
+          "양자 홀 효과"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#위상상전이",
+          "#양자홀효과"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3157,
+      "cover": "nobel-physics-2016-topological-matter-ko-cover.jpg",
+      "creation_id": "18158767378537390",
+      "publish_requested_at": "2026-10-18T18:01:49.195455+09:00",
+      "media_id": "18075489254745979",
+      "permalink": "https://www.instagram.com/reel/DeoT_k3CA_q/",
+      "published_at": "2026-10-18T18:01:51+09:00",
+      "at": "2026-10-18T18:01:51+09:00"
     }
   ],
   "cancelled_for_remake": [
