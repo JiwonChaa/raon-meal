@@ -2041,6 +2041,46 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-16-salt-en-20261001",
+      "media_id": "18116533645817361",
+      "permalink": "https://www.instagram.com/reel/DegltxODkEO/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 74.339,
+      "captured_at": "2026-10-18T11:22:36.985182+00:00",
+      "views": 335,
+      "reach": 307,
+      "average_watch_time_ms": 6411,
+      "total_watch_time_ms": 1968298,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 1,
+      "total_interactions": 4,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 3.257
+    },
+    {
+      "item_id": "equation-20-microwave-en-20261001",
+      "media_id": "18130481030501215",
+      "permalink": "https://www.instagram.com/reel/DelvWUTitCt/",
+      "topic_family": "food",
+      "window_hours": 24,
+      "actual_age_hours": 26.331,
+      "captured_at": "2026-10-18T11:22:36.985182+00:00",
+      "views": 160,
+      "reach": 152,
+      "average_watch_time_ms": 6550,
+      "total_watch_time_ms": 995606,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
