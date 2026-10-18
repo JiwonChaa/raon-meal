@@ -1561,6 +1561,46 @@
       "total_interactions": 34,
       "shares_per_1000_reach": 2.914,
       "saves_per_1000_reach": 1.748
+    },
+    {
+      "item_id": "nobel-physics-2009-fiber-ccd-ko",
+      "media_id": "18053883608802976",
+      "permalink": "https://www.instagram.com/reel/Def8hBXE9Vp/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.719,
+      "captured_at": "2026-10-18T04:45:59.628735+00:00",
+      "views": 2181,
+      "reach": 1737,
+      "average_watch_time_ms": 10474,
+      "total_watch_time_ms": 18664706,
+      "likes": 21,
+      "comments": 0,
+      "shares": 3,
+      "saved": 7,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 1.727,
+      "saves_per_1000_reach": 4.03
+    },
+    {
+      "item_id": "nobel-physics-2013-higgs-ko",
+      "media_id": "18346917868251516",
+      "permalink": "https://www.instagram.com/reel/DelGGvfiUMW/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.722,
+      "captured_at": "2026-10-18T04:45:59.628735+00:00",
+      "views": 2779,
+      "reach": 2104,
+      "average_watch_time_ms": 14965,
+      "total_watch_time_ms": 33627196,
+      "likes": 37,
+      "comments": 0,
+      "shares": 3,
+      "saved": 12,
+      "total_interactions": 54,
+      "shares_per_1000_reach": 1.426,
+      "saves_per_1000_reach": 5.703
     }
   ]
 }
