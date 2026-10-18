@@ -2001,6 +2001,46 @@
       "total_interactions": 1,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-15-pendulum-en-20261001",
+      "media_id": "17911403913503247",
+      "permalink": "https://www.instagram.com/reel/Def8obeFBu8/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.713,
+      "captured_at": "2026-10-18T04:46:02.869392+00:00",
+      "views": 994,
+      "reach": 857,
+      "average_watch_time_ms": 10271,
+      "total_watch_time_ms": 8802528,
+      "likes": 5,
+      "comments": 0,
+      "shares": 2,
+      "saved": 3,
+      "total_interactions": 10,
+      "shares_per_1000_reach": 2.334,
+      "saves_per_1000_reach": 3.501
+    },
+    {
+      "item_id": "equation-19-infrared-en-20261001",
+      "media_id": "18100002365417308",
+      "permalink": "https://www.instagram.com/reel/DelGKlIj0aT/",
+      "topic_family": "general_physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.723,
+      "captured_at": "2026-10-18T04:46:02.869392+00:00",
+      "views": 149,
+      "reach": 134,
+      "average_watch_time_ms": 6439,
+      "total_watch_time_ms": 869343,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
