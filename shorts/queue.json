@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2015-neutrino-oscillation-ko",
-      "slug": "nobel-physics-2015-neutrino-oscillation",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 16편, 2015년 중성미자 진동과 작은 질량의 발견",
-      "video": "nobel-physics-2015-neutrino-oscillation-ko.mp4",
-      "caption": "nobel-physics-2015-neutrino-oscillation-ko.txt",
-      "video_sha256": "696963132fd330bb7d248d16a3f89920dc2482e8e75d5af3a63494fa35f8b003",
-      "caption_sha256": "6c67fae9dfb7a4d0d682e02bad690b2f3360000fbb3c35522db9ab54cf505052",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-18T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2015-neutrino-oscillation",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2015-neutrino-oscillation",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2015 노벨물리학상",
-          "중성미자 진동",
-          "중성미자 질량"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#중성미자진동",
-          "#중성미자질량"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3280,
-      "cover": "nobel-physics-2015-neutrino-oscillation-ko-cover.jpg",
-      "creation_id": "18158715226537390",
-      "publish_requested_at": "2026-10-18T12:01:58.981953+09:00",
-      "media_id": "18034881323896862"
-    },
-    {
       "id": "nobel-physics-2016-topological-matter-ko",
       "slug": "nobel-physics-2016-topological-matter",
       "language": "ko",
@@ -3158,6 +3112,55 @@
       "permalink": "https://www.instagram.com/reel/DelvUpyDQXo/",
       "published_at": "2026-10-17T18:03:05+09:00",
       "at": "2026-10-17T18:03:05+09:00"
+    },
+    {
+      "id": "nobel-physics-2015-neutrino-oscillation-ko",
+      "slug": "nobel-physics-2015-neutrino-oscillation",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 16편, 2015년 중성미자 진동과 작은 질량의 발견",
+      "video": "nobel-physics-2015-neutrino-oscillation-ko.mp4",
+      "caption": "nobel-physics-2015-neutrino-oscillation-ko.txt",
+      "video_sha256": "696963132fd330bb7d248d16a3f89920dc2482e8e75d5af3a63494fa35f8b003",
+      "caption_sha256": "6c67fae9dfb7a4d0d682e02bad690b2f3360000fbb3c35522db9ab54cf505052",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-18T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2015-neutrino-oscillation",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2015-neutrino-oscillation",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2015 노벨물리학상",
+          "중성미자 진동",
+          "중성미자 질량"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#중성미자진동",
+          "#중성미자질량"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3280,
+      "cover": "nobel-physics-2015-neutrino-oscillation-ko-cover.jpg",
+      "creation_id": "18158715226537390",
+      "publish_requested_at": "2026-10-18T12:01:58.981953+09:00",
+      "media_id": "18034881323896862",
+      "permalink": "https://www.instagram.com/reel/DenqzmLj0aZ/",
+      "published_at": "2026-10-18T12:02:01+09:00",
+      "at": "2026-10-18T12:02:01+09:00"
     }
   ],
   "cancelled_for_remake": [
