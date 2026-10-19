@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2017-gravitational-waves-ko",
-      "slug": "nobel-physics-2017-gravitational-waves",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 18편, 2017년 레이저 간섭계로 관측한 중력파",
-      "video": "nobel-physics-2017-gravitational-waves-ko.mp4",
-      "caption": "nobel-physics-2017-gravitational-waves-ko.txt",
-      "video_sha256": "1f550e9e0627e1b7a83ce32ab39b0564bbd9f1cd152e6e88d9da38873c6eebbe",
-      "caption_sha256": "b96a7ef466dda27f0c7b6494cf9234c2195f76837ff867547d2d0ed770e36ef2",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-19T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2017-gravitational-waves",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2017-gravitational-waves",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2017 노벨물리학상",
-          "중력파 관측",
-          "레이저 간섭계"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#중력파",
-          "#레이저간섭계"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3300,
-      "cover": "nobel-physics-2017-gravitational-waves-ko-cover.jpg",
-      "creation_id": "18158927815537390",
-      "publish_requested_at": "2026-10-19T12:01:51.773921+09:00",
-      "media_id": "18156281734517882"
-    },
-    {
       "id": "nobel-physics-2018-optical-tweezers-cpa-ko",
       "slug": "nobel-physics-2018-optical-tweezers-cpa",
       "language": "ko",
@@ -3170,6 +3124,55 @@
       "permalink": "https://www.instagram.com/reel/DeoT_k3CA_q/",
       "published_at": "2026-10-18T18:01:51+09:00",
       "at": "2026-10-18T18:01:51+09:00"
+    },
+    {
+      "id": "nobel-physics-2017-gravitational-waves-ko",
+      "slug": "nobel-physics-2017-gravitational-waves",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 18편, 2017년 레이저 간섭계로 관측한 중력파",
+      "video": "nobel-physics-2017-gravitational-waves-ko.mp4",
+      "caption": "nobel-physics-2017-gravitational-waves-ko.txt",
+      "video_sha256": "1f550e9e0627e1b7a83ce32ab39b0564bbd9f1cd152e6e88d9da38873c6eebbe",
+      "caption_sha256": "b96a7ef466dda27f0c7b6494cf9234c2195f76837ff867547d2d0ed770e36ef2",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-19T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2017-gravitational-waves",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2017-gravitational-waves",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2017 노벨물리학상",
+          "중력파 관측",
+          "레이저 간섭계"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#중력파",
+          "#레이저간섭계"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3300,
+      "cover": "nobel-physics-2017-gravitational-waves-ko-cover.jpg",
+      "creation_id": "18158927815537390",
+      "publish_requested_at": "2026-10-19T12:01:51.773921+09:00",
+      "media_id": "18156281734517882",
+      "permalink": "https://www.instagram.com/reel/DeqPlyJDlvC/",
+      "published_at": "2026-10-19T12:01:54+09:00",
+      "at": "2026-10-19T12:01:54+09:00"
     }
   ],
   "cancelled_for_remake": [
