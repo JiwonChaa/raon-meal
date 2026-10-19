@@ -1641,6 +1641,46 @@
       "total_interactions": 53,
       "shares_per_1000_reach": 4.204,
       "saves_per_1000_reach": 4.204
+    },
+    {
+      "item_id": "nobel-physics-2011-accelerating-universe-ko",
+      "media_id": "18029242931691404",
+      "permalink": "https://www.instagram.com/reel/DeihStJjKJl/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.858,
+      "captured_at": "2026-10-19T04:54:07.202962+00:00",
+      "views": 2322,
+      "reach": 1842,
+      "average_watch_time_ms": 11899,
+      "total_watch_time_ms": 21967153,
+      "likes": 23,
+      "comments": 0,
+      "shares": 17,
+      "saved": 4,
+      "total_interactions": 44,
+      "shares_per_1000_reach": 9.229,
+      "saves_per_1000_reach": 2.172
+    },
+    {
+      "item_id": "nobel-physics-2015-neutrino-oscillation-ko",
+      "media_id": "18034881323896862",
+      "permalink": "https://www.instagram.com/reel/DenqzmLj0aZ/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.868,
+      "captured_at": "2026-10-19T04:54:07.202962+00:00",
+      "views": 2059,
+      "reach": 1578,
+      "average_watch_time_ms": 9633,
+      "total_watch_time_ms": 15924618,
+      "likes": 8,
+      "comments": 0,
+      "shares": 2,
+      "saved": 6,
+      "total_interactions": 16,
+      "shares_per_1000_reach": 1.267,
+      "saves_per_1000_reach": 3.802
     }
   ]
 }
