@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2018-optical-tweezers-cpa-ko",
-      "slug": "nobel-physics-2018-optical-tweezers-cpa",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 19편, 2018년 광학 집게와 처프 펄스 증폭",
-      "video": "nobel-physics-2018-optical-tweezers-cpa-ko.mp4",
-      "caption": "nobel-physics-2018-optical-tweezers-cpa-ko.txt",
-      "video_sha256": "85ab5c56b516fa96070eaeb79ea04c480775225d1a5f518728b5950b3fccf901",
-      "caption_sha256": "4ee56d730f262f6b3270d691c97a13725a8f3c790aed9a18455d406e68b82c19",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-19T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2018-optical-tweezers-cpa",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2018-optical-tweezers-cpa",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2018 노벨물리학상",
-          "처프 펄스 증폭",
-          "광학 집게"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#처프펄스증폭",
-          "#광학집게"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3260,
-      "cover": "nobel-physics-2018-optical-tweezers-cpa-ko-cover.jpg",
-      "creation_id": "18158973346537390",
-      "publish_requested_at": "2026-10-19T18:01:57.769665+09:00",
-      "media_id": "17911037124307178"
-    },
-    {
       "id": "nobel-physics-2019-cosmology-exoplanet-ko",
       "slug": "nobel-physics-2019-cosmology-exoplanet",
       "language": "ko",
@@ -3176,6 +3130,55 @@
       "permalink": "https://www.instagram.com/reel/DeqPlyJDlvC/",
       "published_at": "2026-10-19T12:01:54+09:00",
       "at": "2026-10-19T12:01:54+09:00"
+    },
+    {
+      "id": "nobel-physics-2018-optical-tweezers-cpa-ko",
+      "slug": "nobel-physics-2018-optical-tweezers-cpa",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 19편, 2018년 광학 집게와 처프 펄스 증폭",
+      "video": "nobel-physics-2018-optical-tweezers-cpa-ko.mp4",
+      "caption": "nobel-physics-2018-optical-tweezers-cpa-ko.txt",
+      "video_sha256": "85ab5c56b516fa96070eaeb79ea04c480775225d1a5f518728b5950b3fccf901",
+      "caption_sha256": "4ee56d730f262f6b3270d691c97a13725a8f3c790aed9a18455d406e68b82c19",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-19T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2018-optical-tweezers-cpa",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2018-optical-tweezers-cpa",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2018 노벨물리학상",
+          "처프 펄스 증폭",
+          "광학 집게"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#처프펄스증폭",
+          "#광학집게"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3260,
+      "cover": "nobel-physics-2018-optical-tweezers-cpa-ko-cover.jpg",
+      "creation_id": "18158973346537390",
+      "publish_requested_at": "2026-10-19T18:01:57.769665+09:00",
+      "media_id": "17911037124307178",
+      "permalink": "https://www.instagram.com/reel/Deq4zKuEQvj/",
+      "published_at": "2026-10-19T18:02:00+09:00",
+      "at": "2026-10-19T18:02:00+09:00"
     }
   ],
   "cancelled_for_remake": [
