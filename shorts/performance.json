@@ -1681,6 +1681,46 @@
       "total_interactions": 16,
       "shares_per_1000_reach": 1.267,
       "saves_per_1000_reach": 3.802
+    },
+    {
+      "item_id": "nobel-physics-2012-single-quantum-systems-ko",
+      "media_id": "17917771893463323",
+      "permalink": "https://www.instagram.com/reel/DejKmtyDmbu/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 76.557,
+      "captured_at": "2026-10-19T13:36:45.223994+00:00",
+      "views": 2290,
+      "reach": 1820,
+      "average_watch_time_ms": 9358,
+      "total_watch_time_ms": 17651062,
+      "likes": 27,
+      "comments": 0,
+      "shares": 5,
+      "saved": 3,
+      "total_interactions": 35,
+      "shares_per_1000_reach": 2.747,
+      "saves_per_1000_reach": 1.648
+    },
+    {
+      "item_id": "nobel-physics-2016-topological-matter-ko",
+      "media_id": "18075489254745979",
+      "permalink": "https://www.instagram.com/reel/DeoT_k3CA_q/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 28.582,
+      "captured_at": "2026-10-19T13:36:45.223994+00:00",
+      "views": 2172,
+      "reach": 1749,
+      "average_watch_time_ms": 13241,
+      "total_watch_time_ms": 23502941,
+      "likes": 21,
+      "comments": 0,
+      "shares": 14,
+      "saved": 3,
+      "total_interactions": 39,
+      "shares_per_1000_reach": 8.005,
+      "saves_per_1000_reach": 1.715
     }
   ]
 }
