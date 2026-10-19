@@ -2101,6 +2101,26 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-18-foam-en-20261001",
+      "media_id": "17892665910614540",
+      "permalink": "https://www.instagram.com/reel/DejKg-wDy_F/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 76.577,
+      "captured_at": "2026-10-19T13:36:50.118852+00:00",
+      "views": 214,
+      "reach": 183,
+      "average_watch_time_ms": 6178,
+      "total_watch_time_ms": 1149184,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
