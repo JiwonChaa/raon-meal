@@ -2141,6 +2141,26 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-20-microwave-en-20261001",
+      "media_id": "18130481030501215",
+      "permalink": "https://www.instagram.com/reel/DelvWUTitCt/",
+      "topic_family": "food",
+      "window_hours": 72,
+      "actual_age_hours": 77.337,
+      "captured_at": "2026-10-20T14:22:59.942765+00:00",
+      "views": 164,
+      "reach": 155,
+      "average_watch_time_ms": 6468,
+      "total_watch_time_ms": 1009105,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
