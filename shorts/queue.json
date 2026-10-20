@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2019-cosmology-exoplanet-ko",
-      "slug": "nobel-physics-2019-cosmology-exoplanet",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 20편, 2019년 물리적 우주론과 외계행성의 발견",
-      "video": "nobel-physics-2019-cosmology-exoplanet-ko.mp4",
-      "caption": "nobel-physics-2019-cosmology-exoplanet-ko.txt",
-      "video_sha256": "e7f95d43fd12c5438775b041f41f621bea3d2194610f692c1e315f55d8e5ea4c",
-      "caption_sha256": "e472371c8af1a27537d2d33f5b81392a7f71701f0b805b95127a32aa07ef7ad4",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-20T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2019-cosmology-exoplanet",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2019-cosmology-exoplanet",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2019 노벨물리학상",
-          "외계행성 발견",
-          "도플러 효과"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#외계행성",
-          "#도플러효과"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3300,
-      "cover": "nobel-physics-2019-cosmology-exoplanet-ko-cover.jpg",
-      "creation_id": "18159132355537390",
-      "publish_requested_at": "2026-10-20T12:02:50.411044+09:00",
-      "media_id": "18108782738190799"
-    },
-    {
       "id": "nobel-physics-2020-black-holes-ko",
       "slug": "nobel-physics-2020-black-holes",
       "language": "ko",
@@ -3182,6 +3136,55 @@
       "permalink": "https://www.instagram.com/reel/Deq4zKuEQvj/",
       "published_at": "2026-10-19T18:02:00+09:00",
       "at": "2026-10-19T18:02:00+09:00"
+    },
+    {
+      "id": "nobel-physics-2019-cosmology-exoplanet-ko",
+      "slug": "nobel-physics-2019-cosmology-exoplanet",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 20편, 2019년 물리적 우주론과 외계행성의 발견",
+      "video": "nobel-physics-2019-cosmology-exoplanet-ko.mp4",
+      "caption": "nobel-physics-2019-cosmology-exoplanet-ko.txt",
+      "video_sha256": "e7f95d43fd12c5438775b041f41f621bea3d2194610f692c1e315f55d8e5ea4c",
+      "caption_sha256": "e472371c8af1a27537d2d33f5b81392a7f71701f0b805b95127a32aa07ef7ad4",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-20T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2019-cosmology-exoplanet",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2019-cosmology-exoplanet",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2019 노벨물리학상",
+          "외계행성 발견",
+          "도플러 효과"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#외계행성",
+          "#도플러효과"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3300,
+      "cover": "nobel-physics-2019-cosmology-exoplanet-ko-cover.jpg",
+      "creation_id": "18159132355537390",
+      "publish_requested_at": "2026-10-20T12:02:50.411044+09:00",
+      "media_id": "18108782738190799",
+      "permalink": "https://www.instagram.com/reel/Des0fqNjcHt/",
+      "published_at": "2026-10-20T12:02:52+09:00",
+      "at": "2026-10-20T12:02:52+09:00"
     }
   ],
   "cancelled_for_remake": [
