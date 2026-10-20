@@ -1721,6 +1721,46 @@
       "total_interactions": 39,
       "shares_per_1000_reach": 8.005,
       "saves_per_1000_reach": 1.715
+    },
+    {
+      "item_id": "nobel-physics-2013-higgs-ko",
+      "media_id": "18346917868251516",
+      "permalink": "https://www.instagram.com/reel/DelGGvfiUMW/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 77.658,
+      "captured_at": "2026-10-20T08:42:09.502835+00:00",
+      "views": 3026,
+      "reach": 2301,
+      "average_watch_time_ms": 15260,
+      "total_watch_time_ms": 37525279,
+      "likes": 39,
+      "comments": 0,
+      "shares": 6,
+      "saved": 13,
+      "total_interactions": 60,
+      "shares_per_1000_reach": 2.608,
+      "saves_per_1000_reach": 5.65
+    },
+    {
+      "item_id": "nobel-physics-2017-gravitational-waves-ko",
+      "media_id": "18156281734517882",
+      "permalink": "https://www.instagram.com/reel/DeqPlyJDlvC/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 29.671,
+      "captured_at": "2026-10-20T08:42:09.502835+00:00",
+      "views": 1266,
+      "reach": 996,
+      "average_watch_time_ms": 6535,
+      "total_watch_time_ms": 6548948,
+      "likes": 9,
+      "comments": 0,
+      "shares": 0,
+      "saved": 3,
+      "total_interactions": 12,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 3.012
     }
   ]
 }
