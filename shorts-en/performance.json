@@ -2121,6 +2121,26 @@
       "total_interactions": 1,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "equation-19-infrared-en-20261001",
+      "media_id": "18100002365417308",
+      "permalink": "https://www.instagram.com/reel/DelGKlIj0aT/",
+      "topic_family": "general_physics",
+      "window_hours": 72,
+      "actual_age_hours": 77.659,
+      "captured_at": "2026-10-20T08:42:15.144039+00:00",
+      "views": 154,
+      "reach": 139,
+      "average_watch_time_ms": 6417,
+      "total_watch_time_ms": 898399,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
