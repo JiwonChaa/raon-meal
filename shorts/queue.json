@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2020-black-holes-ko",
-      "slug": "nobel-physics-2020-black-holes",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 21편, 2020년 블랙홀의 형성과 은하 중심의 별 궤도",
-      "video": "nobel-physics-2020-black-holes-ko.mp4",
-      "caption": "nobel-physics-2020-black-holes-ko.txt",
-      "video_sha256": "12e7f1053e35cb849af70dc6db68e13687ae29e4b1aa4900e28d3f7fb07626e0",
-      "caption_sha256": "faf6573314133d9d69f104e612255456d5f0d82f1d479df0aec0513b934a3e9f",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-20T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2020-black-holes",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2020-black-holes",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2020 노벨물리학상",
-          "은하 중심 블랙홀",
-          "별의 궤도"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#블랙홀",
-          "#별의궤도"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3050,
-      "cover": "nobel-physics-2020-black-holes-ko-cover.jpg",
-      "creation_id": "18159187771537390",
-      "publish_requested_at": "2026-10-20T18:02:51.072394+09:00",
-      "media_id": "18249823369310448"
-    },
-    {
       "id": "nobel-physics-2021-climate-spin-glass-ko",
       "slug": "nobel-physics-2021-climate-spin-glass",
       "language": "ko",
@@ -3188,6 +3142,55 @@
       "permalink": "https://www.instagram.com/reel/Des0fqNjcHt/",
       "published_at": "2026-10-20T12:02:52+09:00",
       "at": "2026-10-20T12:02:52+09:00"
+    },
+    {
+      "id": "nobel-physics-2020-black-holes-ko",
+      "slug": "nobel-physics-2020-black-holes",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 21편, 2020년 블랙홀의 형성과 은하 중심의 별 궤도",
+      "video": "nobel-physics-2020-black-holes-ko.mp4",
+      "caption": "nobel-physics-2020-black-holes-ko.txt",
+      "video_sha256": "12e7f1053e35cb849af70dc6db68e13687ae29e4b1aa4900e28d3f7fb07626e0",
+      "caption_sha256": "faf6573314133d9d69f104e612255456d5f0d82f1d479df0aec0513b934a3e9f",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-20T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2020-black-holes",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2020-black-holes",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2020 노벨물리학상",
+          "은하 중심 블랙홀",
+          "별의 궤도"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#블랙홀",
+          "#별의궤도"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3050,
+      "cover": "nobel-physics-2020-black-holes-ko-cover.jpg",
+      "creation_id": "18159187771537390",
+      "publish_requested_at": "2026-10-20T18:02:51.072394+09:00",
+      "media_id": "18249823369310448",
+      "permalink": "https://www.instagram.com/reel/DetdrjEiCm2/",
+      "published_at": "2026-10-20T18:02:53+09:00",
+      "at": "2026-10-20T18:02:53+09:00"
     }
   ],
   "cancelled_for_remake": [
