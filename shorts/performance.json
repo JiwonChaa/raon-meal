@@ -1761,6 +1761,46 @@
       "total_interactions": 12,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 3.012
+    },
+    {
+      "item_id": "nobel-physics-2014-blue-led-ko",
+      "media_id": "18183566380420130",
+      "permalink": "https://www.instagram.com/reel/DelvUpyDQXo/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 77.33,
+      "captured_at": "2026-10-20T14:22:53.530067+00:00",
+      "views": 2750,
+      "reach": 2225,
+      "average_watch_time_ms": 24775,
+      "total_watch_time_ms": 56339851,
+      "likes": 35,
+      "comments": 0,
+      "shares": 9,
+      "saved": 9,
+      "total_interactions": 53,
+      "shares_per_1000_reach": 4.045,
+      "saves_per_1000_reach": 4.045
+    },
+    {
+      "item_id": "nobel-physics-2018-optical-tweezers-cpa-ko",
+      "media_id": "17911037124307178",
+      "permalink": "https://www.instagram.com/reel/Deq4zKuEQvj/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 29.348,
+      "captured_at": "2026-10-20T14:22:53.530067+00:00",
+      "views": 1548,
+      "reach": 1262,
+      "average_watch_time_ms": 10639,
+      "total_watch_time_ms": 13596980,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saved": 4,
+      "total_interactions": 16,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 3.17
     }
   ]
 }
