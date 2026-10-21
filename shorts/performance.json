@@ -1841,6 +1841,46 @@
       "total_interactions": 13,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 1.483
+    },
+    {
+      "item_id": "nobel-physics-2016-topological-matter-ko",
+      "media_id": "18075489254745979",
+      "permalink": "https://www.instagram.com/reel/DeoT_k3CA_q/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.013,
+      "captured_at": "2026-10-21T12:02:37.451540+00:00",
+      "views": 2252,
+      "reach": 1818,
+      "average_watch_time_ms": 13369,
+      "total_watch_time_ms": 24532886,
+      "likes": 21,
+      "comments": 0,
+      "shares": 14,
+      "saved": 4,
+      "total_interactions": 40,
+      "shares_per_1000_reach": 7.701,
+      "saves_per_1000_reach": 2.2
+    },
+    {
+      "item_id": "nobel-physics-2020-black-holes-ko",
+      "media_id": "18249823369310448",
+      "permalink": "https://www.instagram.com/reel/DetdrjEiCm2/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.996,
+      "captured_at": "2026-10-21T12:02:37.451540+00:00",
+      "views": 1741,
+      "reach": 1415,
+      "average_watch_time_ms": 18419,
+      "total_watch_time_ms": 25806370,
+      "likes": 14,
+      "comments": 0,
+      "shares": 4,
+      "saved": 1,
+      "total_interactions": 19,
+      "shares_per_1000_reach": 2.827,
+      "saves_per_1000_reach": 0.707
     }
   ]
 }
