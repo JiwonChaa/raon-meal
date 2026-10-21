@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2021-climate-spin-glass-ko",
-      "slug": "nobel-physics-2021-climate-spin-glass",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 22편, 2021년 기후 모형과 스핀 유리의 복잡계 물리학",
-      "video": "nobel-physics-2021-climate-spin-glass-ko.mp4",
-      "caption": "nobel-physics-2021-climate-spin-glass-ko.txt",
-      "video_sha256": "95867930014d5f41dfec8302b2f257fbf0b4ba13f72ce83ffce9268e5e3afd91",
-      "caption_sha256": "4314da651da9067d47c173df52ccb23274e324b141fc23a5431a7992df569b0a",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-21T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2021-climate-spin-glass",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2021-climate-spin-glass",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2021 노벨물리학상",
-          "온실 효과",
-          "기후 예측"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#온실효과",
-          "#기후예측"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3300,
-      "cover": "nobel-physics-2021-climate-spin-glass-ko-cover.jpg",
-      "creation_id": "18159342373537390",
-      "publish_requested_at": "2026-10-21T12:02:31.694473+09:00",
-      "media_id": "18117570835816716"
-    },
-    {
       "id": "nobel-physics-2022-entanglement-ko",
       "slug": "nobel-physics-2022-entanglement",
       "language": "ko",
@@ -3194,6 +3148,55 @@
       "permalink": "https://www.instagram.com/reel/DetdrjEiCm2/",
       "published_at": "2026-10-20T18:02:53+09:00",
       "at": "2026-10-20T18:02:53+09:00"
+    },
+    {
+      "id": "nobel-physics-2021-climate-spin-glass-ko",
+      "slug": "nobel-physics-2021-climate-spin-glass",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 22편, 2021년 기후 모형과 스핀 유리의 복잡계 물리학",
+      "video": "nobel-physics-2021-climate-spin-glass-ko.mp4",
+      "caption": "nobel-physics-2021-climate-spin-glass-ko.txt",
+      "video_sha256": "95867930014d5f41dfec8302b2f257fbf0b4ba13f72ce83ffce9268e5e3afd91",
+      "caption_sha256": "4314da651da9067d47c173df52ccb23274e324b141fc23a5431a7992df569b0a",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-21T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2021-climate-spin-glass",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2021-climate-spin-glass",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2021 노벨물리학상",
+          "온실 효과",
+          "기후 예측"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#온실효과",
+          "#기후예측"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3300,
+      "cover": "nobel-physics-2021-climate-spin-glass-ko-cover.jpg",
+      "creation_id": "18159342373537390",
+      "publish_requested_at": "2026-10-21T12:02:31.694473+09:00",
+      "media_id": "18117570835816716",
+      "permalink": "https://www.instagram.com/reel/DevZRfUkopY/",
+      "published_at": "2026-10-21T12:02:33+09:00",
+      "at": "2026-10-21T12:02:33+09:00"
     }
   ],
   "cancelled_for_remake": [
