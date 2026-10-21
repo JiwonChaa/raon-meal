@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2022-entanglement-ko",
-      "slug": "nobel-physics-2022-entanglement",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 23편, 2022년 양자 얽힘과 벨 부등식의 검증",
-      "video": "nobel-physics-2022-entanglement-ko.mp4",
-      "caption": "nobel-physics-2022-entanglement-ko.txt",
-      "video_sha256": "24321b22e408852c0ec02f8f8eb6e48b9f76c3032637ac0c26e8aac92dbbb727",
-      "caption_sha256": "e208b58c0a9a79e4d16b480c8299990308e70cd070c0da107c80adc5671b12f4",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-21T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2022-entanglement",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2022-entanglement",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2022 노벨물리학상",
-          "양자 얽힘",
-          "벨 부등식"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#양자얽힘",
-          "#벨부등식"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3585,
-      "cover": "nobel-physics-2022-entanglement-ko-cover.jpg",
-      "creation_id": "18159389026537390",
-      "publish_requested_at": "2026-10-21T18:02:34.292022+09:00",
-      "media_id": "18207572254375625"
-    },
-    {
       "id": "nobel-physics-2023-attosecond-ko",
       "slug": "nobel-physics-2023-attosecond",
       "language": "ko",
@@ -3200,6 +3154,55 @@
       "permalink": "https://www.instagram.com/reel/DevZRfUkopY/",
       "published_at": "2026-10-21T12:02:33+09:00",
       "at": "2026-10-21T12:02:33+09:00"
+    },
+    {
+      "id": "nobel-physics-2022-entanglement-ko",
+      "slug": "nobel-physics-2022-entanglement",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 23편, 2022년 양자 얽힘과 벨 부등식의 검증",
+      "video": "nobel-physics-2022-entanglement-ko.mp4",
+      "caption": "nobel-physics-2022-entanglement-ko.txt",
+      "video_sha256": "24321b22e408852c0ec02f8f8eb6e48b9f76c3032637ac0c26e8aac92dbbb727",
+      "caption_sha256": "e208b58c0a9a79e4d16b480c8299990308e70cd070c0da107c80adc5671b12f4",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-21T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2022-entanglement",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2022-entanglement",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2022 노벨물리학상",
+          "양자 얽힘",
+          "벨 부등식"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#양자얽힘",
+          "#벨부등식"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3585,
+      "cover": "nobel-physics-2022-entanglement-ko-cover.jpg",
+      "creation_id": "18159389026537390",
+      "publish_requested_at": "2026-10-21T18:02:34.292022+09:00",
+      "media_id": "18207572254375625",
+      "permalink": "https://www.instagram.com/reel/DewCehNjDqS/",
+      "published_at": "2026-10-21T18:02:36+09:00",
+      "at": "2026-10-21T18:02:36+09:00"
     }
   ],
   "cancelled_for_remake": [
