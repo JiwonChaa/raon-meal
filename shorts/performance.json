@@ -1801,6 +1801,46 @@
       "total_interactions": 16,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 3.17
+    },
+    {
+      "item_id": "nobel-physics-2015-neutrino-oscillation-ko",
+      "media_id": "18034881323896862",
+      "permalink": "https://www.instagram.com/reel/DenqzmLj0aZ/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.973,
+      "captured_at": "2026-10-21T05:00:24.259541+00:00",
+      "views": 2152,
+      "reach": 1637,
+      "average_watch_time_ms": 9504,
+      "total_watch_time_ms": 16414801,
+      "likes": 8,
+      "comments": 0,
+      "shares": 3,
+      "saved": 5,
+      "total_interactions": 16,
+      "shares_per_1000_reach": 1.833,
+      "saves_per_1000_reach": 3.054
+    },
+    {
+      "item_id": "nobel-physics-2019-cosmology-exoplanet-ko",
+      "media_id": "18108782738190799",
+      "permalink": "https://www.instagram.com/reel/Des0fqNjcHt/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.959,
+      "captured_at": "2026-10-21T05:00:24.259541+00:00",
+      "views": 1613,
+      "reach": 1349,
+      "average_watch_time_ms": 7917,
+      "total_watch_time_ms": 10784135,
+      "likes": 11,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 13,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.483
     }
   ]
 }
