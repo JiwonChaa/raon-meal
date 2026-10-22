@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2023-attosecond-ko",
-      "slug": "nobel-physics-2023-attosecond",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 24편, 2023년 전자 운동을 포착하는 아토초 펄스",
-      "video": "nobel-physics-2023-attosecond-ko.mp4",
-      "caption": "nobel-physics-2023-attosecond-ko.txt",
-      "video_sha256": "bbcaf0ebadb35034d2d3b7b0efadcb3053790ceaf7e7e23d6fcb0bc2d83b3f66",
-      "caption_sha256": "1f6317312d5bbb7699559d198b1ea2fdc48638a74a2d44b85d3f2a8864a70ea0",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-22T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2023-attosecond",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2023-attosecond",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2023 노벨물리학상",
-          "아토초 빛 펄스",
-          "고차 조화파"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#아토초",
-          "#고차조화파"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3540,
-      "cover": "nobel-physics-2023-attosecond-ko-cover.jpg",
-      "creation_id": "18159542281537390",
-      "publish_requested_at": "2026-10-22T12:02:36.075990+09:00",
-      "media_id": "17907234207583981"
-    },
-    {
       "id": "nobel-physics-2024-neural-networks-ko",
       "slug": "nobel-physics-2024-neural-networks",
       "language": "ko",
@@ -3206,6 +3160,55 @@
       "permalink": "https://www.instagram.com/reel/DewCehNjDqS/",
       "published_at": "2026-10-21T18:02:36+09:00",
       "at": "2026-10-21T18:02:36+09:00"
+    },
+    {
+      "id": "nobel-physics-2023-attosecond-ko",
+      "slug": "nobel-physics-2023-attosecond",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 24편, 2023년 전자 운동을 포착하는 아토초 펄스",
+      "video": "nobel-physics-2023-attosecond-ko.mp4",
+      "caption": "nobel-physics-2023-attosecond-ko.txt",
+      "video_sha256": "bbcaf0ebadb35034d2d3b7b0efadcb3053790ceaf7e7e23d6fcb0bc2d83b3f66",
+      "caption_sha256": "1f6317312d5bbb7699559d198b1ea2fdc48638a74a2d44b85d3f2a8864a70ea0",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-22T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2023-attosecond",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2023-attosecond",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2023 노벨물리학상",
+          "아토초 빛 펄스",
+          "고차 조화파"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#아토초",
+          "#고차조화파"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3540,
+      "cover": "nobel-physics-2023-attosecond-ko-cover.jpg",
+      "creation_id": "18159542281537390",
+      "publish_requested_at": "2026-10-22T12:02:36.075990+09:00",
+      "media_id": "17907234207583981",
+      "permalink": "https://www.instagram.com/reel/Dex-D0bkxhF/",
+      "published_at": "2026-10-22T12:02:37+09:00",
+      "at": "2026-10-22T12:02:37+09:00"
     }
   ],
   "cancelled_for_remake": [
