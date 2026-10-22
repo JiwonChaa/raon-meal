@@ -1881,6 +1881,46 @@
       "total_interactions": 19,
       "shares_per_1000_reach": 2.827,
       "saves_per_1000_reach": 0.707
+    },
+    {
+      "item_id": "nobel-physics-2017-gravitational-waves-ko",
+      "media_id": "18156281734517882",
+      "permalink": "https://www.instagram.com/reel/DeqPlyJDlvC/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.016,
+      "captured_at": "2026-10-22T05:02:50.582835+00:00",
+      "views": 1363,
+      "reach": 1063,
+      "average_watch_time_ms": 7244,
+      "total_watch_time_ms": 7824460,
+      "likes": 10,
+      "comments": 0,
+      "shares": 1,
+      "saved": 4,
+      "total_interactions": 15,
+      "shares_per_1000_reach": 0.941,
+      "saves_per_1000_reach": 3.763
+    },
+    {
+      "item_id": "nobel-physics-2021-climate-spin-glass-ko",
+      "media_id": "18117570835816716",
+      "permalink": "https://www.instagram.com/reel/DevZRfUkopY/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.005,
+      "captured_at": "2026-10-22T05:02:50.582835+00:00",
+      "views": 1870,
+      "reach": 1520,
+      "average_watch_time_ms": 8237,
+      "total_watch_time_ms": 12743729,
+      "likes": 18,
+      "comments": 0,
+      "shares": 11,
+      "saved": 2,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 7.237,
+      "saves_per_1000_reach": 1.316
     }
   ]
 }
