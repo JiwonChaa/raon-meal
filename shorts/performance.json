@@ -1921,6 +1921,46 @@
       "total_interactions": 31,
       "shares_per_1000_reach": 7.237,
       "saves_per_1000_reach": 1.316
+    },
+    {
+      "item_id": "nobel-physics-2018-optical-tweezers-cpa-ko",
+      "media_id": "17911037124307178",
+      "permalink": "https://www.instagram.com/reel/Deq4zKuEQvj/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 75.06,
+      "captured_at": "2026-10-22T12:05:34.952484+00:00",
+      "views": 1693,
+      "reach": 1374,
+      "average_watch_time_ms": 10551,
+      "total_watch_time_ms": 14750906,
+      "likes": 12,
+      "comments": 0,
+      "shares": 1,
+      "saved": 4,
+      "total_interactions": 18,
+      "shares_per_1000_reach": 0.728,
+      "saves_per_1000_reach": 2.911
+    },
+    {
+      "item_id": "nobel-physics-2022-entanglement-ko",
+      "media_id": "18207572254375625",
+      "permalink": "https://www.instagram.com/reel/DewCehNjDqS/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 27.05,
+      "captured_at": "2026-10-22T12:05:34.952484+00:00",
+      "views": 2327,
+      "reach": 1928,
+      "average_watch_time_ms": 13386,
+      "total_watch_time_ms": 25875416,
+      "likes": 34,
+      "comments": 0,
+      "shares": 6,
+      "saved": 8,
+      "total_interactions": 48,
+      "shares_per_1000_reach": 3.112,
+      "saves_per_1000_reach": 4.149
     }
   ]
 }
