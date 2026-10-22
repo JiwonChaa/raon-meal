@@ -6,52 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-physics-2024-neural-networks-ko",
-      "slug": "nobel-physics-2024-neural-networks",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 25편, 2024년 홉필드 신경망과 볼츠만 기계",
-      "video": "nobel-physics-2024-neural-networks-ko.mp4",
-      "caption": "nobel-physics-2024-neural-networks-ko.txt",
-      "video_sha256": "f8e9b635ec2912a4cc9c88a8b59ae8153f518fbc6b2c898adff410269c4cdb24",
-      "caption_sha256": "d366f066bd1b04d63f54a9ca2f6b9ec4b2278fd2e66a341a4801dea2844d4b86",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "A",
-      "scheduled_at": "2026-10-22T18:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2024-neural-networks",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2024-neural-networks",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2024년 노벨물리학상",
-          "인공 신경망",
-          "볼츠만 기계"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#인공신경망",
-          "#볼츠만기계"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3227,
-      "cover": "nobel-physics-2024-neural-networks-ko-cover.jpg",
-      "creation_id": "18159586699537390",
-      "publish_requested_at": "2026-10-22T18:02:33.361405+09:00",
-      "media_id": "18076954835460873"
-    },
-    {
       "id": "nobel-physics-2025-quantum-tunneling-circuit-ko",
       "slug": "nobel-physics-2025-quantum-tunneling-circuit",
       "language": "ko",
@@ -3212,6 +3166,55 @@
       "permalink": "https://www.instagram.com/reel/Dex-D0bkxhF/",
       "published_at": "2026-10-22T12:02:37+09:00",
       "at": "2026-10-22T12:02:37+09:00"
+    },
+    {
+      "id": "nobel-physics-2024-neural-networks-ko",
+      "slug": "nobel-physics-2024-neural-networks",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 25편, 2024년 홉필드 신경망과 볼츠만 기계",
+      "video": "nobel-physics-2024-neural-networks-ko.mp4",
+      "caption": "nobel-physics-2024-neural-networks-ko.txt",
+      "video_sha256": "f8e9b635ec2912a4cc9c88a8b59ae8153f518fbc6b2c898adff410269c4cdb24",
+      "caption_sha256": "d366f066bd1b04d63f54a9ca2f6b9ec4b2278fd2e66a341a4801dea2844d4b86",
+      "reviewed": true,
+      "status": "published",
+      "slot": "A",
+      "scheduled_at": "2026-10-22T18:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2024-neural-networks",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2024-neural-networks",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2024년 노벨물리학상",
+          "인공 신경망",
+          "볼츠만 기계"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#인공신경망",
+          "#볼츠만기계"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3227,
+      "cover": "nobel-physics-2024-neural-networks-ko-cover.jpg",
+      "creation_id": "18159586699537390",
+      "publish_requested_at": "2026-10-22T18:02:33.361405+09:00",
+      "media_id": "18076954835460873",
+      "permalink": "https://www.instagram.com/reel/DeynQM1lNch/",
+      "published_at": "2026-10-22T18:02:36+09:00",
+      "at": "2026-10-22T18:02:36+09:00"
     }
   ],
   "cancelled_for_remake": [
