@@ -4,54 +4,7 @@
     "A": "18:00"
   },
   "paused": false,
-  "queue": [
-    {
-      "id": "nobel-physics-2025-quantum-tunneling-circuit-ko",
-      "slug": "nobel-physics-2025-quantum-tunneling-circuit",
-      "language": "ko",
-      "title": "21세기 노벨물리학상 총정리 26편, 2025년 초전도 회로의 거시적 양자 터널링",
-      "video": "nobel-physics-2025-quantum-tunneling-circuit-ko.mp4",
-      "caption": "nobel-physics-2025-quantum-tunneling-circuit-ko.txt",
-      "video_sha256": "83125dec79d32a5cb62eba64a8a7eb3a45bd58cbac9e508c7a584cc3d7be0b9e",
-      "caption_sha256": "85e6d677d18ac69f2fccc5ee140d6e3d2450d7d28e1d0a02a2d59fc41f038a27",
-      "reviewed": true,
-      "status": "pending",
-      "slot": "B",
-      "scheduled_at": "2026-10-23T12:00:00+09:00",
-      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
-      "human_listening_approved": false,
-      "pair_id": "nobel-physics-2025-quantum-tunneling-circuit",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "pair_id": "nobel-physics-2025-quantum-tunneling-circuit",
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "keywords": [
-          "2025 노벨물리학상",
-          "거시적 양자 터널링",
-          "에너지 양자화"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#노벨물리학상",
-          "#거시적양자터널링",
-          "#에너지양자화"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ]
-      },
-      "thumb_offset_ms": 3400,
-      "cover": "nobel-physics-2025-quantum-tunneling-circuit-ko-cover.jpg",
-      "creation_id": "18159729220537390",
-      "publish_requested_at": "2026-10-23T12:02:45.805041+09:00",
-      "media_id": "17872113213648051"
-    }
-  ],
+  "queue": [],
   "done": [
     {
       "num": "55",
@@ -3218,6 +3171,55 @@
       "permalink": "https://www.instagram.com/reel/DeynQM1lNch/",
       "published_at": "2026-10-22T18:02:36+09:00",
       "at": "2026-10-22T18:02:36+09:00"
+    },
+    {
+      "id": "nobel-physics-2025-quantum-tunneling-circuit-ko",
+      "slug": "nobel-physics-2025-quantum-tunneling-circuit",
+      "language": "ko",
+      "title": "21세기 노벨물리학상 총정리 26편, 2025년 초전도 회로의 거시적 양자 터널링",
+      "video": "nobel-physics-2025-quantum-tunneling-circuit-ko.mp4",
+      "caption": "nobel-physics-2025-quantum-tunneling-circuit-ko.txt",
+      "video_sha256": "83125dec79d32a5cb62eba64a8a7eb3a45bd58cbac9e508c7a584cc3d7be0b9e",
+      "caption_sha256": "85e6d677d18ac69f2fccc5ee140d6e3d2450d7d28e1d0a02a2d59fc41f038a27",
+      "reviewed": true,
+      "status": "published",
+      "slot": "B",
+      "scheduled_at": "2026-10-23T12:00:00+09:00",
+      "approval": "1편 나오면 바로 큐에 넣고, 6시, 12시 모든 큐에 싹 다 1편부터 집어넣어. 그리고 기존 영상들은 큐에서 전부 다 빼. (2026-10-10, 연재 「21세기 노벨물리학상 총정리」 스케치판)",
+      "human_listening_approved": false,
+      "pair_id": "nobel-physics-2025-quantum-tunneling-circuit",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "pair_id": "nobel-physics-2025-quantum-tunneling-circuit",
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "keywords": [
+          "2025 노벨물리학상",
+          "거시적 양자 터널링",
+          "에너지 양자화"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#노벨물리학상",
+          "#거시적양자터널링",
+          "#에너지양자화"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ]
+      },
+      "thumb_offset_ms": 3400,
+      "cover": "nobel-physics-2025-quantum-tunneling-circuit-ko-cover.jpg",
+      "creation_id": "18159729220537390",
+      "publish_requested_at": "2026-10-23T12:02:45.805041+09:00",
+      "media_id": "17872113213648051",
+      "permalink": "https://www.instagram.com/reel/De0i2uJDinJ/",
+      "published_at": "2026-10-23T12:02:48+09:00",
+      "at": "2026-10-23T12:02:48+09:00"
     }
   ],
   "cancelled_for_remake": [
