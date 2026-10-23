@@ -2001,6 +2001,46 @@
       "total_interactions": 16,
       "shares_per_1000_reach": 0.692,
       "saves_per_1000_reach": 2.766
+    },
+    {
+      "item_id": "nobel-physics-2020-black-holes-ko",
+      "media_id": "18249823369310448",
+      "permalink": "https://www.instagram.com/reel/DetdrjEiCm2/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.789,
+      "captured_at": "2026-10-23T11:50:12.614255+00:00",
+      "views": 1807,
+      "reach": 1472,
+      "average_watch_time_ms": 18237,
+      "total_watch_time_ms": 26535700,
+      "likes": 15,
+      "comments": 0,
+      "shares": 4,
+      "saved": 1,
+      "total_interactions": 20,
+      "shares_per_1000_reach": 2.717,
+      "saves_per_1000_reach": 0.679
+    },
+    {
+      "item_id": "nobel-physics-2024-neural-networks-ko",
+      "media_id": "18076954835460873",
+      "permalink": "https://www.instagram.com/reel/DeynQM1lNch/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.794,
+      "captured_at": "2026-10-23T11:50:12.614255+00:00",
+      "views": 2127,
+      "reach": 1751,
+      "average_watch_time_ms": 9187,
+      "total_watch_time_ms": 16428051,
+      "likes": 17,
+      "comments": 0,
+      "shares": 7,
+      "saved": 2,
+      "total_interactions": 27,
+      "shares_per_1000_reach": 3.998,
+      "saves_per_1000_reach": 1.142
     }
   ]
 }
