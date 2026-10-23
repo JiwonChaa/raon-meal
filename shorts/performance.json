@@ -1961,6 +1961,46 @@
       "total_interactions": 48,
       "shares_per_1000_reach": 3.112,
       "saves_per_1000_reach": 4.149
+    },
+    {
+      "item_id": "nobel-physics-2019-cosmology-exoplanet-ko",
+      "media_id": "18108782738190799",
+      "permalink": "https://www.instagram.com/reel/Des0fqNjcHt/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.002,
+      "captured_at": "2026-10-23T05:03:00.623204+00:00",
+      "views": 1676,
+      "reach": 1398,
+      "average_watch_time_ms": 7780,
+      "total_watch_time_ms": 11001327,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "saved": 2,
+      "total_interactions": 15,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 1.431
+    },
+    {
+      "item_id": "nobel-physics-2023-attosecond-ko",
+      "media_id": "17907234207583981",
+      "permalink": "https://www.instagram.com/reel/Dex-D0bkxhF/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 26.007,
+      "captured_at": "2026-10-23T05:03:00.623204+00:00",
+      "views": 1728,
+      "reach": 1446,
+      "average_watch_time_ms": 9075,
+      "total_watch_time_ms": 13058966,
+      "likes": 11,
+      "comments": 0,
+      "shares": 1,
+      "saved": 4,
+      "total_interactions": 16,
+      "shares_per_1000_reach": 0.692,
+      "saves_per_1000_reach": 2.766
     }
   ]
 }
