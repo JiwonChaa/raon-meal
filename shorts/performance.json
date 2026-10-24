@@ -2081,6 +2081,26 @@
       "total_interactions": 50,
       "shares_per_1000_reach": 12.98,
       "saves_per_1000_reach": 3.95
+    },
+    {
+      "item_id": "nobel-physics-2022-entanglement-ko",
+      "media_id": "18207572254375625",
+      "permalink": "https://www.instagram.com/reel/DewCehNjDqS/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.232,
+      "captured_at": "2026-10-24T11:16:31.364570+00:00",
+      "views": 2425,
+      "reach": 2001,
+      "average_watch_time_ms": 13222,
+      "total_watch_time_ms": 26603935,
+      "likes": 34,
+      "comments": 0,
+      "shares": 6,
+      "saved": 8,
+      "total_interactions": 48,
+      "shares_per_1000_reach": 2.999,
+      "saves_per_1000_reach": 3.998
     }
   ]
 }
