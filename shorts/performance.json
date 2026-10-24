@@ -2041,6 +2041,46 @@
       "total_interactions": 27,
       "shares_per_1000_reach": 3.998,
       "saves_per_1000_reach": 1.142
+    },
+    {
+      "item_id": "nobel-physics-2021-climate-spin-glass-ko",
+      "media_id": "18117570835816716",
+      "permalink": "https://www.instagram.com/reel/DevZRfUkopY/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.755,
+      "captured_at": "2026-10-24T04:47:50.396881+00:00",
+      "views": 1943,
+      "reach": 1569,
+      "average_watch_time_ms": 8098,
+      "total_watch_time_ms": 13022362,
+      "likes": 18,
+      "comments": 0,
+      "shares": 11,
+      "saved": 2,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 7.011,
+      "saves_per_1000_reach": 1.275
+    },
+    {
+      "item_id": "nobel-physics-2025-quantum-tunneling-circuit-ko",
+      "media_id": "17872113213648051",
+      "permalink": "https://www.instagram.com/reel/De0i2uJDinJ/",
+      "topic_family": "physics",
+      "window_hours": 24,
+      "actual_age_hours": 25.751,
+      "captured_at": "2026-10-24T04:47:50.396881+00:00",
+      "views": 2176,
+      "reach": 1772,
+      "average_watch_time_ms": 12574,
+      "total_watch_time_ms": 23012043,
+      "likes": 19,
+      "comments": 0,
+      "shares": 23,
+      "saved": 7,
+      "total_interactions": 50,
+      "shares_per_1000_reach": 12.98,
+      "saves_per_1000_reach": 3.95
     }
   ]
 }
