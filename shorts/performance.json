@@ -2101,6 +2101,26 @@
       "total_interactions": 48,
       "shares_per_1000_reach": 2.999,
       "saves_per_1000_reach": 3.998
+    },
+    {
+      "item_id": "nobel-physics-2023-attosecond-ko",
+      "media_id": "17907234207583981",
+      "permalink": "https://www.instagram.com/reel/Dex-D0bkxhF/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.891,
+      "captured_at": "2026-10-25T04:56:03.679302+00:00",
+      "views": 1838,
+      "reach": 1537,
+      "average_watch_time_ms": 9214,
+      "total_watch_time_ms": 14060805,
+      "likes": 11,
+      "comments": 0,
+      "shares": 1,
+      "saved": 4,
+      "total_interactions": 16,
+      "shares_per_1000_reach": 0.651,
+      "saves_per_1000_reach": 2.602
     }
   ]
 }
