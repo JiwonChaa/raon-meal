@@ -2121,6 +2121,26 @@
       "total_interactions": 16,
       "shares_per_1000_reach": 0.651,
       "saves_per_1000_reach": 2.602
+    },
+    {
+      "item_id": "nobel-physics-2024-neural-networks-ko",
+      "media_id": "18076954835460873",
+      "permalink": "https://www.instagram.com/reel/DeynQM1lNch/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 74.725,
+      "captured_at": "2026-10-25T11:46:06.404558+00:00",
+      "views": 2278,
+      "reach": 1877,
+      "average_watch_time_ms": 9019,
+      "total_watch_time_ms": 17317430,
+      "likes": 19,
+      "comments": 0,
+      "shares": 8,
+      "saved": 3,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 4.262,
+      "saves_per_1000_reach": 1.598
     }
   ]
 }
