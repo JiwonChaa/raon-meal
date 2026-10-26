@@ -2141,6 +2141,26 @@
       "total_interactions": 31,
       "shares_per_1000_reach": 4.262,
       "saves_per_1000_reach": 1.598
+    },
+    {
+      "item_id": "nobel-physics-2025-quantum-tunneling-circuit-ko",
+      "media_id": "17872113213648051",
+      "permalink": "https://www.instagram.com/reel/De0i2uJDinJ/",
+      "topic_family": "physics",
+      "window_hours": 72,
+      "actual_age_hours": 73.939,
+      "captured_at": "2026-10-26T04:59:09.163502+00:00",
+      "views": 2414,
+      "reach": 1967,
+      "average_watch_time_ms": 12785,
+      "total_watch_time_ms": 25864696,
+      "likes": 21,
+      "comments": 0,
+      "shares": 24,
+      "saved": 8,
+      "total_interactions": 54,
+      "shares_per_1000_reach": 12.201,
+      "saves_per_1000_reach": 4.067
     }
   ]
 }
