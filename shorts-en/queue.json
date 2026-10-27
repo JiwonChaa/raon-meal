@@ -360,6 +360,92 @@
       },
       "pair_id": "nobel-chemistry-2016-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2017-handwritten-en",
+      "slug": "nobel-chemistry-2017-handwritten",
+      "title": "2017 Chemistry Nobel: reconstructing frozen biomolecules",
+      "language": "en",
+      "video": "nobel-chemistry-2017-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2017-handwritten-en.txt",
+      "video_sha256": "83c503a1f96ad4c4b3b8118c44b01e14084b70d72db3f658727548afcce93956",
+      "caption_sha256": "e1a0eb891b5811b4952a992c14ff866fd3961ef8704db0e952839749bbcf67c5",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-02T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "cryo-electron microscopy",
+          "2017 Chemistry Nobel",
+          "vitrification",
+          "protein structure"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#CryoEM",
+          "#ProteinStructure"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2017-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2017-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2018-handwritten-en",
+      "slug": "nobel-chemistry-2018-handwritten",
+      "title": "2018 Chemistry Nobel: selecting improved proteins",
+      "language": "en",
+      "video": "nobel-chemistry-2018-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2018-handwritten-en.txt",
+      "video_sha256": "fb69efa3d7489562efe523b307feb7ef9521eceea25287ceb6a2ce42151c1bba",
+      "caption_sha256": "04498e1bec325243a17c65e02614a78e0671b0c41600c20e026ce1c130059698",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-02T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "directed evolution",
+          "2018 Chemistry Nobel",
+          "enzyme engineering",
+          "phage display"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#DirectedEvolution",
+          "#PhageDisplay"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2018-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2018-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

@@ -357,6 +357,92 @@
       },
       "pair_id": "nobel-chemistry-2016-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2017-handwritten-ko",
+      "slug": "nobel-chemistry-2017-handwritten",
+      "title": "2017 노벨화학상, 얼린 분자에서 입체 구조를 얻는 방법",
+      "language": "ko",
+      "video": "nobel-chemistry-2017-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2017-handwritten-ko.txt",
+      "video_sha256": "267d987008b45f5b7ed9fc99db0ffff3bd760a1303fc89a0e9b56ef7133d651a",
+      "caption_sha256": "dd3aa6693fb031beb7f6fc44e09fa4f04ebdc46bd83f857098b7700b10dc2fa4",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-02T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "극저온 전자현미경",
+          "2017 노벨화학상",
+          "유리화",
+          "단백질 구조"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#극저온전자현미경",
+          "#단백질구조"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2017-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2017-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2018-handwritten-ko",
+      "slug": "nobel-chemistry-2018-handwritten",
+      "title": "2018 노벨화학상, 단백질을 시험하고 골라 개선하기",
+      "language": "ko",
+      "video": "nobel-chemistry-2018-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2018-handwritten-ko.txt",
+      "video_sha256": "bcc3a6224e0c39a41b9df684a1388f2b1c45b37b1db1887fb25a204066db79cb",
+      "caption_sha256": "6c83ef40f11608e654573698188adca74497792e16158595dcbff16285fb3e1e",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-02T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "방향성 진화",
+          "2018 노벨화학상",
+          "효소",
+          "파지 디스플레이"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#방향성진화",
+          "#파지디스플레이"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2018-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2018-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [
