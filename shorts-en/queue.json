@@ -446,6 +446,49 @@
       },
       "pair_id": "nobel-chemistry-2018-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2019-handwritten-en",
+      "slug": "nobel-chemistry-2019-handwritten",
+      "title": "2019 Chemistry Nobel: lithium ions and electrons take different paths",
+      "language": "en",
+      "video": "nobel-chemistry-2019-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2019-handwritten-en.txt",
+      "video_sha256": "46f7de208d1284137cb7f32a633ebd599deff87257235b43c44cbf214e5a004f",
+      "caption_sha256": "706296a43ece84145723b744887d1c4fbbf02346eed701c23ef70eac339a27d6",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-03T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "lithium-ion battery",
+          "2019 Chemistry Nobel",
+          "recharging",
+          "electrodes"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#LithiumIonBattery",
+          "#Electrochemistry"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2019-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2019-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

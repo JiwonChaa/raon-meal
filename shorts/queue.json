@@ -443,6 +443,50 @@
       },
       "pair_id": "nobel-chemistry-2018-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2019-handwritten-ko",
+      "slug": "nobel-chemistry-2019-handwritten",
+      "title": "2019 노벨화학상, 리튬 이온 전지의 두 이동 경로",
+      "language": "ko",
+      "video": "nobel-chemistry-2019-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2019-handwritten-ko.txt",
+      "video_sha256": "371d90dd36604a0eae7d30327bab5d7c9c22b18302a8328ec3246991d074b3db",
+      "caption_sha256": "fadc4f2f9aa0fa2790de92e136de5d35bd556eafad3590bb5a594554d0697b56",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-03T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "리튬 이온 전지",
+          "2019 노벨화학상",
+          "충전",
+          "전극",
+          "전기화학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#리튬이온전지",
+          "#전기화학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2019-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2019-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [
