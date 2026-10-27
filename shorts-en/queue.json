@@ -96,6 +96,139 @@
       },
       "pair_id": "nobel-chemistry-2010-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2011-handwritten-en",
+      "slug": "nobel-chemistry-2011-handwritten",
+      "title": "Order Without Periodic Repetition | Chemistry Nobel 2011",
+      "language": "en",
+      "video": "nobel-chemistry-2011-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2011-handwritten-en.txt",
+      "video_sha256": "ce44bedbf004e14feaf7a92abce8eebfbd890a703dc193a1b06dc1415941d768",
+      "caption_sha256": "80f7b44080f7e0f4bbd38d60ddfc00643d97bb072f2ce7881c434333029ff8c2",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-30T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "준결정",
+          "병진 주기성",
+          "전자 회절",
+          "quasicrystal",
+          "diffraction"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#Quasicrystals",
+          "#Diffraction",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2011-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2011-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2012-handwritten-en",
+      "slug": "nobel-chemistry-2012-handwritten",
+      "title": "How an Outside Signal Changes a Cell | Chemistry Nobel 2012",
+      "language": "en",
+      "video": "nobel-chemistry-2012-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2012-handwritten-en.txt",
+      "video_sha256": "7a9efc7cc9a2ce7601724ad42ee7acb285f81ed9536cfacaae67db74aff9fc48",
+      "caption_sha256": "02bdea7009e3be4037a4457703494787526267a64e748616317a2d8c95b5cd6a",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-30T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "G 단백질 연결 수용체",
+          "GDP",
+          "GTP",
+          "세포 신호",
+          "GPCR",
+          "cell signaling"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#GPCR",
+          "#CellSignaling",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2012-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2012-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2013-handwritten-en",
+      "slug": "nobel-chemistry-2013-handwritten",
+      "title": "Calculating a Reaction Center and Its Surroundings | Chemistry Nobel 2013",
+      "language": "en",
+      "video": "nobel-chemistry-2013-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2013-handwritten-en.txt",
+      "video_sha256": "9bf163f933efaa81016ca15e36beb5fb2110a06a2f592201117101b31d20235b",
+      "caption_sha256": "b5bb1c0de314658871c989887ae21ac8ae4be54cebd3e833e71e8ae0f4504382",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-31T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "다중 규모 모형",
+          "양자 화학",
+          "분자 역학",
+          "QM/MM",
+          "multiscale models"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ComputationalChemistry",
+          "#MultiscaleModeling",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2013-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2013-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

@@ -93,6 +93,139 @@
       },
       "pair_id": "nobel-chemistry-2010-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2011-handwritten-ko",
+      "slug": "nobel-chemistry-2011-handwritten",
+      "title": "반복되지 않는 원자 배열에도 질서가 있다 | 2011 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2011-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2011-handwritten-ko.txt",
+      "video_sha256": "20e5cbdbb546064791db46df192e111d0a87ce34673f1c0d56ca161d27e4820d",
+      "caption_sha256": "ba64afee62a55cbc43d815875f696fa923f1bdbee3b454bb5a1fe9538f02122b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-30T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "준결정",
+          "병진 주기성",
+          "전자 회절",
+          "quasicrystal",
+          "diffraction"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#준결정",
+          "#전자회절",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2011-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2011-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2012-handwritten-ko",
+      "slug": "nobel-chemistry-2012-handwritten",
+      "title": "세포 밖 신호는 어떻게 안쪽 반응을 바꾸나 | 2012 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2012-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2012-handwritten-ko.txt",
+      "video_sha256": "0ec7d75a58528050b190a8cb7db48b34c03c6dccf770062fcf5042fcb42a2f09",
+      "caption_sha256": "16293c59f5d29d2f2477f290485cbff823f1a1f5731c3d43058ffb30c460d9e3",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-30T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "G 단백질 연결 수용체",
+          "GDP",
+          "GTP",
+          "세포 신호",
+          "GPCR",
+          "cell signaling"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#수용체",
+          "#세포신호전달",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2012-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2012-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2013-handwritten-ko",
+      "slug": "nobel-chemistry-2013-handwritten",
+      "title": "반응 중심과 주변을 함께 계산하는 법 | 2013 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2013-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2013-handwritten-ko.txt",
+      "video_sha256": "3f27420f94730492892ec39dc15603fe23572dc282248ff44b36e5a9415caa38",
+      "caption_sha256": "89ce834ec2b45b44548fd35cd594ee448edd8eba11a47130a38d1de3cc8e82ea",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-31T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "다중 규모 모형",
+          "양자 화학",
+          "분자 역학",
+          "QM/MM",
+          "multiscale models"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#계산화학",
+          "#양자화학",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2013-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2013-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

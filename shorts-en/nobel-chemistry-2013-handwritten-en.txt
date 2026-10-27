@@ -1,0 +1,5 @@
+Multiscale models and quantum chemistry: the 2013 Chemistry Nobel.
+A detailed reaction center is coupled to forces and energies from its environment.
+Molecular mechanics treats large surroundings efficiently. Quantum chemistry handles changing electron distributions and bonds at the reaction center, while coupling retains the environment's influence.
+
+#Science #Chemistry #ComputationalChemistry #MultiscaleModeling #ChemistryNobel
