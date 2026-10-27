@@ -273,6 +273,93 @@
       },
       "pair_id": "nobel-chemistry-2014-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2015-handwritten-en",
+      "slug": "nobel-chemistry-2015-handwritten",
+      "title": "2015 Chemistry Nobel: three paths to DNA repair",
+      "language": "en",
+      "video": "nobel-chemistry-2015-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2015-handwritten-en.txt",
+      "video_sha256": "91013fcaa38835aae02354de8aba0e4cf2feba35056202e42287dbe11ef3e974",
+      "caption_sha256": "9e7f0a201a11882af5b5e4d12c4f1d08e3bd589ad3f6b04207d752256501938b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-01T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "DNA repair",
+          "2015 Chemistry Nobel",
+          "base excision repair",
+          "mismatch repair"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#DNARepair",
+          "#Genetics"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2015-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2015-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2016-handwritten-en",
+      "slug": "nobel-chemistry-2016-handwritten",
+      "title": "2016 Chemistry Nobel: controlling molecular motion",
+      "language": "en",
+      "video": "nobel-chemistry-2016-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2016-handwritten-en.txt",
+      "video_sha256": "aa6a5c7f839c11d4f99109a3f35d94e5c8154f5a21b46cac364f2f14540967ea",
+      "caption_sha256": "dd59b70831101ed43d4828b61e9d2b75323ee6c5e2727cc49e5c433550f87af9",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-01T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "molecular machines",
+          "2016 Chemistry Nobel",
+          "catenane",
+          "rotaxane",
+          "molecular motor"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#MolecularMachines",
+          "#MolecularMotors"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2016-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2016-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

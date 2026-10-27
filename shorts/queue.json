@@ -270,6 +270,93 @@
       },
       "pair_id": "nobel-chemistry-2014-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2015-handwritten-ko",
+      "slug": "nobel-chemistry-2015-handwritten",
+      "title": "2015 노벨화학상, DNA 손상을 고치는 세 경로",
+      "language": "ko",
+      "video": "nobel-chemistry-2015-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2015-handwritten-ko.txt",
+      "video_sha256": "4619dc056edbe9261ade9ab7149f5c0acf7002d6b164527dc6a1e58337c3d7eb",
+      "caption_sha256": "c3e0aefaf623582de4a246b0c24e944d9f6d3a504d68bcc85a6999aeaaaac599",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-01T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "DNA 수선",
+          "2015 노벨화학상",
+          "염기 절제 수선",
+          "불일치 수선"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#DNA수선",
+          "#유전정보"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2015-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2015-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2016-handwritten-ko",
+      "slug": "nobel-chemistry-2016-handwritten",
+      "title": "2016 노벨화학상, 분자 부품을 움직이는 방법",
+      "language": "ko",
+      "video": "nobel-chemistry-2016-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2016-handwritten-ko.txt",
+      "video_sha256": "72742ad9882430421dbbe245ea4e6ed81e56572d2dd3e1fb325032de9e5f61c7",
+      "caption_sha256": "7526ce0d330f2f08ff7fb539ea0d848783fab16b09af3b651155c57e5d7ab9a0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-01T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "분자 기계",
+          "2016 노벨화학상",
+          "카테네인",
+          "로탁세인",
+          "분자 모터"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#분자기계",
+          "#분자모터"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2016-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2016-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [
