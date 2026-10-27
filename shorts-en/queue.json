@@ -52,6 +52,50 @@
       },
       "pair_id": "nobel-chemistry-2009-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2010-handwritten-en",
+      "slug": "nobel-chemistry-2010-handwritten",
+      "title": "How Palladium Helps Join Selected Carbons | Chemistry Nobel 2010",
+      "language": "en",
+      "video": "nobel-chemistry-2010-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2010-handwritten-en.txt",
+      "video_sha256": "a5750d54fbee6ae1e3e194aea5810088c6c9e02e06e9bb1923625880a4f04b91",
+      "caption_sha256": "06ecf991cdb522ece758ec7e9570d900d9d6cbf317042c527a3a43a07c61a5f8",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-29T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "팔라듐",
+          "교차 결합",
+          "스즈키 반응",
+          "palladium",
+          "Suzuki coupling"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#CrossCoupling",
+          "#SuzukiReaction",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2010-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2010-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

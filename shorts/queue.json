@@ -49,6 +49,50 @@
       },
       "pair_id": "nobel-chemistry-2009-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2010-handwritten-ko",
+      "slug": "nobel-chemistry-2010-handwritten",
+      "title": "팔라듐은 원하는 탄소를 어떻게 연결하나 | 2010 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2010-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2010-handwritten-ko.txt",
+      "video_sha256": "353c617f4365b889c935afbf9bacab2df5736b89eacfbf3f2b774606113aacea",
+      "caption_sha256": "bd6b314068b350d4d57be880c25fb660433d14da6e3337e65c5164a408584a19",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-29T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "팔라듐",
+          "교차 결합",
+          "스즈키 반응",
+          "palladium",
+          "Suzuki coupling"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#교차결합",
+          "#스즈키반응",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2010-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2010-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [
