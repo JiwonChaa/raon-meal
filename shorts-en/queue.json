@@ -7,7 +7,53 @@
     "A": "18:00"
   },
   "paused": false,
-  "queue": [],
+  "queue": [
+    {
+      "id": "nobel-chemistry-2009-handwritten-en",
+      "slug": "nobel-chemistry-2009-handwritten",
+      "title": "How Ribosomes Read Information and Build Proteins | Chemistry Nobel 2009",
+      "language": "en",
+      "video": "nobel-chemistry-2009-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2009-handwritten-en.txt",
+      "video_sha256": "25258d25ca37d97dcb7f23abed58ea2dbdae2755447eb8ad3bc89316762f13f0",
+      "caption_sha256": "19bd2395fa7d24aa2897e1bc5f3b0044375eb8be0151fec7e6eed391b40b8c7a",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-29T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "리보솜",
+          "단백질 합성",
+          "코돈",
+          "tRNA",
+          "ribosome",
+          "translation"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#Ribosome",
+          "#ProteinSynthesis",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2009-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2009-handwritten",
+      "thumb_offset_ms": 2400
+    }
+  ],
   "done": [
     {
       "id": "toast-fall-en-20260914",
