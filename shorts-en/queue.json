@@ -229,6 +229,50 @@
       },
       "pair_id": "nobel-chemistry-2013-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2014-handwritten-en",
+      "slug": "nobel-chemistry-2014-handwritten",
+      "title": "Resolving Smaller Structures with Fluorescence | Chemistry Nobel 2014",
+      "language": "en",
+      "video": "nobel-chemistry-2014-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2014-handwritten-en.txt",
+      "video_sha256": "692fca44b4c07c1d3292ae71c46fe10aa61375708c45ab11cd4b1fb828faad1d",
+      "caption_sha256": "1e4f0e3df3851cf95367519949c8f3474d2e6e968882b2ccc5d4ccfa4c345c38",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-31T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "초고해상도 형광 현미경",
+          "STED",
+          "단일 분자",
+          "super-resolution",
+          "localization"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#SuperResolution",
+          "#Fluorescence",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2014-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2014-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

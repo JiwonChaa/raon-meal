@@ -226,6 +226,50 @@
       },
       "pair_id": "nobel-chemistry-2013-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2014-handwritten-ko",
+      "slug": "nobel-chemistry-2014-handwritten",
+      "title": "퍼진 형광으로 더 작은 구조를 구별하는 법 | 2014 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2014-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2014-handwritten-ko.txt",
+      "video_sha256": "5d2c8ee8af0c822a8b5e717b6d141139feb2b7644b8f7a5749f056ea9c12e2fa",
+      "caption_sha256": "e2f98f9831d4d64b72944dc4198853d5dc89c485dd2605908edf402f11f4edd7",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-10-31T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "초고해상도 형광 현미경",
+          "STED",
+          "단일 분자",
+          "super-resolution",
+          "localization"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#초고해상도현미경",
+          "#형광",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2014-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2014-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [
