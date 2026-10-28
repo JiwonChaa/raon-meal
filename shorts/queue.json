@@ -6,54 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2009-handwritten-ko",
-      "slug": "nobel-chemistry-2009-handwritten",
-      "title": "리보솜은 정보를 어떻게 단백질로 바꾸나 | 2009 노벨화학상",
-      "language": "ko",
-      "video": "nobel-chemistry-2009-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2009-handwritten-ko.txt",
-      "video_sha256": "6bd671f7615b93dbcb89b767997986d77f71dfb08a0aa234c132a451a5d0c7ea",
-      "caption_sha256": "db4be40bc4c5e6f140762eda5301f4d1424bd3b21943191a256973a29737da69",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-10-28T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "리보솜",
-          "단백질 합성",
-          "코돈",
-          "tRNA",
-          "ribosome",
-          "translation"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#리보솜",
-          "#단백질합성",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2009-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2009-handwritten",
-      "thumb_offset_ms": 2400,
-      "creation_id": "18160885555537390",
-      "publish_requested_at": "2026-10-28T15:14:58.233298+09:00",
-      "media_id": "18082182473533277"
-    },
-    {
       "id": "nobel-chemistry-2010-handwritten-ko",
       "slug": "nobel-chemistry-2010-handwritten",
       "title": "팔라듐은 원하는 탄소를 어떻게 연결하나 | 2010 노벨화학상",
@@ -3750,6 +3702,57 @@
       "permalink": "https://www.instagram.com/reel/De0i2uJDinJ/",
       "published_at": "2026-10-23T12:02:48+09:00",
       "at": "2026-10-23T12:02:48+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2009-handwritten-ko",
+      "slug": "nobel-chemistry-2009-handwritten",
+      "title": "리보솜은 정보를 어떻게 단백질로 바꾸나 | 2009 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2009-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2009-handwritten-ko.txt",
+      "video_sha256": "6bd671f7615b93dbcb89b767997986d77f71dfb08a0aa234c132a451a5d0c7ea",
+      "caption_sha256": "db4be40bc4c5e6f140762eda5301f4d1424bd3b21943191a256973a29737da69",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-10-28T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "리보솜",
+          "단백질 합성",
+          "코돈",
+          "tRNA",
+          "ribosome",
+          "translation"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#리보솜",
+          "#단백질합성",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2009-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2009-handwritten",
+      "thumb_offset_ms": 2400,
+      "creation_id": "18160885555537390",
+      "publish_requested_at": "2026-10-28T15:14:58.233298+09:00",
+      "media_id": "18082182473533277",
+      "permalink": "https://www.instagram.com/reel/DfBw2Z5kwlV/",
+      "published_at": "2026-10-28T15:15:01+09:00",
+      "at": "2026-10-28T15:15:01+09:00"
     }
   ],
   "cancelled_for_remake": [
