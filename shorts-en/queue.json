@@ -489,6 +489,49 @@
       },
       "pair_id": "nobel-chemistry-2019-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2020-handwritten-en",
+      "slug": "nobel-chemistry-2020-handwritten",
+      "title": "2020 Chemistry Nobel: directing a DNA cut with RNA",
+      "language": "en",
+      "video": "nobel-chemistry-2020-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2020-handwritten-en.txt",
+      "video_sha256": "f82734c0f9b24a5170e70cfa23921b6712f1a279aabb0024f76369b09bc69da3",
+      "caption_sha256": "9577a57ca11d1840caf2e951f54fd32d4831c4bcef4af90b66b53784206661ed",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-03T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "CRISPR Cas9",
+          "2020 Chemistry Nobel",
+          "guide RNA",
+          "genome editing"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#CRISPR",
+          "#GenomeEditing"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2020-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2020-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

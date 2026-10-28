@@ -1,0 +1,4 @@
+CRISPR Cas9 uses a guide RNA and a neighboring PAM to target a DNA cut.
+The 2020 Chemistry Nobel recognized a method for genome editing. After a targeted cut, cellular repair can change the DNA sequence.
+
+#Science #Chemistry #NobelChemistry #CRISPR #GenomeEditing
