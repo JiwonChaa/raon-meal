@@ -22,7 +22,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-10-29T12:00:00+09:00",
+      "scheduled_at": "2026-10-28T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
