@@ -6,7 +6,7 @@
     "B": "12:00",
     "A": "18:00"
   },
-  "paused": true,
+  "paused": false,
   "queue": [
     {
       "id": "nobel-chemistry-2000-handwritten-en",
@@ -3594,7 +3594,6 @@
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
   "rescheduled_at": "2026-09-20T02:49:09.779706+09:00",
-  "pause_reason": "Order repaired; paused until final remote integrity validation before episode 1 publication.",
   "series_order_rules": [
     {
       "series_id": "nobel-chemistry-2000-2025-ordered",
