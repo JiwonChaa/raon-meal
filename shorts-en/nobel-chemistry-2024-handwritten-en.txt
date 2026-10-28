@@ -1,0 +1,6 @@
+2024 Chemistry Nobel: protein structure prediction and computational design.
+AlphaFold2 predicts structure from sequence; Rosetta helps choose sequences for a target structure.
+
+Amino-acid order and interactions shape a folded protein. Predictions learn from experimental data, while designed sequences must be made and tested to establish whether the intended structure forms.
+
+#Science #Chemistry #ChemistryNobel #ProteinDesign #AlphaFold

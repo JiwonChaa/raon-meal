@@ -487,6 +487,221 @@
       },
       "pair_id": "nobel-chemistry-2020-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2021-handwritten-en",
+      "slug": "nobel-chemistry-2021-handwritten",
+      "title": "2021 Chemistry Nobel: choosing a molecular mirror image",
+      "language": "en",
+      "video": "nobel-chemistry-2021-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2021-handwritten-en.txt",
+      "video_sha256": "8fcb0348d2b444a3cfc303fda90d07c1f51ea8b0f1bccdee3e6debf6a66ecd43",
+      "caption_sha256": "ba720127c5c9d9a64d437eec398e28e9faf54d25a074f7b5b8ecca4300e1c5a0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-04T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2021 Chemistry Nobel",
+          "organocatalysis",
+          "proline",
+          "asymmetric catalysis"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#Organocatalysis",
+          "#AsymmetricSynthesis"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2021-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2021-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2022-handwritten-en",
+      "slug": "nobel-chemistry-2022-handwritten",
+      "title": "2022 Chemistry Nobel: labeling glycans in living cells",
+      "language": "en",
+      "video": "nobel-chemistry-2022-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2022-handwritten-en.txt",
+      "video_sha256": "b4ee9089dbe1b549a4d26803e5aa4ff9872c75f4e02d421a00799359627fc253",
+      "caption_sha256": "0590fc0032b478a058e154ed1952d4e2ebb5845c69657acc61ba43d6b823f4d2",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-04T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2022 Chemistry Nobel",
+          "click chemistry",
+          "bioorthogonal chemistry",
+          "glycans"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#ClickChemistry",
+          "#BioorthogonalChemistry"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2022-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2022-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2023-handwritten-en",
+      "slug": "nobel-chemistry-2023-handwritten",
+      "title": "2023 Chemistry Nobel: tuning quantum-dot color by size",
+      "language": "en",
+      "video": "nobel-chemistry-2023-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2023-handwritten-en.txt",
+      "video_sha256": "66aba8cc325559a2276f6b50ccb219e85d981e882442e652fe9a4e6b27a7c8d3",
+      "caption_sha256": "127764073fd8d1102558c7ba8fe415ca16436bda5c6cd6909b335b1bc2817afc",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-05T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2023 Chemistry Nobel",
+          "quantum dots",
+          "quantum confinement",
+          "semiconductor nanocrystals"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#QuantumDots",
+          "#QuantumConfinement"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2023-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2023-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2024-handwritten-en",
+      "slug": "nobel-chemistry-2024-handwritten",
+      "title": "2024 Chemistry Nobel: predicting and designing proteins",
+      "language": "en",
+      "video": "nobel-chemistry-2024-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2024-handwritten-en.txt",
+      "video_sha256": "44f7ea48dcc54fdd93dc4d6fca8b4deab9d5b9ca9b34a718bf97a57196bd1bd4",
+      "caption_sha256": "3263984022d1a201f62d5baeb8539ee625cb7907bc53d32fa69e3f23455c823e",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-05T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2024 Chemistry Nobel",
+          "protein structure prediction",
+          "computational protein design",
+          "AlphaFold2"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#ProteinDesign",
+          "#AlphaFold"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2024-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2024-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2025-handwritten-en",
+      "slug": "nobel-chemistry-2025-handwritten",
+      "title": "2025 Chemistry Nobel: how metal–organic frameworks collect water",
+      "language": "en",
+      "video": "nobel-chemistry-2025-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2025-handwritten-en.txt",
+      "video_sha256": "9faf6cdd13c877b69ce5d3d7b607fa7424c6ccfe350011cc89538681eaeab363",
+      "caption_sha256": "d2363c79095ba22b42b8002e5ea4a04e408953fa4a53a5b5ddf6eceb13665ce0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-06T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2025 Chemistry Nobel",
+          "metal organic frameworks",
+          "MOF",
+          "water harvesting"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#MetalOrganicFrameworks",
+          "#WaterHarvesting"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2025-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2025-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [

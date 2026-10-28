@@ -485,6 +485,221 @@
       },
       "pair_id": "nobel-chemistry-2020-handwritten",
       "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2021-handwritten-ko",
+      "slug": "nobel-chemistry-2021-handwritten",
+      "title": "2021 노벨화학상: 작은 분자로 거울상 선택하기",
+      "language": "ko",
+      "video": "nobel-chemistry-2021-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2021-handwritten-ko.txt",
+      "video_sha256": "925622014058ce6423c824f12a0144c147b35566caa6656f228f75ae989e237a",
+      "caption_sha256": "c9f3fe3cf43bfa4098d190f8e469ba24048947b9b7ecd428f6108b8e61528c92",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-04T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2021 노벨화학상",
+          "유기 촉매",
+          "비대칭 합성",
+          "프로린"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#유기촉매",
+          "#비대칭합성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2021-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2021-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2022-handwritten-ko",
+      "slug": "nobel-chemistry-2022-handwritten",
+      "title": "2022 노벨화학상: 세포의 당사슬에 표지 붙이기",
+      "language": "ko",
+      "video": "nobel-chemistry-2022-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2022-handwritten-ko.txt",
+      "video_sha256": "a355a581a021882fe2f1e246210261fce8c7200632c75cb35284f5406db130ee",
+      "caption_sha256": "64a688d731a577c1698c7cfd12f79cb69612e721639958c913bedf4ea8ef07a9",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-04T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2022 노벨화학상",
+          "클릭 화학",
+          "생체 직교 화학",
+          "당사슬"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#클릭화학",
+          "#생체직교화학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2022-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2022-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2023-handwritten-ko",
+      "slug": "nobel-chemistry-2023-handwritten",
+      "title": "2023 노벨화학상: 양자점은 크기로 색을 바꿉니다",
+      "language": "ko",
+      "video": "nobel-chemistry-2023-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2023-handwritten-ko.txt",
+      "video_sha256": "60389c43f9f1c92208dc448e90457667572a13f93fd890bed763f3afef739c01",
+      "caption_sha256": "9a6d14400781f6bca2c048d97c63d88bdb18d430969f3684bc1f83eff6945c50",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-05T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2023 노벨화학상",
+          "양자점",
+          "양자 구속",
+          "반도체 나노결정"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#양자점",
+          "#양자구속"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2023-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2023-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2024-handwritten-ko",
+      "slug": "nobel-chemistry-2024-handwritten",
+      "title": "2024 노벨화학상: 단백질 구조 예측과 설계",
+      "language": "ko",
+      "video": "nobel-chemistry-2024-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2024-handwritten-ko.txt",
+      "video_sha256": "c01641a01e9afb1a8c7f17a9926b1c095b23c3e7adf6633bf8726e3864a2feaa",
+      "caption_sha256": "9e5282468d2a854a644234ddf808bf79ea3155dedc6d6f718e425f748993cba3",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-05T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2024 노벨화학상",
+          "단백질 구조 예측",
+          "단백질 설계",
+          "알파폴드2"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#단백질설계",
+          "#알파폴드"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2024-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2024-handwritten",
+      "thumb_offset_ms": 2400
+    },
+    {
+      "id": "nobel-chemistry-2025-handwritten-ko",
+      "slug": "nobel-chemistry-2025-handwritten",
+      "title": "2025 노벨화학상: 금속 유기 골격체가 물을 모으는 원리",
+      "language": "ko",
+      "video": "nobel-chemistry-2025-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2025-handwritten-ko.txt",
+      "video_sha256": "cdd2a5a66fae132f312770ea2d03d655c5f73855be7dc9edb1ea3bc71dd29613",
+      "caption_sha256": "a3c4cebdb7ea10de6c9c65141ee4b423e0788d95629be1c526babab365863636",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-06T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2025 노벨화학상",
+          "금속 유기 골격체",
+          "MOF",
+          "물 포집"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#금속유기골격체",
+          "#물포집"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2025-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2025-handwritten",
+      "thumb_offset_ms": 2400
     }
   ],
   "done": [
