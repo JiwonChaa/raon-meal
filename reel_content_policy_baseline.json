@@ -53,7 +53,16 @@
       "29-tempered-glass-ko-20260920": "f1e3063dbebbbed10a9abe151b2bb5a8df8519ebf804772413b80e87d8a47be6",
       "30-lotus-leaf-ko-20260920": "a92c577c3d8bc40d2c2f95a03cf5229e445b4b45afd003b1605ab3885e01c067",
       "chocolate-bloom-v2-ko-20260920": "7cb807ab8ae3e6d1c4bfa4ef79016551bf140295519f5e0e519cc2a5942ac4ce",
-      "microwave-hot-spots-katex-ko-20260920": "549e6c908cc72c037521b7ea2ba814cb6bf056cdaeefb989bed884606ecf928c"
+      "microwave-hot-spots-katex-ko-20260920": "549e6c908cc72c037521b7ea2ba814cb6bf056cdaeefb989bed884606ecf928c",
+      "nobel-chemistry-2000-handwritten-ko": "a7b48527c58f5d3ebcc39f81e241e40164e773d760efbc8b6f209fa67bbb0131",
+      "nobel-chemistry-2001-handwritten-ko": "da49a99f6f3ffa49538aef573ed4f4593a9a0b269dfe23f417b82d5d535f8a3f",
+      "nobel-chemistry-2002-handwritten-ko": "0c66ab32fcf3321d69c733cf21955d9b0a613220e13f366f496f7cd6370cb956",
+      "nobel-chemistry-2003-handwritten-ko": "6d651e10c343dab04ce20b5dec4a2f56b902655c2040f1eecfe4e955e4133d04",
+      "nobel-chemistry-2004-handwritten-ko": "13b930ddd84df3a4baa1c17af61a177d42398853fca2e87893d8f057313ea1f0",
+      "nobel-chemistry-2005-handwritten-ko": "b456d9a7af390f1a23a7f09f5f1a972239e81ed4095396c7989eff5566fb2482",
+      "nobel-chemistry-2006-handwritten-ko": "36d24ea77710b8c41da48d37896b351baad74de1476f44f747fddcada622699d",
+      "nobel-chemistry-2007-handwritten-ko": "1d1e0870356d64ee26171b71125994f00e2654c84a9bbdbc1596574d8ac3d658",
+      "nobel-chemistry-2008-handwritten-ko": "cdb280301b0e531b36eeae396022827fb17fee364504b0e639d9405c51930e94"
     },
     "phyedu_en": {
       "02-polarizers-en-20260920": "13b23eb1956578653b0350d9c9a1c72edd518dd7bd1d29981cc6181f2ade068d",
@@ -86,7 +95,132 @@
       "29-tempered-glass-en-20260920": "e475fb6f87a73e3027689ac0fbf5c642cceeb1d05ac49b967c69d82516e38791",
       "30-lotus-leaf-en-20260920": "e2d04c7bf14a6895922d41f5b544b268dbb0052ee28f9c20e40d19f21651c97d",
       "chocolate-bloom-v2-en-20260920": "231b969e18048fb49ba0620ceb480e3576a9fd093946a860bdfa98aca35242a1",
-      "microwave-hot-spots-katex-en-20260920": "94cee617435774c70b960c69613753a3342711eb084dd795fcaa687590ec4020"
+      "microwave-hot-spots-katex-en-20260920": "94cee617435774c70b960c69613753a3342711eb084dd795fcaa687590ec4020",
+      "nobel-chemistry-2000-handwritten-en": "e8fc15d348d50f939c36e0a7a4acfcf5484a027f599ebf255d3d5d4adf337400",
+      "nobel-chemistry-2001-handwritten-en": "a08a9c96adba0a698e7d78488d5c11fdf166a2985b06380aa8276f34060d40c9",
+      "nobel-chemistry-2002-handwritten-en": "470fcd71b9830eba8746f670fda1fee334922520dc4399cfdb23ed94e191f089",
+      "nobel-chemistry-2003-handwritten-en": "6ed953cd341012282a61a722ce1a05a8ef9ec954fcc75b40e918af52b041b670",
+      "nobel-chemistry-2004-handwritten-en": "0ebe44c2d93cdfca1ef9c836ee460f95412ea1011f7f713992fd37755b8ba659",
+      "nobel-chemistry-2005-handwritten-en": "32931cd88c382830e31e29d94282bd0e1906634c92d3526e61d1359f34eb6484",
+      "nobel-chemistry-2006-handwritten-en": "a2e18278efdbcef9e66e33a35e1b62bcdcedeb788bf4b3f4da2ecf3878297925",
+      "nobel-chemistry-2007-handwritten-en": "47cd6503ed42892e637d24437a2e66784a98502f99186a4173687e58597dc8b8",
+      "nobel-chemistry-2008-handwritten-en": "4022fed06c8f495695dcbe65d437f88c1d1086b5def3a88a3839c68fe8bec53e"
     }
-  }
+  },
+  "explicit_approved_asset_extensions": [
+    {
+      "date": "2026-10-28",
+      "reason": "Reuse exact existing user-approved episodes 1-9 for explicit chronological publication correction. Title-only intros preserved; no full new-policy compliance claimed.",
+      "assets": [
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2000-handwritten-ko",
+          "video_sha256": "a7b48527c58f5d3ebcc39f81e241e40164e773d760efbc8b6f209fa67bbb0131",
+          "legacy_review_sha256": "346604261c748650af474e79020425d15c29fd9229ffe2d968e6c71676ebf93b"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2001-handwritten-ko",
+          "video_sha256": "da49a99f6f3ffa49538aef573ed4f4593a9a0b269dfe23f417b82d5d535f8a3f",
+          "legacy_review_sha256": "9f69d63dc9f8016ff83e0d06607c508cc54bdbfe91aa4a4a078027b113ffa670"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2002-handwritten-ko",
+          "video_sha256": "0c66ab32fcf3321d69c733cf21955d9b0a613220e13f366f496f7cd6370cb956",
+          "legacy_review_sha256": "5c9253174595c5f2044838b54959dd5e89eb31e3251b8c8e480df9ad65144a4f"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2003-handwritten-ko",
+          "video_sha256": "6d651e10c343dab04ce20b5dec4a2f56b902655c2040f1eecfe4e955e4133d04",
+          "legacy_review_sha256": "3504a3dc10ddeb1e47a4631d4e676df052a13b23979c69686007f663bffcd531"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2004-handwritten-ko",
+          "video_sha256": "13b930ddd84df3a4baa1c17af61a177d42398853fca2e87893d8f057313ea1f0",
+          "legacy_review_sha256": "ef4748e31e141ebe1bd8f718d1112a0c536cf6983d4d0392d6b35eb05940f62e"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2005-handwritten-ko",
+          "video_sha256": "b456d9a7af390f1a23a7f09f5f1a972239e81ed4095396c7989eff5566fb2482",
+          "legacy_review_sha256": "171d3a809d9465930490c203658f975637c93db61ff2b9e420071ab14b35a174"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2006-handwritten-ko",
+          "video_sha256": "36d24ea77710b8c41da48d37896b351baad74de1476f44f747fddcada622699d",
+          "legacy_review_sha256": "6ce23ecd410d5b5e6f1643de47b016cf85e02fd24f0c1c6cb22fdbf1d2a64b09"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2007-handwritten-ko",
+          "video_sha256": "1d1e0870356d64ee26171b71125994f00e2654c84a9bbdbc1596574d8ac3d658",
+          "legacy_review_sha256": "df0e7979b1a23c6ed0f217d2e1cbab8d9ca58b382074dfc4c66d75d26cc491f6"
+        },
+        {
+          "account": "phyedu_net",
+          "id": "nobel-chemistry-2008-handwritten-ko",
+          "video_sha256": "cdb280301b0e531b36eeae396022827fb17fee364504b0e639d9405c51930e94",
+          "legacy_review_sha256": "2ce1bfc24052fa62024a702f6efcfd5f62ced8a35b1116d6d54c924a086370cf"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2000-handwritten-en",
+          "video_sha256": "e8fc15d348d50f939c36e0a7a4acfcf5484a027f599ebf255d3d5d4adf337400",
+          "legacy_review_sha256": "08c164d59e1d090827aee228735d6dbe23427b81269c5f8cbacff0562a48199c"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2001-handwritten-en",
+          "video_sha256": "a08a9c96adba0a698e7d78488d5c11fdf166a2985b06380aa8276f34060d40c9",
+          "legacy_review_sha256": "25cd5202647859ba68284bb151fa9deb9122765bffcb6279db2574e05bee7c2f"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2002-handwritten-en",
+          "video_sha256": "470fcd71b9830eba8746f670fda1fee334922520dc4399cfdb23ed94e191f089",
+          "legacy_review_sha256": "56f70b258c093f0084ab5c2c56dbfc67aa7fc801956c0278b181e1940718e541"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2003-handwritten-en",
+          "video_sha256": "6ed953cd341012282a61a722ce1a05a8ef9ec954fcc75b40e918af52b041b670",
+          "legacy_review_sha256": "674679706edc0a7d6a6b9eb12e9d4f8d3da05aaaf2964d96903d2f61e71f2060"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2004-handwritten-en",
+          "video_sha256": "0ebe44c2d93cdfca1ef9c836ee460f95412ea1011f7f713992fd37755b8ba659",
+          "legacy_review_sha256": "1ed610a9b1f24588607357c86116ab414cef69c39ecffb7ac1b9eeea46a76d9a"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2005-handwritten-en",
+          "video_sha256": "32931cd88c382830e31e29d94282bd0e1906634c92d3526e61d1359f34eb6484",
+          "legacy_review_sha256": "b54a5bf046e79da4bf058de18d1a833e523bc595a163470c9e2e3bed2249b004"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2006-handwritten-en",
+          "video_sha256": "a2e18278efdbcef9e66e33a35e1b62bcdcedeb788bf4b3f4da2ecf3878297925",
+          "legacy_review_sha256": "bb0683a0146d1a3091e0e1feae19f09f1834b3841aa316285a7c5367fb56b743"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2007-handwritten-en",
+          "video_sha256": "47cd6503ed42892e637d24437a2e66784a98502f99186a4173687e58597dc8b8",
+          "legacy_review_sha256": "0be7227df50cec74e483999ed5b9877b3d8288dba482db5c7c01ec26f8cb0063"
+        },
+        {
+          "account": "phyedu_en",
+          "id": "nobel-chemistry-2008-handwritten-en",
+          "video_sha256": "4022fed06c8f495695dcbe65d437f88c1d1086b5def3a88a3839c68fe8bec53e",
+          "legacy_review_sha256": "b1aea757835ded80491f71d6906540cfcf6fcbfba799d0fb3afc4bfcc6ecbeb9"
+        }
+      ]
+    }
+  ]
 }

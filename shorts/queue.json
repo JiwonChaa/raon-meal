@@ -6,6 +6,452 @@
   "paused": true,
   "queue": [
     {
+      "id": "nobel-chemistry-2000-handwritten-ko",
+      "slug": "nobel-chemistry-2000-handwritten",
+      "title": "21세기 노벨화학상 총정리 1편 (2000년): 전도성 고분자",
+      "language": "ko",
+      "video": "nobel-chemistry-2000-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2000-handwritten-ko.txt",
+      "video_sha256": "a7b48527c58f5d3ebcc39f81e241e40164e773d760efbc8b6f209fa67bbb0131",
+      "caption_sha256": "b16f1d9c56b25fdc70535a69750658ef6482d354c7cdf01c44533bc62c80ff92",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2000-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "전도성 고분자",
+          "폴리아세틸렌",
+          "도핑",
+          "전류"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#전도성고분자",
+          "#도핑",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2000-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 1,
+      "series_year": 2000,
+      "slot": "A",
+      "scheduled_at": "2026-10-28T18:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2001-handwritten-ko",
+      "slug": "nobel-chemistry-2001-handwritten",
+      "title": "21세기 노벨화학상 총정리 2편 (2001년): 키랄 촉매",
+      "language": "ko",
+      "video": "nobel-chemistry-2001-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2001-handwritten-ko.txt",
+      "video_sha256": "da49a99f6f3ffa49538aef573ed4f4593a9a0b269dfe23f417b82d5d535f8a3f",
+      "caption_sha256": "5651b407031f938b2c958888b0fc1e3c31746104a9fac8fb32a1f63d66249928",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2001-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "키랄 촉매",
+          "거울상 이성질체",
+          "수소화 반응",
+          "산화 반응"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#키랄촉매",
+          "#거울상이성질체",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2001-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 2,
+      "series_year": 2001,
+      "slot": "B",
+      "scheduled_at": "2026-10-29T12:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2002-handwritten-ko",
+      "slug": "nobel-chemistry-2002-handwritten",
+      "title": "21세기 노벨화학상 총정리 3편 (2002년): 생체 분자의 질량과 구조",
+      "language": "ko",
+      "video": "nobel-chemistry-2002-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2002-handwritten-ko.txt",
+      "video_sha256": "0c66ab32fcf3321d69c733cf21955d9b0a613220e13f366f496f7cd6370cb956",
+      "caption_sha256": "ce82f013d28bac8da44c64ab856d15d4c8f0e90a2d4a2fb10d18e683d828b5bb",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2002-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "질량 분석",
+          "이온화",
+          "핵자기 공명",
+          "단백질 구조"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#질량분석",
+          "#핵자기공명",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2002-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 3,
+      "series_year": 2002,
+      "slot": "A",
+      "scheduled_at": "2026-10-29T18:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2003-handwritten-ko",
+      "slug": "nobel-chemistry-2003-handwritten",
+      "title": "21세기 노벨화학상 총정리 4편 (2003년): 물 통로와 이온 통로",
+      "language": "ko",
+      "video": "nobel-chemistry-2003-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2003-handwritten-ko.txt",
+      "video_sha256": "6d651e10c343dab04ce20b5dec4a2f56b902655c2040f1eecfe4e955e4133d04",
+      "caption_sha256": "4b454db20cb780b34e8b2e49a7a561f890e66e7ff201e51ce43eb00dcb50eace",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2003-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "아쿠아포린",
+          "이온 통로",
+          "선택성 필터",
+          "칼륨 이온"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#아쿠아포린",
+          "#이온통로",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2003-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 4,
+      "series_year": 2003,
+      "slot": "B",
+      "scheduled_at": "2026-10-30T12:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2004-handwritten-ko",
+      "slug": "nobel-chemistry-2004-handwritten",
+      "title": "21세기 노벨화학상 총정리 5편 (2004년): 유비퀴틴과 단백질 분해",
+      "language": "ko",
+      "video": "nobel-chemistry-2004-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2004-handwritten-ko.txt",
+      "video_sha256": "13b930ddd84df3a4baa1c17af61a177d42398853fca2e87893d8f057313ea1f0",
+      "caption_sha256": "96e0043c37bdaffe0ade9da10d807f0b40d98496a123ebe6ce58872b625030c0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2004-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "유비퀴틴",
+          "프로테아좀",
+          "단백질 분해",
+          "세포 신호"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#유비퀴틴",
+          "#단백질분해",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2004-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 5,
+      "series_year": 2004,
+      "slot": "A",
+      "scheduled_at": "2026-10-30T18:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2005-handwritten-ko",
+      "slug": "nobel-chemistry-2005-handwritten",
+      "title": "21세기 노벨화학상 총정리 6편 (2005년): 올레핀 메타세시스",
+      "language": "ko",
+      "video": "nobel-chemistry-2005-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2005-handwritten-ko.txt",
+      "video_sha256": "b456d9a7af390f1a23a7f09f5f1a972239e81ed4095396c7989eff5566fb2482",
+      "caption_sha256": "a3d047a62491cd3ee8393a78f223f82588129be419304fe042773a72f5bb2899",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2005-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "올레핀 메타세시스",
+          "금속 카벤",
+          "촉매",
+          "유기 합성"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#메타세시스",
+          "#유기합성",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2005-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 6,
+      "series_year": 2005,
+      "slot": "B",
+      "scheduled_at": "2026-10-31T12:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2006-handwritten-ko",
+      "slug": "nobel-chemistry-2006-handwritten",
+      "title": "21세기 노벨화학상 총정리 7편 (2006년): DNA에서 RNA로 전사",
+      "language": "ko",
+      "video": "nobel-chemistry-2006-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2006-handwritten-ko.txt",
+      "video_sha256": "36d24ea77710b8c41da48d37896b351baad74de1476f44f747fddcada622699d",
+      "caption_sha256": "bad72275a7e90f5d502ef0e266534cc64dc8292132a698efdc4fed5756472f68",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2006-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "전사",
+          "RNA 중합효소",
+          "DNA",
+          "엑스선 결정학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#전사",
+          "#RNA중합효소",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2006-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 7,
+      "series_year": 2006,
+      "slot": "A",
+      "scheduled_at": "2026-10-31T18:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2007-handwritten-ko",
+      "slug": "nobel-chemistry-2007-handwritten",
+      "title": "21세기 노벨화학상 총정리 8편 (2007년): 고체 표면의 화학 반응",
+      "language": "ko",
+      "video": "nobel-chemistry-2007-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2007-handwritten-ko.txt",
+      "video_sha256": "1d1e0870356d64ee26171b71125994f00e2654c84a9bbdbc1596574d8ac3d658",
+      "caption_sha256": "a338f4dde2a7263812dc4ff8d654a457f784da06716492d423fa5213bd2d5e6b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2007-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "표면 촉매",
+          "흡착",
+          "탈착",
+          "반응 속도"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#표면화학",
+          "#촉매",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2007-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 8,
+      "series_year": 2007,
+      "slot": "B",
+      "scheduled_at": "2026-11-01T12:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2008-handwritten-ko",
+      "slug": "nobel-chemistry-2008-handwritten",
+      "title": "21세기 노벨화학상 총정리 9편 (2008년): 녹색 형광 단백질 GFP",
+      "language": "ko",
+      "video": "nobel-chemistry-2008-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2008-handwritten-ko.txt",
+      "video_sha256": "cdb280301b0e531b36eeae396022827fb17fee364504b0e639d9405c51930e94",
+      "caption_sha256": "b717ddec44a3b252379877416d4ecd8ccf5e282d8816bff7e09343a4ea19cd18",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2008-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "녹색 형광 단백질",
+          "GFP",
+          "형광",
+          "단백질 추적"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#GFP",
+          "#형광단백질",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2008-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 9,
+      "series_year": 2008,
+      "slot": "A",
+      "scheduled_at": "2026-11-01T18:00:00+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2009-handwritten-ko-ordered-reissue",
+      "slug": "nobel-chemistry-2009-handwritten",
+      "title": "21세기 노벨화학상 총정리 10편 (2009년)",
+      "language": "ko",
+      "video": "nobel-chemistry-2009-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2009-handwritten-ko-ordered-reissue.txt",
+      "video_sha256": "6bd671f7615b93dbcb89b767997986d77f71dfb08a0aa234c132a451a5d0c7ea",
+      "caption_sha256": "a1ea53c54065ab342503bb2cfd2336cafd5643ac716aa23ce721492ba9bb2a4d",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User explicitly corrected series order to begin with episode 1; episode 10 is scheduled after episode 9.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-02T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "리보솜",
+          "단백질 합성",
+          "코돈",
+          "tRNA",
+          "ribosome",
+          "translation"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#리보솜",
+          "#단백질합성",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2009-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2009-handwritten",
+      "thumb_offset_ms": 2400,
+      "reissue_of": "nobel-chemistry-2009-handwritten-ko",
+      "previous_out_of_order_media_id": "18082182473533277",
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 10,
+      "series_year": 2009
+    },
+    {
       "id": "nobel-chemistry-2010-handwritten-ko",
       "slug": "nobel-chemistry-2010-handwritten",
       "title": "팔라듐은 원하는 탄소를 어떻게 연결하나 | 2010 노벨화학상",
@@ -19,7 +465,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-10-29T18:00:00+09:00",
+      "scheduled_at": "2026-11-02T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -47,7 +493,10 @@
         "pair_id": "nobel-chemistry-2010-handwritten"
       },
       "pair_id": "nobel-chemistry-2010-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 11,
+      "series_year": 2010
     },
     {
       "id": "nobel-chemistry-2011-handwritten-ko",
@@ -63,7 +512,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-10-30T12:00:00+09:00",
+      "scheduled_at": "2026-11-03T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -91,7 +540,10 @@
         "pair_id": "nobel-chemistry-2011-handwritten"
       },
       "pair_id": "nobel-chemistry-2011-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 12,
+      "series_year": 2011
     },
     {
       "id": "nobel-chemistry-2012-handwritten-ko",
@@ -107,7 +559,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-10-30T18:00:00+09:00",
+      "scheduled_at": "2026-11-03T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -136,7 +588,10 @@
         "pair_id": "nobel-chemistry-2012-handwritten"
       },
       "pair_id": "nobel-chemistry-2012-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 13,
+      "series_year": 2012
     },
     {
       "id": "nobel-chemistry-2013-handwritten-ko",
@@ -152,7 +607,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-10-31T12:00:00+09:00",
+      "scheduled_at": "2026-11-04T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -180,7 +635,10 @@
         "pair_id": "nobel-chemistry-2013-handwritten"
       },
       "pair_id": "nobel-chemistry-2013-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 14,
+      "series_year": 2013
     },
     {
       "id": "nobel-chemistry-2014-handwritten-ko",
@@ -196,7 +654,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-10-31T18:00:00+09:00",
+      "scheduled_at": "2026-11-04T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -224,7 +682,10 @@
         "pair_id": "nobel-chemistry-2014-handwritten"
       },
       "pair_id": "nobel-chemistry-2014-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 15,
+      "series_year": 2014
     },
     {
       "id": "nobel-chemistry-2015-handwritten-ko",
@@ -240,7 +701,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-11-01T12:00:00+09:00",
+      "scheduled_at": "2026-11-05T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -267,7 +728,10 @@
         "pair_id": "nobel-chemistry-2015-handwritten"
       },
       "pair_id": "nobel-chemistry-2015-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 16,
+      "series_year": 2015
     },
     {
       "id": "nobel-chemistry-2016-handwritten-ko",
@@ -283,7 +747,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-11-01T18:00:00+09:00",
+      "scheduled_at": "2026-11-05T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -311,7 +775,10 @@
         "pair_id": "nobel-chemistry-2016-handwritten"
       },
       "pair_id": "nobel-chemistry-2016-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 17,
+      "series_year": 2016
     },
     {
       "id": "nobel-chemistry-2017-handwritten-ko",
@@ -327,7 +794,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-11-02T12:00:00+09:00",
+      "scheduled_at": "2026-11-06T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -354,7 +821,10 @@
         "pair_id": "nobel-chemistry-2017-handwritten"
       },
       "pair_id": "nobel-chemistry-2017-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 18,
+      "series_year": 2017
     },
     {
       "id": "nobel-chemistry-2018-handwritten-ko",
@@ -370,7 +840,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-11-02T18:00:00+09:00",
+      "scheduled_at": "2026-11-06T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -397,7 +867,10 @@
         "pair_id": "nobel-chemistry-2018-handwritten"
       },
       "pair_id": "nobel-chemistry-2018-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 19,
+      "series_year": 2018
     },
     {
       "id": "nobel-chemistry-2019-handwritten-ko",
@@ -413,7 +886,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-11-03T12:00:00+09:00",
+      "scheduled_at": "2026-11-07T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -441,7 +914,10 @@
         "pair_id": "nobel-chemistry-2019-handwritten"
       },
       "pair_id": "nobel-chemistry-2019-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 20,
+      "series_year": 2019
     },
     {
       "id": "nobel-chemistry-2020-handwritten-ko",
@@ -457,7 +933,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-11-03T18:00:00+09:00",
+      "scheduled_at": "2026-11-07T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -484,7 +960,10 @@
         "pair_id": "nobel-chemistry-2020-handwritten"
       },
       "pair_id": "nobel-chemistry-2020-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 21,
+      "series_year": 2020
     },
     {
       "id": "nobel-chemistry-2021-handwritten-ko",
@@ -500,7 +979,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-11-04T12:00:00+09:00",
+      "scheduled_at": "2026-11-08T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -527,7 +1006,10 @@
         "pair_id": "nobel-chemistry-2021-handwritten"
       },
       "pair_id": "nobel-chemistry-2021-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 22,
+      "series_year": 2021
     },
     {
       "id": "nobel-chemistry-2022-handwritten-ko",
@@ -543,7 +1025,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-11-04T18:00:00+09:00",
+      "scheduled_at": "2026-11-08T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -570,7 +1052,10 @@
         "pair_id": "nobel-chemistry-2022-handwritten"
       },
       "pair_id": "nobel-chemistry-2022-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 23,
+      "series_year": 2022
     },
     {
       "id": "nobel-chemistry-2023-handwritten-ko",
@@ -586,7 +1071,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-11-05T12:00:00+09:00",
+      "scheduled_at": "2026-11-09T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -613,7 +1098,10 @@
         "pair_id": "nobel-chemistry-2023-handwritten"
       },
       "pair_id": "nobel-chemistry-2023-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 24,
+      "series_year": 2023
     },
     {
       "id": "nobel-chemistry-2024-handwritten-ko",
@@ -629,7 +1117,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "A",
-      "scheduled_at": "2026-11-05T18:00:00+09:00",
+      "scheduled_at": "2026-11-09T18:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -656,7 +1144,10 @@
         "pair_id": "nobel-chemistry-2024-handwritten"
       },
       "pair_id": "nobel-chemistry-2024-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 25,
+      "series_year": 2024
     },
     {
       "id": "nobel-chemistry-2025-handwritten-ko",
@@ -672,7 +1163,7 @@
       "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
       "human_listening_approved": false,
       "slot": "B",
-      "scheduled_at": "2026-11-06T12:00:00+09:00",
+      "scheduled_at": "2026-11-10T12:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -699,7 +1190,10 @@
         "pair_id": "nobel-chemistry-2025-handwritten"
       },
       "pair_id": "nobel-chemistry-2025-handwritten",
-      "thumb_offset_ms": 2400
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 26,
+      "series_year": 2025
     }
   ],
   "done": [
@@ -4220,5 +4714,38 @@
   "schema_version": 2,
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
   "rescheduled_at": "2026-09-20T15:27:04+09:00",
-  "pause_reason": "User requested full Nobel chemistry series from episode1 (year2000); block later episodes while correcting order."
+  "pause_reason": "Order repaired; paused until final remote integrity validation before episode 1 publication.",
+  "series_order_rules": [
+    {
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "ordered_ids": [
+        "nobel-chemistry-2000-handwritten-ko",
+        "nobel-chemistry-2001-handwritten-ko",
+        "nobel-chemistry-2002-handwritten-ko",
+        "nobel-chemistry-2003-handwritten-ko",
+        "nobel-chemistry-2004-handwritten-ko",
+        "nobel-chemistry-2005-handwritten-ko",
+        "nobel-chemistry-2006-handwritten-ko",
+        "nobel-chemistry-2007-handwritten-ko",
+        "nobel-chemistry-2008-handwritten-ko",
+        "nobel-chemistry-2009-handwritten-ko-ordered-reissue",
+        "nobel-chemistry-2010-handwritten-ko",
+        "nobel-chemistry-2011-handwritten-ko",
+        "nobel-chemistry-2012-handwritten-ko",
+        "nobel-chemistry-2013-handwritten-ko",
+        "nobel-chemistry-2014-handwritten-ko",
+        "nobel-chemistry-2015-handwritten-ko",
+        "nobel-chemistry-2016-handwritten-ko",
+        "nobel-chemistry-2017-handwritten-ko",
+        "nobel-chemistry-2018-handwritten-ko",
+        "nobel-chemistry-2019-handwritten-ko",
+        "nobel-chemistry-2020-handwritten-ko",
+        "nobel-chemistry-2021-handwritten-ko",
+        "nobel-chemistry-2022-handwritten-ko",
+        "nobel-chemistry-2023-handwritten-ko",
+        "nobel-chemistry-2024-handwritten-ko",
+        "nobel-chemistry-2025-handwritten-ko"
+      ]
+    }
+  ]
 }
