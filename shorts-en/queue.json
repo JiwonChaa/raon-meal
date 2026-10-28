@@ -6,7 +6,7 @@
     "B": "12:00",
     "A": "18:00"
   },
-  "paused": false,
+  "paused": true,
   "queue": [
     {
       "id": "nobel-chemistry-2010-handwritten-en",
@@ -3099,5 +3099,6 @@
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
-  "rescheduled_at": "2026-09-20T02:49:09.779706+09:00"
+  "rescheduled_at": "2026-09-20T02:49:09.779706+09:00",
+  "pause_reason": "User requested full Nobel chemistry series from episode1 (year2000); block later episodes while correcting order."
 }
