@@ -48,7 +48,8 @@
       "series_year": 2000,
       "slot": "A",
       "scheduled_at": "2026-10-28T18:00:00+09:00",
-      "creation_id": "18160953766537390"
+      "creation_id": "18160953766537390",
+      "publish_requested_at": "2026-10-28T21:10:10.858564+09:00"
     },
     {
       "id": "nobel-chemistry-2001-handwritten-ko",
