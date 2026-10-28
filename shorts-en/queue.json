@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2000-handwritten-en",
-      "slug": "nobel-chemistry-2000-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 1 (2000): Conductive Polymers",
-      "language": "en",
-      "video": "nobel-chemistry-2000-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2000-handwritten-en.txt",
-      "video_sha256": "e8fc15d348d50f939c36e0a7a4acfcf5484a027f599ebf255d3d5d4adf337400",
-      "caption_sha256": "cafda5f3fdccd3315a766d12943f8d2dabd3ed0b1d3da698c2cf44f56165bab8",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2000-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "conductive polymers",
-          "polyacetylene",
-          "doping",
-          "electric current"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ConductivePolymers",
-          "#Doping",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2000-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 1,
-      "series_year": 2000,
-      "slot": "A",
-      "scheduled_at": "2026-10-28T18:00:00+09:00",
-      "creation_id": "18129158779768269",
-      "publish_requested_at": "2026-10-28T21:09:24.056740+09:00",
-      "media_id": "18192118357404327"
-    },
-    {
       "id": "nobel-chemistry-2001-handwritten-en",
       "slug": "nobel-chemistry-2001-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 2 (2001): Chiral Catalysts",
@@ -3593,6 +3546,55 @@
       "media_id": "18083506622382302",
       "permalink": "https://www.instagram.com/reel/DfBw31vDb1y/",
       "published_at": "2026-10-28T15:15:37+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2000-handwritten-en",
+      "slug": "nobel-chemistry-2000-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 1 (2000): Conductive Polymers",
+      "language": "en",
+      "video": "nobel-chemistry-2000-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2000-handwritten-en.txt",
+      "video_sha256": "e8fc15d348d50f939c36e0a7a4acfcf5484a027f599ebf255d3d5d4adf337400",
+      "caption_sha256": "cafda5f3fdccd3315a766d12943f8d2dabd3ed0b1d3da698c2cf44f56165bab8",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2000-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "conductive polymers",
+          "polyacetylene",
+          "doping",
+          "electric current"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ConductivePolymers",
+          "#Doping",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2000-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 1,
+      "series_year": 2000,
+      "slot": "A",
+      "scheduled_at": "2026-10-28T18:00:00+09:00",
+      "creation_id": "18129158779768269",
+      "publish_requested_at": "2026-10-28T21:09:24.056740+09:00",
+      "media_id": "18192118357404327",
+      "permalink": "https://www.instagram.com/reel/DfCZY-XFUOL/",
+      "published_at": "2026-10-28T21:09:27+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
