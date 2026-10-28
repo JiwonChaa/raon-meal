@@ -52,7 +52,8 @@
       "slot": "A",
       "scheduled_at": "2026-10-28T18:00:00+09:00",
       "creation_id": "18129158779768269",
-      "publish_requested_at": "2026-10-28T21:09:24.056740+09:00"
+      "publish_requested_at": "2026-10-28T21:09:24.056740+09:00",
+      "media_id": "18192118357404327"
     },
     {
       "id": "nobel-chemistry-2001-handwritten-en",
