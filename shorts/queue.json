@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2000-handwritten-ko",
-      "slug": "nobel-chemistry-2000-handwritten",
-      "title": "21세기 노벨화학상 총정리 1편 (2000년): 전도성 고분자",
-      "language": "ko",
-      "video": "nobel-chemistry-2000-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2000-handwritten-ko.txt",
-      "video_sha256": "a7b48527c58f5d3ebcc39f81e241e40164e773d760efbc8b6f209fa67bbb0131",
-      "caption_sha256": "b16f1d9c56b25fdc70535a69750658ef6482d354c7cdf01c44533bc62c80ff92",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2000-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "전도성 고분자",
-          "폴리아세틸렌",
-          "도핑",
-          "전류"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#전도성고분자",
-          "#도핑",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2000-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 1,
-      "series_year": 2000,
-      "slot": "A",
-      "scheduled_at": "2026-10-28T18:00:00+09:00",
-      "creation_id": "18160953766537390",
-      "publish_requested_at": "2026-10-28T21:10:10.858564+09:00",
-      "media_id": "18075219230785023"
-    },
-    {
       "id": "nobel-chemistry-2001-handwritten-ko",
       "slug": "nobel-chemistry-2001-handwritten",
       "title": "21세기 노벨화학상 총정리 2편 (2001년): 키랄 촉매",
@@ -4465,6 +4418,56 @@
       "permalink": "https://www.instagram.com/reel/DfBw2Z5kwlV/",
       "published_at": "2026-10-28T15:15:01+09:00",
       "at": "2026-10-28T15:15:01+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2000-handwritten-ko",
+      "slug": "nobel-chemistry-2000-handwritten",
+      "title": "21세기 노벨화학상 총정리 1편 (2000년): 전도성 고분자",
+      "language": "ko",
+      "video": "nobel-chemistry-2000-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2000-handwritten-ko.txt",
+      "video_sha256": "a7b48527c58f5d3ebcc39f81e241e40164e773d760efbc8b6f209fa67bbb0131",
+      "caption_sha256": "b16f1d9c56b25fdc70535a69750658ef6482d354c7cdf01c44533bc62c80ff92",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2000-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "전도성 고분자",
+          "폴리아세틸렌",
+          "도핑",
+          "전류"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#전도성고분자",
+          "#도핑",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2000-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 1,
+      "series_year": 2000,
+      "slot": "A",
+      "scheduled_at": "2026-10-28T18:00:00+09:00",
+      "creation_id": "18160953766537390",
+      "publish_requested_at": "2026-10-28T21:10:10.858564+09:00",
+      "media_id": "18075219230785023",
+      "permalink": "https://www.instagram.com/reel/DfCZfmVmyPX/",
+      "published_at": "2026-10-28T21:10:13+09:00",
+      "at": "2026-10-28T21:10:13+09:00"
     }
   ],
   "cancelled_for_remake": [
