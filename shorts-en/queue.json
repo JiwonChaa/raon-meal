@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2001-handwritten-en",
-      "slug": "nobel-chemistry-2001-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 2 (2001): Chiral Catalysts",
-      "language": "en",
-      "video": "nobel-chemistry-2001-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2001-handwritten-en.txt",
-      "video_sha256": "a08a9c96adba0a698e7d78488d5c11fdf166a2985b06380aa8276f34060d40c9",
-      "caption_sha256": "8388e7ae6cf1f2c6be955ff700c6a887fa7e8bcde794855da1a94197c82ebd62",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2001-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "chiral catalysts",
-          "enantiomers",
-          "hydrogenation",
-          "oxidation"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ChiralCatalysis",
-          "#Enantiomers",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2001-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 2,
-      "series_year": 2001,
-      "slot": "B",
-      "scheduled_at": "2026-10-29T12:00:00+09:00",
-      "creation_id": "18129334426768269",
-      "publish_requested_at": "2026-10-29T12:07:24.211922+09:00",
-      "media_id": "18134295367666991"
-    },
-    {
       "id": "nobel-chemistry-2002-handwritten-en",
       "slug": "nobel-chemistry-2002-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 3 (2002): Biomolecular Mass and Structure",
@@ -3598,6 +3551,55 @@
       "media_id": "18192118357404327",
       "permalink": "https://www.instagram.com/reel/DfCZY-XFUOL/",
       "published_at": "2026-10-28T21:09:27+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2001-handwritten-en",
+      "slug": "nobel-chemistry-2001-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 2 (2001): Chiral Catalysts",
+      "language": "en",
+      "video": "nobel-chemistry-2001-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2001-handwritten-en.txt",
+      "video_sha256": "a08a9c96adba0a698e7d78488d5c11fdf166a2985b06380aa8276f34060d40c9",
+      "caption_sha256": "8388e7ae6cf1f2c6be955ff700c6a887fa7e8bcde794855da1a94197c82ebd62",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2001-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "chiral catalysts",
+          "enantiomers",
+          "hydrogenation",
+          "oxidation"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChiralCatalysis",
+          "#Enantiomers",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2001-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 2,
+      "series_year": 2001,
+      "slot": "B",
+      "scheduled_at": "2026-10-29T12:00:00+09:00",
+      "creation_id": "18129334426768269",
+      "publish_requested_at": "2026-10-29T12:07:24.211922+09:00",
+      "media_id": "18134295367666991",
+      "permalink": "https://www.instagram.com/reel/DfEALGvjdjJ/",
+      "published_at": "2026-10-29T12:07:27+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
