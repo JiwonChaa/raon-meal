@@ -52,7 +52,8 @@
       "slot": "B",
       "scheduled_at": "2026-10-29T12:00:00+09:00",
       "creation_id": "18129334426768269",
-      "publish_requested_at": "2026-10-29T12:07:24.211922+09:00"
+      "publish_requested_at": "2026-10-29T12:07:24.211922+09:00",
+      "media_id": "18134295367666991"
     },
     {
       "id": "nobel-chemistry-2002-handwritten-en",
