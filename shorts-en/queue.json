@@ -51,7 +51,8 @@
       "series_year": 2002,
       "slot": "A",
       "scheduled_at": "2026-10-29T18:00:00+09:00",
-      "creation_id": "18129396943768269"
+      "creation_id": "18129396943768269",
+      "publish_requested_at": "2026-10-29T18:04:00.453995+09:00"
     },
     {
       "id": "nobel-chemistry-2003-handwritten-en",
