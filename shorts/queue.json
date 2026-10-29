@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2001-handwritten-ko",
-      "slug": "nobel-chemistry-2001-handwritten",
-      "title": "21세기 노벨화학상 총정리 2편 (2001년): 키랄 촉매",
-      "language": "ko",
-      "video": "nobel-chemistry-2001-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2001-handwritten-ko.txt",
-      "video_sha256": "da49a99f6f3ffa49538aef573ed4f4593a9a0b269dfe23f417b82d5d535f8a3f",
-      "caption_sha256": "5651b407031f938b2c958888b0fc1e3c31746104a9fac8fb32a1f63d66249928",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2001-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "키랄 촉매",
-          "거울상 이성질체",
-          "수소화 반응",
-          "산화 반응"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#키랄촉매",
-          "#거울상이성질체",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2001-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 2,
-      "series_year": 2001,
-      "slot": "B",
-      "scheduled_at": "2026-10-29T12:00:00+09:00",
-      "creation_id": "18161102086537390",
-      "publish_requested_at": "2026-10-29T12:07:09.070700+09:00",
-      "media_id": "17915845005532296"
-    },
-    {
       "id": "nobel-chemistry-2002-handwritten-ko",
       "slug": "nobel-chemistry-2002-handwritten",
       "title": "21세기 노벨화학상 총정리 3편 (2002년): 생체 분자의 질량과 구조",
@@ -4471,6 +4424,56 @@
       "permalink": "https://www.instagram.com/reel/DfCZfmVmyPX/",
       "published_at": "2026-10-28T21:10:13+09:00",
       "at": "2026-10-28T21:10:13+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2001-handwritten-ko",
+      "slug": "nobel-chemistry-2001-handwritten",
+      "title": "21세기 노벨화학상 총정리 2편 (2001년): 키랄 촉매",
+      "language": "ko",
+      "video": "nobel-chemistry-2001-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2001-handwritten-ko.txt",
+      "video_sha256": "da49a99f6f3ffa49538aef573ed4f4593a9a0b269dfe23f417b82d5d535f8a3f",
+      "caption_sha256": "5651b407031f938b2c958888b0fc1e3c31746104a9fac8fb32a1f63d66249928",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2001-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "키랄 촉매",
+          "거울상 이성질체",
+          "수소화 반응",
+          "산화 반응"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#키랄촉매",
+          "#거울상이성질체",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2001-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 2,
+      "series_year": 2001,
+      "slot": "B",
+      "scheduled_at": "2026-10-29T12:00:00+09:00",
+      "creation_id": "18161102086537390",
+      "publish_requested_at": "2026-10-29T12:07:09.070700+09:00",
+      "media_id": "17915845005532296",
+      "permalink": "https://www.instagram.com/reel/DfEAJQvAa8i/",
+      "published_at": "2026-10-29T12:07:12+09:00",
+      "at": "2026-10-29T12:07:12+09:00"
     }
   ],
   "cancelled_for_remake": [
