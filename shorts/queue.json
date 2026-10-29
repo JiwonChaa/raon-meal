@@ -49,7 +49,8 @@
       "slot": "B",
       "scheduled_at": "2026-10-29T12:00:00+09:00",
       "creation_id": "18161102086537390",
-      "publish_requested_at": "2026-10-29T12:07:09.070700+09:00"
+      "publish_requested_at": "2026-10-29T12:07:09.070700+09:00",
+      "media_id": "17915845005532296"
     },
     {
       "id": "nobel-chemistry-2002-handwritten-ko",
