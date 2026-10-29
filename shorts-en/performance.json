@@ -2161,6 +2161,26 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2000-handwritten-en",
+      "media_id": "18192118357404327",
+      "permalink": "https://www.instagram.com/reel/DfCZY-XFUOL/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 30.432,
+      "captured_at": "2026-10-29T18:35:23.805661+00:00",
+      "views": 1865,
+      "reach": 1567,
+      "average_watch_time_ms": 21885,
+      "total_watch_time_ms": 35651587,
+      "likes": 54,
+      "comments": 0,
+      "shares": 2,
+      "saved": 16,
+      "total_interactions": 72,
+      "shares_per_1000_reach": 1.276,
+      "saves_per_1000_reach": 10.211
     }
   ]
 }
