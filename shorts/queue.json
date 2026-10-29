@@ -47,7 +47,8 @@
       "episode_number": 3,
       "series_year": 2002,
       "slot": "A",
-      "scheduled_at": "2026-10-29T18:00:00+09:00"
+      "scheduled_at": "2026-10-29T18:00:00+09:00",
+      "creation_id": "18161156695537390"
     },
     {
       "id": "nobel-chemistry-2003-handwritten-ko",
