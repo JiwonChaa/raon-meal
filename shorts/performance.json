@@ -2161,6 +2161,26 @@
       "total_interactions": 54,
       "shares_per_1000_reach": 12.201,
       "saves_per_1000_reach": 4.067
+    },
+    {
+      "item_id": "nobel-chemistry-2000-handwritten-ko",
+      "media_id": "18075219230785023",
+      "permalink": "https://www.instagram.com/reel/DfCZfmVmyPX/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 30.418,
+      "captured_at": "2026-10-29T18:35:19.195260+00:00",
+      "views": 2830,
+      "reach": 2450,
+      "average_watch_time_ms": 11291,
+      "total_watch_time_ms": 26626006,
+      "likes": 34,
+      "comments": 2,
+      "shares": 9,
+      "saved": 10,
+      "total_interactions": 55,
+      "shares_per_1000_reach": 3.673,
+      "saves_per_1000_reach": 4.082
     }
   ]
 }
