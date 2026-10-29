@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2002-handwritten-ko",
-      "slug": "nobel-chemistry-2002-handwritten",
-      "title": "21세기 노벨화학상 총정리 3편 (2002년): 생체 분자의 질량과 구조",
-      "language": "ko",
-      "video": "nobel-chemistry-2002-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2002-handwritten-ko.txt",
-      "video_sha256": "0c66ab32fcf3321d69c733cf21955d9b0a613220e13f366f496f7cd6370cb956",
-      "caption_sha256": "ce82f013d28bac8da44c64ab856d15d4c8f0e90a2d4a2fb10d18e683d828b5bb",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2002-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "질량 분석",
-          "이온화",
-          "핵자기 공명",
-          "단백질 구조"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#질량분석",
-          "#핵자기공명",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2002-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 3,
-      "series_year": 2002,
-      "slot": "A",
-      "scheduled_at": "2026-10-29T18:00:00+09:00",
-      "creation_id": "18161156695537390",
-      "publish_requested_at": "2026-10-29T18:07:55.001697+09:00",
-      "media_id": "17959726338015919"
-    },
-    {
       "id": "nobel-chemistry-2003-handwritten-ko",
       "slug": "nobel-chemistry-2003-handwritten",
       "title": "21세기 노벨화학상 총정리 4편 (2003년): 물 통로와 이온 통로",
@@ -4477,6 +4430,56 @@
       "permalink": "https://www.instagram.com/reel/DfEAJQvAa8i/",
       "published_at": "2026-10-29T12:07:12+09:00",
       "at": "2026-10-29T12:07:12+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2002-handwritten-ko",
+      "slug": "nobel-chemistry-2002-handwritten",
+      "title": "21세기 노벨화학상 총정리 3편 (2002년): 생체 분자의 질량과 구조",
+      "language": "ko",
+      "video": "nobel-chemistry-2002-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2002-handwritten-ko.txt",
+      "video_sha256": "0c66ab32fcf3321d69c733cf21955d9b0a613220e13f366f496f7cd6370cb956",
+      "caption_sha256": "ce82f013d28bac8da44c64ab856d15d4c8f0e90a2d4a2fb10d18e683d828b5bb",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2002-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "질량 분석",
+          "이온화",
+          "핵자기 공명",
+          "단백질 구조"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#질량분석",
+          "#핵자기공명",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2002-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 3,
+      "series_year": 2002,
+      "slot": "A",
+      "scheduled_at": "2026-10-29T18:00:00+09:00",
+      "creation_id": "18161156695537390",
+      "publish_requested_at": "2026-10-29T18:07:55.001697+09:00",
+      "media_id": "17959726338015919",
+      "permalink": "https://www.instagram.com/reel/DfEo_3BDRhN/",
+      "published_at": "2026-10-29T18:07:57+09:00",
+      "at": "2026-10-29T18:07:57+09:00"
     }
   ],
   "cancelled_for_remake": [
