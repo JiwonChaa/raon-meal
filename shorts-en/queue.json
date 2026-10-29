@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2002-handwritten-en",
-      "slug": "nobel-chemistry-2002-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 3 (2002): Biomolecular Mass and Structure",
-      "language": "en",
-      "video": "nobel-chemistry-2002-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2002-handwritten-en.txt",
-      "video_sha256": "470fcd71b9830eba8746f670fda1fee334922520dc4399cfdb23ed94e191f089",
-      "caption_sha256": "bc79eb24c8fddb28e6aa60e6af58fe80f2424be7714daf5757f67cc3d4290fef",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2002-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "mass spectrometry",
-          "soft ionization",
-          "NMR",
-          "protein structure"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#MassSpectrometry",
-          "#NMR",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2002-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 3,
-      "series_year": 2002,
-      "slot": "A",
-      "scheduled_at": "2026-10-29T18:00:00+09:00",
-      "creation_id": "18129396943768269",
-      "publish_requested_at": "2026-10-29T18:04:00.453995+09:00",
-      "media_id": "18053588999812739"
-    },
-    {
       "id": "nobel-chemistry-2003-handwritten-en",
       "slug": "nobel-chemistry-2003-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 4 (2003): Water and Ion Channels",
@@ -3603,6 +3556,55 @@
       "media_id": "18134295367666991",
       "permalink": "https://www.instagram.com/reel/DfEALGvjdjJ/",
       "published_at": "2026-10-29T12:07:27+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2002-handwritten-en",
+      "slug": "nobel-chemistry-2002-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 3 (2002): Biomolecular Mass and Structure",
+      "language": "en",
+      "video": "nobel-chemistry-2002-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2002-handwritten-en.txt",
+      "video_sha256": "470fcd71b9830eba8746f670fda1fee334922520dc4399cfdb23ed94e191f089",
+      "caption_sha256": "bc79eb24c8fddb28e6aa60e6af58fe80f2424be7714daf5757f67cc3d4290fef",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2002-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "mass spectrometry",
+          "soft ionization",
+          "NMR",
+          "protein structure"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#MassSpectrometry",
+          "#NMR",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2002-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 3,
+      "series_year": 2002,
+      "slot": "A",
+      "scheduled_at": "2026-10-29T18:00:00+09:00",
+      "creation_id": "18129396943768269",
+      "publish_requested_at": "2026-10-29T18:04:00.453995+09:00",
+      "media_id": "18053588999812739",
+      "permalink": "https://www.instagram.com/reel/DfEo-40ErD-/",
+      "published_at": "2026-10-29T18:04:04+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
