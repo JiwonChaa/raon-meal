@@ -48,7 +48,8 @@
       "series_year": 2004,
       "slot": "A",
       "scheduled_at": "2026-10-30T18:00:00+09:00",
-      "creation_id": "18161374750537390"
+      "creation_id": "18161374750537390",
+      "publish_requested_at": "2026-10-30T18:58:56.873087+09:00"
     },
     {
       "id": "nobel-chemistry-2005-handwritten-ko",
