@@ -51,7 +51,8 @@
       "series_year": 2004,
       "slot": "A",
       "scheduled_at": "2026-10-30T18:00:00+09:00",
-      "creation_id": "18129669439768269"
+      "creation_id": "18129669439768269",
+      "publish_requested_at": "2026-10-30T18:56:18.785584+09:00"
     },
     {
       "id": "nobel-chemistry-2005-handwritten-en",
