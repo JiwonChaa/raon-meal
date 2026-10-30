@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2004-handwritten-en",
-      "slug": "nobel-chemistry-2004-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 5 (2004): Ubiquitin and Protein Degradation",
-      "language": "en",
-      "video": "nobel-chemistry-2004-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2004-handwritten-en.txt",
-      "video_sha256": "0ebe44c2d93cdfca1ef9c836ee460f95412ea1011f7f713992fd37755b8ba659",
-      "caption_sha256": "47cf457e66026aae1cee691c6331270e3abc069b320cf1a5554bdabcb020d300",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2004-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "ubiquitin",
-          "proteasomes",
-          "protein degradation",
-          "cellular signals"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#Ubiquitin",
-          "#ProteinDegradation",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2004-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 5,
-      "series_year": 2004,
-      "slot": "A",
-      "scheduled_at": "2026-10-30T18:00:00+09:00",
-      "creation_id": "18129669439768269",
-      "publish_requested_at": "2026-10-30T18:56:18.785584+09:00",
-      "media_id": "17991534326867299"
-    },
-    {
       "id": "nobel-chemistry-2005-handwritten-en",
       "slug": "nobel-chemistry-2005-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 6 (2005): Olefin Metathesis",
@@ -3613,6 +3566,55 @@
       "media_id": "18092813537230602",
       "permalink": "https://www.instagram.com/reel/DfGkpNOjbYD/",
       "published_at": "2026-10-30T12:05:07+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2004-handwritten-en",
+      "slug": "nobel-chemistry-2004-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 5 (2004): Ubiquitin and Protein Degradation",
+      "language": "en",
+      "video": "nobel-chemistry-2004-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2004-handwritten-en.txt",
+      "video_sha256": "0ebe44c2d93cdfca1ef9c836ee460f95412ea1011f7f713992fd37755b8ba659",
+      "caption_sha256": "47cf457e66026aae1cee691c6331270e3abc069b320cf1a5554bdabcb020d300",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2004-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "ubiquitin",
+          "proteasomes",
+          "protein degradation",
+          "cellular signals"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#Ubiquitin",
+          "#ProteinDegradation",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2004-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 5,
+      "series_year": 2004,
+      "slot": "A",
+      "scheduled_at": "2026-10-30T18:00:00+09:00",
+      "creation_id": "18129669439768269",
+      "publish_requested_at": "2026-10-30T18:56:18.785584+09:00",
+      "media_id": "17991534326867299",
+      "permalink": "https://www.instagram.com/reel/DfHTwzKD-H7/",
+      "published_at": "2026-10-30T18:56:20+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
