@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2004-handwritten-ko",
-      "slug": "nobel-chemistry-2004-handwritten",
-      "title": "21세기 노벨화학상 총정리 5편 (2004년): 유비퀴틴과 단백질 분해",
-      "language": "ko",
-      "video": "nobel-chemistry-2004-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2004-handwritten-ko.txt",
-      "video_sha256": "13b930ddd84df3a4baa1c17af61a177d42398853fca2e87893d8f057313ea1f0",
-      "caption_sha256": "96e0043c37bdaffe0ade9da10d807f0b40d98496a123ebe6ce58872b625030c0",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2004-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "유비퀴틴",
-          "프로테아좀",
-          "단백질 분해",
-          "세포 신호"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#유비퀴틴",
-          "#단백질분해",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2004-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 5,
-      "series_year": 2004,
-      "slot": "A",
-      "scheduled_at": "2026-10-30T18:00:00+09:00",
-      "creation_id": "18161374750537390",
-      "publish_requested_at": "2026-10-30T18:58:56.873087+09:00",
-      "media_id": "18132213106788978"
-    },
-    {
       "id": "nobel-chemistry-2005-handwritten-ko",
       "slug": "nobel-chemistry-2005-handwritten",
       "title": "21세기 노벨화학상 총정리 6편 (2005년): 올레핀 메타세시스",
@@ -4489,6 +4442,56 @@
       "permalink": "https://www.instagram.com/reel/DfGkk2qifaY/",
       "published_at": "2026-10-30T12:04:05+09:00",
       "at": "2026-10-30T12:04:05+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2004-handwritten-ko",
+      "slug": "nobel-chemistry-2004-handwritten",
+      "title": "21세기 노벨화학상 총정리 5편 (2004년): 유비퀴틴과 단백질 분해",
+      "language": "ko",
+      "video": "nobel-chemistry-2004-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2004-handwritten-ko.txt",
+      "video_sha256": "13b930ddd84df3a4baa1c17af61a177d42398853fca2e87893d8f057313ea1f0",
+      "caption_sha256": "96e0043c37bdaffe0ade9da10d807f0b40d98496a123ebe6ce58872b625030c0",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2004-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "유비퀴틴",
+          "프로테아좀",
+          "단백질 분해",
+          "세포 신호"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#유비퀴틴",
+          "#단백질분해",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2004-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 5,
+      "series_year": 2004,
+      "slot": "A",
+      "scheduled_at": "2026-10-30T18:00:00+09:00",
+      "creation_id": "18161374750537390",
+      "publish_requested_at": "2026-10-30T18:58:56.873087+09:00",
+      "media_id": "18132213106788978",
+      "permalink": "https://www.instagram.com/reel/DfHUD_ijSFB/",
+      "published_at": "2026-10-30T18:58:58+09:00",
+      "at": "2026-10-30T18:58:58+09:00"
     }
   ],
   "cancelled_for_remake": [
