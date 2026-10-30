@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2003-handwritten-ko",
-      "slug": "nobel-chemistry-2003-handwritten",
-      "title": "21세기 노벨화학상 총정리 4편 (2003년): 물 통로와 이온 통로",
-      "language": "ko",
-      "video": "nobel-chemistry-2003-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2003-handwritten-ko.txt",
-      "video_sha256": "6d651e10c343dab04ce20b5dec4a2f56b902655c2040f1eecfe4e955e4133d04",
-      "caption_sha256": "4b454db20cb780b34e8b2e49a7a561f890e66e7ff201e51ce43eb00dcb50eace",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2003-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "아쿠아포린",
-          "이온 통로",
-          "선택성 필터",
-          "칼륨 이온"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#아쿠아포린",
-          "#이온통로",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2003-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 4,
-      "series_year": 2003,
-      "slot": "B",
-      "scheduled_at": "2026-10-30T12:00:00+09:00",
-      "creation_id": "18161323198537390",
-      "publish_requested_at": "2026-10-30T12:04:00.176113+09:00",
-      "media_id": "18101215163432819"
-    },
-    {
       "id": "nobel-chemistry-2004-handwritten-ko",
       "slug": "nobel-chemistry-2004-handwritten",
       "title": "21세기 노벨화학상 총정리 5편 (2004년): 유비퀴틴과 단백질 분해",
@@ -4483,6 +4436,56 @@
       "permalink": "https://www.instagram.com/reel/DfEo_3BDRhN/",
       "published_at": "2026-10-29T18:07:57+09:00",
       "at": "2026-10-29T18:07:57+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2003-handwritten-ko",
+      "slug": "nobel-chemistry-2003-handwritten",
+      "title": "21세기 노벨화학상 총정리 4편 (2003년): 물 통로와 이온 통로",
+      "language": "ko",
+      "video": "nobel-chemistry-2003-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2003-handwritten-ko.txt",
+      "video_sha256": "6d651e10c343dab04ce20b5dec4a2f56b902655c2040f1eecfe4e955e4133d04",
+      "caption_sha256": "4b454db20cb780b34e8b2e49a7a561f890e66e7ff201e51ce43eb00dcb50eace",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2003-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "아쿠아포린",
+          "이온 통로",
+          "선택성 필터",
+          "칼륨 이온"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#아쿠아포린",
+          "#이온통로",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2003-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 4,
+      "series_year": 2003,
+      "slot": "B",
+      "scheduled_at": "2026-10-30T12:00:00+09:00",
+      "creation_id": "18161323198537390",
+      "publish_requested_at": "2026-10-30T12:04:00.176113+09:00",
+      "media_id": "18101215163432819",
+      "permalink": "https://www.instagram.com/reel/DfGkk2qifaY/",
+      "published_at": "2026-10-30T12:04:05+09:00",
+      "at": "2026-10-30T12:04:05+09:00"
     }
   ],
   "cancelled_for_remake": [
