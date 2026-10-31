@@ -50,7 +50,8 @@
       "episode_number": 6,
       "series_year": 2005,
       "slot": "B",
-      "scheduled_at": "2026-10-31T12:00:00+09:00"
+      "scheduled_at": "2026-10-31T12:00:00+09:00",
+      "creation_id": "18129847513768269"
     },
     {
       "id": "nobel-chemistry-2006-handwritten-en",
