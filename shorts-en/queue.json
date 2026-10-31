@@ -50,7 +50,8 @@
       "episode_number": 7,
       "series_year": 2006,
       "slot": "A",
-      "scheduled_at": "2026-10-31T18:00:00+09:00"
+      "scheduled_at": "2026-10-31T18:00:00+09:00",
+      "creation_id": "18129903925768269"
     },
     {
       "id": "nobel-chemistry-2007-handwritten-en",
