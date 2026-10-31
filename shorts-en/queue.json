@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2005-handwritten-en",
-      "slug": "nobel-chemistry-2005-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 6 (2005): Olefin Metathesis",
-      "language": "en",
-      "video": "nobel-chemistry-2005-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2005-handwritten-en.txt",
-      "video_sha256": "32931cd88c382830e31e29d94282bd0e1906634c92d3526e61d1359f34eb6484",
-      "caption_sha256": "9369759ac193e4e1b0022bcaee0384309e5175567e49d03629c5e1043c5ab290",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2005-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "olefin metathesis",
-          "metal carbene",
-          "catalysis",
-          "organic synthesis"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#Metathesis",
-          "#OrganicSynthesis",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2005-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 6,
-      "series_year": 2005,
-      "slot": "B",
-      "scheduled_at": "2026-10-31T12:00:00+09:00",
-      "creation_id": "18129847513768269",
-      "publish_requested_at": "2026-10-31T12:05:07.815228+09:00",
-      "media_id": "17919217692463276"
-    },
-    {
       "id": "nobel-chemistry-2006-handwritten-en",
       "slug": "nobel-chemistry-2006-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 7 (2006): Transcription from DNA to RNA",
@@ -3618,6 +3571,55 @@
       "media_id": "17991534326867299",
       "permalink": "https://www.instagram.com/reel/DfHTwzKD-H7/",
       "published_at": "2026-10-30T18:56:20+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2005-handwritten-en",
+      "slug": "nobel-chemistry-2005-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 6 (2005): Olefin Metathesis",
+      "language": "en",
+      "video": "nobel-chemistry-2005-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2005-handwritten-en.txt",
+      "video_sha256": "32931cd88c382830e31e29d94282bd0e1906634c92d3526e61d1359f34eb6484",
+      "caption_sha256": "9369759ac193e4e1b0022bcaee0384309e5175567e49d03629c5e1043c5ab290",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2005-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "olefin metathesis",
+          "metal carbene",
+          "catalysis",
+          "organic synthesis"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#Metathesis",
+          "#OrganicSynthesis",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2005-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 6,
+      "series_year": 2005,
+      "slot": "B",
+      "scheduled_at": "2026-10-31T12:00:00+09:00",
+      "creation_id": "18129847513768269",
+      "publish_requested_at": "2026-10-31T12:05:07.815228+09:00",
+      "media_id": "17919217692463276",
+      "permalink": "https://www.instagram.com/reel/DfJJfcFFXjI/",
+      "published_at": "2026-10-31T12:05:11+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
