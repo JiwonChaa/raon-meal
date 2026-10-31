@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2006-handwritten-en",
-      "slug": "nobel-chemistry-2006-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 7 (2006): Transcription from DNA to RNA",
-      "language": "en",
-      "video": "nobel-chemistry-2006-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2006-handwritten-en.txt",
-      "video_sha256": "a2e18278efdbcef9e66e33a35e1b62bcdcedeb788bf4b3f4da2ecf3878297925",
-      "caption_sha256": "ca6bea3bcb53325ca2554e23d0d862d01e50bd722697e6b20480b54a74b8c9c7",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2006-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "transcription",
-          "RNA polymerase",
-          "DNA",
-          "X-ray crystallography"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#Transcription",
-          "#RNAPolymerase",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2006-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 7,
-      "series_year": 2006,
-      "slot": "A",
-      "scheduled_at": "2026-10-31T18:00:00+09:00",
-      "creation_id": "18129903925768269",
-      "publish_requested_at": "2026-10-31T18:03:58.752214+09:00",
-      "media_id": "18088467935313458"
-    },
-    {
       "id": "nobel-chemistry-2007-handwritten-en",
       "slug": "nobel-chemistry-2007-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 8 (2007): Reactions on Solid Surfaces",
@@ -3623,6 +3576,55 @@
       "media_id": "17919217692463276",
       "permalink": "https://www.instagram.com/reel/DfJJfcFFXjI/",
       "published_at": "2026-10-31T12:05:11+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2006-handwritten-en",
+      "slug": "nobel-chemistry-2006-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 7 (2006): Transcription from DNA to RNA",
+      "language": "en",
+      "video": "nobel-chemistry-2006-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2006-handwritten-en.txt",
+      "video_sha256": "a2e18278efdbcef9e66e33a35e1b62bcdcedeb788bf4b3f4da2ecf3878297925",
+      "caption_sha256": "ca6bea3bcb53325ca2554e23d0d862d01e50bd722697e6b20480b54a74b8c9c7",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2006-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "transcription",
+          "RNA polymerase",
+          "DNA",
+          "X-ray crystallography"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#Transcription",
+          "#RNAPolymerase",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2006-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 7,
+      "series_year": 2006,
+      "slot": "A",
+      "scheduled_at": "2026-10-31T18:00:00+09:00",
+      "creation_id": "18129903925768269",
+      "publish_requested_at": "2026-10-31T18:03:58.752214+09:00",
+      "media_id": "18088467935313458",
+      "permalink": "https://www.instagram.com/reel/DfJyjdXCLg_/",
+      "published_at": "2026-10-31T18:04:01+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
