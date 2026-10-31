@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2006-handwritten-ko",
-      "slug": "nobel-chemistry-2006-handwritten",
-      "title": "21세기 노벨화학상 총정리 7편 (2006년): DNA에서 RNA로 전사",
-      "language": "ko",
-      "video": "nobel-chemistry-2006-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2006-handwritten-ko.txt",
-      "video_sha256": "36d24ea77710b8c41da48d37896b351baad74de1476f44f747fddcada622699d",
-      "caption_sha256": "bad72275a7e90f5d502ef0e266534cc64dc8292132a698efdc4fed5756472f68",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2006-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "전사",
-          "RNA 중합효소",
-          "DNA",
-          "엑스선 결정학"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#전사",
-          "#RNA중합효소",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2006-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 7,
-      "series_year": 2006,
-      "slot": "A",
-      "scheduled_at": "2026-10-31T18:00:00+09:00",
-      "creation_id": "18161570497537390",
-      "publish_requested_at": "2026-10-31T18:03:56.095653+09:00",
-      "media_id": "18435225718149395"
-    },
-    {
       "id": "nobel-chemistry-2007-handwritten-ko",
       "slug": "nobel-chemistry-2007-handwritten",
       "title": "21세기 노벨화학상 총정리 8편 (2007년): 고체 표면의 화학 반응",
@@ -4501,6 +4454,56 @@
       "permalink": "https://www.instagram.com/reel/DfJJXZkgs7D/",
       "published_at": "2026-10-31T12:04:06+09:00",
       "at": "2026-10-31T12:04:06+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2006-handwritten-ko",
+      "slug": "nobel-chemistry-2006-handwritten",
+      "title": "21세기 노벨화학상 총정리 7편 (2006년): DNA에서 RNA로 전사",
+      "language": "ko",
+      "video": "nobel-chemistry-2006-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2006-handwritten-ko.txt",
+      "video_sha256": "36d24ea77710b8c41da48d37896b351baad74de1476f44f747fddcada622699d",
+      "caption_sha256": "bad72275a7e90f5d502ef0e266534cc64dc8292132a698efdc4fed5756472f68",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2006-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "전사",
+          "RNA 중합효소",
+          "DNA",
+          "엑스선 결정학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#전사",
+          "#RNA중합효소",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2006-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 7,
+      "series_year": 2006,
+      "slot": "A",
+      "scheduled_at": "2026-10-31T18:00:00+09:00",
+      "creation_id": "18161570497537390",
+      "publish_requested_at": "2026-10-31T18:03:56.095653+09:00",
+      "media_id": "18435225718149395",
+      "permalink": "https://www.instagram.com/reel/DfJylc6k3Qd/",
+      "published_at": "2026-10-31T18:03:58+09:00",
+      "at": "2026-10-31T18:03:58+09:00"
     }
   ],
   "cancelled_for_remake": [
