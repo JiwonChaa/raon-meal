@@ -2221,6 +2221,26 @@
       "total_interactions": 3,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2003-handwritten-en",
+      "media_id": "18092813537230602",
+      "permalink": "https://www.instagram.com/reel/DfGkpNOjbYD/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 26.882,
+      "captured_at": "2026-10-31T05:58:00.564647+00:00",
+      "views": 8,
+      "reach": 9,
+      "average_watch_time_ms": 22818,
+      "total_watch_time_ms": 159727,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 1,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
