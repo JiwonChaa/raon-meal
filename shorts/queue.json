@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2005-handwritten-ko",
-      "slug": "nobel-chemistry-2005-handwritten",
-      "title": "21세기 노벨화학상 총정리 6편 (2005년): 올레핀 메타세시스",
-      "language": "ko",
-      "video": "nobel-chemistry-2005-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2005-handwritten-ko.txt",
-      "video_sha256": "b456d9a7af390f1a23a7f09f5f1a972239e81ed4095396c7989eff5566fb2482",
-      "caption_sha256": "a3d047a62491cd3ee8393a78f223f82588129be419304fe042773a72f5bb2899",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2005-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "올레핀 메타세시스",
-          "금속 카벤",
-          "촉매",
-          "유기 합성"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#메타세시스",
-          "#유기합성",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2005-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 6,
-      "series_year": 2005,
-      "slot": "B",
-      "scheduled_at": "2026-10-31T12:00:00+09:00",
-      "creation_id": "18161522752537390",
-      "publish_requested_at": "2026-10-31T12:04:03.210355+09:00",
-      "media_id": "18096761246666712"
-    },
-    {
       "id": "nobel-chemistry-2006-handwritten-ko",
       "slug": "nobel-chemistry-2006-handwritten",
       "title": "21세기 노벨화학상 총정리 7편 (2006년): DNA에서 RNA로 전사",
@@ -4495,6 +4448,56 @@
       "permalink": "https://www.instagram.com/reel/DfHUD_ijSFB/",
       "published_at": "2026-10-30T18:58:58+09:00",
       "at": "2026-10-30T18:58:58+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2005-handwritten-ko",
+      "slug": "nobel-chemistry-2005-handwritten",
+      "title": "21세기 노벨화학상 총정리 6편 (2005년): 올레핀 메타세시스",
+      "language": "ko",
+      "video": "nobel-chemistry-2005-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2005-handwritten-ko.txt",
+      "video_sha256": "b456d9a7af390f1a23a7f09f5f1a972239e81ed4095396c7989eff5566fb2482",
+      "caption_sha256": "a3d047a62491cd3ee8393a78f223f82588129be419304fe042773a72f5bb2899",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2005-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "올레핀 메타세시스",
+          "금속 카벤",
+          "촉매",
+          "유기 합성"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#메타세시스",
+          "#유기합성",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2005-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 6,
+      "series_year": 2005,
+      "slot": "B",
+      "scheduled_at": "2026-10-31T12:00:00+09:00",
+      "creation_id": "18161522752537390",
+      "publish_requested_at": "2026-10-31T12:04:03.210355+09:00",
+      "media_id": "18096761246666712",
+      "permalink": "https://www.instagram.com/reel/DfJJXZkgs7D/",
+      "published_at": "2026-10-31T12:04:06+09:00",
+      "at": "2026-10-31T12:04:06+09:00"
     }
   ],
   "cancelled_for_remake": [
