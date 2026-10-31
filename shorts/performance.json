@@ -2221,6 +2221,26 @@
       "total_interactions": 27,
       "shares_per_1000_reach": 2.589,
       "saves_per_1000_reach": 1.294
+    },
+    {
+      "item_id": "nobel-chemistry-2003-handwritten-ko",
+      "media_id": "18101215163432819",
+      "permalink": "https://www.instagram.com/reel/DfGkk2qifaY/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 26.898,
+      "captured_at": "2026-10-31T05:57:56.427165+00:00",
+      "views": 2204,
+      "reach": 1679,
+      "average_watch_time_ms": 9344,
+      "total_watch_time_ms": 16726895,
+      "likes": 21,
+      "comments": 0,
+      "shares": 4,
+      "saved": 5,
+      "total_interactions": 30,
+      "shares_per_1000_reach": 2.382,
+      "saves_per_1000_reach": 2.978
     }
   ]
 }
