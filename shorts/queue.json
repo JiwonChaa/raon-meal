@@ -47,7 +47,8 @@
       "episode_number": 9,
       "series_year": 2008,
       "slot": "A",
-      "scheduled_at": "2026-11-01T18:00:00+09:00"
+      "scheduled_at": "2026-11-01T18:00:00+09:00",
+      "creation_id": "18161810527537390"
     },
     {
       "id": "nobel-chemistry-2009-handwritten-ko-ordered-reissue",
