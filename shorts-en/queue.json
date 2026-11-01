@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2008-handwritten-en",
-      "slug": "nobel-chemistry-2008-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 9 (2008): Green Fluorescent Protein",
-      "language": "en",
-      "video": "nobel-chemistry-2008-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2008-handwritten-en.txt",
-      "video_sha256": "4022fed06c8f495695dcbe65d437f88c1d1086b5def3a88a3839c68fe8bec53e",
-      "caption_sha256": "960961793ef31ebecd10e007b0e068e3ae8beaa444ca0dd56da7df3fcd688a65",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2008-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "green fluorescent protein",
-          "GFP",
-          "fluorescence",
-          "protein tracking"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#GFP",
-          "#FluorescentProteins",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2008-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 9,
-      "series_year": 2008,
-      "slot": "A",
-      "scheduled_at": "2026-11-01T18:00:00+09:00",
-      "creation_id": "18130188826768269",
-      "publish_requested_at": "2026-11-01T19:24:16.907108+09:00",
-      "media_id": "18080559839398090"
-    },
-    {
       "id": "nobel-chemistry-2009-handwritten-en-ordered-reissue",
       "slug": "nobel-chemistry-2009-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 10 (2009)",
@@ -3633,6 +3586,55 @@
       "media_id": "18109424318245930",
       "permalink": "https://www.instagram.com/reel/DfLuLD0D7q-/",
       "published_at": "2026-11-01T12:04:16+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2008-handwritten-en",
+      "slug": "nobel-chemistry-2008-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 9 (2008): Green Fluorescent Protein",
+      "language": "en",
+      "video": "nobel-chemistry-2008-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2008-handwritten-en.txt",
+      "video_sha256": "4022fed06c8f495695dcbe65d437f88c1d1086b5def3a88a3839c68fe8bec53e",
+      "caption_sha256": "960961793ef31ebecd10e007b0e068e3ae8beaa444ca0dd56da7df3fcd688a65",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2008-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "green fluorescent protein",
+          "GFP",
+          "fluorescence",
+          "protein tracking"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#GFP",
+          "#FluorescentProteins",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2008-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 9,
+      "series_year": 2008,
+      "slot": "A",
+      "scheduled_at": "2026-11-01T18:00:00+09:00",
+      "creation_id": "18130188826768269",
+      "publish_requested_at": "2026-11-01T19:24:16.907108+09:00",
+      "media_id": "18080559839398090",
+      "permalink": "https://www.instagram.com/reel/DfMgf8SE4h1/",
+      "published_at": "2026-11-01T19:24:19+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
