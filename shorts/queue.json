@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2007-handwritten-ko",
-      "slug": "nobel-chemistry-2007-handwritten",
-      "title": "21세기 노벨화학상 총정리 8편 (2007년): 고체 표면의 화학 반응",
-      "language": "ko",
-      "video": "nobel-chemistry-2007-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2007-handwritten-ko.txt",
-      "video_sha256": "1d1e0870356d64ee26171b71125994f00e2654c84a9bbdbc1596574d8ac3d658",
-      "caption_sha256": "a338f4dde2a7263812dc4ff8d654a457f784da06716492d423fa5213bd2d5e6b",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2007-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "표면 촉매",
-          "흡착",
-          "탈착",
-          "반응 속도"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#표면화학",
-          "#촉매",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2007-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 8,
-      "series_year": 2007,
-      "slot": "B",
-      "scheduled_at": "2026-11-01T12:00:00+09:00",
-      "creation_id": "18161746726537390",
-      "publish_requested_at": "2026-11-01T12:04:00.497377+09:00",
-      "media_id": "18076194284740307"
-    },
-    {
       "id": "nobel-chemistry-2008-handwritten-ko",
       "slug": "nobel-chemistry-2008-handwritten",
       "title": "21세기 노벨화학상 총정리 9편 (2008년): 녹색 형광 단백질 GFP",
@@ -4507,6 +4460,56 @@
       "permalink": "https://www.instagram.com/reel/DfJylc6k3Qd/",
       "published_at": "2026-10-31T18:03:58+09:00",
       "at": "2026-10-31T18:03:58+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2007-handwritten-ko",
+      "slug": "nobel-chemistry-2007-handwritten",
+      "title": "21세기 노벨화학상 총정리 8편 (2007년): 고체 표면의 화학 반응",
+      "language": "ko",
+      "video": "nobel-chemistry-2007-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2007-handwritten-ko.txt",
+      "video_sha256": "1d1e0870356d64ee26171b71125994f00e2654c84a9bbdbc1596574d8ac3d658",
+      "caption_sha256": "a338f4dde2a7263812dc4ff8d654a457f784da06716492d423fa5213bd2d5e6b",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2007-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "표면 촉매",
+          "흡착",
+          "탈착",
+          "반응 속도"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#표면화학",
+          "#촉매",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2007-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 8,
+      "series_year": 2007,
+      "slot": "B",
+      "scheduled_at": "2026-11-01T12:00:00+09:00",
+      "creation_id": "18161746726537390",
+      "publish_requested_at": "2026-11-01T12:04:00.497377+09:00",
+      "media_id": "18076194284740307",
+      "permalink": "https://www.instagram.com/reel/DfLuKvwDM9B/",
+      "published_at": "2026-11-01T12:04:03+09:00",
+      "at": "2026-11-01T12:04:03+09:00"
     }
   ],
   "cancelled_for_remake": [
