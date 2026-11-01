@@ -48,7 +48,8 @@
       "series_year": 2008,
       "slot": "A",
       "scheduled_at": "2026-11-01T18:00:00+09:00",
-      "creation_id": "18161810527537390"
+      "creation_id": "18161810527537390",
+      "publish_requested_at": "2026-11-01T19:25:24.480393+09:00"
     },
     {
       "id": "nobel-chemistry-2009-handwritten-ko-ordered-reissue",
