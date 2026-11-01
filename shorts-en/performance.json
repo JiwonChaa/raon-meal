@@ -2321,6 +2321,46 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2002-handwritten-en",
+      "media_id": "18053588999812739",
+      "permalink": "https://www.instagram.com/reel/DfEo-40ErD-/",
+      "topic_family": "chemistry",
+      "window_hours": 72,
+      "actual_age_hours": 76.625,
+      "captured_at": "2026-11-01T13:41:33.541073+00:00",
+      "views": 20,
+      "reach": 13,
+      "average_watch_time_ms": 48290,
+      "total_watch_time_ms": 531196,
+      "likes": 3,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 3,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2006-handwritten-en",
+      "media_id": "18088467935313458",
+      "permalink": "https://www.instagram.com/reel/DfJyjdXCLg_/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 28.626,
+      "captured_at": "2026-11-01T13:41:33.541073+00:00",
+      "views": 7,
+      "reach": 5,
+      "average_watch_time_ms": 7470,
+      "total_watch_time_ms": 37352,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
