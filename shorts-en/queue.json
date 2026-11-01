@@ -9,53 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2007-handwritten-en",
-      "slug": "nobel-chemistry-2007-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 8 (2007): Reactions on Solid Surfaces",
-      "language": "en",
-      "video": "nobel-chemistry-2007-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2007-handwritten-en.txt",
-      "video_sha256": "47cd6503ed42892e637d24437a2e66784a98502f99186a4173687e58597dc8b8",
-      "caption_sha256": "d2212f0a50b74ecce4c8585f4bdb81f391a8663d55fcde9cb209ebe5def08b40",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2007-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "surface catalysis",
-          "adsorption",
-          "desorption",
-          "reaction rates"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#SurfaceChemistry",
-          "#Catalysis",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2007-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 8,
-      "series_year": 2007,
-      "slot": "B",
-      "scheduled_at": "2026-11-01T12:00:00+09:00",
-      "creation_id": "18130111792768269",
-      "publish_requested_at": "2026-11-01T12:04:13.429876+09:00",
-      "media_id": "18109424318245930"
-    },
-    {
       "id": "nobel-chemistry-2008-handwritten-en",
       "slug": "nobel-chemistry-2008-handwritten",
       "title": "Chemistry Nobel Prizes of the 21st Century, Episode 9 (2008): Green Fluorescent Protein",
@@ -3628,6 +3581,55 @@
       "media_id": "18088467935313458",
       "permalink": "https://www.instagram.com/reel/DfJyjdXCLg_/",
       "published_at": "2026-10-31T18:04:01+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2007-handwritten-en",
+      "slug": "nobel-chemistry-2007-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 8 (2007): Reactions on Solid Surfaces",
+      "language": "en",
+      "video": "nobel-chemistry-2007-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2007-handwritten-en.txt",
+      "video_sha256": "47cd6503ed42892e637d24437a2e66784a98502f99186a4173687e58597dc8b8",
+      "caption_sha256": "d2212f0a50b74ecce4c8585f4bdb81f391a8663d55fcde9cb209ebe5def08b40",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2007-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "surface catalysis",
+          "adsorption",
+          "desorption",
+          "reaction rates"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#SurfaceChemistry",
+          "#Catalysis",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2007-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 8,
+      "series_year": 2007,
+      "slot": "B",
+      "scheduled_at": "2026-11-01T12:00:00+09:00",
+      "creation_id": "18130111792768269",
+      "publish_requested_at": "2026-11-01T12:04:13.429876+09:00",
+      "media_id": "18109424318245930",
+      "permalink": "https://www.instagram.com/reel/DfLuLD0D7q-/",
+      "published_at": "2026-11-01T12:04:16+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
