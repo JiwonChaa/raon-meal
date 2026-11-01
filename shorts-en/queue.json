@@ -52,7 +52,8 @@
       "slot": "B",
       "scheduled_at": "2026-11-01T12:00:00+09:00",
       "creation_id": "18130111792768269",
-      "publish_requested_at": "2026-11-01T12:04:13.429876+09:00"
+      "publish_requested_at": "2026-11-01T12:04:13.429876+09:00",
+      "media_id": "18109424318245930"
     },
     {
       "id": "nobel-chemistry-2008-handwritten-en",
