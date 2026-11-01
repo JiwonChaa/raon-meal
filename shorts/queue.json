@@ -47,7 +47,8 @@
       "episode_number": 8,
       "series_year": 2007,
       "slot": "B",
-      "scheduled_at": "2026-11-01T12:00:00+09:00"
+      "scheduled_at": "2026-11-01T12:00:00+09:00",
+      "creation_id": "18161746726537390"
     },
     {
       "id": "nobel-chemistry-2008-handwritten-ko",
