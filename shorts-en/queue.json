@@ -52,7 +52,8 @@
       "slot": "A",
       "scheduled_at": "2026-11-01T18:00:00+09:00",
       "creation_id": "18130188826768269",
-      "publish_requested_at": "2026-11-01T19:24:16.907108+09:00"
+      "publish_requested_at": "2026-11-01T19:24:16.907108+09:00",
+      "media_id": "18080559839398090"
     },
     {
       "id": "nobel-chemistry-2009-handwritten-en-ordered-reissue",
