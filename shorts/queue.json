@@ -6,53 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2008-handwritten-ko",
-      "slug": "nobel-chemistry-2008-handwritten",
-      "title": "21세기 노벨화학상 총정리 9편 (2008년): 녹색 형광 단백질 GFP",
-      "language": "ko",
-      "video": "nobel-chemistry-2008-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2008-handwritten-ko.txt",
-      "video_sha256": "cdb280301b0e531b36eeae396022827fb17fee364504b0e639d9405c51930e94",
-      "caption_sha256": "b717ddec44a3b252379877416d4ecd8ccf5e282d8816bff7e09343a4ea19cd18",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User requested publication from episode 1 in order using existing approved videos.",
-      "human_listening_approved": false,
-      "thumb_offset_ms": 2400,
-      "pair_id": "nobel-chemistry-2008-handwritten",
-      "content_policy": {
-        "version": 1,
-        "mode": "baseline_asset",
-        "topic_family": "chemistry",
-        "keywords": [
-          "녹색 형광 단백질",
-          "GFP",
-          "형광",
-          "단백질 추적"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#GFP",
-          "#형광단백질",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "pair_id": "nobel-chemistry-2008-handwritten"
-      },
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 9,
-      "series_year": 2008,
-      "slot": "A",
-      "scheduled_at": "2026-11-01T18:00:00+09:00",
-      "creation_id": "18161810527537390",
-      "publish_requested_at": "2026-11-01T19:25:24.480393+09:00",
-      "media_id": "17870319102660811"
-    },
-    {
       "id": "nobel-chemistry-2009-handwritten-ko-ordered-reissue",
       "slug": "nobel-chemistry-2009-handwritten",
       "title": "21세기 노벨화학상 총정리 10편 (2009년)",
@@ -4513,6 +4466,56 @@
       "permalink": "https://www.instagram.com/reel/DfLuKvwDM9B/",
       "published_at": "2026-11-01T12:04:03+09:00",
       "at": "2026-11-01T12:04:03+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2008-handwritten-ko",
+      "slug": "nobel-chemistry-2008-handwritten",
+      "title": "21세기 노벨화학상 총정리 9편 (2008년): 녹색 형광 단백질 GFP",
+      "language": "ko",
+      "video": "nobel-chemistry-2008-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2008-handwritten-ko.txt",
+      "video_sha256": "cdb280301b0e531b36eeae396022827fb17fee364504b0e639d9405c51930e94",
+      "caption_sha256": "b717ddec44a3b252379877416d4ecd8ccf5e282d8816bff7e09343a4ea19cd18",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User requested publication from episode 1 in order using existing approved videos.",
+      "human_listening_approved": false,
+      "thumb_offset_ms": 2400,
+      "pair_id": "nobel-chemistry-2008-handwritten",
+      "content_policy": {
+        "version": 1,
+        "mode": "baseline_asset",
+        "topic_family": "chemistry",
+        "keywords": [
+          "녹색 형광 단백질",
+          "GFP",
+          "형광",
+          "단백질 추적"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#GFP",
+          "#형광단백질",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "pair_id": "nobel-chemistry-2008-handwritten"
+      },
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 9,
+      "series_year": 2008,
+      "slot": "A",
+      "scheduled_at": "2026-11-01T18:00:00+09:00",
+      "creation_id": "18161810527537390",
+      "publish_requested_at": "2026-11-01T19:25:24.480393+09:00",
+      "media_id": "17870319102660811",
+      "permalink": "https://www.instagram.com/reel/DfMgrkhAbh3/",
+      "published_at": "2026-11-01T19:25:27+09:00",
+      "at": "2026-11-01T19:25:27+09:00"
     }
   ],
   "cancelled_for_remake": [
