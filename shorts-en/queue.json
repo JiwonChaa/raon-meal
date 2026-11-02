@@ -9,59 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2009-handwritten-en-ordered-reissue",
-      "slug": "nobel-chemistry-2009-handwritten",
-      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 10 (2009)",
-      "language": "en",
-      "video": "nobel-chemistry-2009-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2009-handwritten-en-ordered-reissue.txt",
-      "video_sha256": "25258d25ca37d97dcb7f23abed58ea2dbdae2755447eb8ad3bc89316762f13f0",
-      "caption_sha256": "28b2f9d2ab8c191375befb4d495ad8d9c8eb08674a0c82b9990cabd009f4ebd6",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User explicitly corrected series order to begin with episode 1; episode 10 is scheduled after episode 9.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-02T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "리보솜",
-          "단백질 합성",
-          "코돈",
-          "tRNA",
-          "ribosome",
-          "translation"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#Ribosome",
-          "#ProteinSynthesis",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2009-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2009-handwritten",
-      "thumb_offset_ms": 2400,
-      "reissue_of": "nobel-chemistry-2009-handwritten-en",
-      "previous_out_of_order_media_id": "18083506622382302",
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 10,
-      "series_year": 2009,
-      "creation_id": "18130353862768269",
-      "publish_requested_at": "2026-11-02T12:04:38.575343+09:00",
-      "media_id": "18611693644064807"
-    },
-    {
       "id": "nobel-chemistry-2010-handwritten-en",
       "slug": "nobel-chemistry-2010-handwritten",
       "title": "How Palladium Helps Join Selected Carbons | Chemistry Nobel 2010",
@@ -3638,6 +3585,61 @@
       "media_id": "18080559839398090",
       "permalink": "https://www.instagram.com/reel/DfMgf8SE4h1/",
       "published_at": "2026-11-01T19:24:19+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2009-handwritten-en-ordered-reissue",
+      "slug": "nobel-chemistry-2009-handwritten",
+      "title": "Chemistry Nobel Prizes of the 21st Century, Episode 10 (2009)",
+      "language": "en",
+      "video": "nobel-chemistry-2009-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2009-handwritten-en-ordered-reissue.txt",
+      "video_sha256": "25258d25ca37d97dcb7f23abed58ea2dbdae2755447eb8ad3bc89316762f13f0",
+      "caption_sha256": "28b2f9d2ab8c191375befb4d495ad8d9c8eb08674a0c82b9990cabd009f4ebd6",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User explicitly corrected series order to begin with episode 1; episode 10 is scheduled after episode 9.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-02T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "리보솜",
+          "단백질 합성",
+          "코돈",
+          "tRNA",
+          "ribosome",
+          "translation"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#Ribosome",
+          "#ProteinSynthesis",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2009-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2009-handwritten",
+      "thumb_offset_ms": 2400,
+      "reissue_of": "nobel-chemistry-2009-handwritten-en",
+      "previous_out_of_order_media_id": "18083506622382302",
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 10,
+      "series_year": 2009,
+      "creation_id": "18130353862768269",
+      "publish_requested_at": "2026-11-02T12:04:38.575343+09:00",
+      "media_id": "18611693644064807",
+      "permalink": "https://www.instagram.com/reel/DfOS-vXjxzb/",
+      "published_at": "2026-11-02T12:04:41+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
