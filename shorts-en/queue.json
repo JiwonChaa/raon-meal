@@ -9,57 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2012-handwritten-en",
-      "slug": "nobel-chemistry-2012-handwritten",
-      "title": "How an Outside Signal Changes a Cell | Chemistry Nobel 2012",
-      "language": "en",
-      "video": "nobel-chemistry-2012-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2012-handwritten-en.txt",
-      "video_sha256": "7a9efc7cc9a2ce7601724ad42ee7acb285f81ed9536cfacaae67db74aff9fc48",
-      "caption_sha256": "02bdea7009e3be4037a4457703494787526267a64e748616317a2d8c95b5cd6a",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-03T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "G 단백질 연결 수용체",
-          "GDP",
-          "GTP",
-          "세포 신호",
-          "GPCR",
-          "cell signaling"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#GPCR",
-          "#CellSignaling",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2012-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2012-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 13,
-      "series_year": 2012,
-      "creation_id": "18130644742768269",
-      "publish_requested_at": "2026-11-03T18:04:42.559427+09:00",
-      "media_id": "17964057354235063"
-    },
-    {
       "id": "nobel-chemistry-2013-handwritten-en",
       "slug": "nobel-chemistry-2013-handwritten",
       "title": "Calculating a Reaction Center and Its Surroundings | Chemistry Nobel 2013",
@@ -3653,6 +3602,59 @@
       "media_id": "18125789629906901",
       "permalink": "https://www.instagram.com/reel/DfQ3wjIijDy/",
       "published_at": "2026-11-03T12:04:30+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2012-handwritten-en",
+      "slug": "nobel-chemistry-2012-handwritten",
+      "title": "How an Outside Signal Changes a Cell | Chemistry Nobel 2012",
+      "language": "en",
+      "video": "nobel-chemistry-2012-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2012-handwritten-en.txt",
+      "video_sha256": "7a9efc7cc9a2ce7601724ad42ee7acb285f81ed9536cfacaae67db74aff9fc48",
+      "caption_sha256": "02bdea7009e3be4037a4457703494787526267a64e748616317a2d8c95b5cd6a",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-03T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "G 단백질 연결 수용체",
+          "GDP",
+          "GTP",
+          "세포 신호",
+          "GPCR",
+          "cell signaling"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#GPCR",
+          "#CellSignaling",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2012-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2012-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 13,
+      "series_year": 2012,
+      "creation_id": "18130644742768269",
+      "publish_requested_at": "2026-11-03T18:04:42.559427+09:00",
+      "media_id": "17964057354235063",
+      "permalink": "https://www.instagram.com/reel/DfRg_5QibIQ/",
+      "published_at": "2026-11-03T18:04:45+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
