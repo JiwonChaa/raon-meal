@@ -6,56 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2011-handwritten-ko",
-      "slug": "nobel-chemistry-2011-handwritten",
-      "title": "반복되지 않는 원자 배열에도 질서가 있다 | 2011 노벨화학상",
-      "language": "ko",
-      "video": "nobel-chemistry-2011-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2011-handwritten-ko.txt",
-      "video_sha256": "20e5cbdbb546064791db46df192e111d0a87ce34673f1c0d56ca161d27e4820d",
-      "caption_sha256": "ba64afee62a55cbc43d815875f696fa923f1bdbee3b454bb5a1fe9538f02122b",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-03T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "준결정",
-          "병진 주기성",
-          "전자 회절",
-          "quasicrystal",
-          "diffraction"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#준결정",
-          "#전자회절",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2011-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2011-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 12,
-      "series_year": 2011,
-      "creation_id": "18162147307537390",
-      "publish_requested_at": "2026-11-03T12:05:57.002837+09:00",
-      "media_id": "18141749491712802"
-    },
-    {
       "id": "nobel-chemistry-2012-handwritten-ko",
       "slug": "nobel-chemistry-2012-handwritten",
       "title": "세포 밖 신호는 어떻게 안쪽 반응을 바꾸나 | 2012 노벨화학상",
@@ -4531,6 +4481,59 @@
       "permalink": "https://www.instagram.com/reel/DfO8MznDqbx/",
       "published_at": "2026-11-02T18:04:22+09:00",
       "at": "2026-11-02T18:04:22+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2011-handwritten-ko",
+      "slug": "nobel-chemistry-2011-handwritten",
+      "title": "반복되지 않는 원자 배열에도 질서가 있다 | 2011 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2011-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2011-handwritten-ko.txt",
+      "video_sha256": "20e5cbdbb546064791db46df192e111d0a87ce34673f1c0d56ca161d27e4820d",
+      "caption_sha256": "ba64afee62a55cbc43d815875f696fa923f1bdbee3b454bb5a1fe9538f02122b",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-03T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "준결정",
+          "병진 주기성",
+          "전자 회절",
+          "quasicrystal",
+          "diffraction"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#준결정",
+          "#전자회절",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2011-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2011-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 12,
+      "series_year": 2011,
+      "creation_id": "18162147307537390",
+      "publish_requested_at": "2026-11-03T12:05:57.002837+09:00",
+      "media_id": "18141749491712802",
+      "permalink": "https://www.instagram.com/reel/DfQ3-3xFPOP/",
+      "published_at": "2026-11-03T12:05:59+09:00",
+      "at": "2026-11-03T12:05:59+09:00"
     }
   ],
   "cancelled_for_remake": [
