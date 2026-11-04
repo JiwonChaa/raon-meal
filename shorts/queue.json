@@ -6,56 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2013-handwritten-ko",
-      "slug": "nobel-chemistry-2013-handwritten",
-      "title": "반응 중심과 주변을 함께 계산하는 법 | 2013 노벨화학상",
-      "language": "ko",
-      "video": "nobel-chemistry-2013-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2013-handwritten-ko.txt",
-      "video_sha256": "3f27420f94730492892ec39dc15603fe23572dc282248ff44b36e5a9415caa38",
-      "caption_sha256": "89ce834ec2b45b44548fd35cd594ee448edd8eba11a47130a38d1de3cc8e82ea",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-04T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "다중 규모 모형",
-          "양자 화학",
-          "분자 역학",
-          "QM/MM",
-          "multiscale models"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#계산화학",
-          "#양자화학",
-          "#노벨화학상"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2013-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2013-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 14,
-      "series_year": 2013,
-      "creation_id": "18162327454537390",
-      "publish_requested_at": "2026-11-04T12:05:18.648368+09:00",
-      "media_id": "18637809454011098"
-    },
-    {
       "id": "nobel-chemistry-2014-handwritten-ko",
       "slug": "nobel-chemistry-2014-handwritten",
       "title": "퍼진 형광으로 더 작은 구조를 구별하는 법 | 2014 노벨화학상",
@@ -4543,6 +4493,59 @@
       "permalink": "https://www.instagram.com/reel/DfRhByND7oE/",
       "published_at": "2026-11-03T18:04:47+09:00",
       "at": "2026-11-03T18:04:47+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2013-handwritten-ko",
+      "slug": "nobel-chemistry-2013-handwritten",
+      "title": "반응 중심과 주변을 함께 계산하는 법 | 2013 노벨화학상",
+      "language": "ko",
+      "video": "nobel-chemistry-2013-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2013-handwritten-ko.txt",
+      "video_sha256": "3f27420f94730492892ec39dc15603fe23572dc282248ff44b36e5a9415caa38",
+      "caption_sha256": "89ce834ec2b45b44548fd35cd594ee448edd8eba11a47130a38d1de3cc8e82ea",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-04T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "다중 규모 모형",
+          "양자 화학",
+          "분자 역학",
+          "QM/MM",
+          "multiscale models"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#계산화학",
+          "#양자화학",
+          "#노벨화학상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2013-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2013-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 14,
+      "series_year": 2013,
+      "creation_id": "18162327454537390",
+      "publish_requested_at": "2026-11-04T12:05:18.648368+09:00",
+      "media_id": "18637809454011098",
+      "permalink": "https://www.instagram.com/reel/DfTcp2fFB_A/",
+      "published_at": "2026-11-04T12:05:21+09:00",
+      "at": "2026-11-04T12:05:21+09:00"
     }
   ],
   "cancelled_for_remake": [
