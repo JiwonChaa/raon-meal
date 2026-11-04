@@ -9,56 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2013-handwritten-en",
-      "slug": "nobel-chemistry-2013-handwritten",
-      "title": "Calculating a Reaction Center and Its Surroundings | Chemistry Nobel 2013",
-      "language": "en",
-      "video": "nobel-chemistry-2013-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2013-handwritten-en.txt",
-      "video_sha256": "9bf163f933efaa81016ca15e36beb5fb2110a06a2f592201117101b31d20235b",
-      "caption_sha256": "b5bb1c0de314658871c989887ae21ac8ae4be54cebd3e833e71e8ae0f4504382",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-04T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "다중 규모 모형",
-          "양자 화학",
-          "분자 역학",
-          "QM/MM",
-          "multiscale models"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ComputationalChemistry",
-          "#MultiscaleModeling",
-          "#ChemistryNobel"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2013-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2013-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 14,
-      "series_year": 2013,
-      "creation_id": "18130802071768269",
-      "publish_requested_at": "2026-11-04T12:04:36.055132+09:00",
-      "media_id": "18600792958067766"
-    },
-    {
       "id": "nobel-chemistry-2014-handwritten-en",
       "slug": "nobel-chemistry-2014-handwritten",
       "title": "Resolving Smaller Structures with Fluorescence | Chemistry Nobel 2014",
@@ -3658,6 +3608,58 @@
       "media_id": "17964057354235063",
       "permalink": "https://www.instagram.com/reel/DfRg_5QibIQ/",
       "published_at": "2026-11-03T18:04:45+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2013-handwritten-en",
+      "slug": "nobel-chemistry-2013-handwritten",
+      "title": "Calculating a Reaction Center and Its Surroundings | Chemistry Nobel 2013",
+      "language": "en",
+      "video": "nobel-chemistry-2013-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2013-handwritten-en.txt",
+      "video_sha256": "9bf163f933efaa81016ca15e36beb5fb2110a06a2f592201117101b31d20235b",
+      "caption_sha256": "b5bb1c0de314658871c989887ae21ac8ae4be54cebd3e833e71e8ae0f4504382",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-04T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "다중 규모 모형",
+          "양자 화학",
+          "분자 역학",
+          "QM/MM",
+          "multiscale models"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ComputationalChemistry",
+          "#MultiscaleModeling",
+          "#ChemistryNobel"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2013-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2013-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 14,
+      "series_year": 2013,
+      "creation_id": "18130802071768269",
+      "publish_requested_at": "2026-11-04T12:04:36.055132+09:00",
+      "media_id": "18600792958067766",
+      "permalink": "https://www.instagram.com/reel/DfTcmoPkmCc/",
+      "published_at": "2026-11-04T12:04:38+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
