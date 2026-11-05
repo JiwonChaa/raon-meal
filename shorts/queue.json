@@ -6,56 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2016-handwritten-ko",
-      "slug": "nobel-chemistry-2016-handwritten",
-      "title": "2016 노벨화학상, 분자 부품을 움직이는 방법",
-      "language": "ko",
-      "video": "nobel-chemistry-2016-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2016-handwritten-ko.txt",
-      "video_sha256": "72742ad9882430421dbbe245ea4e6ed81e56572d2dd3e1fb325032de9e5f61c7",
-      "caption_sha256": "7526ce0d330f2f08ff7fb539ea0d848783fab16b09af3b651155c57e5d7ab9a0",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-05T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "분자 기계",
-          "2016 노벨화학상",
-          "카테네인",
-          "로탁세인",
-          "분자 모터"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#분자기계",
-          "#분자모터"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2016-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2016-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 17,
-      "series_year": 2016,
-      "creation_id": "18162567946537390",
-      "publish_requested_at": "2026-11-05T18:05:12.234294+09:00",
-      "media_id": "18115551869128418"
-    },
-    {
       "id": "nobel-chemistry-2017-handwritten-ko",
       "slug": "nobel-chemistry-2017-handwritten",
       "title": "2017 노벨화학상, 얼린 분자에서 입체 구조를 얻는 방법",
@@ -4561,6 +4511,59 @@
       "permalink": "https://www.instagram.com/reel/DfWBaYnD480/",
       "published_at": "2026-11-05T12:04:40+09:00",
       "at": "2026-11-05T12:04:40+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2016-handwritten-ko",
+      "slug": "nobel-chemistry-2016-handwritten",
+      "title": "2016 노벨화학상, 분자 부품을 움직이는 방법",
+      "language": "ko",
+      "video": "nobel-chemistry-2016-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2016-handwritten-ko.txt",
+      "video_sha256": "72742ad9882430421dbbe245ea4e6ed81e56572d2dd3e1fb325032de9e5f61c7",
+      "caption_sha256": "7526ce0d330f2f08ff7fb539ea0d848783fab16b09af3b651155c57e5d7ab9a0",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-05T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "분자 기계",
+          "2016 노벨화학상",
+          "카테네인",
+          "로탁세인",
+          "분자 모터"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#분자기계",
+          "#분자모터"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2016-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2016-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 17,
+      "series_year": 2016,
+      "creation_id": "18162567946537390",
+      "publish_requested_at": "2026-11-05T18:05:12.234294+09:00",
+      "media_id": "18115551869128418",
+      "permalink": "https://www.instagram.com/reel/DfWqtIXAKRC/",
+      "published_at": "2026-11-05T18:05:15+09:00",
+      "at": "2026-11-05T18:05:15+09:00"
     }
   ],
   "cancelled_for_remake": [
