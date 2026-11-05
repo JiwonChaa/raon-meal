@@ -6,55 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2015-handwritten-ko",
-      "slug": "nobel-chemistry-2015-handwritten",
-      "title": "2015 노벨화학상, DNA 손상을 고치는 세 경로",
-      "language": "ko",
-      "video": "nobel-chemistry-2015-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2015-handwritten-ko.txt",
-      "video_sha256": "4619dc056edbe9261ade9ab7149f5c0acf7002d6b164527dc6a1e58337c3d7eb",
-      "caption_sha256": "c3e0aefaf623582de4a246b0c24e944d9f6d3a504d68bcc85a6999aeaaaac599",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-05T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "DNA 수선",
-          "2015 노벨화학상",
-          "염기 절제 수선",
-          "불일치 수선"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#DNA수선",
-          "#유전정보"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2015-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2015-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 16,
-      "series_year": 2015,
-      "creation_id": "18162520168537390",
-      "publish_requested_at": "2026-11-05T12:04:36.272224+09:00",
-      "media_id": "18169824016477840"
-    },
-    {
       "id": "nobel-chemistry-2016-handwritten-ko",
       "slug": "nobel-chemistry-2016-handwritten",
       "title": "2016 노벨화학상, 분자 부품을 움직이는 방법",
@@ -4555,6 +4506,58 @@
       "permalink": "https://www.instagram.com/reel/DfUFyo7j-GU/",
       "published_at": "2026-11-04T18:04:26+09:00",
       "at": "2026-11-04T18:04:26+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2015-handwritten-ko",
+      "slug": "nobel-chemistry-2015-handwritten",
+      "title": "2015 노벨화학상, DNA 손상을 고치는 세 경로",
+      "language": "ko",
+      "video": "nobel-chemistry-2015-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2015-handwritten-ko.txt",
+      "video_sha256": "4619dc056edbe9261ade9ab7149f5c0acf7002d6b164527dc6a1e58337c3d7eb",
+      "caption_sha256": "c3e0aefaf623582de4a246b0c24e944d9f6d3a504d68bcc85a6999aeaaaac599",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-05T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "DNA 수선",
+          "2015 노벨화학상",
+          "염기 절제 수선",
+          "불일치 수선"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#DNA수선",
+          "#유전정보"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2015-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2015-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 16,
+      "series_year": 2015,
+      "creation_id": "18162520168537390",
+      "publish_requested_at": "2026-11-05T12:04:36.272224+09:00",
+      "media_id": "18169824016477840",
+      "permalink": "https://www.instagram.com/reel/DfWBaYnD480/",
+      "published_at": "2026-11-05T12:04:40+09:00",
+      "at": "2026-11-05T12:04:40+09:00"
     }
   ],
   "cancelled_for_remake": [
