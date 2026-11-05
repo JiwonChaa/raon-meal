@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2015-handwritten-en",
-      "slug": "nobel-chemistry-2015-handwritten",
-      "title": "2015 Chemistry Nobel: three paths to DNA repair",
-      "language": "en",
-      "video": "nobel-chemistry-2015-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2015-handwritten-en.txt",
-      "video_sha256": "91013fcaa38835aae02354de8aba0e4cf2feba35056202e42287dbe11ef3e974",
-      "caption_sha256": "9e7f0a201a11882af5b5e4d12c4f1d08e3bd589ad3f6b04207d752256501938b",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-05T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "DNA repair",
-          "2015 Chemistry Nobel",
-          "base excision repair",
-          "mismatch repair"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#NobelChemistry",
-          "#DNARepair",
-          "#Genetics"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2015-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2015-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 16,
-      "series_year": 2015,
-      "creation_id": "18131029762768269",
-      "publish_requested_at": "2026-11-05T12:04:32.347915+09:00",
-      "media_id": "18047389172832281"
-    },
-    {
       "id": "nobel-chemistry-2016-handwritten-en",
       "slug": "nobel-chemistry-2016-handwritten",
       "title": "2016 Chemistry Nobel: controlling molecular motion",
@@ -3668,6 +3619,57 @@
       "media_id": "17914647945489021",
       "permalink": "https://www.instagram.com/reel/DfUFz1CDJeD/",
       "published_at": "2026-11-04T18:04:52+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2015-handwritten-en",
+      "slug": "nobel-chemistry-2015-handwritten",
+      "title": "2015 Chemistry Nobel: three paths to DNA repair",
+      "language": "en",
+      "video": "nobel-chemistry-2015-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2015-handwritten-en.txt",
+      "video_sha256": "91013fcaa38835aae02354de8aba0e4cf2feba35056202e42287dbe11ef3e974",
+      "caption_sha256": "9e7f0a201a11882af5b5e4d12c4f1d08e3bd589ad3f6b04207d752256501938b",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-05T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "DNA repair",
+          "2015 Chemistry Nobel",
+          "base excision repair",
+          "mismatch repair"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#DNARepair",
+          "#Genetics"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2015-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2015-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 16,
+      "series_year": 2015,
+      "creation_id": "18131029762768269",
+      "publish_requested_at": "2026-11-05T12:04:32.347915+09:00",
+      "media_id": "18047389172832281",
+      "permalink": "https://www.instagram.com/reel/DfWBaRsD-2e/",
+      "published_at": "2026-11-05T12:04:35+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
