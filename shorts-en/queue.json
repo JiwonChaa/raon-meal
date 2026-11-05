@@ -9,56 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2016-handwritten-en",
-      "slug": "nobel-chemistry-2016-handwritten",
-      "title": "2016 Chemistry Nobel: controlling molecular motion",
-      "language": "en",
-      "video": "nobel-chemistry-2016-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2016-handwritten-en.txt",
-      "video_sha256": "aa6a5c7f839c11d4f99109a3f35d94e5c8154f5a21b46cac364f2f14540967ea",
-      "caption_sha256": "dd59b70831101ed43d4828b61e9d2b75323ee6c5e2727cc49e5c433550f87af9",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-05T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "molecular machines",
-          "2016 Chemistry Nobel",
-          "catenane",
-          "rotaxane",
-          "molecular motor"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#NobelChemistry",
-          "#MolecularMachines",
-          "#MolecularMotors"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2016-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2016-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 17,
-      "series_year": 2016,
-      "creation_id": "18131090497768269",
-      "publish_requested_at": "2026-11-05T18:04:26.780340+09:00",
-      "media_id": "18029276306876568"
-    },
-    {
       "id": "nobel-chemistry-2017-handwritten-en",
       "slug": "nobel-chemistry-2017-handwritten",
       "title": "2017 Chemistry Nobel: reconstructing frozen biomolecules",
@@ -3673,6 +3623,58 @@
       "media_id": "18047389172832281",
       "permalink": "https://www.instagram.com/reel/DfWBaRsD-2e/",
       "published_at": "2026-11-05T12:04:35+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2016-handwritten-en",
+      "slug": "nobel-chemistry-2016-handwritten",
+      "title": "2016 Chemistry Nobel: controlling molecular motion",
+      "language": "en",
+      "video": "nobel-chemistry-2016-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2016-handwritten-en.txt",
+      "video_sha256": "aa6a5c7f839c11d4f99109a3f35d94e5c8154f5a21b46cac364f2f14540967ea",
+      "caption_sha256": "dd59b70831101ed43d4828b61e9d2b75323ee6c5e2727cc49e5c433550f87af9",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-05T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "molecular machines",
+          "2016 Chemistry Nobel",
+          "catenane",
+          "rotaxane",
+          "molecular motor"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#MolecularMachines",
+          "#MolecularMotors"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2016-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2016-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 17,
+      "series_year": 2016,
+      "creation_id": "18131090497768269",
+      "publish_requested_at": "2026-11-05T18:04:26.780340+09:00",
+      "media_id": "18029276306876568",
+      "permalink": "https://www.instagram.com/reel/DfWqmWvCbx7/",
+      "published_at": "2026-11-05T18:04:29+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
