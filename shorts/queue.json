@@ -6,55 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2018-handwritten-ko",
-      "slug": "nobel-chemistry-2018-handwritten",
-      "title": "2018 노벨화학상, 단백질을 시험하고 골라 개선하기",
-      "language": "ko",
-      "video": "nobel-chemistry-2018-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2018-handwritten-ko.txt",
-      "video_sha256": "bcc3a6224e0c39a41b9df684a1388f2b1c45b37b1db1887fb25a204066db79cb",
-      "caption_sha256": "6c83ef40f11608e654573698188adca74497792e16158595dcbff16285fb3e1e",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-06T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "방향성 진화",
-          "2018 노벨화학상",
-          "효소",
-          "파지 디스플레이"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#방향성진화",
-          "#파지디스플레이"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2018-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2018-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 19,
-      "series_year": 2018,
-      "creation_id": "18162769126537390",
-      "publish_requested_at": "2026-11-06T18:05:48.330892+09:00",
-      "media_id": "18154582408545173"
-    },
-    {
       "id": "nobel-chemistry-2019-handwritten-ko",
       "slug": "nobel-chemistry-2019-handwritten",
       "title": "2019 노벨화학상, 리튬 이온 전지의 두 이동 경로",
@@ -4573,6 +4524,58 @@
       "permalink": "https://www.instagram.com/reel/DfYmPRgEgJ_/",
       "published_at": "2026-11-06T12:05:16+09:00",
       "at": "2026-11-06T12:05:16+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2018-handwritten-ko",
+      "slug": "nobel-chemistry-2018-handwritten",
+      "title": "2018 노벨화학상, 단백질을 시험하고 골라 개선하기",
+      "language": "ko",
+      "video": "nobel-chemistry-2018-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2018-handwritten-ko.txt",
+      "video_sha256": "bcc3a6224e0c39a41b9df684a1388f2b1c45b37b1db1887fb25a204066db79cb",
+      "caption_sha256": "6c83ef40f11608e654573698188adca74497792e16158595dcbff16285fb3e1e",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-06T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "방향성 진화",
+          "2018 노벨화학상",
+          "효소",
+          "파지 디스플레이"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#방향성진화",
+          "#파지디스플레이"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2018-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2018-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 19,
+      "series_year": 2018,
+      "creation_id": "18162769126537390",
+      "publish_requested_at": "2026-11-06T18:05:48.330892+09:00",
+      "media_id": "18154582408545173",
+      "permalink": "https://www.instagram.com/reel/DfZPf5fkVzj/",
+      "published_at": "2026-11-06T18:05:52+09:00",
+      "at": "2026-11-06T18:05:52+09:00"
     }
   ],
   "cancelled_for_remake": [
