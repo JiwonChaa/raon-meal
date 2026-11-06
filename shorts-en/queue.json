@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2017-handwritten-en",
-      "slug": "nobel-chemistry-2017-handwritten",
-      "title": "2017 Chemistry Nobel: reconstructing frozen biomolecules",
-      "language": "en",
-      "video": "nobel-chemistry-2017-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2017-handwritten-en.txt",
-      "video_sha256": "83c503a1f96ad4c4b3b8118c44b01e14084b70d72db3f658727548afcce93956",
-      "caption_sha256": "e1a0eb891b5811b4952a992c14ff866fd3961ef8704db0e952839749bbcf67c5",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-06T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "cryo-electron microscopy",
-          "2017 Chemistry Nobel",
-          "vitrification",
-          "protein structure"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#NobelChemistry",
-          "#CryoEM",
-          "#ProteinStructure"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2017-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2017-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 18,
-      "series_year": 2017,
-      "creation_id": "18131259637768269",
-      "publish_requested_at": "2026-11-06T12:04:12.723079+09:00",
-      "media_id": "18103880945457248"
-    },
-    {
       "id": "nobel-chemistry-2018-handwritten-en",
       "slug": "nobel-chemistry-2018-handwritten",
       "title": "2018 Chemistry Nobel: selecting improved proteins",
@@ -3678,6 +3629,57 @@
       "media_id": "18029276306876568",
       "permalink": "https://www.instagram.com/reel/DfWqmWvCbx7/",
       "published_at": "2026-11-05T18:04:29+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2017-handwritten-en",
+      "slug": "nobel-chemistry-2017-handwritten",
+      "title": "2017 Chemistry Nobel: reconstructing frozen biomolecules",
+      "language": "en",
+      "video": "nobel-chemistry-2017-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2017-handwritten-en.txt",
+      "video_sha256": "83c503a1f96ad4c4b3b8118c44b01e14084b70d72db3f658727548afcce93956",
+      "caption_sha256": "e1a0eb891b5811b4952a992c14ff866fd3961ef8704db0e952839749bbcf67c5",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-06T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "cryo-electron microscopy",
+          "2017 Chemistry Nobel",
+          "vitrification",
+          "protein structure"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#CryoEM",
+          "#ProteinStructure"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2017-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2017-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 18,
+      "series_year": 2017,
+      "creation_id": "18131259637768269",
+      "publish_requested_at": "2026-11-06T12:04:12.723079+09:00",
+      "media_id": "18103880945457248",
+      "permalink": "https://www.instagram.com/reel/DfYmIQHiVF7/",
+      "published_at": "2026-11-06T12:04:15+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
