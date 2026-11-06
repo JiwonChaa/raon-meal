@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2018-handwritten-en",
-      "slug": "nobel-chemistry-2018-handwritten",
-      "title": "2018 Chemistry Nobel: selecting improved proteins",
-      "language": "en",
-      "video": "nobel-chemistry-2018-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2018-handwritten-en.txt",
-      "video_sha256": "fb69efa3d7489562efe523b307feb7ef9521eceea25287ceb6a2ce42151c1bba",
-      "caption_sha256": "04498e1bec325243a17c65e02614a78e0671b0c41600c20e026ce1c130059698",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-06T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "directed evolution",
-          "2018 Chemistry Nobel",
-          "enzyme engineering",
-          "phage display"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#NobelChemistry",
-          "#DirectedEvolution",
-          "#PhageDisplay"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2018-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2018-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 19,
-      "series_year": 2018,
-      "creation_id": "18131323960768269",
-      "publish_requested_at": "2026-11-06T18:05:04.768685+09:00",
-      "media_id": "17917648425496928"
-    },
-    {
       "id": "nobel-chemistry-2019-handwritten-en",
       "slug": "nobel-chemistry-2019-handwritten",
       "title": "2019 Chemistry Nobel: lithium ions and electrons take different paths",
@@ -3683,6 +3634,57 @@
       "media_id": "18103880945457248",
       "permalink": "https://www.instagram.com/reel/DfYmIQHiVF7/",
       "published_at": "2026-11-06T12:04:15+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2018-handwritten-en",
+      "slug": "nobel-chemistry-2018-handwritten",
+      "title": "2018 Chemistry Nobel: selecting improved proteins",
+      "language": "en",
+      "video": "nobel-chemistry-2018-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2018-handwritten-en.txt",
+      "video_sha256": "fb69efa3d7489562efe523b307feb7ef9521eceea25287ceb6a2ce42151c1bba",
+      "caption_sha256": "04498e1bec325243a17c65e02614a78e0671b0c41600c20e026ce1c130059698",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-06T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "directed evolution",
+          "2018 Chemistry Nobel",
+          "enzyme engineering",
+          "phage display"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#DirectedEvolution",
+          "#PhageDisplay"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2018-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2018-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 19,
+      "series_year": 2018,
+      "creation_id": "18131323960768269",
+      "publish_requested_at": "2026-11-06T18:05:04.768685+09:00",
+      "media_id": "17917648425496928",
+      "permalink": "https://www.instagram.com/reel/DfZPbOygOYd/",
+      "published_at": "2026-11-06T18:05:07+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
