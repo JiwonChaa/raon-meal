@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2020-handwritten-en",
-      "slug": "nobel-chemistry-2020-handwritten",
-      "title": "2020 Chemistry Nobel: directing a DNA cut with RNA",
-      "language": "en",
-      "video": "nobel-chemistry-2020-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2020-handwritten-en.txt",
-      "video_sha256": "f82734c0f9b24a5170e70cfa23921b6712f1a279aabb0024f76369b09bc69da3",
-      "caption_sha256": "9577a57ca11d1840caf2e951f54fd32d4831c4bcef4af90b66b53784206661ed",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-07T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "CRISPR Cas9",
-          "2020 Chemistry Nobel",
-          "guide RNA",
-          "genome editing"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#NobelChemistry",
-          "#CRISPR",
-          "#GenomeEditing"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2020-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2020-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 21,
-      "series_year": 2020,
-      "creation_id": "18131549425768269",
-      "publish_requested_at": "2026-11-07T18:05:03.846999+09:00",
-      "media_id": "18111273035621140"
-    },
-    {
       "id": "nobel-chemistry-2021-handwritten-en",
       "slug": "nobel-chemistry-2021-handwritten",
       "title": "2021 Chemistry Nobel: choosing a molecular mirror image",
@@ -3693,6 +3644,57 @@
       "media_id": "18642011920037324",
       "permalink": "https://www.instagram.com/reel/DfbK8VBDg3_/",
       "published_at": "2026-11-07T12:04:27+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2020-handwritten-en",
+      "slug": "nobel-chemistry-2020-handwritten",
+      "title": "2020 Chemistry Nobel: directing a DNA cut with RNA",
+      "language": "en",
+      "video": "nobel-chemistry-2020-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2020-handwritten-en.txt",
+      "video_sha256": "f82734c0f9b24a5170e70cfa23921b6712f1a279aabb0024f76369b09bc69da3",
+      "caption_sha256": "9577a57ca11d1840caf2e951f54fd32d4831c4bcef4af90b66b53784206661ed",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-07T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "CRISPR Cas9",
+          "2020 Chemistry Nobel",
+          "guide RNA",
+          "genome editing"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#NobelChemistry",
+          "#CRISPR",
+          "#GenomeEditing"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2020-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2020-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 21,
+      "series_year": 2020,
+      "creation_id": "18131549425768269",
+      "publish_requested_at": "2026-11-07T18:05:03.846999+09:00",
+      "media_id": "18111273035621140",
+      "permalink": "https://www.instagram.com/reel/Dfb0N_8DPZm/",
+      "published_at": "2026-11-07T18:05:06+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
