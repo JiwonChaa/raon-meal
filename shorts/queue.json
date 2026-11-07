@@ -6,56 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2019-handwritten-ko",
-      "slug": "nobel-chemistry-2019-handwritten",
-      "title": "2019 노벨화학상, 리튬 이온 전지의 두 이동 경로",
-      "language": "ko",
-      "video": "nobel-chemistry-2019-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2019-handwritten-ko.txt",
-      "video_sha256": "371d90dd36604a0eae7d30327bab5d7c9c22b18302a8328ec3246991d074b3db",
-      "caption_sha256": "fadc4f2f9aa0fa2790de92e136de5d35bd556eafad3590bb5a594554d0697b56",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-07T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "리튬 이온 전지",
-          "2019 노벨화학상",
-          "충전",
-          "전극",
-          "전기화학"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#리튬이온전지",
-          "#전기화학"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2019-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2019-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 20,
-      "series_year": 2019,
-      "creation_id": "18162909643537390",
-      "publish_requested_at": "2026-11-07T12:04:23.093790+09:00",
-      "media_id": "18083882006352514"
-    },
-    {
       "id": "nobel-chemistry-2020-handwritten-ko",
       "slug": "nobel-chemistry-2020-handwritten",
       "title": "2020 노벨화학상, RNA로 DNA 절단 위치를 정하기",
@@ -4579,6 +4529,59 @@
       "permalink": "https://www.instagram.com/reel/DfZPf5fkVzj/",
       "published_at": "2026-11-06T18:05:52+09:00",
       "at": "2026-11-06T18:05:52+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2019-handwritten-ko",
+      "slug": "nobel-chemistry-2019-handwritten",
+      "title": "2019 노벨화학상, 리튬 이온 전지의 두 이동 경로",
+      "language": "ko",
+      "video": "nobel-chemistry-2019-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2019-handwritten-ko.txt",
+      "video_sha256": "371d90dd36604a0eae7d30327bab5d7c9c22b18302a8328ec3246991d074b3db",
+      "caption_sha256": "fadc4f2f9aa0fa2790de92e136de5d35bd556eafad3590bb5a594554d0697b56",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-07T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "리튬 이온 전지",
+          "2019 노벨화학상",
+          "충전",
+          "전극",
+          "전기화학"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#리튬이온전지",
+          "#전기화학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2019-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2019-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 20,
+      "series_year": 2019,
+      "creation_id": "18162909643537390",
+      "publish_requested_at": "2026-11-07T12:04:23.093790+09:00",
+      "media_id": "18083882006352514",
+      "permalink": "https://www.instagram.com/reel/DfbK-vnDeJ0/",
+      "published_at": "2026-11-07T12:04:24+09:00",
+      "at": "2026-11-07T12:04:24+09:00"
     }
   ],
   "cancelled_for_remake": [
