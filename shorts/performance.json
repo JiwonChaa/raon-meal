@@ -2761,6 +2761,46 @@
       "total_interactions": 18,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 1.47
+    },
+    {
+      "item_id": "nobel-chemistry-2013-handwritten-ko",
+      "media_id": "18637809454011098",
+      "permalink": "https://www.instagram.com/reel/DfTcp2fFB_A/",
+      "topic_family": "chemistry",
+      "window_hours": 72,
+      "actual_age_hours": 75.157,
+      "captured_at": "2026-11-07T06:14:44.637994+00:00",
+      "views": 1812,
+      "reach": 1466,
+      "average_watch_time_ms": 6559,
+      "total_watch_time_ms": 9701220,
+      "likes": 14,
+      "comments": 0,
+      "shares": 2,
+      "saved": 6,
+      "total_interactions": 22,
+      "shares_per_1000_reach": 1.364,
+      "saves_per_1000_reach": 4.093
+    },
+    {
+      "item_id": "nobel-chemistry-2017-handwritten-ko",
+      "media_id": "18045052742833431",
+      "permalink": "https://www.instagram.com/reel/DfYmPRgEgJ_/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 27.158,
+      "captured_at": "2026-11-07T06:14:44.637994+00:00",
+      "views": 1959,
+      "reach": 1623,
+      "average_watch_time_ms": 7237,
+      "total_watch_time_ms": 12165763,
+      "likes": 17,
+      "comments": 0,
+      "shares": 5,
+      "saved": 9,
+      "total_interactions": 31,
+      "shares_per_1000_reach": 3.081,
+      "saves_per_1000_reach": 5.545
     }
   ]
 }
