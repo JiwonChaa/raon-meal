@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2021-handwritten-en",
-      "slug": "nobel-chemistry-2021-handwritten",
-      "title": "2021 Chemistry Nobel: choosing a molecular mirror image",
-      "language": "en",
-      "video": "nobel-chemistry-2021-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2021-handwritten-en.txt",
-      "video_sha256": "8fcb0348d2b444a3cfc303fda90d07c1f51ea8b0f1bccdee3e6debf6a66ecd43",
-      "caption_sha256": "ba720127c5c9d9a64d437eec398e28e9faf54d25a074f7b5b8ecca4300e1c5a0",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-08T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2021 Chemistry Nobel",
-          "organocatalysis",
-          "proline",
-          "asymmetric catalysis"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ChemistryNobel",
-          "#Organocatalysis",
-          "#AsymmetricSynthesis"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2021-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2021-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 22,
-      "series_year": 2021,
-      "creation_id": "18131738389768269",
-      "publish_requested_at": "2026-11-08T12:03:54.349365+09:00",
-      "media_id": "17996174922020216"
-    },
-    {
       "id": "nobel-chemistry-2022-handwritten-en",
       "slug": "nobel-chemistry-2022-handwritten",
       "title": "2022 Chemistry Nobel: labeling glycans in living cells",
@@ -3698,6 +3649,57 @@
       "media_id": "18111273035621140",
       "permalink": "https://www.instagram.com/reel/Dfb0N_8DPZm/",
       "published_at": "2026-11-07T18:05:06+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2021-handwritten-en",
+      "slug": "nobel-chemistry-2021-handwritten",
+      "title": "2021 Chemistry Nobel: choosing a molecular mirror image",
+      "language": "en",
+      "video": "nobel-chemistry-2021-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2021-handwritten-en.txt",
+      "video_sha256": "8fcb0348d2b444a3cfc303fda90d07c1f51ea8b0f1bccdee3e6debf6a66ecd43",
+      "caption_sha256": "ba720127c5c9d9a64d437eec398e28e9faf54d25a074f7b5b8ecca4300e1c5a0",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-08T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2021 Chemistry Nobel",
+          "organocatalysis",
+          "proline",
+          "asymmetric catalysis"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#Organocatalysis",
+          "#AsymmetricSynthesis"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2021-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2021-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 22,
+      "series_year": 2021,
+      "creation_id": "18131738389768269",
+      "publish_requested_at": "2026-11-08T12:03:54.349365+09:00",
+      "media_id": "17996174922020216",
+      "permalink": "https://www.instagram.com/reel/DfdvrywlL7J/",
+      "published_at": "2026-11-08T12:03:57+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
