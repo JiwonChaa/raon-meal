@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2022-handwritten-en",
-      "slug": "nobel-chemistry-2022-handwritten",
-      "title": "2022 Chemistry Nobel: labeling glycans in living cells",
-      "language": "en",
-      "video": "nobel-chemistry-2022-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2022-handwritten-en.txt",
-      "video_sha256": "b4ee9089dbe1b549a4d26803e5aa4ff9872c75f4e02d421a00799359627fc253",
-      "caption_sha256": "0590fc0032b478a058e154ed1952d4e2ebb5845c69657acc61ba43d6b823f4d2",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-08T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2022 Chemistry Nobel",
-          "click chemistry",
-          "bioorthogonal chemistry",
-          "glycans"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ChemistryNobel",
-          "#ClickChemistry",
-          "#BioorthogonalChemistry"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2022-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2022-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 23,
-      "series_year": 2022,
-      "creation_id": "18131804254768269",
-      "publish_requested_at": "2026-11-08T18:04:25.566565+09:00",
-      "media_id": "18208073974371747"
-    },
-    {
       "id": "nobel-chemistry-2023-handwritten-en",
       "slug": "nobel-chemistry-2023-handwritten",
       "title": "2023 Chemistry Nobel: tuning quantum-dot color by size",
@@ -3703,6 +3654,57 @@
       "media_id": "17996174922020216",
       "permalink": "https://www.instagram.com/reel/DfdvrywlL7J/",
       "published_at": "2026-11-08T12:03:57+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2022-handwritten-en",
+      "slug": "nobel-chemistry-2022-handwritten",
+      "title": "2022 Chemistry Nobel: labeling glycans in living cells",
+      "language": "en",
+      "video": "nobel-chemistry-2022-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2022-handwritten-en.txt",
+      "video_sha256": "b4ee9089dbe1b549a4d26803e5aa4ff9872c75f4e02d421a00799359627fc253",
+      "caption_sha256": "0590fc0032b478a058e154ed1952d4e2ebb5845c69657acc61ba43d6b823f4d2",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-08T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2022 Chemistry Nobel",
+          "click chemistry",
+          "bioorthogonal chemistry",
+          "glycans"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#ClickChemistry",
+          "#BioorthogonalChemistry"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2022-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2022-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 23,
+      "series_year": 2022,
+      "creation_id": "18131804254768269",
+      "publish_requested_at": "2026-11-08T18:04:25.566565+09:00",
+      "media_id": "18208073974371747",
+      "permalink": "https://www.instagram.com/reel/DfeY7nHnBsk/",
+      "published_at": "2026-11-08T18:04:28+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
