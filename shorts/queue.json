@@ -6,55 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2022-handwritten-ko",
-      "slug": "nobel-chemistry-2022-handwritten",
-      "title": "2022 노벨화학상: 세포의 당사슬에 표지 붙이기",
-      "language": "ko",
-      "video": "nobel-chemistry-2022-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2022-handwritten-ko.txt",
-      "video_sha256": "a355a581a021882fe2f1e246210261fce8c7200632c75cb35284f5406db130ee",
-      "caption_sha256": "64a688d731a577c1698c7cfd12f79cb69612e721639958c913bedf4ea8ef07a9",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-08T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2022 노벨화학상",
-          "클릭 화학",
-          "생체 직교 화학",
-          "당사슬"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#클릭화학",
-          "#생체직교화학"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2022-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2022-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 23,
-      "series_year": 2022,
-      "creation_id": "18163162303537390",
-      "publish_requested_at": "2026-11-08T18:04:15.873952+09:00",
-      "media_id": "18159003814518961"
-    },
-    {
       "id": "nobel-chemistry-2023-handwritten-ko",
       "slug": "nobel-chemistry-2023-handwritten",
       "title": "2023 노벨화학상: 양자점은 크기로 색을 바꿉니다",
@@ -4597,6 +4548,58 @@
       "permalink": "https://www.instagram.com/reel/Dfdvpn3nEEZ/",
       "published_at": "2026-11-08T12:03:29+09:00",
       "at": "2026-11-08T12:03:29+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2022-handwritten-ko",
+      "slug": "nobel-chemistry-2022-handwritten",
+      "title": "2022 노벨화학상: 세포의 당사슬에 표지 붙이기",
+      "language": "ko",
+      "video": "nobel-chemistry-2022-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2022-handwritten-ko.txt",
+      "video_sha256": "a355a581a021882fe2f1e246210261fce8c7200632c75cb35284f5406db130ee",
+      "caption_sha256": "64a688d731a577c1698c7cfd12f79cb69612e721639958c913bedf4ea8ef07a9",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-08T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2022 노벨화학상",
+          "클릭 화학",
+          "생체 직교 화학",
+          "당사슬"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#클릭화학",
+          "#생체직교화학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2022-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2022-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 23,
+      "series_year": 2022,
+      "creation_id": "18163162303537390",
+      "publish_requested_at": "2026-11-08T18:04:15.873952+09:00",
+      "media_id": "18159003814518961",
+      "permalink": "https://www.instagram.com/reel/DfeY9XiHPP0/",
+      "published_at": "2026-11-08T18:04:18+09:00",
+      "at": "2026-11-08T18:04:18+09:00"
     }
   ],
   "cancelled_for_remake": [
