@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2024-handwritten-en",
-      "slug": "nobel-chemistry-2024-handwritten",
-      "title": "2024 Chemistry Nobel: predicting and designing proteins",
-      "language": "en",
-      "video": "nobel-chemistry-2024-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2024-handwritten-en.txt",
-      "video_sha256": "44f7ea48dcc54fdd93dc4d6fca8b4deab9d5b9ca9b34a718bf97a57196bd1bd4",
-      "caption_sha256": "3263984022d1a201f62d5baeb8539ee625cb7907bc53d32fa69e3f23455c823e",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-09T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2024 Chemistry Nobel",
-          "protein structure prediction",
-          "computational protein design",
-          "AlphaFold2"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ChemistryNobel",
-          "#ProteinDesign",
-          "#AlphaFold"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2024-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2024-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 25,
-      "series_year": 2024,
-      "creation_id": "18132057694768269",
-      "publish_requested_at": "2026-11-09T19:29:41.843547+09:00",
-      "media_id": "18121212152072979"
-    },
-    {
       "id": "nobel-chemistry-2025-handwritten-en",
       "slug": "nobel-chemistry-2025-handwritten",
       "title": "2025 Chemistry Nobel: how metal–organic frameworks collect water",
@@ -3713,6 +3664,57 @@
       "media_id": "18189556540417333",
       "permalink": "https://www.instagram.com/reel/DfgUdc_Avih/",
       "published_at": "2026-11-09T12:03:44+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2024-handwritten-en",
+      "slug": "nobel-chemistry-2024-handwritten",
+      "title": "2024 Chemistry Nobel: predicting and designing proteins",
+      "language": "en",
+      "video": "nobel-chemistry-2024-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2024-handwritten-en.txt",
+      "video_sha256": "44f7ea48dcc54fdd93dc4d6fca8b4deab9d5b9ca9b34a718bf97a57196bd1bd4",
+      "caption_sha256": "3263984022d1a201f62d5baeb8539ee625cb7907bc53d32fa69e3f23455c823e",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-09T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2024 Chemistry Nobel",
+          "protein structure prediction",
+          "computational protein design",
+          "AlphaFold2"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#ProteinDesign",
+          "#AlphaFold"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2024-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2024-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 25,
+      "series_year": 2024,
+      "creation_id": "18132057694768269",
+      "publish_requested_at": "2026-11-09T19:29:41.843547+09:00",
+      "media_id": "18121212152072979",
+      "permalink": "https://www.instagram.com/reel/DfhHiDwFayQ/",
+      "published_at": "2026-11-09T19:29:44+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
