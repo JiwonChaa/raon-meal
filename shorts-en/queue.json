@@ -9,55 +9,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2023-handwritten-en",
-      "slug": "nobel-chemistry-2023-handwritten",
-      "title": "2023 Chemistry Nobel: tuning quantum-dot color by size",
-      "language": "en",
-      "video": "nobel-chemistry-2023-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2023-handwritten-en.txt",
-      "video_sha256": "66aba8cc325559a2276f6b50ccb219e85d981e882442e652fe9a4e6b27a7c8d3",
-      "caption_sha256": "127764073fd8d1102558c7ba8fe415ca16436bda5c6cd6909b335b1bc2817afc",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-09T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2023 Chemistry Nobel",
-          "quantum dots",
-          "quantum confinement",
-          "semiconductor nanocrystals"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ChemistryNobel",
-          "#QuantumDots",
-          "#QuantumConfinement"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2023-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2023-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 24,
-      "series_year": 2023,
-      "creation_id": "18131988400768269",
-      "publish_requested_at": "2026-11-09T12:03:41.684238+09:00",
-      "media_id": "18189556540417333"
-    },
-    {
       "id": "nobel-chemistry-2024-handwritten-en",
       "slug": "nobel-chemistry-2024-handwritten",
       "title": "2024 Chemistry Nobel: predicting and designing proteins",
@@ -3708,6 +3659,57 @@
       "media_id": "18208073974371747",
       "permalink": "https://www.instagram.com/reel/DfeY7nHnBsk/",
       "published_at": "2026-11-08T18:04:28+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2023-handwritten-en",
+      "slug": "nobel-chemistry-2023-handwritten",
+      "title": "2023 Chemistry Nobel: tuning quantum-dot color by size",
+      "language": "en",
+      "video": "nobel-chemistry-2023-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2023-handwritten-en.txt",
+      "video_sha256": "66aba8cc325559a2276f6b50ccb219e85d981e882442e652fe9a4e6b27a7c8d3",
+      "caption_sha256": "127764073fd8d1102558c7ba8fe415ca16436bda5c6cd6909b335b1bc2817afc",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-09T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2023 Chemistry Nobel",
+          "quantum dots",
+          "quantum confinement",
+          "semiconductor nanocrystals"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#QuantumDots",
+          "#QuantumConfinement"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2023-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2023-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 24,
+      "series_year": 2023,
+      "creation_id": "18131988400768269",
+      "publish_requested_at": "2026-11-09T12:03:41.684238+09:00",
+      "media_id": "18189556540417333",
+      "permalink": "https://www.instagram.com/reel/DfgUdc_Avih/",
+      "published_at": "2026-11-09T12:03:44+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
