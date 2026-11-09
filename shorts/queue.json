@@ -6,55 +6,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "nobel-chemistry-2024-handwritten-ko",
-      "slug": "nobel-chemistry-2024-handwritten",
-      "title": "2024 노벨화학상: 단백질 구조 예측과 설계",
-      "language": "ko",
-      "video": "nobel-chemistry-2024-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2024-handwritten-ko.txt",
-      "video_sha256": "c01641a01e9afb1a8c7f17a9926b1c095b23c3e7adf6633bf8726e3864a2feaa",
-      "caption_sha256": "9e5282468d2a854a644234ddf808bf79ea3155dedc6d6f718e425f748993cba3",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-09T18:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2024 노벨화학상",
-          "단백질 구조 예측",
-          "단백질 설계",
-          "알파폴드2"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#단백질설계",
-          "#알파폴드"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2024-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2024-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 25,
-      "series_year": 2024,
-      "creation_id": "18163367413537390",
-      "publish_requested_at": "2026-11-09T19:28:17.014064+09:00",
-      "media_id": "18114571088136191"
-    },
-    {
       "id": "nobel-chemistry-2025-handwritten-ko",
       "slug": "nobel-chemistry-2025-handwritten",
       "title": "2025 노벨화학상: 금속 유기 골격체가 물을 모으는 원리",
@@ -4609,6 +4560,58 @@
       "permalink": "https://www.instagram.com/reel/DfgUkqHiupK/",
       "published_at": "2026-11-09T12:04:37+09:00",
       "at": "2026-11-09T12:04:37+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2024-handwritten-ko",
+      "slug": "nobel-chemistry-2024-handwritten",
+      "title": "2024 노벨화학상: 단백질 구조 예측과 설계",
+      "language": "ko",
+      "video": "nobel-chemistry-2024-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2024-handwritten-ko.txt",
+      "video_sha256": "c01641a01e9afb1a8c7f17a9926b1c095b23c3e7adf6633bf8726e3864a2feaa",
+      "caption_sha256": "9e5282468d2a854a644234ddf808bf79ea3155dedc6d6f718e425f748993cba3",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-09T18:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2024 노벨화학상",
+          "단백질 구조 예측",
+          "단백질 설계",
+          "알파폴드2"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#단백질설계",
+          "#알파폴드"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2024-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2024-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 25,
+      "series_year": 2024,
+      "creation_id": "18163367413537390",
+      "publish_requested_at": "2026-11-09T19:28:17.014064+09:00",
+      "media_id": "18114571088136191",
+      "permalink": "https://www.instagram.com/reel/DfhHX6YnMpd/",
+      "published_at": "2026-11-09T19:28:20+09:00",
+      "at": "2026-11-09T19:28:20+09:00"
     }
   ],
   "cancelled_for_remake": [
