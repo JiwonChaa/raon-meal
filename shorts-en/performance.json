@@ -3041,6 +3041,46 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2020-handwritten-en",
+      "media_id": "18111273035621140",
+      "permalink": "https://www.instagram.com/reel/Dfb0N_8DPZm/",
+      "topic_family": "chemistry",
+      "window_hours": 72,
+      "actual_age_hours": 77.991,
+      "captured_at": "2026-11-10T15:04:34.915183+00:00",
+      "views": 5,
+      "reach": 4,
+      "average_watch_time_ms": 1858,
+      "total_watch_time_ms": 7433,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2024-handwritten-en",
+      "media_id": "18121212152072979",
+      "permalink": "https://www.instagram.com/reel/DfhHiDwFayQ/",
+      "topic_family": "chemistry",
+      "window_hours": 24,
+      "actual_age_hours": 28.581,
+      "captured_at": "2026-11-10T15:04:34.915183+00:00",
+      "views": 6,
+      "reach": 4,
+      "average_watch_time_ms": 2028,
+      "total_watch_time_ms": 10142,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
