@@ -7,57 +7,7 @@
     "A": "18:00"
   },
   "paused": false,
-  "queue": [
-    {
-      "id": "nobel-chemistry-2025-handwritten-en",
-      "slug": "nobel-chemistry-2025-handwritten",
-      "title": "2025 Chemistry Nobel: how metal–organic frameworks collect water",
-      "language": "en",
-      "video": "nobel-chemistry-2025-handwritten-en.mp4",
-      "caption": "nobel-chemistry-2025-handwritten-en.txt",
-      "video_sha256": "9faf6cdd13c877b69ce5d3d7b607fa7424c6ccfe350011cc89538681eaeab363",
-      "caption_sha256": "d2363c79095ba22b42b8002e5ea4a04e408953fa4a53a5b5ddf6eceb13665ce0",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-10T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2025 Chemistry Nobel",
-          "metal organic frameworks",
-          "MOF",
-          "water harvesting"
-        ],
-        "hashtags": [
-          "#Science",
-          "#Chemistry",
-          "#ChemistryNobel",
-          "#MetalOrganicFrameworks",
-          "#WaterHarvesting"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2025-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2025-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 26,
-      "series_year": 2025,
-      "creation_id": "18132219196768269",
-      "publish_requested_at": "2026-11-10T12:09:02.369042+09:00",
-      "media_id": "18158608603516856"
-    }
-  ],
+  "queue": [],
   "done": [
     {
       "id": "toast-fall-en-20260914",
@@ -3718,6 +3668,57 @@
       "media_id": "18121212152072979",
       "permalink": "https://www.instagram.com/reel/DfhHiDwFayQ/",
       "published_at": "2026-11-09T19:29:44+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2025-handwritten-en",
+      "slug": "nobel-chemistry-2025-handwritten",
+      "title": "2025 Chemistry Nobel: how metal–organic frameworks collect water",
+      "language": "en",
+      "video": "nobel-chemistry-2025-handwritten-en.mp4",
+      "caption": "nobel-chemistry-2025-handwritten-en.txt",
+      "video_sha256": "9faf6cdd13c877b69ce5d3d7b607fa7424c6ccfe350011cc89538681eaeab363",
+      "caption_sha256": "d2363c79095ba22b42b8002e5ea4a04e408953fa4a53a5b5ddf6eceb13665ce0",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-10T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2025 Chemistry Nobel",
+          "metal organic frameworks",
+          "MOF",
+          "water harvesting"
+        ],
+        "hashtags": [
+          "#Science",
+          "#Chemistry",
+          "#ChemistryNobel",
+          "#MetalOrganicFrameworks",
+          "#WaterHarvesting"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2025-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2025-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 26,
+      "series_year": 2025,
+      "creation_id": "18132219196768269",
+      "publish_requested_at": "2026-11-10T12:09:02.369042+09:00",
+      "media_id": "18158608603516856",
+      "permalink": "https://www.instagram.com/reel/Dfi55qFD7x3/",
+      "published_at": "2026-11-10T12:09:04+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
