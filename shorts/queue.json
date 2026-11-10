@@ -4,57 +4,7 @@
     "A": "18:00"
   },
   "paused": false,
-  "queue": [
-    {
-      "id": "nobel-chemistry-2025-handwritten-ko",
-      "slug": "nobel-chemistry-2025-handwritten",
-      "title": "2025 노벨화학상: 금속 유기 골격체가 물을 모으는 원리",
-      "language": "ko",
-      "video": "nobel-chemistry-2025-handwritten-ko.mp4",
-      "caption": "nobel-chemistry-2025-handwritten-ko.txt",
-      "video_sha256": "cdd2a5a66fae132f312770ea2d03d655c5f73855be7dc9edb1ea3bc71dd29613",
-      "caption_sha256": "a3c4cebdb7ea10de6c9c65141ee4b423e0788d95629be1c526babab365863636",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
-      "human_listening_approved": false,
-      "slot": "B",
-      "scheduled_at": "2026-11-10T12:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "chemistry",
-        "keywords": [
-          "2025 노벨화학상",
-          "금속 유기 골격체",
-          "MOF",
-          "물 포집"
-        ],
-        "hashtags": [
-          "#과학",
-          "#화학",
-          "#노벨화학상",
-          "#금속유기골격체",
-          "#물포집"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "nobel-chemistry-2025-handwritten"
-      },
-      "pair_id": "nobel-chemistry-2025-handwritten",
-      "thumb_offset_ms": 2400,
-      "series_id": "nobel-chemistry-2000-2025-ordered",
-      "episode_number": 26,
-      "series_year": 2025,
-      "creation_id": "18163507651537390",
-      "publish_requested_at": "2026-11-10T12:04:42.478320+09:00",
-      "media_id": "18097897619152020"
-    }
-  ],
+  "queue": [],
   "done": [
     {
       "num": "55",
@@ -4615,6 +4565,58 @@
       "permalink": "https://www.instagram.com/reel/DfhHX6YnMpd/",
       "published_at": "2026-11-09T19:28:20+09:00",
       "at": "2026-11-09T19:28:20+09:00"
+    },
+    {
+      "id": "nobel-chemistry-2025-handwritten-ko",
+      "slug": "nobel-chemistry-2025-handwritten",
+      "title": "2025 노벨화학상: 금속 유기 골격체가 물을 모으는 원리",
+      "language": "ko",
+      "video": "nobel-chemistry-2025-handwritten-ko.mp4",
+      "caption": "nobel-chemistry-2025-handwritten-ko.txt",
+      "video_sha256": "cdd2a5a66fae132f312770ea2d03d655c5f73855be7dc9edb1ea3bc71dd29613",
+      "caption_sha256": "a3c4cebdb7ea10de6c9c65141ee4b423e0788d95629be1c526babab365863636",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User authorized completion and Instagram waiting-queue registration in this session.",
+      "human_listening_approved": false,
+      "slot": "B",
+      "scheduled_at": "2026-11-10T12:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "chemistry",
+        "keywords": [
+          "2025 노벨화학상",
+          "금속 유기 골격체",
+          "MOF",
+          "물 포집"
+        ],
+        "hashtags": [
+          "#과학",
+          "#화학",
+          "#노벨화학상",
+          "#금속유기골격체",
+          "#물포집"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "nobel-chemistry-2025-handwritten"
+      },
+      "pair_id": "nobel-chemistry-2025-handwritten",
+      "thumb_offset_ms": 2400,
+      "series_id": "nobel-chemistry-2000-2025-ordered",
+      "episode_number": 26,
+      "series_year": 2025,
+      "creation_id": "18163507651537390",
+      "publish_requested_at": "2026-11-10T12:04:42.478320+09:00",
+      "media_id": "18097897619152020",
+      "permalink": "https://www.instagram.com/reel/Dfi5ZwsIKcc/",
+      "published_at": "2026-11-10T12:04:44+09:00",
+      "at": "2026-11-10T12:04:44+09:00"
     }
   ],
   "cancelled_for_remake": [
