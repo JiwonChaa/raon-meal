@@ -3181,6 +3181,26 @@
       "total_interactions": 0,
       "shares_per_1000_reach": 0.0,
       "saves_per_1000_reach": 0.0
+    },
+    {
+      "item_id": "nobel-chemistry-2025-handwritten-en",
+      "media_id": "18158608603516856",
+      "permalink": "https://www.instagram.com/reel/Dfi55qFD7x3/",
+      "topic_family": "chemistry",
+      "window_hours": 72,
+      "actual_age_hours": 80.117,
+      "captured_at": "2026-11-13T11:16:05.819630+00:00",
+      "views": 12,
+      "reach": 7,
+      "average_watch_time_ms": 2971,
+      "total_watch_time_ms": 23774,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saved": 0,
+      "total_interactions": 0,
+      "shares_per_1000_reach": 0.0,
+      "saves_per_1000_reach": 0.0
     }
   ]
 }
