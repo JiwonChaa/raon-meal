@@ -1,0 +1,10 @@
+Why doesn't a walking droplet on a vibrating oil bath merge with the oil?
+It rides its own waves, and that motion led to research on pilot wave hydrodynamics.
+
+A thin air film sits between the drop and the bath, and the drop bounces off before that air can drain. Near the point where waves would form on their own, each bounce leaves a long-lasting wave, and the drop lands on its slope and gets pushed sideways. Turn the shaking down and it only bounces in place, then merges. How closely this resembles quantum mechanics is still debated.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Couder et al. (2005), Nature; Bush (2015), Annual Review of Fluid Mechanics; Andersen et al. (2015), Physical Review E
+
+#science #physics #walkingdroplets #pilotwave #fluiddynamics

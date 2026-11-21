@@ -1,0 +1,10 @@
+Why does floating cereal clump together in a bowl of milk?
+The meniscus effect, shaped by surface tension, sends each piece up its neighbor's slope.
+
+Milk climbs a little up each piece of cereal, so the surface around it slopes upward. Cereal's buoyancy beats its weight, so each piece climbs the slope its neighbor made until they touch. A heavy metal tack presses the surface down and slides downhill, and next to a light plastic head, the two drift apart. Objects that bend the surface the same way gather, and opposite bends separate.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Vella, Mahadevan (2005), American Journal of Physics
+
+#science #physics #meniscus #surfacetension #fluiddynamics

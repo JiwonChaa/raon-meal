@@ -1,0 +1,10 @@
+A candle behind a bottle can go out when someone blows at the front.
+The Coanda effect lets an air jet bend around the round glass and reach the flame.
+
+A narrow air jet drags nearby air along with it, which lowers the pressure between the jet and the bottle wall. Higher pressure on the outside pushes the jet against the curve, so it wraps around both sides and meets again behind the bottle. With a square bottle, the flow breaks away at the corners and turns into swirls, so a weaker breeze reaches the flame.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Lubert (2011), International Journal of Acoustics and Vibration; JSME Fluids Engineering Division, fluid experiment notes; University of Basel, Flame effects teaching notes
+
+#science #physics #coandaeffect #fluiddynamics #airflow

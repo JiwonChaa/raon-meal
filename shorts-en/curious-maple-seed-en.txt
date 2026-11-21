@@ -1,0 +1,10 @@
+Falling maple seeds spin on a single wing and drift slowly to the ground.
+Their seed autorotation works because a leading-edge vortex clings to the wing and adds lift.
+
+As the seed falls, air hits its tilted wing and starts it turning, and the spin drives the wing through the air faster. A small vortex stays attached along the front edge and lowers the pressure on top of the wing, which adds lift. Norway maple seeds were measured at about 16 turns per second while falling about 1 m/s. Trim up to about 40% of the wing's area from the back and it keeps spinning, but it falls faster.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Lentink et al. (2009), Science; Ortega-Jimenez et al. (2019), Journal of the Royal Society Interface; Schaeffer et al. (2024), Communications Biology
+
+#science #physics #mapleseed #autorotation #aerodynamics

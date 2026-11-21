@@ -1,0 +1,10 @@
+Why does a freezing water drop grow a pointed tip?
+As it freezes from the bottom, water expansion pushes the remaining liquid upward.
+
+Almost no heat leaves through the sides of the ice, so the freezing front meets the ice surface at a right angle. As that front narrows, the added volume gets pushed up and the top closes into a cone. The measured tip angle is about 139°, and it stayed the same when the plate temperature or the drop's flatness changed. A model with no fitted numbers predicts 131°, at the low edge of the error range.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Marín et al. (2014), Physical Review Letters
+
+#science #physics #freezing #waterdrop #ice

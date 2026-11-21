@@ -1,0 +1,10 @@
+Why does drying starch crack into columnar joints like a lava cliff?
+These starch columns form as drying cracks grow down from the surface.
+
+Starch loses water and lava loses heat, and both shrink as they do. The surface is stuck to the layer below, so it builds tension until it cracks. The cracks follow the boundary between dry and wet material downward and settle into mostly hexagon-like columns. A faster boundary brings the cracks closer together, so the columns come out thinner.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Goehring, Mahadevan, Morris (2009), PNAS / Goehring, Lin, Morris (2006), Physical Review E / Goehring, Morris (2005), Europhysics Letters
+
+#science #physics #columnarjoints #starch #cracks

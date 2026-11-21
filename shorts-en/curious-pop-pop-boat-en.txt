@@ -1,0 +1,10 @@
+A pop-pop boat moves forward even though it spits water out and sucks it back in.
+Its steam oscillation and the momentum transfer at the tube's inner wall leave a net push.
+
+A candle turns some of the tank's water to steam, the pressure rises, and water gets pushed out the tube. The steam then condenses, the pressure drops, and water flows back in. Water leaving the boat takes its momentum with it and pushes the boat forward. Water coming in hits the inner wall, which cancels most of the backward tug, so each cycle leaves a net push forward.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Finnie, Curl (1963), American Journal of Physics; Jenkins (2013), Physics Reports
+
+#science #physics #poppopboat #selfoscillation #momentum

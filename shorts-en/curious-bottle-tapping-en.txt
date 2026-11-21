@@ -1,0 +1,10 @@
+A quick tap on a bottle makes beer foam shoot up and over the top.
+The physics of beer tapping starts with pressure waves that shatter carbon dioxide bubbles.
+
+The tap travels down the glass and sends pressure waves through the liquid, and bubbles swell, collapse, and break apart. The gas stays the same, but its contact area with the beer grows by an estimated 100 times. Dissolved gas pours into the new bubbles, and the growing cloud rises on buoyancy and spreads through the bottle in about a second.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Rodríguez-Rodríguez et al. (2014), Physical Review Letters
+
+#science #physics #beerfoam #bubbles #fluiddynamics

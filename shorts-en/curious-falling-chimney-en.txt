@@ -1,0 +1,10 @@
+A falling chimney can snap in midair before it reaches the ground.
+The cause is a bending moment from the internal forces that hold its rotational motion together.
+
+To turn as one piece, the higher parts have to speed up more, and above two-thirds of the height gravity alone can't keep up. The lower section drags the upper section forward, and that drag bends the chimney. The ground-facing side stretches until it can't take the tension, and a crack opens there first. The exact spot depends on material and structure, but it's usually between a third and half of the height.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Varieschi, Kamiya (2003), American Journal of Physics
+
+#science #physics #chimney #bendingmoment #rotationalmotion

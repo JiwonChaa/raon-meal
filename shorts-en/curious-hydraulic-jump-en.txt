@@ -1,0 +1,10 @@
+A stream hitting your sink makes a circular hydraulic jump, a round step where the water suddenly thickens.
+In kitchen sink physics, it's still an open question how much gravity and surface tension set its size.
+
+The water spreads in a thin, fast sheet and slows down because of viscosity. Inside the step it outruns surface waves, so they can't travel upstream, and outside the step it's slow enough that they can. Where the fast flow meets the slow flow, the same amount of water has to get through at lower speed, so the layer thickens. Double the flow and the radius grows about 1.5 or 1.7 times, depending on conditions.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Bhagat et al. (2018), Journal of Fluid Mechanics; Duchesne, Andersen, Bohr (2019), Physical Review Fluids
+
+#science #physics #hydraulicjump #surfacetension #fluiddynamics

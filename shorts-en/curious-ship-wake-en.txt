@@ -1,0 +1,10 @@
+A duck or boat leaves a V of waves whose outer edge opens to about 39 degrees.
+That boat wake angle, known as the Kelvin wake, comes from the group velocity of deep-water waves.
+
+In deep water, a wave's energy travels at half the speed of its crests. Draw the circle where that energy lands for each point the boat passed, and two straight lines from the boat touch all those circles. Double the speed and the circles and distance grow together, so each side stays at 19.47 degrees. On very fast boats the tallest crests crowd inward, which makes the V look narrower.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Rabaud, Moisy (2013), Physical Review Letters; Darmon et al. (2014), Journal of Fluid Mechanics
+
+#science #physics #kelvinwake #waves #fluiddynamics

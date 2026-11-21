@@ -1,0 +1,10 @@
+The coin wobble gets faster as a spinning coin settles toward the table.
+For a rolling disk, a smaller tilt makes the contact point circle the table faster.
+
+As the coin loses energy, its center of mass drops and its tilt shrinks. Holding a smaller tilt takes a faster-circling contact point, so the rattle speeds up. A mark on the coin's face does the opposite, slowing until it looks almost still. Papers still disagree on whether rolling friction, slipping, or air drag takes most of the energy.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Moffatt (2000), Nature / Caps et al. (2004), Physical Review E
+
+#science #physics #coin #torque #rotation

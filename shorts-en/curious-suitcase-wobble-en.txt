@@ -1,0 +1,10 @@
+A rolling suitcase on two wheels can rock harder and harder until it tips over.
+That suitcase wobble can keep going because rolling without slipping links forward motion to rotation.
+
+One wheel lifts and drops, the other lifts in turn, and the rocking repeats from side to side. Each landing costs energy, but the wheels share one axle and can't slide sideways, so the forward motion is tied to the rotation. When energy arriving through that link makes up for the losses, the rocking doesn't die down. In model experiments, the case either rocked harder until it tipped or kept swinging at a steady width.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Facchini et al. (2017), Proceedings of the Royal Society A
+
+#science #physics #suitcase #instability #rotation

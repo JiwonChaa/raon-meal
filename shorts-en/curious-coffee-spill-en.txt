@@ -1,0 +1,10 @@
+A coffee spill starts when the slosh in your mug grows as you walk.
+That's sloshing resonance, and it kicks in when your hand's motion repeats near the coffee's natural frequency.
+
+Coffee in a mug sloshes at a natural frequency set by the mug's width and the coffee's depth. A normal walk is slower than that, but your hand's back-and-forth motion also has a part repeating at twice your step rate. When that part lands near the natural frequency, the slosh builds until it clears the rim. Walk slowly enough to move it below that frequency, and less coffee spills.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Mayer, Krechetnikov (2012), Physical Review E; Han (2016), Achievements in the Life Sciences
+
+#science #physics #coffee #resonance #sloshing

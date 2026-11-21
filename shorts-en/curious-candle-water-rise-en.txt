@@ -1,0 +1,10 @@
+In the candle water experiment, water climbs into the glass after the flame goes out.
+The answer to why water rises is an air pressure difference across the glass.
+
+While the candle burns, it makes more gas molecules than the oxygen it uses, so the water isn't filling a gap left by lost oxygen. Heat expands the gas and can push some of it out, then the trapped gas cools and its water vapor condenses once the flame dies. That drops the pressure inside below the air pressure outside, and outside air pushes the dish water up into the glass. Nobody's settled how much each step contributes.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Vera et al. (2011), Science & Education; Knill, Harvard University teaching notes; TU Delft, Show the Physics
+
+#science #physics #candleexperiment #airpressure #gaslaws

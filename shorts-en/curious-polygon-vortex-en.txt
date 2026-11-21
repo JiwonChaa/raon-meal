@@ -1,0 +1,10 @@
+Spin only the bottom of a round tank and a rotating fluid grows a triangle on its surface.
+This rotating polygon is explained by wave resonance between two waves on the surface.
+
+The plate spins the water while the still wall holds it back, and the surface dips in the middle. Past a certain spin rate, the round surface distorts and settles into a shape with sharp corners. Spin faster at the same depth and the corners increase, and add water at the same spin and they drop. The theory has an outer gravity wave and an inner centrifugal wave growing together, though it can't capture every detail of the real flow.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Jansson et al. (2006), Physical Review Letters; Tophøj et al. (2013), Physical Review Letters
+
+#science #physics #rotatingpolygon #waveresonance #fluiddynamics

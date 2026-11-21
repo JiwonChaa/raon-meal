@@ -1,0 +1,10 @@
+The funnel ping-pong ball demo keeps the ball up while someone blows straight down on it.
+Quoting the Bernoulli principle misses the pressure difference that curving air creates around the ball.
+
+The top of the ball does get pushed down, but the air then squeezes through the gap and curves along the ball's surface. Curving flow needs lower pressure on the inside of the bend, so a low-pressure band forms around the ball's upper sides. Together with normal air pressure underneath, that leaves a net upward push that holds the ball against the blast and its own weight. Stop blowing and the ball drops.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Babinsky (2003), Physics Education; University of Maryland Lecture-Demonstration Facility, F5-05
+
+#science #physics #bernoulli #fluiddynamics #pingpongball

@@ -1,0 +1,10 @@
+Why does clear plastic turn rainbow-colored under polarized light?
+In photoelasticity, birefringence makes light's two vibrations fall out of step.
+
+Molecular alignment and leftover stress make light travel at different speeds along different directions. The two vibrations exit out of step, and when the second filter overlaps them, any color whose lag is a whole number of wavelengths disappears. Remove one color from white light and the rest mix into a new color. Factories use these patterns to check clear parts like goggles for leftover stress without breaking them.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Scafidi et al. (2015), Optical Engineering / Wang et al. (2023), Frontiers in Materials
+
+#science #physics #polarization #birefringence #photoelasticity

@@ -1,0 +1,10 @@
+Why does wet fabric look darker than dry fabric?
+Water changes light scattering in the gaps, and total internal reflection sends light back in.
+
+In dry fabric, light bounces off every boundary between fiber and air, and plenty of it returns to your eye. Water in the gaps weakens those bounces, so light travels deeper and more of it gets absorbed by the dye. Light turned back at the water's surface gets another chance to be absorbed. The share of each effect depends on the material, and white fabric often turns see-through instead of much darker.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Lekner, Dorf (1988), Applied Optics / Twomey, Bohren, Mergenthaler (1986), Applied Optics / Zhang, Voss (2006), Applied Optics
+
+#science #physics #light #scattering #optics

@@ -1,0 +1,10 @@
+A domino chain reaction can start at fingernail size and topple a slab over 1 m tall.
+The domino physics comes down to the potential energy stored when each piece was stood up.
+
+A standing domino only needs enough energy to lift its center of gravity over its edge, and after that it releases far more. A fraction of that release can tip the next, larger piece. Scale a domino up 1.5 times in every direction and it releases about 5 times the energy, so after 12 steps the last piece releases hundreds of millions of times what the first one did. All of that energy went in when someone set the dominoes up.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Whitehead (1983), American Journal of Physics; van Leeuwen (2013), arXiv
+
+#science #physics #dominoes #potentialenergy #chainreaction

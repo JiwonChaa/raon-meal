@@ -1,0 +1,10 @@
+Why does peeling sticky tape flash in a dark room?
+Peeling splits charge into a static discharge, and in a vacuum chamber it even produced X-rays.
+
+Peeling leaves opposite charges on the two faces and a strong electric field across the gap. Electrons cross that gap in a discharge, and the gas they energize gives off light. In a 2008 study, tape peeled in a chamber with almost no air produced X-ray flashes lasting around a billionth of a second. That result applies to the vacuum chamber, and the details of the discharge are still unsettled.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Camara et al. (2008), Nature
+
+#science #physics #staticelectricity #xrays #discharge

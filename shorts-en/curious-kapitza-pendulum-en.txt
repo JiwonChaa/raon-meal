@@ -1,0 +1,10 @@
+Shake the pivot fast and an inverted pendulum stands straight up instead of falling.
+The Kapitza pendulum works because inertial force leaves a small average turn toward vertical.
+
+At high speed the rod only shoves and tugs the weight along its length, so it tilts more when the pivot rises and straightens when it drops. Inertial force flips up and down and averages to zero, but the upward push arrives while the rod is tilted more, so it rights the rod more than the downward push tips it. When that effect beats gravity, the rod stays up. Shake too gently and it falls, and shake too hard and the upright pose breaks down too.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Butikov (2001), American Journal of Physics
+
+#science #physics #kapitzapendulum #inertialforce #oscillation

@@ -1,0 +1,10 @@
+In metronome synchronization, weights on one board fall into step within tens of seconds.
+The shared board turns them into coupled oscillators, and Huygens clocks showed a related effect with opposite swings.
+
+The board rides on rolling cans and moves opposite the weights, and its acceleration reaches every pivot at once. That motion, together with the mechanism that restores each swing's size, slows the leader and speeds up the one behind. Wet the floor so the board moves sluggishly, and two metronomes lock into opposite swings. The same kind of synchronization shows up in firefly swarms and the heart's pacemaker cells.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Pantaleone (2002), American Journal of Physics
+
+#science #physics #metronome #synchronization #oscillation

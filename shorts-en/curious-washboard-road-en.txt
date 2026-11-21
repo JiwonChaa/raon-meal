@@ -1,0 +1,10 @@
+Flat sand turns into dirt road ripples when wheels run over it fast enough.
+A washboard road grows once wheels pass a critical speed and start bobbing up and down.
+
+A slow wheel sinks in and smooths out small bumps. At higher speed the sand pushes back harder, so a bump can kick the wheel up, and faster still it can leave the ground near the crest. The wheel moves more sand where it sits deeper, so that bobbing shoves sand unevenly and grows a new bump ahead. In a lab rig with a 10 cm wheel, sand stayed flat below about 1.5 m/s.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Taberlet et al. (2007), Physical Review Letters; Bitbol et al. (2009), Physical Review E
+
+#science #physics #washboardroad #dirtroads #granularphysics

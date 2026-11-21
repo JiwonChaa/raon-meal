@@ -1,0 +1,10 @@
+The Kaye effect is leaping shampoo, a thin jet shooting back out of its own pile.
+A shear-thinning liquid can slide across the pile and ride a dimple upward.
+
+Shear-thinning means viscosity drops when neighboring layers slide past each other faster. The falling stream slips across the pile and digs a dimple, and as the dimple deepens, the outgoing jet tilts steeper. Once it tilts far enough to hit the falling stream, the flow breaks and the leap stops. Researchers still argue over how much the viscosity change and a thin air layer each contribute to the slip.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Versluis et al. (2006), Journal of Statistical Mechanics; Lee et al. (2013), Physical Review E
+
+#science #physics #kayeeffect #shampoo #fluiddynamics

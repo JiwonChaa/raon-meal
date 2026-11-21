@@ -1,0 +1,10 @@
+A water droplet on a very hot plate floats and glides instead of boiling off right away.
+The Leidenfrost effect happens when a steam film under the drop holds up its weight.
+
+When the plate is hot enough, the bottom of the drop flashes to vapor, and that vapor's pressure lifts the drop. Gases carry heat poorly, so the drop evaporates more slowly than one touching the metal. Let the plate cool until the film collapses, and the water hits the surface, boils violently, and disappears fast. That's why a cooler plate can get rid of a drop much sooner.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Sobac et al. (2015), Droplet Wetting and Evaporation; Harvey et al. (2021), arXiv:2010.10480
+
+#science #physics #leidenfrost #steamfilm #heattransfer
