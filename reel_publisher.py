@@ -24,11 +24,10 @@ KST = dt.timezone(dt.timedelta(hours=9))
 GRAPH = "https://graph.instagram.com"
 VERSION = "v21.0"
 SECRET_NAME = "IG_EN_SECRETS_JSON" if LANGUAGE == "en" else "IG_SECRETS_JSON"
-# Retry the same lunch/evening slots away from GitHub's busiest minute.
+# One queue slot: weekdays at 17:00 KST, retried away from GitHub's busiest minute.
 # A scheduled event remains best-effort; these retries do not guarantee timing.
 SCHEDULE_SLOTS = {
-    "0 3 * * *": "B", "17 3 * * *": "B", "47 3 * * *": "B",
-    "0 9 * * *": "A", "17 9 * * *": "A", "47 9 * * *": "A",
+    "0 8 * * 1-5": "A", "17 8 * * 1-5": "A", "47 8 * * 1-5": "A",
 }
 
 
@@ -44,8 +43,8 @@ def load_queue():
     q = json.loads(QUEUE.read_text(encoding="utf-8"))
     if q.get("account") != ACCOUNT or q.get("timezone") != "Asia/Seoul":
         raise RuntimeError("Reel queue account/timezone mismatch")
-    if q.get("slots") != {"B": "12:00", "A": "18:00"}:
-        raise RuntimeError("Expected lunch/evening schedule")
+    if q.get("slots") != {"A": "17:00"}:
+        raise RuntimeError("Expected the weekday 17:00 schedule")
     if not isinstance(q.get("queue"), list) or not isinstance(q.get("done"), list):
         raise RuntimeError("Invalid queue schema")
     from reel_series_order import validate_series_order
@@ -385,10 +384,7 @@ def run(args):
     if not eligible(q, item, slot, now()):
         log("Reel reel is no longer eligible; no publication", to_file=False)
         return 0
-    todays_posts = [r for r in recent if dt.datetime.fromisoformat(r["timestamp"]).astimezone(KST).date() == now().date()]
-    if len(todays_posts) >= 3:
-        log("Reel account already has two posts today", to_file=False)
-        return 0
+    # Direct posts and card news must never hold back the queue; eligible() already limits the queue to one a day.
     url = host_url(video)
     if not item.get("creation_id"):
         extra, offset, cover = {}, item.get("thumb_offset_ms"), item.get("cover", "")
@@ -441,7 +437,7 @@ def run(args):
 def main():
     p = argparse.ArgumentParser()
     timing = p.add_mutually_exclusive_group()
-    timing.add_argument("--slot", choices=("A", "B"), default="B")
+    timing.add_argument("--slot", choices=("A",), default="A")
     timing.add_argument("--schedule", choices=tuple(SCHEDULE_SLOTS))
     timing.add_argument("--auto", action="store_true")
     p.add_argument("--plan", action="store_true")

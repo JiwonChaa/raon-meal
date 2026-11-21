@@ -2,7 +2,7 @@ name: Korean science reels
 on:
   schedule:
     # Fallback only. Cloudflare dispatches the primary clock independently.
-    - cron: '7,27,47 3-14 * * *'
+    - cron: '7,27,47 8-14 * * 1-5'
   workflow_dispatch:
     inputs:
       mode:
@@ -11,8 +11,8 @@ on:
         default: check
       slot:
         type: choice
-        options: [B, A]
-        default: B
+        options: [A]
+        default: A
 permissions:
   contents: write
 concurrency:

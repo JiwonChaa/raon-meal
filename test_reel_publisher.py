@@ -5,8 +5,8 @@ import reel_publisher as m
 class PublisherTests(unittest.TestCase):
     def setUp(self):
         self.tmp=tempfile.TemporaryDirectory();self.data=Path(self.tmp.name)
-        self.at=dt.datetime(2026,9,20,12,tzinfo=m.KST)
-        self.q={'account':'phyedu_en','timezone':'Asia/Seoul','slots':{'B':'12:00','A':'18:00'},'paused':False,'queue':[],'done':[]}
+        self.at=dt.datetime(2026,9,21,17,tzinfo=m.KST)
+        self.q={'account':'phyedu_en','timezone':'Asia/Seoul','slots':{'A':'17:00'},'paused':False,'queue':[],'done':[]}
         self.c={'username':'phyedu_en','user_id':'123','access_token':'NOT_A_REAL_TOKEN','obtained_at':self.at.isoformat()}
         self.args=types.SimpleNamespace(plan=False,check=False,auto=True,slot=None)
         self.ps=[patch.object(m,'DATA',self.data),patch.object(m,'QUEUE',self.data/'queue.json'),patch.object(m,'LOG',self.data/'UPLOAD.log'),
@@ -20,7 +20,7 @@ class PublisherTests(unittest.TestCase):
     def item(self):
         (self.data/'video.mp4').write_bytes(b'test video')
         (self.data/'caption.txt').write_text('Physics explained.',encoding='utf-8')
-        row={'id':'test-en','video':'video.mp4','caption':'caption.txt','language':'en','reviewed':True,'slot':'B','scheduled_at':self.at.isoformat()}
+        row={'id':'test-en','video':'video.mp4','caption':'caption.txt','language':'en','reviewed':True,'slot':'A','scheduled_at':self.at.isoformat()}
         for k in ('video','caption'):row[k+'_sha256']=hashlib.sha256((self.data/row[k]).read_bytes()).hexdigest()
         self.q['queue']=[row];return row
     def run_api(self,api,persist=None):
@@ -57,9 +57,9 @@ class PublisherTests(unittest.TestCase):
         self.item();api=self.api();api.verify.side_effect=RuntimeError('wrong account')
         with self.assertRaises(RuntimeError):self.run_api(api)
         api.create.assert_not_called();api.publish.assert_not_called()
-    def test_remote_daily_cap_blocks_post(self):
-        self.item();api=self.api();api.recent.return_value=[{'timestamp':self.at.isoformat(),'caption':'other'}]*3
-        self.run_api(api);api.create.assert_not_called();api.publish.assert_not_called()
+    def test_direct_posts_do_not_block_queue(self):
+        self.item();api=self.api();api.recent.return_value=[{'timestamp':self.at.isoformat(),'caption':'other'}]*5
+        self.run_api(api);api.publish.assert_called_once()
     def test_duplicate_reconciles_without_publish(self):
         self.item();api=self.api();api.recent.return_value=[dict(api.media_info.return_value)]
         self.run_api(api);self.assertEqual(len(self.q['queue']),0);api.publish.assert_not_called()

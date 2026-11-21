@@ -3,8 +3,7 @@
   "account": "phyedu_en",
   "timezone": "Asia/Seoul",
   "slots": {
-    "B": "12:00",
-    "A": "18:00"
+    "A": "17:00"
   },
   "paused": false,
   "queue": [],
