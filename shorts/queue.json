@@ -47,6 +47,48 @@
       }
     },
     {
+      "id": "curious-chain-fountain-ko",
+      "slug": "curious-chain-fountain",
+      "title": "구슬 사슬은 왜 위로 솟구칠까",
+      "language": "ko",
+      "video": "curious-chain-fountain-ko.mp4",
+      "caption": "curious-chain-fountain-ko.txt",
+      "cover": "curious-chain-fountain-ko-cover.jpg",
+      "video_sha256": "770792583b4cc6037584e43eceb70b91b5fcee7fea4a909f854fd85b8f1d5572",
+      "caption_sha256": "654a597a93f42fc13113d09ad676726a3ea687316fd8b26414bdea157064f52b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-chain-fountain",
+      "slot": "A",
+      "scheduled_at": "2026-11-24T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "구슬 사슬",
+          "사슬 분수",
+          "사슬 장력"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#사슬분수",
+          "#장력",
+          "#역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-chain-fountain"
+      }
+    },
+    {
       "id": "curious-singing-capacitor-ko",
       "slug": "curious-singing-capacitor",
       "title": "충전기는 왜 찌잉 소리를 낼까",
@@ -62,7 +104,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-singing-capacitor",
       "slot": "A",
-      "scheduled_at": "2026-11-24T17:00:00+09:00",
+      "scheduled_at": "2026-11-25T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -89,6 +131,48 @@
       }
     },
     {
+      "id": "curious-falling-slinky-ko",
+      "slug": "curious-falling-slinky",
+      "title": "놓았는데 아래쪽이 안 떨어진다",
+      "language": "ko",
+      "video": "curious-falling-slinky-ko.mp4",
+      "caption": "curious-falling-slinky-ko.txt",
+      "cover": "curious-falling-slinky-ko-cover.jpg",
+      "video_sha256": "d170c84bd5f29b395cd1d95c9d466a01ebf6b3421f2b775efdd90068213762a8",
+      "caption_sha256": "97c297908fbbf3961f26ff84c25b2eba40600b08ba8444fa82c6796cd195ac50",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-falling-slinky",
+      "slot": "A",
+      "scheduled_at": "2026-11-26T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "용수철 장난감",
+          "떨어지는 용수철",
+          "질량중심 운동"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#용수철",
+          "#장력",
+          "#질량중심"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-falling-slinky"
+      }
+    },
+    {
       "id": "curious-sugar-monochromator-ko",
       "slug": "curious-sugar-monochromator",
       "title": "설탕물에서 왜 색이 나올까",
@@ -104,7 +188,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-sugar-monochromator",
       "slot": "A",
-      "scheduled_at": "2026-11-25T17:00:00+09:00",
+      "scheduled_at": "2026-11-27T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -131,6 +215,48 @@
       }
     },
     {
+      "id": "curious-stone-skipping-ko",
+      "slug": "curious-stone-skipping",
+      "title": "돌은 왜 물 위에서 튈까",
+      "language": "ko",
+      "video": "curious-stone-skipping-ko.mp4",
+      "caption": "curious-stone-skipping-ko.txt",
+      "cover": "curious-stone-skipping-ko-cover.jpg",
+      "video_sha256": "9224874f34597a546ea1675606647b3435459f973cbca1b3d97198ebc037191f",
+      "caption_sha256": "b98c49947427be05fab511dc8a8698659fd6ae9d911c17ccc5a89a0b0ec65db7",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-stone-skipping",
+      "slot": "A",
+      "scheduled_at": "2026-11-30T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "물수제비 원리",
+          "물수제비 각도",
+          "돌의 회전"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#물수제비",
+          "#유체역학",
+          "#회전"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-stone-skipping"
+      }
+    },
+    {
       "id": "curious-chalk-dots-ko",
       "slug": "curious-chalk-dots",
       "title": "분필을 밀면 왜 점선이 될까",
@@ -146,7 +272,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-chalk-dots",
       "slot": "A",
-      "scheduled_at": "2026-11-26T17:00:00+09:00",
+      "scheduled_at": "2026-12-01T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -173,6 +299,174 @@
       }
     },
     {
+      "id": "curious-bottle-flip-ko",
+      "slug": "curious-bottle-flip",
+      "title": "던진 물병은 왜 똑바로 설까",
+      "language": "ko",
+      "video": "curious-bottle-flip-ko.mp4",
+      "caption": "curious-bottle-flip-ko.txt",
+      "cover": "curious-bottle-flip-ko-cover.jpg",
+      "video_sha256": "75efafabad4d915d128e567139a34681dcc8b81539723e16d26fceeaed0fe0cb",
+      "caption_sha256": "9f6f02e5f209563b7ff258cd22f828efde8d3964620223df2b9839b5a81df78a",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-bottle-flip",
+      "slot": "A",
+      "scheduled_at": "2026-12-02T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "물병 던지기",
+          "각운동량 보존",
+          "관성 모멘트"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#물병던지기",
+          "#각운동량",
+          "#관성모멘트"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-bottle-flip"
+      }
+    },
+    {
+      "id": "curious-acoustic-levitation-ko",
+      "slug": "curious-acoustic-levitation",
+      "title": "소리로 물체를 띄운다",
+      "language": "ko",
+      "video": "curious-acoustic-levitation-ko.mp4",
+      "caption": "curious-acoustic-levitation-ko.txt",
+      "cover": "curious-acoustic-levitation-ko-cover.jpg",
+      "video_sha256": "c7b663040bace10844898e107ff3e8757582a3983b124e8b6b7190fe5759dcd6",
+      "caption_sha256": "8ddb4b534448694dd9ea04a7b62b4fe19b9306121b428b70a53500d48f930656",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-acoustic-levitation",
+      "slot": "A",
+      "scheduled_at": "2026-12-03T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "acoustics",
+        "keywords": [
+          "음향 부상",
+          "정상파",
+          "압력 마디"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#음향부상",
+          "#정상파",
+          "#초음파"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-acoustic-levitation"
+      }
+    },
+    {
+      "id": "curious-brazil-nut-ko",
+      "slug": "curious-brazil-nut",
+      "title": "흔들면 큰 견과가 왜 위로 올까",
+      "language": "ko",
+      "video": "curious-brazil-nut-ko.mp4",
+      "caption": "curious-brazil-nut-ko.txt",
+      "cover": "curious-brazil-nut-ko-cover.jpg",
+      "video_sha256": "078917d0072b47130540a6f686fc4736394aaea27b9904bd72e964e9038176cd",
+      "caption_sha256": "3e6f43a476bd2aaf45975c0c87471ba8e07e2f44d6f1542a15000fd4192edaa8",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-brazil-nut",
+      "slot": "A",
+      "scheduled_at": "2026-12-04T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "granular",
+        "keywords": [
+          "브라질너트 효과",
+          "입자 대류",
+          "크기 분리"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#브라질너트효과",
+          "#입자대류",
+          "#크기분리"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-brazil-nut"
+      }
+    },
+    {
+      "id": "curious-reverse-sprinkler-ko",
+      "slug": "curious-reverse-sprinkler",
+      "title": "물을 빨아들이면 어느 쪽으로 돌까",
+      "language": "ko",
+      "video": "curious-reverse-sprinkler-ko.mp4",
+      "caption": "curious-reverse-sprinkler-ko.txt",
+      "cover": "curious-reverse-sprinkler-ko-cover.jpg",
+      "video_sha256": "fe05287e405a9c9f354363c5800ae71809f8a08e2397f94b298de41ad40b41bb",
+      "caption_sha256": "7d328114a580c66ddc3ca8b397b7d4e60becbfa98e695e35fb6ed80e3d13df49",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-reverse-sprinkler",
+      "slot": "A",
+      "scheduled_at": "2026-12-07T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "파인만 스프링클러",
+          "스프링클러 회전 방향",
+          "원심 효과"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#스프링클러",
+          "#유체역학",
+          "#원심효과"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-reverse-sprinkler"
+      }
+    },
+    {
       "id": "curious-graphite-levitation-ko",
       "slug": "curious-graphite-levitation",
       "title": "빛으로 움직이는 공중부양 흑연",
@@ -188,7 +482,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-graphite-levitation",
       "slot": "A",
-      "scheduled_at": "2026-11-27T17:00:00+09:00",
+      "scheduled_at": "2026-12-08T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -215,6 +509,174 @@
       }
     },
     {
+      "id": "curious-stacked-ball-drop-ko",
+      "slug": "curious-stacked-ball-drop",
+      "title": "작은 공은 왜 이렇게 높이 튈까",
+      "language": "ko",
+      "video": "curious-stacked-ball-drop-ko.mp4",
+      "caption": "curious-stacked-ball-drop-ko.txt",
+      "cover": "curious-stacked-ball-drop-ko-cover.jpg",
+      "video_sha256": "1884eed1572a5038668938b1eb225714d03e25440c896891b08b2903184ed22b",
+      "caption_sha256": "0a4e43d0c4cbb448e651fdd5a184a85d48234633f6303858ea7c09a79e732ea9",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-stacked-ball-drop",
+      "slot": "A",
+      "scheduled_at": "2026-12-09T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "농구공 테니스공 실험",
+          "탄성 충돌",
+          "속력 증폭"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#탄성충돌",
+          "#운동량",
+          "#속력증폭"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-stacked-ball-drop"
+      }
+    },
+    {
+      "id": "curious-coffee-ring-ko",
+      "slug": "curious-coffee-ring",
+      "title": "커피 자국은 왜 테두리만 진할까",
+      "language": "ko",
+      "video": "curious-coffee-ring-ko.mp4",
+      "caption": "curious-coffee-ring-ko.txt",
+      "cover": "curious-coffee-ring-ko-cover.jpg",
+      "video_sha256": "650c9fa023c5e13aa7e6aec782b721be3759cfb63bfea755ff82600029c5e410",
+      "caption_sha256": "1475144c61f73d896c37b16149152187f138346b3b118d047e744cc71f6f4614",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-coffee-ring",
+      "slot": "A",
+      "scheduled_at": "2026-12-10T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "커피 얼룩",
+          "커피링 효과",
+          "접촉선 고정"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#커피링",
+          "#증발",
+          "#유체역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-coffee-ring"
+      }
+    },
+    {
+      "id": "curious-ferrofluid-spikes-ko",
+      "slug": "curious-ferrofluid-spikes",
+      "title": "자석을 대면 액체에 가시가 솟는다",
+      "language": "ko",
+      "video": "curious-ferrofluid-spikes-ko.mp4",
+      "caption": "curious-ferrofluid-spikes-ko.txt",
+      "cover": "curious-ferrofluid-spikes-ko-cover.jpg",
+      "video_sha256": "2c51164464f3e8f91e7424807be99bfd514c6ea6039f727bb2811992e3139c48",
+      "caption_sha256": "e5de101976bc0368017f7dfe46bbdd1ba958a1bac10f5623ad5168e0aa343e86",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-ferrofluid-spikes",
+      "slot": "A",
+      "scheduled_at": "2026-12-11T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "electromagnetism",
+        "keywords": [
+          "자성 유체",
+          "자기장",
+          "표면 장력"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#자성유체",
+          "#자기장",
+          "#표면장력"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-ferrofluid-spikes"
+      }
+    },
+    {
+      "id": "curious-domino-amplifier-ko",
+      "slug": "curious-domino-amplifier",
+      "title": "작은 도미노가 거대한 도미노를 넘긴다",
+      "language": "ko",
+      "video": "curious-domino-amplifier-ko.mp4",
+      "caption": "curious-domino-amplifier-ko.txt",
+      "cover": "curious-domino-amplifier-ko-cover.jpg",
+      "video_sha256": "6c24e60eb6b67effe254ac53ce6db89dbcddedcb381074915e58f6af0c779a21",
+      "caption_sha256": "d0f9902540a1028d2832ca4286252a52fcbfd799c7f00ea8d29ddfc369dd1f84",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-domino-amplifier",
+      "slot": "A",
+      "scheduled_at": "2026-12-14T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "도미노 연쇄 반응",
+          "도미노 원리",
+          "위치 에너지"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#도미노",
+          "#위치에너지",
+          "#연쇄반응"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-domino-amplifier"
+      }
+    },
+    {
       "id": "curious-cornstarch-worms-ko",
       "slug": "curious-cornstarch-worms",
       "title": "전분물에서 일어서는 기둥",
@@ -230,7 +692,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-cornstarch-worms",
       "slot": "A",
-      "scheduled_at": "2026-11-30T17:00:00+09:00",
+      "scheduled_at": "2026-12-15T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -257,6 +719,132 @@
       }
     },
     {
+      "id": "curious-kaye-effect-ko",
+      "slug": "curious-kaye-effect",
+      "title": "샴푸 줄기가 왜 튀어 오를까",
+      "language": "ko",
+      "video": "curious-kaye-effect-ko.mp4",
+      "caption": "curious-kaye-effect-ko.txt",
+      "cover": "curious-kaye-effect-ko-cover.jpg",
+      "video_sha256": "12a6f38f5f2dcb046fbd8fee2f1c28d6977285a4dad00c5bbfd2785c33dae234",
+      "caption_sha256": "0fc63fe25c6a8272f312c77e192bcf4179bad8cf48d0b05a139a48d1505547c2",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-kaye-effect",
+      "slot": "A",
+      "scheduled_at": "2026-12-16T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "케이 효과",
+          "샴푸 줄기",
+          "전단 담화 액체"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#케이효과",
+          "#샴푸",
+          "#유체역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-kaye-effect"
+      }
+    },
+    {
+      "id": "curious-euler-disk-ko",
+      "slug": "curious-euler-disk",
+      "title": "멈추기 직전 왜 더 빨리 떨까",
+      "language": "ko",
+      "video": "curious-euler-disk-ko.mp4",
+      "caption": "curious-euler-disk-ko.txt",
+      "cover": "curious-euler-disk-ko-cover.jpg",
+      "video_sha256": "84fa7eadbec1a8ffa6fef98bc0d3c2956b7d38d4427287d560bb13c455ec351a",
+      "caption_sha256": "17e513639d7868c2126ca7a23f542660ef94dcdfbbf713825ca16f94d50debbb",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-euler-disk",
+      "slot": "A",
+      "scheduled_at": "2026-12-17T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "동전 회전",
+          "동전 떨림",
+          "회전 원판"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#동전",
+          "#돌림힘",
+          "#회전운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-euler-disk"
+      }
+    },
+    {
+      "id": "curious-walking-droplets-ko",
+      "slug": "curious-walking-droplets",
+      "title": "기름 위를 걷는 기름방울",
+      "language": "ko",
+      "video": "curious-walking-droplets-ko.mp4",
+      "caption": "curious-walking-droplets-ko.txt",
+      "cover": "curious-walking-droplets-ko-cover.jpg",
+      "video_sha256": "412c8577047074e072cbea7745002d6c05a63ec063d95d7b630e0ce638d98324",
+      "caption_sha256": "e20a44dace4cd480e95038c4b60a41d7e89e5fe96dd7be23dcb8a3b4f1341c98",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-walking-droplets",
+      "slot": "A",
+      "scheduled_at": "2026-12-18T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "걷는 기름방울",
+          "진동하는 기름",
+          "파일럿 파동"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#걷는기름방울",
+          "#파일럿파동",
+          "#유체역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-walking-droplets"
+      }
+    },
+    {
       "id": "curious-cold-drink-ko",
       "slug": "curious-cold-drink",
       "title": "소금을 넣으면 왜 더 빨리 식을까",
@@ -272,7 +860,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-cold-drink",
       "slot": "A",
-      "scheduled_at": "2026-12-01T17:00:00+09:00",
+      "scheduled_at": "2026-12-21T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -299,6 +887,216 @@
       }
     },
     {
+      "id": "curious-falling-chimney-ko",
+      "slug": "curious-falling-chimney",
+      "title": "쓰러지는 굴뚝은 왜 공중에서 부러질까",
+      "language": "ko",
+      "video": "curious-falling-chimney-ko.mp4",
+      "caption": "curious-falling-chimney-ko.txt",
+      "cover": "curious-falling-chimney-ko-cover.jpg",
+      "video_sha256": "392c76dad0059fd1024f55bf2cac2327c6658cfd431427475fb2733ca839cdb2",
+      "caption_sha256": "2a4937e36b1f17259c23f1c1988a57f9c4f1a463a1ada8db24abbdb4f303106c",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-falling-chimney",
+      "slot": "A",
+      "scheduled_at": "2026-12-22T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "쓰러지는 굴뚝",
+          "굽힘 모멘트",
+          "회전 운동"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#굴뚝",
+          "#굽힘모멘트",
+          "#회전운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-falling-chimney"
+      }
+    },
+    {
+      "id": "curious-tape-xray-ko",
+      "slug": "curious-tape-xray",
+      "title": "테이프를 뗄 때 나오는 빛",
+      "language": "ko",
+      "video": "curious-tape-xray-ko.mp4",
+      "caption": "curious-tape-xray-ko.txt",
+      "cover": "curious-tape-xray-ko-cover.jpg",
+      "video_sha256": "d97c7290f5566027af9f9cdd02cab4d4e625ce311a4e992a72cbd6913272c866",
+      "caption_sha256": "196409a4195b73b695315c0f415d913508759deec0093e4be64d184393d77a4b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-tape-xray",
+      "slot": "A",
+      "scheduled_at": "2026-12-23T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "electromagnetism",
+        "keywords": [
+          "접착테이프",
+          "정전기 방전",
+          "엑스선"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#정전기",
+          "#방전",
+          "#엑스선"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-tape-xray"
+      }
+    },
+    {
+      "id": "curious-coffee-spill-ko",
+      "slug": "curious-coffee-spill",
+      "title": "걸을 때 커피는 왜 넘칠까",
+      "language": "ko",
+      "video": "curious-coffee-spill-ko.mp4",
+      "caption": "curious-coffee-spill-ko.txt",
+      "cover": "curious-coffee-spill-ko-cover.jpg",
+      "video_sha256": "7c6446d05d17cbcfd3c2b9f5fd7b1e81737f147b77dc30926cbd5d5e37c8172f",
+      "caption_sha256": "89119d21fcee0ed8e45c8afcbf6d045bd18f9feacf428b420d51fdeb220796d4",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-coffee-spill",
+      "slot": "A",
+      "scheduled_at": "2026-12-24T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "커피 넘치는 이유",
+          "고유 진동수",
+          "출렁임 공명"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#커피",
+          "#공명",
+          "#고유진동수"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-coffee-spill"
+      }
+    },
+    {
+      "id": "curious-leidenfrost-ko",
+      "slug": "curious-leidenfrost",
+      "title": "뜨거운 판 위에서 물방울이 뜬다",
+      "language": "ko",
+      "video": "curious-leidenfrost-ko.mp4",
+      "caption": "curious-leidenfrost-ko.txt",
+      "cover": "curious-leidenfrost-ko-cover.jpg",
+      "video_sha256": "b16fda732af15ceca083aef95d4725e8abb98ccc516ee850c7afed3cacab5bbe",
+      "caption_sha256": "7f152a91394d28fc541ae4e8f17cda820dbafa30ef8a663ecd4e5d2dae6930e1",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-leidenfrost",
+      "slot": "A",
+      "scheduled_at": "2026-12-25T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "뜨거운 판 위 물방울",
+          "라이덴프로스트 효과",
+          "수증기 막"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#라이덴프로스트",
+          "#수증기막",
+          "#열전달"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-leidenfrost"
+      }
+    },
+    {
+      "id": "curious-hurricane-balls-ko",
+      "slug": "curious-hurricane-balls",
+      "title": "쇠구슬 두 개가 왜 이렇게 빨리 돌까",
+      "language": "ko",
+      "video": "curious-hurricane-balls-ko.mp4",
+      "caption": "curious-hurricane-balls-ko.txt",
+      "cover": "curious-hurricane-balls-ko-cover.jpg",
+      "video_sha256": "8654b121c675fa7b71b1434c1bda384c308e84133f1fb7ab1cd0c073fa59a6ec",
+      "caption_sha256": "e04d337d25264784b8c997afaf0f008266fd787fcec89ae4434c734b6a9783b8",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-hurricane-balls",
+      "slot": "A",
+      "scheduled_at": "2026-12-28T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "허리케인 볼",
+          "쇠구슬 회전",
+          "미끄럼 없는 구름"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#허리케인볼",
+          "#구름운동",
+          "#회전운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-hurricane-balls"
+      }
+    },
+    {
       "id": "curious-door-gap-sound-ko",
       "slug": "curious-door-gap-sound",
       "title": "작은 문틈으로 소리가 새는 까닭",
@@ -314,7 +1112,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-door-gap-sound",
       "slot": "A",
-      "scheduled_at": "2026-12-02T17:00:00+09:00",
+      "scheduled_at": "2026-12-29T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -356,7 +1154,7 @@
       "human_listening_approved": false,
       "pair_id": "curious-autumn-coin",
       "slot": "A",
-      "scheduled_at": "2026-12-03T17:00:00+09:00",
+      "scheduled_at": "2026-12-30T17:00:00+09:00",
       "content_policy": {
         "version": 1,
         "mode": "full",
@@ -380,6 +1178,888 @@
         "hook": "visible_result_first_2s",
         "controlled_change": "second_visible_result",
         "pair_id": "curious-autumn-coin"
+      }
+    },
+    {
+      "id": "curious-metronome-sync-ko",
+      "slug": "curious-metronome-sync",
+      "title": "메트로놈이 저절로 박자를 맞춘다",
+      "language": "ko",
+      "video": "curious-metronome-sync-ko.mp4",
+      "caption": "curious-metronome-sync-ko.txt",
+      "cover": "curious-metronome-sync-ko-cover.jpg",
+      "video_sha256": "1327a694f40ecf2721be4bbd1580b9d2b519b88ac6d586518da3dca78f8fde62",
+      "caption_sha256": "966e88b669bbb09b8953ee5af162d711c31c15972f6511e312ef392a5a465f1b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-metronome-sync",
+      "slot": "A",
+      "scheduled_at": "2026-12-31T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "메트로놈 동기화",
+          "결합 진동",
+          "하위헌스 시계"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#메트로놈",
+          "#동기화",
+          "#진동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-metronome-sync"
+      }
+    },
+    {
+      "id": "curious-ship-wake-ko",
+      "slug": "curious-ship-wake",
+      "title": "배 뒤의 물결은 왜 V자일까",
+      "language": "ko",
+      "video": "curious-ship-wake-ko.mp4",
+      "caption": "curious-ship-wake-ko.txt",
+      "cover": "curious-ship-wake-ko-cover.jpg",
+      "video_sha256": "0597d47788a0afcd15656ae611eb1cedbe5f1a516124d83b2d1ce93e12339828",
+      "caption_sha256": "0def70f1f0b2faae1c74ab697ae4718ea057df15e7ebe9c45444c680018a5f11",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-ship-wake",
+      "slot": "A",
+      "scheduled_at": "2027-01-01T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "V자 파동",
+          "켈빈 각",
+          "배 항적 각도"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#켈빈각",
+          "#항적",
+          "#파동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-ship-wake"
+      }
+    },
+    {
+      "id": "curious-photoelastic-plastic-ko",
+      "slug": "curious-photoelastic-plastic",
+      "title": "투명 플라스틱의 무지갯빛",
+      "language": "ko",
+      "video": "curious-photoelastic-plastic-ko.mp4",
+      "caption": "curious-photoelastic-plastic-ko.txt",
+      "cover": "curious-photoelastic-plastic-ko-cover.jpg",
+      "video_sha256": "95ef1ec0fb91609808ad0c19bb4a3c56377b7ed0f7d504ec808e1088091facb9",
+      "caption_sha256": "099a93ad83160237e06827fc1fb42fce79513aed8bd3d07ae1f38163fba9e32c",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-photoelastic-plastic",
+      "slot": "A",
+      "scheduled_at": "2027-01-04T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "optics",
+        "keywords": [
+          "편광판",
+          "광탄성",
+          "복굴절"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#편광",
+          "#복굴절",
+          "#광탄성"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-photoelastic-plastic"
+      }
+    },
+    {
+      "id": "curious-kapitza-pendulum-ko",
+      "slug": "curious-kapitza-pendulum",
+      "title": "거꾸로 선 진자가 쓰러지지 않는다",
+      "language": "ko",
+      "video": "curious-kapitza-pendulum-ko.mp4",
+      "caption": "curious-kapitza-pendulum-ko.txt",
+      "cover": "curious-kapitza-pendulum-ko-cover.jpg",
+      "video_sha256": "1b69a2cbf292078b14867ef91648a1151570673eaebdc24f2be4cbadac61deab",
+      "caption_sha256": "97728b2a35181a913ad612a3ebf08fdbaf9733889bdf1c38063f15f132dc05a4",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-kapitza-pendulum",
+      "slot": "A",
+      "scheduled_at": "2027-01-05T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "거꾸로 선 진자",
+          "카피차 진자",
+          "관성력"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#카피차진자",
+          "#관성력",
+          "#진동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-kapitza-pendulum"
+      }
+    },
+    {
+      "id": "curious-bottle-tapping-ko",
+      "slug": "curious-bottle-tapping",
+      "title": "병 입구를 치면 왜 거품이 솟을까",
+      "language": "ko",
+      "video": "curious-bottle-tapping-ko.mp4",
+      "caption": "curious-bottle-tapping-ko.txt",
+      "cover": "curious-bottle-tapping-ko-cover.jpg",
+      "video_sha256": "57dec89fe40db306c0aceb32ff7aaf02eadb4d5e40ea38ff16b0f4e0902df070",
+      "caption_sha256": "606c73ffa0603904e295f870bdf3b6930922e1b2970782437449f2e5dd68386d",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-bottle-tapping",
+      "slot": "A",
+      "scheduled_at": "2027-01-06T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "맥주병 거품",
+          "과포화 상태",
+          "이산화 탄소 기포"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#맥주거품",
+          "#과포화",
+          "#기포"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-bottle-tapping"
+      }
+    },
+    {
+      "id": "curious-washboard-road-ko",
+      "slug": "curious-washboard-road",
+      "title": "비포장도로는 왜 빨래판이 될까",
+      "language": "ko",
+      "video": "curious-washboard-road-ko.mp4",
+      "caption": "curious-washboard-road-ko.txt",
+      "cover": "curious-washboard-road-ko-cover.jpg",
+      "video_sha256": "f23ae080f4f4727dfe88fe63072e69732653d316fdabac8f93b894a013647ae8",
+      "caption_sha256": "9785984f7f03b5e9e9183fa44e711d7ab4a8550b3f9e66913f7c4dac6985a062",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-washboard-road",
+      "slot": "A",
+      "scheduled_at": "2027-01-07T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "granular",
+        "keywords": [
+          "비포장도로 주름",
+          "빨래판 도로",
+          "임계 속력"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#빨래판도로",
+          "#비포장도로",
+          "#입자물리"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-washboard-road"
+      }
+    },
+    {
+      "id": "curious-maple-seed-ko",
+      "slug": "curious-maple-seed",
+      "title": "단풍 씨앗은 왜 돌며 떨어질까",
+      "language": "ko",
+      "video": "curious-maple-seed-ko.mp4",
+      "caption": "curious-maple-seed-ko.txt",
+      "cover": "curious-maple-seed-ko-cover.jpg",
+      "video_sha256": "99de382a1e544bc9056975a144a188793ea352334d203f4dd4f025791761aa56",
+      "caption_sha256": "932332b245dbe35fa46fb1b7f24beee9563c925bcc7d6a9e7ca6dc1df28778a6",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-maple-seed",
+      "slot": "A",
+      "scheduled_at": "2027-01-08T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "단풍나무 씨앗",
+          "자동회전 원리",
+          "앞전 소용돌이"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#단풍나무",
+          "#자동회전",
+          "#유체역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-maple-seed"
+      }
+    },
+    {
+      "id": "curious-ice-spike-ko",
+      "slug": "curious-ice-spike",
+      "title": "얼음 위로 솟은 가시",
+      "language": "ko",
+      "video": "curious-ice-spike-ko.mp4",
+      "caption": "curious-ice-spike-ko.txt",
+      "cover": "curious-ice-spike-ko-cover.jpg",
+      "video_sha256": "f22b53e1570c6c921b527eddf167bd5d38fd0758f61a0664aecc540bbf5abe5d",
+      "caption_sha256": "850a88a2d27782c49ee060721643a10d80925beda7813207670795b8a3eb8358",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-ice-spike",
+      "slot": "A",
+      "scheduled_at": "2027-01-11T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "얼음 가시",
+          "얼음 틀",
+          "물의 부피 팽창"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#얼음",
+          "#얼음가시",
+          "#부피팽창"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-ice-spike"
+      }
+    },
+    {
+      "id": "curious-suitcase-wobble-ko",
+      "slug": "curious-suitcase-wobble",
+      "title": "여행 가방은 왜 좌우로 요동칠까",
+      "language": "ko",
+      "video": "curious-suitcase-wobble-ko.mp4",
+      "caption": "curious-suitcase-wobble-ko.txt",
+      "cover": "curious-suitcase-wobble-ko-cover.jpg",
+      "video_sha256": "3c1163594ce06aa092add4139eb186af82db5b8bb92ebba152f6e5007498e837",
+      "caption_sha256": "88ca616bc6eb6f07f7b81495385a6247b6e321321aebde140e945bfbdc054211",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-suitcase-wobble",
+      "slot": "A",
+      "scheduled_at": "2027-01-12T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "두 바퀴 가방",
+          "여행 가방 흔들림",
+          "미끄럼 없는 구름"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#여행가방",
+          "#불안정성",
+          "#회전운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-suitcase-wobble"
+      }
+    },
+    {
+      "id": "curious-cheerios-effect-ko",
+      "slug": "curious-cheerios-effect",
+      "title": "물에 뜬 시리얼은 왜 서로 뭉칠까",
+      "language": "ko",
+      "video": "curious-cheerios-effect-ko.mp4",
+      "caption": "curious-cheerios-effect-ko.txt",
+      "cover": "curious-cheerios-effect-ko-cover.jpg",
+      "video_sha256": "274dfed071163515f56c68efac445b6c11f86c17a950ff6666925142df05d6a1",
+      "caption_sha256": "259fc60c108a8101f32005a5db931eed89d6d78b9a9fbd30177bebd496a47d2c",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-cheerios-effect",
+      "slot": "A",
+      "scheduled_at": "2027-01-13T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "시리얼 뭉치는 이유",
+          "메니스커스 현상",
+          "표면 장력"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#시리얼",
+          "#메니스커스",
+          "#표면장력"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-cheerios-effect"
+      }
+    },
+    {
+      "id": "curious-granular-jet-ko",
+      "slug": "curious-granular-jet",
+      "title": "모래에 공을 떨구면 솟는 기둥",
+      "language": "ko",
+      "video": "curious-granular-jet-ko.mp4",
+      "caption": "curious-granular-jet-ko.txt",
+      "cover": "curious-granular-jet-ko-cover.jpg",
+      "video_sha256": "f787a7873d049eabab841dd4243007886ff8c17a0838f7ed992dfb5d01e5eeba",
+      "caption_sha256": "dad9c193e65362e0a095e86e48f940df610a8b56d0a7b3f1cbf10f214d19adc3",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-granular-jet",
+      "slot": "A",
+      "scheduled_at": "2027-01-14T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "granular",
+        "keywords": [
+          "쇠공 낙하 실험",
+          "모래 기둥",
+          "구멍 붕괴"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#모래기둥",
+          "#입자물리",
+          "#충돌실험"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-granular-jet"
+      }
+    },
+    {
+      "id": "curious-polygon-vortex-ko",
+      "slug": "curious-polygon-vortex",
+      "title": "도는 물의 표면이 다각형이 된다",
+      "language": "ko",
+      "video": "curious-polygon-vortex-ko.mp4",
+      "caption": "curious-polygon-vortex-ko.txt",
+      "cover": "curious-polygon-vortex-ko-cover.jpg",
+      "video_sha256": "57402a96b0116e309c3a6143a6732fbcf90b41172aba1c5875f4c619d2ef619a",
+      "caption_sha256": "b9cdccd32bfbef710b9868c2d7bc0bc88b010f5421e16fccc4953e5474fb6307",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-polygon-vortex",
+      "slot": "A",
+      "scheduled_at": "2027-01-15T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "회전 유체",
+          "회전 다각형",
+          "파동 공명"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#회전다각형",
+          "#파동공명",
+          "#유체역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-polygon-vortex"
+      }
+    },
+    {
+      "id": "curious-candle-water-rise-ko",
+      "slug": "curious-candle-water-rise",
+      "title": "촛불을 덮으면 왜 물이 차오를까",
+      "language": "ko",
+      "video": "curious-candle-water-rise-ko.mp4",
+      "caption": "curious-candle-water-rise-ko.txt",
+      "cover": "curious-candle-water-rise-ko-cover.jpg",
+      "video_sha256": "6cdc2bc772389c84604a0d74db356f44a2ead99d7a8c20f453019b9225efa77f",
+      "caption_sha256": "82e4e9377f9ec09b7166d79cf08ddefe2a78b3a5d8239c3fede0e8f5515a01d0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-candle-water-rise",
+      "slot": "A",
+      "scheduled_at": "2027-01-18T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "촛불 컵 실험",
+          "물이 올라오는 이유",
+          "기체 압력 차이"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#촛불실험",
+          "#대기압",
+          "#기체압력"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-candle-water-rise"
+      }
+    },
+    {
+      "id": "curious-wet-fabric-dark-ko",
+      "slug": "curious-wet-fabric-dark",
+      "title": "젖은 천은 왜 더 어두울까",
+      "language": "ko",
+      "video": "curious-wet-fabric-dark-ko.mp4",
+      "caption": "curious-wet-fabric-dark-ko.txt",
+      "cover": "curious-wet-fabric-dark-ko-cover.jpg",
+      "video_sha256": "559fa58876f09af0a032c6a8684fdf36fad85e38de946452f13100a66d8eef7a",
+      "caption_sha256": "0b1a803ae27baa0c38064361b6fb6810ac4d224870996b88331891170b219ff8",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-wet-fabric-dark",
+      "slot": "A",
+      "scheduled_at": "2027-01-19T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "optics",
+        "keywords": [
+          "젖은 천",
+          "빛의 산란",
+          "전반사"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#빛",
+          "#산란",
+          "#전반사"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-wet-fabric-dark"
+      }
+    },
+    {
+      "id": "curious-hydraulic-jump-ko",
+      "slug": "curious-hydraulic-jump",
+      "title": "싱크대 물줄기 둘레의 둥근 턱",
+      "language": "ko",
+      "video": "curious-hydraulic-jump-ko.mp4",
+      "caption": "curious-hydraulic-jump-ko.txt",
+      "cover": "curious-hydraulic-jump-ko-cover.jpg",
+      "video_sha256": "85548a315a28a038341f5f9e7802ec1ba92fe048546393b81aff8b499e72cc39",
+      "caption_sha256": "6244b34315c95aca8c5a294c1e0b41094f4482355598e14f58b88c8b3c183b05",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-hydraulic-jump",
+      "slot": "A",
+      "scheduled_at": "2027-01-20T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "싱크대 물줄기",
+          "원형 도수",
+          "표면장력"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#원형도수",
+          "#표면장력",
+          "#유체역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-hydraulic-jump"
+      }
+    },
+    {
+      "id": "curious-sand-stripes-ko",
+      "slug": "curious-sand-stripes",
+      "title": "섞인 모래가 저절로 줄무늬를 만든다",
+      "language": "ko",
+      "video": "curious-sand-stripes-ko.mp4",
+      "caption": "curious-sand-stripes-ko.txt",
+      "cover": "curious-sand-stripes-ko-cover.jpg",
+      "video_sha256": "8ad38c9371a148450aef588d269af7c0ea9d64b40fe596f6e21932a37205ffe4",
+      "caption_sha256": "752ee50af73c87f6ad72a94c9da089cd1dd81801620e76722b0c65243cc5b039",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-sand-stripes",
+      "slot": "A",
+      "scheduled_at": "2027-01-21T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "granular",
+        "keywords": [
+          "모래 줄무늬",
+          "입자 크기 분리",
+          "안식각 차이"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#안식각",
+          "#입자분리",
+          "#줄무늬"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-sand-stripes"
+      }
+    },
+    {
+      "id": "curious-coanda-candle-ko",
+      "slug": "curious-coanda-candle",
+      "title": "병 뒤의 촛불이 왜 꺼질까",
+      "language": "ko",
+      "video": "curious-coanda-candle-ko.mp4",
+      "caption": "curious-coanda-candle-ko.txt",
+      "cover": "curious-coanda-candle-ko-cover.jpg",
+      "video_sha256": "a3aa527d9bc50f549c2f36f596447ddd51e8482109b25a846c96ca3205a6159e",
+      "caption_sha256": "747c87584b72871509f4bac150b688f0256f793ebe67d307561d7f4c08c4d6d9",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-coanda-candle",
+      "slot": "A",
+      "scheduled_at": "2027-01-22T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "병 뒤 촛불",
+          "코안다 효과",
+          "공기 제트"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#코안다효과",
+          "#유체역학",
+          "#공기흐름"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-coanda-candle"
+      }
+    },
+    {
+      "id": "curious-freezing-drop-tip-ko",
+      "slug": "curious-freezing-drop-tip",
+      "title": "얼어붙는 물방울은 왜 뾰족해질까",
+      "language": "ko",
+      "video": "curious-freezing-drop-tip-ko.mp4",
+      "caption": "curious-freezing-drop-tip-ko.txt",
+      "cover": "curious-freezing-drop-tip-ko-cover.jpg",
+      "video_sha256": "9fada3955eafd27e146d0e21afbdf6ab9db22f63b837b0da8043a41eab0bb7f5",
+      "caption_sha256": "41bc276777683547c12bf4a2c5eae21177d07e4305071ec92c25c5c2e728d7de",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-freezing-drop-tip",
+      "slot": "A",
+      "scheduled_at": "2027-01-25T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "얼어붙는 물방울",
+          "뾰족한 끝",
+          "물의 부피 팽창"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#물방울",
+          "#결빙",
+          "#부피팽창"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-freezing-drop-tip"
+      }
+    },
+    {
+      "id": "curious-pop-pop-boat-ko",
+      "slug": "curious-pop-pop-boat",
+      "title": "통통배는 왜 앞으로만 갈까",
+      "language": "ko",
+      "video": "curious-pop-pop-boat-ko.mp4",
+      "caption": "curious-pop-pop-boat-ko.txt",
+      "cover": "curious-pop-pop-boat-ko-cover.jpg",
+      "video_sha256": "8e3411db4a6cf0a66425bcb9101e340fa37c471ba8dfe5a9b14276ead590b1d3",
+      "caption_sha256": "e08406203739aced20d16fffd1533a48ed5e2a33599ad451245da72476712b1b",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-pop-pop-boat",
+      "slot": "A",
+      "scheduled_at": "2027-01-26T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "통통배 원리",
+          "자려 진동",
+          "운동량 전달"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#통통배",
+          "#자려진동",
+          "#운동량"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-pop-pop-boat"
+      }
+    },
+    {
+      "id": "curious-funnel-ball-ko",
+      "slug": "curious-funnel-ball",
+      "title": "불어도 공이 왜 안 떨어질까",
+      "language": "ko",
+      "video": "curious-funnel-ball-ko.mp4",
+      "caption": "curious-funnel-ball-ko.txt",
+      "cover": "curious-funnel-ball-ko-cover.jpg",
+      "video_sha256": "172f67543ffce356d0904e89b209ae5505499ff031d1693b6b04833ab05bb8fa",
+      "caption_sha256": "64304313cc95b7532892f9191412d311f5422abcc2fa0fcedd39c491f31c477a",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-funnel-ball",
+      "slot": "A",
+      "scheduled_at": "2027-01-27T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "깔때기 탁구공 실험",
+          "베르누이 원리",
+          "압력 차이"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#베르누이",
+          "#유체역학",
+          "#탁구공실험"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-funnel-ball"
+      }
+    },
+    {
+      "id": "curious-starch-columns-ko",
+      "slug": "curious-starch-columns",
+      "title": "마른 전분이 돌기둥처럼 갈라진다",
+      "language": "ko",
+      "video": "curious-starch-columns-ko.mp4",
+      "caption": "curious-starch-columns-ko.txt",
+      "cover": "curious-starch-columns-ko-cover.jpg",
+      "video_sha256": "540148348fa608ca12780cb64124b0f6318a57f20af44a87e2116abd959922cc",
+      "caption_sha256": "4ce74b79ca6f8fa064f6a2877a2764c0e42604e0116636b723d4e8b8161aacab",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-starch-columns",
+      "slot": "A",
+      "scheduled_at": "2027-01-28T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "전분 기둥",
+          "주상절리",
+          "건조 균열"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#주상절리",
+          "#전분",
+          "#균열"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-starch-columns"
       }
     }
   ],
