@@ -6,7 +6,386 @@
     "A": "17:00"
   },
   "paused": false,
-  "queue": [],
+  "queue": [
+    {
+      "id": "curious-tennis-racket-en",
+      "slug": "curious-tennis-racket",
+      "title": "Why does a thrown phone flip?",
+      "language": "en",
+      "video": "curious-tennis-racket-en.mp4",
+      "caption": "curious-tennis-racket-en.txt",
+      "cover": "curious-tennis-racket-en-cover.jpg",
+      "video_sha256": "846d69eb064758b9942d45a059da2d56f55092774d995ae600ff09484818b644",
+      "caption_sha256": "1d8b2cea39bca46f93b632a5c359c2b416df6e8413b34f81f4fb6918cab6db4a",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-tennis-racket",
+      "slot": "A",
+      "scheduled_at": "2026-11-23T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "spinning phone",
+          "intermediate axis theorem",
+          "moment of inertia"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#intermediateaxistheorem",
+          "#momentofinertia",
+          "#rotation"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-tennis-racket"
+      }
+    },
+    {
+      "id": "curious-singing-capacitor-en",
+      "slug": "curious-singing-capacitor",
+      "title": "Why do chargers whine?",
+      "language": "en",
+      "video": "curious-singing-capacitor-en.mp4",
+      "caption": "curious-singing-capacitor-en.txt",
+      "cover": "curious-singing-capacitor-en-cover.jpg",
+      "video_sha256": "08521a55445edb1999f4fd3612e859086dc84eac66395298be566857d5e5ab07",
+      "caption_sha256": "c26a2027d105e158edc463951f3e671462e41fb342590ef509a9abd8eb3b14f0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-singing-capacitor",
+      "slot": "A",
+      "scheduled_at": "2026-11-24T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "acoustics",
+        "keywords": [
+          "charger whine",
+          "ceramic capacitor",
+          "circuit board vibration"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#capacitor",
+          "#electronics",
+          "#acoustics"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-singing-capacitor"
+      }
+    },
+    {
+      "id": "curious-sugar-monochromator-en",
+      "slug": "curious-sugar-monochromator",
+      "title": "Where does sugar water get color?",
+      "language": "en",
+      "video": "curious-sugar-monochromator-en.mp4",
+      "caption": "curious-sugar-monochromator-en.txt",
+      "cover": "curious-sugar-monochromator-en-cover.jpg",
+      "video_sha256": "c4fd8548d3f8a44d00af5920b3f624b977d29329b3caa032a5e4499b1f0f3eb5",
+      "caption_sha256": "5ddae3c5d0d438c5cb58aabe19ef82806c62981d76e072022a5b85498f4d9f7d",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-sugar-monochromator",
+      "slot": "A",
+      "scheduled_at": "2026-11-25T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "optics",
+        "keywords": [
+          "sugar water",
+          "crossed polarizers",
+          "optical rotation"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#polarization",
+          "#opticalrotation",
+          "#optics"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-sugar-monochromator"
+      }
+    },
+    {
+      "id": "curious-chalk-dots-en",
+      "slug": "curious-chalk-dots",
+      "title": "Why does pushed chalk leave dots?",
+      "language": "en",
+      "video": "curious-chalk-dots-en.mp4",
+      "caption": "curious-chalk-dots-en.txt",
+      "cover": "curious-chalk-dots-en-cover.jpg",
+      "video_sha256": "c4d1d1b028120c7f1c1146226443b8fe1bb4dd368b2b38f7dffe60ff03526b5c",
+      "caption_sha256": "df71e96f93c91ecf430a43bee9415b7c519408ceef5383511df3b650476f94cb",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-chalk-dots",
+      "slot": "A",
+      "scheduled_at": "2026-11-26T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "chalk dots",
+          "blackboard chalk",
+          "friction feedback"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#chalk",
+          "#friction",
+          "#mechanics"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-chalk-dots"
+      }
+    },
+    {
+      "id": "curious-graphite-levitation-en",
+      "slug": "curious-graphite-levitation",
+      "title": "Floating graphite steered by light",
+      "language": "en",
+      "video": "curious-graphite-levitation-en.mp4",
+      "caption": "curious-graphite-levitation-en.txt",
+      "cover": "curious-graphite-levitation-en-cover.jpg",
+      "video_sha256": "bf90ea74908ab8da75cb46d1d805d583189b603865d13fe2390a704b71309a0d",
+      "caption_sha256": "031a56008bd4b31a6bb6c3026622c894d9ee12dabe802fccada83a14ae25b0e1",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-graphite-levitation",
+      "slot": "A",
+      "scheduled_at": "2026-11-27T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "electromagnetism",
+        "keywords": [
+          "levitating graphite",
+          "diamagnetic levitation",
+          "pyrolytic graphite"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#graphite",
+          "#diamagnetism",
+          "#levitation"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-graphite-levitation"
+      }
+    },
+    {
+      "id": "curious-cornstarch-worms-en",
+      "slug": "curious-cornstarch-worms",
+      "title": "Columns that rise from cornstarch",
+      "language": "en",
+      "video": "curious-cornstarch-worms-en.mp4",
+      "caption": "curious-cornstarch-worms-en.txt",
+      "cover": "curious-cornstarch-worms-en-cover.jpg",
+      "video_sha256": "4222babae7f2cc24d01e8f167d51a5057b2f9673ed635cebc8c3e65e4744a150",
+      "caption_sha256": "f8aaef0c0ca4d344457c949cbf72b8f880a3ed98409e882269f441cfe5fbeaeb",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-cornstarch-worms",
+      "slot": "A",
+      "scheduled_at": "2026-11-30T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "cornstarch and water",
+          "finger-like columns",
+          "stress hysteresis"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#cornstarch",
+          "#fluiddynamics",
+          "#hysteresis"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-cornstarch-worms"
+      }
+    },
+    {
+      "id": "curious-cold-drink-en",
+      "slug": "curious-cold-drink",
+      "title": "Why does salt chill drinks faster?",
+      "language": "en",
+      "video": "curious-cold-drink-en.mp4",
+      "caption": "curious-cold-drink-en.txt",
+      "cover": "curious-cold-drink-en-cover.jpg",
+      "video_sha256": "53ccd736b7d72ba9a5eea86523f469f88773613ce5002dab519195f74ded887d",
+      "caption_sha256": "4bf44957cb64af0b24a5a7bad026efab2cf650ce2d7be9b990702277bac4389a",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-cold-drink",
+      "slot": "A",
+      "scheduled_at": "2026-12-01T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "salted ice water",
+          "cool a drink fast",
+          "freezing point depression"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#thermodynamics",
+          "#freezingpoint",
+          "#icewater"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-cold-drink"
+      }
+    },
+    {
+      "id": "curious-door-gap-sound-en",
+      "slug": "curious-door-gap-sound",
+      "title": "Why a tiny gap leaks so much sound",
+      "language": "en",
+      "video": "curious-door-gap-sound-en.mp4",
+      "caption": "curious-door-gap-sound-en.txt",
+      "cover": "curious-door-gap-sound-en-cover.jpg",
+      "video_sha256": "8e903cfcf931584fa64f06a9ddd47c78291b8a58db6584898dd2b869f87a9587",
+      "caption_sha256": "09fcf8eb14dd92e099472aeea08b4487b2743e4beed056c05e35da96d58e3ca7",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-door-gap-sound",
+      "slot": "A",
+      "scheduled_at": "2026-12-02T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "acoustics",
+        "keywords": [
+          "door gap",
+          "sound insulation",
+          "sound diffraction"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#sound",
+          "#soundproofing",
+          "#diffraction"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-door-gap-sound"
+      }
+    },
+    {
+      "id": "curious-autumn-coin-en",
+      "slug": "curious-autumn-coin",
+      "title": "Why do falling discs swing?",
+      "language": "en",
+      "video": "curious-autumn-coin-en.mp4",
+      "caption": "curious-autumn-coin-en.txt",
+      "cover": "curious-autumn-coin-en-cover.jpg",
+      "video_sha256": "53186972971efce7b654892fdae6cb2831c577f4e97a4c1a00163c65eeb2c592",
+      "caption_sha256": "4be5cfdb464a9a66b5d00c7fd91524cca3a9c6aeecc22779a18c6973988f5bd0",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-autumn-coin",
+      "slot": "A",
+      "scheduled_at": "2026-12-03T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "falling disc",
+          "disc drop experiment",
+          "Reynolds number"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#fluiddynamics",
+          "#reynoldsnumber",
+          "#fallingdisc"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-autumn-coin"
+      }
+    }
+  ],
   "done": [
     {
       "id": "toast-fall-en-20260914",

@@ -3,7 +3,386 @@
     "A": "17:00"
   },
   "paused": false,
-  "queue": [],
+  "queue": [
+    {
+      "id": "curious-tennis-racket-ko",
+      "slug": "curious-tennis-racket",
+      "title": "던진 휴대전화는 왜 뒤집힐까",
+      "language": "ko",
+      "video": "curious-tennis-racket-ko.mp4",
+      "caption": "curious-tennis-racket-ko.txt",
+      "cover": "curious-tennis-racket-ko-cover.jpg",
+      "video_sha256": "59e40de3e69ebb4cfd458b79623baf51c499072e99e67d7266b4883c49597cc9",
+      "caption_sha256": "8232d3a781774ce015e28fa254e97068f1f48f24d159c84c8e892487efc411c8",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-tennis-racket",
+      "slot": "A",
+      "scheduled_at": "2026-11-23T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "휴대전화 회전",
+          "중간축 정리",
+          "관성 모멘트"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#중간축정리",
+          "#관성모멘트",
+          "#회전운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-tennis-racket"
+      }
+    },
+    {
+      "id": "curious-singing-capacitor-ko",
+      "slug": "curious-singing-capacitor",
+      "title": "충전기는 왜 찌잉 소리를 낼까",
+      "language": "ko",
+      "video": "curious-singing-capacitor-ko.mp4",
+      "caption": "curious-singing-capacitor-ko.txt",
+      "cover": "curious-singing-capacitor-ko-cover.jpg",
+      "video_sha256": "f5acb7973584aa0a7a26495a857f6c22331aed0700d7e40e8c321238e081f749",
+      "caption_sha256": "315bd5d4c9bf725b8764e86c9fbacf3af905caa5684ddedc81770f3d3d38af03",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-singing-capacitor",
+      "slot": "A",
+      "scheduled_at": "2026-11-24T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "acoustics",
+        "keywords": [
+          "충전기 찌잉 소리",
+          "세라믹 커패시터",
+          "기판 진동"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#커패시터",
+          "#전자회로",
+          "#소음"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-singing-capacitor"
+      }
+    },
+    {
+      "id": "curious-sugar-monochromator-ko",
+      "slug": "curious-sugar-monochromator",
+      "title": "설탕물에서 왜 색이 나올까",
+      "language": "ko",
+      "video": "curious-sugar-monochromator-ko.mp4",
+      "caption": "curious-sugar-monochromator-ko.txt",
+      "cover": "curious-sugar-monochromator-ko-cover.jpg",
+      "video_sha256": "11ca3e8573a7db2d8ebc7d08d2dffa8677b29550b36c2d5b5c68d87d05831f87",
+      "caption_sha256": "10ee02ef09722d0075b2ec45672a9ffb8751ddb208744de26fb745befabffa93",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-sugar-monochromator",
+      "slot": "A",
+      "scheduled_at": "2026-11-25T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "optics",
+        "keywords": [
+          "엇갈린 편광판",
+          "설탕물 편광 실험",
+          "선광 현상"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#편광",
+          "#선광",
+          "#광학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-sugar-monochromator"
+      }
+    },
+    {
+      "id": "curious-chalk-dots-ko",
+      "slug": "curious-chalk-dots",
+      "title": "분필을 밀면 왜 점선이 될까",
+      "language": "ko",
+      "video": "curious-chalk-dots-ko.mp4",
+      "caption": "curious-chalk-dots-ko.txt",
+      "cover": "curious-chalk-dots-ko-cover.jpg",
+      "video_sha256": "1deb3fa7e85f797e0ec8afa9bf4003754c10a7d4b8c561c026ad0153e490bced",
+      "caption_sha256": "1640e78002ed01171a1847fe622640dc35be60007c2145741a15f8de0f099516",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-chalk-dots",
+      "slot": "A",
+      "scheduled_at": "2026-11-26T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "분필 점선",
+          "칠판 분필",
+          "마찰력 되먹임"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#분필",
+          "#마찰력",
+          "#역학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-chalk-dots"
+      }
+    },
+    {
+      "id": "curious-graphite-levitation-ko",
+      "slug": "curious-graphite-levitation",
+      "title": "빛으로 움직이는 공중부양 흑연",
+      "language": "ko",
+      "video": "curious-graphite-levitation-ko.mp4",
+      "caption": "curious-graphite-levitation-ko.txt",
+      "cover": "curious-graphite-levitation-ko-cover.jpg",
+      "video_sha256": "6d5777830daf8ccfe3ca3c4648e9e9f37f82c32746641187f3a684770c94f0c3",
+      "caption_sha256": "8ea47e6f1e6898b137e51eedb2e166fad20c0c1d99d0ed6144aff255949bfa37",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-graphite-levitation",
+      "slot": "A",
+      "scheduled_at": "2026-11-27T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "electromagnetism",
+        "keywords": [
+          "흑연 자기 부상",
+          "반자성 물질",
+          "열분해 흑연"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#흑연",
+          "#반자성",
+          "#자기부상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-graphite-levitation"
+      }
+    },
+    {
+      "id": "curious-cornstarch-worms-ko",
+      "slug": "curious-cornstarch-worms",
+      "title": "전분물에서 일어서는 기둥",
+      "language": "ko",
+      "video": "curious-cornstarch-worms-ko.mp4",
+      "caption": "curious-cornstarch-worms-ko.txt",
+      "cover": "curious-cornstarch-worms-ko-cover.jpg",
+      "video_sha256": "1b82c78c4124acec2c431c00bd53d2503c62403bb8d8d586479b08bea4be7fd4",
+      "caption_sha256": "be83709f84376a84700e772f26444d46be95d579d5d2f46ff99dc656db6bb977",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-cornstarch-worms",
+      "slot": "A",
+      "scheduled_at": "2026-11-30T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "전분물 진동",
+          "손가락 모양 기둥",
+          "이력 현상"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#전분물",
+          "#유체역학",
+          "#이력현상"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-cornstarch-worms"
+      }
+    },
+    {
+      "id": "curious-cold-drink-ko",
+      "slug": "curious-cold-drink",
+      "title": "소금을 넣으면 왜 더 빨리 식을까",
+      "language": "ko",
+      "video": "curious-cold-drink-ko.mp4",
+      "caption": "curious-cold-drink-ko.txt",
+      "cover": "curious-cold-drink-ko-cover.jpg",
+      "video_sha256": "2e621a707cc3201f58f46bbca94d9d7108ddb8ec51e9e504f9e2457a89f4156d",
+      "caption_sha256": "0424bb6f66688642b685851ce5fa6adbcb8649810acfd5a3c617416e28b8b17f",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-cold-drink",
+      "slot": "A",
+      "scheduled_at": "2026-12-01T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "thermal",
+        "keywords": [
+          "소금 얼음물",
+          "음료 빨리 식히기",
+          "어는점 내림"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#열역학",
+          "#어는점내림",
+          "#소금얼음물"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-cold-drink"
+      }
+    },
+    {
+      "id": "curious-door-gap-sound-ko",
+      "slug": "curious-door-gap-sound",
+      "title": "작은 문틈으로 소리가 새는 까닭",
+      "language": "ko",
+      "video": "curious-door-gap-sound-ko.mp4",
+      "caption": "curious-door-gap-sound-ko.txt",
+      "cover": "curious-door-gap-sound-ko-cover.jpg",
+      "video_sha256": "803e0faad042cc2bc38ccdf3f6155348bf688d6d18836a8ac795ba58226d05f3",
+      "caption_sha256": "e5400b6df2ff2f1b74a0b9b53c439e75acecf06d9dbfc5eca6eb26aa7a12fdcc",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-door-gap-sound",
+      "slot": "A",
+      "scheduled_at": "2026-12-02T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "acoustics",
+        "keywords": [
+          "문 밑 틈",
+          "방음 성능",
+          "소리 회절"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#소리",
+          "#방음",
+          "#회절"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-door-gap-sound"
+      }
+    },
+    {
+      "id": "curious-autumn-coin-ko",
+      "slug": "curious-autumn-coin",
+      "title": "물에 떨어진 원판은 왜 흔들릴까",
+      "language": "ko",
+      "video": "curious-autumn-coin-ko.mp4",
+      "caption": "curious-autumn-coin-ko.txt",
+      "cover": "curious-autumn-coin-ko-cover.jpg",
+      "video_sha256": "5b19637d920ff1a4bb5c8ad577070ec704829329f272e72878ba8a9423cf85c4",
+      "caption_sha256": "8ec49838bb1c807b98294d2d2a0a9521a1d2f904d56d638704f730c6e47d5e26",
+      "reviewed": true,
+      "status": "pending",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-autumn-coin",
+      "slot": "A",
+      "scheduled_at": "2026-12-03T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "fluid",
+        "keywords": [
+          "물속 낙하",
+          "원판 낙하 실험",
+          "레이놀즈 수"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#유체역학",
+          "#레이놀즈수",
+          "#낙하운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-autumn-coin"
+      }
+    }
+  ],
   "done": [
     {
       "num": "55",
