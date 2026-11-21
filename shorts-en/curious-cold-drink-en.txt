@@ -1,0 +1,10 @@
+In one test, salted ice water took a quarter of the time to cool a can from 21 °C to 5 °C.
+To cool a drink fast, salt helps through freezing point depression, which drops the temperature of the ice water.
+
+Dissolved salt lowers the temperature at which water starts to freeze, so more ice melts and pulls heat from the salt water around it. In one experiment, salted ice water reached -16 °C, a 37-degree gap from a 21 °C can. If a drink cools at a rate roughly proportional to that gap, with the same heat transfer, the math gives about 2.5 times. The measured 4 times still needs more explaining.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: SINTEF (undated), Efficient way to cool a drink; University of Edinburgh (2019-2020), Thermodynamics course notes
+
+#science #physics #thermodynamics #freezingpoint #icewater

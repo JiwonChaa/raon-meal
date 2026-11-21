@@ -1,0 +1,10 @@
+Why does so much sound get through a 1 cm door gap?
+A small opening can undercut sound insulation, and sound diffraction spreads what gets through across the room.
+
+Say a wall passes 1/10,000 of the sound energy reaching it, and a gap covering 1% of the area passes all of it. Then the gap lets through about 100 times more energy than the rest of the wall. At certain pitches, resonance inside the gap can funnel in energy that would have hit the nearby wall. With the same assumptions, sealing the gap completely cuts the energy coming through to about 1/100.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Kim (2012), Journal of Asian Architecture and Building Engineering; Holley and Schnitzer (2018), arXiv:1812.06753
+
+#science #physics #sound #soundproofing #diffraction

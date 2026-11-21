@@ -1,0 +1,10 @@
+A spinning phone can flip an extra half turn in midair and land screen down.
+The intermediate axis theorem explains it, and it starts with how moment of inertia differs from axis to axis.
+
+Treat the phone as a rectangular block: the long axis is easiest to spin, the screen axis is hardest, and the width axis sits between. A hand can't throw it cleanly, so small spins around the other two axes sneak in, and around the middle axis they can feed each other. Once that wobble is big enough, the phone can roll half a turn around its long axis, with the timing set by how much extra spin the throw mixed in. Spin it around the long axis or the screen axis instead, and a small wobble stays small.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Wheatland et al. (2021), American Journal of Physics
+
+#science #physics #intermediateaxistheorem #momentofinertia #rotation

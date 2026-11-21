@@ -1,0 +1,10 @@
+Put clear sugar water between crossed polarizers, and the dark column lights up in color.
+The colors come from optical rotation, which turns each color of light by a different angle.
+
+Sugar molecules are like your hands, because a mirror image won't fit on top of the original. As polarized light passes through, its vibration direction rotates, and green light turns more than red. The second polarizer then dims each color by a different amount, so the white light comes out tinted. Swap in plain water, and turning the polarizer only changes the brightness.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Anderson et al. (2020), American Journal of Physics; NIST (2013), Standard Reference Material 17f
+
+#science #physics #polarization #opticalrotation #optics

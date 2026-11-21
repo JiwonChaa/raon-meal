@@ -1,0 +1,10 @@
+On a shaking surface of cornstarch and water, finger-like columns wriggle up and stand.
+A simplified model links the long-lived holes around them to stress hysteresis in the mix.
+
+Researchers shook a thick batch and poked a dent in the surface, and a hole about 0.5 cm wide survived more than 100,000 shakes. Stronger shaking made the rim unstable, and columns could grow up to 2 cm tall. When hysteresis was added to a simplified model of the hole's wall, the closing motion shrank or even reversed over a cycle. This model still can't explain how fast the columns grow.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Merkt et al. (2004), Physical Review Letters; Deegan (2010), Physical Review E
+
+#science #physics #cornstarch #fluiddynamics #hysteresis

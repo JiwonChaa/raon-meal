@@ -1,0 +1,10 @@
+That charger whine can come from a circuit board with nothing rotating inside it.
+Coils can do it too, but a ceramic capacitor can also set off circuit board vibration.
+
+The ceramic in these capacitors gets thicker and shorter when a voltage is applied. The movement is about 1 nm or less, far too small to hear from the part alone. But both ends are soldered to the board, so as the voltage rises and falls quickly, the board keeps bending, relaxing, and pushing on the air. In one comparison, mounting the capacitor on metal legs made it about 25 dB quieter.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Covaci and Gontean (2022), Sensors
+
+#science #physics #capacitor #electronics #acoustics

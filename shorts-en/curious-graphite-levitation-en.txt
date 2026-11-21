@@ -1,0 +1,10 @@
+A flake of levitating graphite slides toward a spot of light with nothing touching it.
+In this diamagnetic levitation, pyrolytic graphite warms under light, and the magnets push it up less.
+
+Light the center of the flake and it only sinks in place, but move the light to the edge and the flake moves toward the lit side. One explanation is that the warmed edge dips, the flake tilts, and the tilted push gains a sideways part. But when researchers repeated the first report, a cooling fan's breeze caused most of the sideways motion, though stronger light still moved the flake with the breeze ruled out. How much each effect contributes, including electrical effects from temperature differences, is still being argued.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Ewall-Wice et al. (2019), IEEE Transactions on Magnetics; Yee et al. (2021), APL Materials
+
+#science #physics #graphite #diamagnetism #levitation

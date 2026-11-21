@@ -1,0 +1,10 @@
+Push blackboard chalk hard, and it can leave chalk dots instead of a line.
+In the pushing position, friction feedback drives the tip into the board, and it can hop, land, and slide over and over.
+
+When the tip leads your hand, friction turns the chalk around your fingers and presses the tip harder, which raises the friction again. While the tip is in the air it leaves no mark, and the dot appears where it lands and slides. Keep the same tilt and move your hand the other way, and you can draw a smooth line. How much the bending of chalk and fingers contributes to the hop still isn't clear.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Champneys and Várkonyi (2016), arXiv:1601.03545
+
+#science #physics #chalk #friction #mechanics

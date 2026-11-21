@@ -1,0 +1,10 @@
+Why does a falling disc, thin as a coin, swing side to side in water?
+In this disc drop experiment, the Reynolds number and how hard the disc's rotation is to change decide whether it swings or flips.
+
+Tilt it slightly, and it slides toward its lower edge, then leans the other way and repeats. Acrylic discs 2.54 cm wide only swung and never flipped, so the same face stayed on top. Keep the size and thickness about the same but switch to steel, and the swings grow until it flips, landing heads or tails almost half the time each in this experiment. Changing the material also changes the falling speed and the Reynolds number, so both values matter together.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Heisinger et al. (2014), Journal of Fluid Mechanics; Field et al. (1997), Nature
+
+#science #physics #fluiddynamics #reynoldsnumber #fallingdisc
