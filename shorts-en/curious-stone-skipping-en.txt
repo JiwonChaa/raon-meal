@@ -1,0 +1,10 @@
+How does stone skipping keep a flat rock bouncing across the water?
+The best skipping angle is about 20° in disk tests, and stone spin holds that tilt.
+
+A fast stone pushes water down and gets pushed back up, and at the same tilt and wetted area, doubling the speed makes that push 4 times bigger. Without spin, the stone tips forward or back on the first hit and struggles to bounce again. Spin keeps the flat face pointing the same way, so the stone still has the right tilt for the next hit. Each hit costs energy, and the number of skips grows roughly with throwing speed.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Clanet, Hersen, Bocquet (2004), Nature; Bocquet, Clanet (2006), Physics World
+
+#science #physics #stoneskipping #fluiddynamics #spin

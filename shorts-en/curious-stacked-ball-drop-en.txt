@@ -1,0 +1,10 @@
+In a two ball drop, the small ball on top shoots far above where it started.
+In an ideal elastic collision, velocity amplification gives it about 3 times the speed and 9 times the height.
+
+The big ball rebounds first and meets the small ball head-on while it's still falling. From the big ball's view, the small one arrives at twice its falling speed and leaves at that speed, and the ground view adds the big ball's speed for 3 times in all. That energy comes from the big ball. Real balls lose energy and their collisions overlap, so a tennis ball on a basketball reaches about 3 to 4 times its drop height.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Bartz (2022), European Journal of Physics / Berdeni et al. (2015), Proceedings of the Royal Society A
+
+#science #physics #elasticcollision #momentum #bouncingballs

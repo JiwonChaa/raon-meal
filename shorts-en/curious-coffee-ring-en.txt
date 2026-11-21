@@ -1,0 +1,10 @@
+A dried coffee stain has a pale center and a dark ring at its edge.
+The coffee ring effect comes from capillary flow inside a drop whose edge is stuck in place.
+
+Tiny bumps on the table can hold a drop's edge in place, so the drop gets flatter without getting narrower. Water evaporates fastest near that edge, and liquid from the middle flows outward to replace it. That flow carries coffee particles to the rim, where they pile up into a ring. Swap round particles for stretched ellipsoids, and they stick together at the surface and leave an even stain.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Deegan et al. (1997), Nature; Yunker et al. (2011), Nature
+
+#science #physics #coffeering #evaporation #fluiddynamics

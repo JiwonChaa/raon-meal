@@ -1,0 +1,10 @@
+A reverse sprinkler, the famous Feynman sprinkler, slowly turns the opposite way when it sucks water in.
+The centrifugal effect in its bent tubes is what flips the direction.
+
+When it sucks, the clear jets form inside the round hub at the center. Water leaving a bent tube has its fastest part shifted to the outside of the curve, so the two jets in the hub hit slightly off-center. As the water picks up a swirl, the sprinkler gets pushed the other way. Turn the suction down and the flow gets more symmetric, leaving only a weak jitter with no clear direction.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Wang et al. (2024), Physical Review Letters
+
+#science #physics #sprinkler #fluiddynamics #feynmansprinkler

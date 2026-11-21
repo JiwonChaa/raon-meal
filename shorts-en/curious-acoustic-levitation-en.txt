@@ -1,0 +1,10 @@
+How does acoustic levitation hold beads in midair with nothing but sound?
+Inside standing waves, a leftover average force pushes beads toward the pressure nodes.
+
+Sound reflected off a plate overlaps the original wave and makes a standing wave. The pressure swing averages to zero over a cycle, but a small force tied to the squares of pressure and air speed doesn't. A bead much smaller than the wavelength and much heavier than air gets pushed toward a node, and gravity holds it just below. Double the frequency and retune the plate distance, and the node spacing drops by half.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Andrade, Pérez, Adamowski (2018), Brazilian Journal of Physics / Marzo et al. (2015), Nature Communications
+
+#science #physics #acousticlevitation #standingwaves #ultrasound

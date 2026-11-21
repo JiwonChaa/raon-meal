@@ -1,0 +1,10 @@
+Why do ferrofluid spikes rise when a magnet comes close?
+A magnetic field grows surface bumps while surface tension and gravity push them flat.
+
+The field crowds into each bump, and the liquid gets pulled in after it, so the bump rises. Gravity and surface tension push back, but past a threshold field the bumps keep growing into spikes. Under a wide, even field the spikes form a hexagon pattern, with a calculated spacing of about 1 cm for one fluid. When the field weakens, the spikes collapse and the surface goes flat.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Cowley, Rosensweig (1967), Journal of Fluid Mechanics / Gollwitzer et al. (2009), New Journal of Physics
+
+#science #physics #ferrofluid #magnetism #surfacetension

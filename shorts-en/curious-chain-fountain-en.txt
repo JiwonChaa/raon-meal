@@ -1,0 +1,10 @@
+A bead chain pouring from a beaker rises above the rim in an arch.
+This chain fountain can't be explained by chain tension alone, and the pile in the beaker has to push up.
+
+The weight of the chain hanging outside the beaker pulls the rest out. If tension alone started the resting chain moving, the calculated arch height would be zero. Treat a short piece of chain as a rod, and lifting one end drives the other end into the pile, which pushes it back up. In the experiment, the arch stood about 14% as high as the drop and grew in proportion to it.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Biggins, Warner (2014), Proceedings of the Royal Society A
+
+#science #physics #chainfountain #tension #mechanics

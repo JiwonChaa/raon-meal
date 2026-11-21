@@ -1,0 +1,10 @@
+Let go of a hanging spring toy, and its bottom stays still in midair for a moment.
+In a falling spring, a change in tension takes time to travel down while the center of mass drops right away.
+
+Before you let go, gravity and tension balance at the lowest coil. After release, the change in tension moves coil by coil, and the part it hasn't reached stays balanced and motionless. Meanwhile the top collapses and comes down fast, so the center of mass still falls from the first instant. Only when the collapsed top hits the bottom does the whole spring fall together.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Cross, Wheatland (2012), American Journal of Physics
+
+#science #physics #spring #tension #centerofmass

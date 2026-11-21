@@ -1,0 +1,10 @@
+In a water bottle flip, a partly filled bottle slows in midair and lands upright.
+Spreading water raises the moment of inertia, and conservation of angular momentum slows the spin.
+
+Once the bottle leaves your hand, only gravity acts on it, so the total angular momentum stays the same. The water starts at the bottom, then spreads along the bottle's length and moves mass away from the spin axis. The spin slows, the bottle comes down nearly vertical, and an upright landing gets easier. Empty and full bottles have no mass free to shift, so their spin doesn't slow.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Dekker et al. (2018), American Journal of Physics
+
+#science #physics #bottleflip #angularmomentum #momentofinertia

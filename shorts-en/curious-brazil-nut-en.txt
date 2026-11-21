@@ -1,0 +1,10 @@
+Shake a can of mixed nuts and the big ones rise, a result known as the Brazil nut effect.
+Both granular convection and gap filling drive this size segregation.
+
+When shaking opens gaps, small grains fill in under a big one so it can't drop back. In cylinder experiments, grains rise up the middle and return down the wall in a thin band, which carries big grains to the top and traps any too wide for the band. In simulations where the big grains were made heavy enough at the same size, they sank to the bottom instead.
+
+Visuals are explanatory models and may not be to scale. Narration is synthetic.
+
+Sources: Rosato et al. (1987), Physical Review Letters; Knight et al. (1993), Physical Review Letters; Hong et al. (2001), Physical Review Letters
+
+#science #physics #brazilnuteffect #granularconvection #sizesegregation
