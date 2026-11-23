@@ -5,51 +5,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "curious-tennis-racket-ko",
-      "slug": "curious-tennis-racket",
-      "title": "던진 휴대전화는 왜 뒤집힐까",
-      "language": "ko",
-      "video": "curious-tennis-racket-ko.mp4",
-      "caption": "curious-tennis-racket-ko.txt",
-      "cover": "curious-tennis-racket-ko-cover.jpg",
-      "video_sha256": "59e40de3e69ebb4cfd458b79623baf51c499072e99e67d7266b4883c49597cc9",
-      "caption_sha256": "8232d3a781774ce015e28fa254e97068f1f48f24d159c84c8e892487efc411c8",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
-      "human_listening_approved": false,
-      "pair_id": "curious-tennis-racket",
-      "slot": "A",
-      "scheduled_at": "2026-11-23T17:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "keywords": [
-          "휴대전화 회전",
-          "중간축 정리",
-          "관성 모멘트"
-        ],
-        "hashtags": [
-          "#과학",
-          "#물리",
-          "#중간축정리",
-          "#관성모멘트",
-          "#회전운동"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "curious-tennis-racket"
-      },
-      "creation_id": "18166143442537390",
-      "publish_requested_at": "2026-11-23T17:04:11.194940+09:00",
-      "media_id": "18135797017792788"
-    },
-    {
       "id": "curious-chain-fountain-ko",
       "slug": "curious-chain-fountain",
       "title": "구슬 사슬은 왜 위로 솟구칠까",
@@ -6678,6 +6633,54 @@
       "permalink": "https://www.instagram.com/reel/Dfi5ZwsIKcc/",
       "published_at": "2026-11-10T12:04:44+09:00",
       "at": "2026-11-10T12:04:44+09:00"
+    },
+    {
+      "id": "curious-tennis-racket-ko",
+      "slug": "curious-tennis-racket",
+      "title": "던진 휴대전화는 왜 뒤집힐까",
+      "language": "ko",
+      "video": "curious-tennis-racket-ko.mp4",
+      "caption": "curious-tennis-racket-ko.txt",
+      "cover": "curious-tennis-racket-ko-cover.jpg",
+      "video_sha256": "59e40de3e69ebb4cfd458b79623baf51c499072e99e67d7266b4883c49597cc9",
+      "caption_sha256": "8232d3a781774ce015e28fa254e97068f1f48f24d159c84c8e892487efc411c8",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-tennis-racket",
+      "slot": "A",
+      "scheduled_at": "2026-11-23T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "휴대전화 회전",
+          "중간축 정리",
+          "관성 모멘트"
+        ],
+        "hashtags": [
+          "#과학",
+          "#물리",
+          "#중간축정리",
+          "#관성모멘트",
+          "#회전운동"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-tennis-racket"
+      },
+      "creation_id": "18166143442537390",
+      "publish_requested_at": "2026-11-23T17:04:11.194940+09:00",
+      "media_id": "18135797017792788",
+      "permalink": "https://www.instagram.com/reel/DgE6DBbkaas/",
+      "published_at": "2026-11-23T17:04:13+09:00",
+      "at": "2026-11-23T17:04:13+09:00"
     }
   ],
   "cancelled_for_remake": [
