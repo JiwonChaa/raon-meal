@@ -8,51 +8,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "curious-tennis-racket-en",
-      "slug": "curious-tennis-racket",
-      "title": "Why does a thrown phone flip?",
-      "language": "en",
-      "video": "curious-tennis-racket-en.mp4",
-      "caption": "curious-tennis-racket-en.txt",
-      "cover": "curious-tennis-racket-en-cover.jpg",
-      "video_sha256": "846d69eb064758b9942d45a059da2d56f55092774d995ae600ff09484818b644",
-      "caption_sha256": "1d8b2cea39bca46f93b632a5c359c2b416df6e8413b34f81f4fb6918cab6db4a",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
-      "human_listening_approved": false,
-      "pair_id": "curious-tennis-racket",
-      "slot": "A",
-      "scheduled_at": "2026-11-23T17:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "full",
-        "topic_family": "physics",
-        "keywords": [
-          "spinning phone",
-          "intermediate axis theorem",
-          "moment of inertia"
-        ],
-        "hashtags": [
-          "#science",
-          "#physics",
-          "#intermediateaxistheorem",
-          "#momentofinertia",
-          "#rotation"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "hook": "visible_result_first_2s",
-        "controlled_change": "second_visible_result",
-        "pair_id": "curious-tennis-racket"
-      },
-      "creation_id": "18135512497768269",
-      "publish_requested_at": "2026-11-23T17:04:24.468095+09:00",
-      "media_id": "18025699652931978"
-    },
-    {
       "id": "curious-chain-fountain-en",
       "slug": "curious-chain-fountain",
       "title": "Why does a chain leap out of a beaker?",
@@ -5780,6 +5735,53 @@
       "media_id": "18158608603516856",
       "permalink": "https://www.instagram.com/reel/Dfi55qFD7x3/",
       "published_at": "2026-11-10T12:09:04+09:00"
+    },
+    {
+      "id": "curious-tennis-racket-en",
+      "slug": "curious-tennis-racket",
+      "title": "Why does a thrown phone flip?",
+      "language": "en",
+      "video": "curious-tennis-racket-en.mp4",
+      "caption": "curious-tennis-racket-en.txt",
+      "cover": "curious-tennis-racket-en-cover.jpg",
+      "video_sha256": "846d69eb064758b9942d45a059da2d56f55092774d995ae600ff09484818b644",
+      "caption_sha256": "1d8b2cea39bca46f93b632a5c359c2b416df6e8413b34f81f4fb6918cab6db4a",
+      "reviewed": true,
+      "status": "published",
+      "approval": "User asked for the full series to be produced and queued for weekdays at 17:00 KST (2026-11-21).",
+      "human_listening_approved": false,
+      "pair_id": "curious-tennis-racket",
+      "slot": "A",
+      "scheduled_at": "2026-11-23T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "full",
+        "topic_family": "physics",
+        "keywords": [
+          "spinning phone",
+          "intermediate axis theorem",
+          "moment of inertia"
+        ],
+        "hashtags": [
+          "#science",
+          "#physics",
+          "#intermediateaxistheorem",
+          "#momentofinertia",
+          "#rotation"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "hook": "visible_result_first_2s",
+        "controlled_change": "second_visible_result",
+        "pair_id": "curious-tennis-racket"
+      },
+      "creation_id": "18135512497768269",
+      "publish_requested_at": "2026-11-23T17:04:24.468095+09:00",
+      "media_id": "18025699652931978",
+      "permalink": "https://www.instagram.com/reel/DgE6EpCGW6s/",
+      "published_at": "2026-11-23T17:04:27+09:00"
     }
   ],
   "scheduler": "Cloudflare primary, GitHub schedule fallback",
