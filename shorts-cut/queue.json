@@ -8,50 +8,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "suneung2027-38-sleep",
-      "slug": "suneung2027-38-sleep",
-      "title": "수능 영어 38번 잠",
-      "language": "ko",
-      "video": "suneung2027-38-sleep.mp4",
-      "cover": "suneung2027-38-sleep-cover.jpg",
-      "caption": "suneung2027-38-sleep.txt",
-      "video_sha256": "6560380b280de6e9919b22a43a4a5cf71b066ee1e9b98384a93ee4af378cf14f",
-      "caption_sha256": "ba1fd0d923098ee9f215126c1ae8a32bd5a20199190256d435ef6671aeed5ebf",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-27T17:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "exam_reading",
-        "topic_family": "english_reading",
-        "keywords": [
-          "수능 영어",
-          "잠"
-        ],
-        "hashtags": [
-          "#수능영어",
-          "#영어지문",
-          "#2027수능",
-          "#수면",
-          "#생물학"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "exam_year": 2027,
-        "questions": [
-          38
-        ]
-      },
-      "creation_id": "18112736350968781",
-      "publish_requested_at": "2026-11-24T15:30:46.713833+09:00",
-      "media_id": "17917107888282799"
-    },
-    {
       "id": "suneung2027-41-42-alien-life",
       "slug": "suneung2027-41-42-alien-life",
       "title": "수능 영어 41~42번 외계 생명",
@@ -188,6 +144,53 @@
       "permalink": "https://www.instagram.com/reel/DgHUG-iDSJJ/",
       "published_at": "2026-11-24T15:30:05+09:00",
       "at": "2026-11-24T15:30:05+09:00"
+    },
+    {
+      "id": "suneung2027-38-sleep",
+      "slug": "suneung2027-38-sleep",
+      "title": "수능 영어 38번 잠",
+      "language": "ko",
+      "video": "suneung2027-38-sleep.mp4",
+      "cover": "suneung2027-38-sleep-cover.jpg",
+      "caption": "suneung2027-38-sleep.txt",
+      "video_sha256": "6560380b280de6e9919b22a43a4a5cf71b066ee1e9b98384a93ee4af378cf14f",
+      "caption_sha256": "ba1fd0d923098ee9f215126c1ae8a32bd5a20199190256d435ef6671aeed5ebf",
+      "reviewed": true,
+      "status": "published",
+      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-27T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "exam_reading",
+        "topic_family": "english_reading",
+        "keywords": [
+          "수능 영어",
+          "잠"
+        ],
+        "hashtags": [
+          "#수능영어",
+          "#영어지문",
+          "#2027수능",
+          "#수면",
+          "#생물학"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "exam_year": 2027,
+        "questions": [
+          38
+        ]
+      },
+      "creation_id": "18112736350968781",
+      "publish_requested_at": "2026-11-24T15:30:46.713833+09:00",
+      "media_id": "17917107888282799",
+      "permalink": "https://www.instagram.com/reel/DgHULeOkgkG/",
+      "published_at": "2026-11-24T15:30:49+09:00",
+      "at": "2026-11-24T15:30:49+09:00"
     }
   ]
 }
