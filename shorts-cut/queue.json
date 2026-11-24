@@ -6,53 +6,7 @@
     "A": "17:00"
   },
   "paused": false,
-  "queue": [
-    {
-      "id": "suneung2027-41-42-alien-life",
-      "slug": "suneung2027-41-42-alien-life",
-      "title": "수능 영어 41~42번 외계 생명",
-      "language": "ko",
-      "video": "suneung2027-41-42-alien-life.mp4",
-      "cover": "suneung2027-41-42-alien-life-cover.jpg",
-      "caption": "suneung2027-41-42-alien-life.txt",
-      "video_sha256": "bf8d785185dcee8e7cea2b4bd7eaf36cbefb60e3d634eac16f9f7e78859ed8a7",
-      "caption_sha256": "c305e6ff2cf1b71f8eb122454c4714868e023200869099abace29af23eb564d4",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-30T17:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "exam_reading",
-        "topic_family": "english_reading",
-        "keywords": [
-          "수능 영어",
-          "외계 생명"
-        ],
-        "hashtags": [
-          "#수능영어",
-          "#영어지문",
-          "#2027수능",
-          "#외계생명",
-          "#미생물"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "exam_year": 2027,
-        "questions": [
-          41,
-          42
-        ]
-      },
-      "creation_id": "18112736512968781",
-      "publish_requested_at": "2026-11-24T15:32:01.651434+09:00",
-      "media_id": "18103130018550365"
-    }
-  ],
+  "queue": [],
   "done": [
     {
       "id": "suneung2027-34-rhythm",
@@ -194,6 +148,54 @@
       "permalink": "https://www.instagram.com/reel/DgHULeOkgkG/",
       "published_at": "2026-11-24T15:30:49+09:00",
       "at": "2026-11-24T15:30:49+09:00"
+    },
+    {
+      "id": "suneung2027-41-42-alien-life",
+      "slug": "suneung2027-41-42-alien-life",
+      "title": "수능 영어 41~42번 외계 생명",
+      "language": "ko",
+      "video": "suneung2027-41-42-alien-life.mp4",
+      "cover": "suneung2027-41-42-alien-life-cover.jpg",
+      "caption": "suneung2027-41-42-alien-life.txt",
+      "video_sha256": "bf8d785185dcee8e7cea2b4bd7eaf36cbefb60e3d634eac16f9f7e78859ed8a7",
+      "caption_sha256": "c305e6ff2cf1b71f8eb122454c4714868e023200869099abace29af23eb564d4",
+      "reviewed": true,
+      "status": "published",
+      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-30T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "exam_reading",
+        "topic_family": "english_reading",
+        "keywords": [
+          "수능 영어",
+          "외계 생명"
+        ],
+        "hashtags": [
+          "#수능영어",
+          "#영어지문",
+          "#2027수능",
+          "#외계생명",
+          "#미생물"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "exam_year": 2027,
+        "questions": [
+          41,
+          42
+        ]
+      },
+      "creation_id": "18112736512968781",
+      "publish_requested_at": "2026-11-24T15:32:01.651434+09:00",
+      "media_id": "18103130018550365",
+      "permalink": "https://www.instagram.com/reel/DgHUUpiEVsH/",
+      "published_at": "2026-11-24T15:32:03+09:00",
+      "at": "2026-11-24T15:32:03+09:00"
     }
   ]
 }
