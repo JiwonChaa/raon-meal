@@ -4,36 +4,23 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
-import os
 from pathlib import Path
 import subprocess
 
+from reel_profiles import selected_profile, read_credentials
+from reel_publisher import API
+
 ROOT = Path(__file__).resolve().parent
-LANGUAGE = os.environ.get("REEL_LANGUAGE", "en")
-if LANGUAGE not in {"ko", "en"}:
-    raise RuntimeError("Unsupported reel language")
-DATA = ROOT / ("shorts-en" if LANGUAGE == "en" else "shorts")
+ACCOUNT, LANGUAGE, DIRECTORY, SECRET_NAME = selected_profile()
+DATA = ROOT / DIRECTORY
 QUEUE = DATA / "queue.json"
 PERFORMANCE = DATA / "performance.json"
-ACCOUNT = "phyedu_en" if LANGUAGE == "en" else "phyedu_net"
-SECRET_NAME = "IG_EN_SECRETS_JSON" if LANGUAGE == "en" else "IG_SECRETS_JSON"
 BASE = "https://graph.instagram.com/v21.0"
 METRICS = "views,reach,likes,comments,saved,shares,total_interactions,ig_reels_avg_watch_time,ig_reels_video_view_total_time"
 
 
 def credentials():
-    raw = os.environ.get(SECRET_NAME, "")
-    if not raw:
-        raise RuntimeError("Dedicated Reel Instagram secret is missing")
-    try:
-        value = json.loads(raw)
-        if LANGUAGE == "ko":
-            value = value["accounts"][ACCOUNT]
-    except (ValueError, TypeError, KeyError):
-        raise RuntimeError("Dedicated Reel Instagram secret is invalid") from None
-    if not value.get("access_token") or not value.get("user_id"):
-        raise RuntimeError("Dedicated Reel Instagram secret is incomplete")
-    return value
+    return read_credentials(ACCOUNT, SECRET_NAME)
 
 
 def due_samples(done, existing, current):
@@ -116,6 +103,8 @@ def main():
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
     queue = json.loads(QUEUE.read_text(encoding="utf-8"))
+    if queue.get("account") != ACCOUNT or not isinstance(queue.get("done"), list):
+        raise RuntimeError("Invalid Reel performance queue")
     data = (json.loads(PERFORMANCE.read_text(encoding="utf-8")) if PERFORMANCE.exists()
             else {"schema_version": 1, "account": ACCOUNT, "samples": []})
     if data.get("account") != ACCOUNT or not isinstance(data.get("samples"), list):
@@ -128,7 +117,9 @@ def main():
     if not due:
         print(json.dumps({"account": ACCOUNT, "captured": 0}))
         return
-    token = credentials()["access_token"]
+    c = credentials()
+    API(c).verify()
+    token = c["access_token"]
     for item, window, age in due:
         metrics = read_metrics(item["media_id"], token)
         data["samples"].append(sample(item, window, age, metrics, current))

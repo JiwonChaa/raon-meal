@@ -1,4 +1,4 @@
-"""Account-isolated bilingual publisher with durable publication intent."""
+"""Account-isolated Reel publisher with durable publication intent."""
 from __future__ import annotations
 
 import argparse
@@ -12,18 +12,16 @@ import sys
 import time
 from urllib.parse import quote
 
+from reel_profiles import selected_profile, read_credentials
+
 ROOT = Path(__file__).resolve().parent
-LANGUAGE = os.environ.get("REEL_LANGUAGE", "en")
-if LANGUAGE not in ("ko", "en"):
-    raise RuntimeError("Unsupported reel language")
-DATA = ROOT / ("shorts-en" if LANGUAGE == "en" else "shorts")
+ACCOUNT, LANGUAGE, DIRECTORY, SECRET_NAME = selected_profile()
+DATA = ROOT / DIRECTORY
 QUEUE = DATA / "queue.json"
 LOG = DATA / "UPLOAD.log"
-ACCOUNT = "phyedu_en" if LANGUAGE == "en" else "phyedu_net"
 KST = dt.timezone(dt.timedelta(hours=9))
 GRAPH = "https://graph.instagram.com"
 VERSION = "v21.0"
-SECRET_NAME = "IG_EN_SECRETS_JSON" if LANGUAGE == "en" else "IG_SECRETS_JSON"
 # One queue slot: weekdays at 17:00 KST, retried away from GitHub's busiest minute.
 # A scheduled event remains best-effort; these retries do not guarantee timing.
 SCHEDULE_SLOTS = {
@@ -91,20 +89,7 @@ def persist(q, reason):
 
 
 def credentials():
-    raw = os.environ.get(SECRET_NAME, "")
-    if not raw:
-        raise RuntimeError("Dedicated Reel Instagram secret is missing")
-    try:
-        c = json.loads(raw)
-        if LANGUAGE == "ko":
-            c = dict(c["accounts"][ACCOUNT], username=ACCOUNT)
-    except (ValueError, TypeError, KeyError):
-        raise RuntimeError("Dedicated Reel Instagram secret is invalid") from None
-    if c.get("username") != ACCOUNT or not c.get("user_id") or not c.get("access_token"):
-        raise RuntimeError("Reel credentials do not identify the expected account")
-    if not str(c["user_id"]).isdigit():
-        raise RuntimeError("Invalid Instagram account ID")
-    return c
+    return read_credentials(ACCOUNT, SECRET_NAME)
 
 
 class API:
@@ -132,7 +117,7 @@ class API:
         # Validate the configured target against the returned IDs and username.
         returned_ids = {str(data[k]) for k in ("id", "user_id") if data.get(k)}
         if data.get("username") != ACCOUNT or str(self.c["user_id"]) not in returned_ids:
-            raise RuntimeError("LIVE Instagram account does not match @phyedu_en")
+            raise RuntimeError("LIVE Instagram account does not match @" + ACCOUNT)
 
     def recent(self):
         return self.call("GET", "/" + str(self.c["user_id"]) + "/media", params={
@@ -178,9 +163,9 @@ class API:
 
 
 def refresh_if_due(c):
-    if LANGUAGE == "ko":
-        return c
     """Refresh weekly and immediately persist only the dedicated Reel secret."""
+    if ACCOUNT == "phyedu_net":
+        return c
     anchor = c.get("refreshed_at") or c.get("obtained_at")
     if not anchor:
         raise RuntimeError("Reel token obtained_at metadata is required")

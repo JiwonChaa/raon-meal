@@ -1,0 +1,57 @@
+name: phyedu.cut reels
+on:
+  schedule:
+    # Fallback only. Cloudflare dispatches the primary clock independently.
+    - cron: '7,27,47 8-14 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      mode:
+        type: choice
+        options: [check, plan, publish, reconcile]
+        default: check
+      slot:
+        type: choice
+        options: [A]
+        default: A
+permissions:
+  contents: write
+concurrency:
+  group: cut-reels-post
+  cancel-in-progress: false
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install requests
+      - name: Configure state commits
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Validate publisher guards
+        run: python -m unittest test_reel_schedule test_reel_publisher test_reel_content_policy test_reel_performance test_reel_series_order test_reel_profiles
+      - name: Publish or read-only check
+        env:
+          REEL_ACCOUNT: cut
+          IG_CUT_SECRETS_JSON: ${{ secrets.IG_CUT_SECRETS_JSON }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          EVENT_NAME: ${{ github.event_name }}
+          MANUAL_MODE: ${{ inputs.mode }}
+        run: |
+          if [ "$EVENT_NAME" = 'workflow_dispatch' ]; then
+            case "$MANUAL_MODE" in
+              check) python reel_publisher.py --check ;;
+              plan) python reel_publisher.py --plan ;;
+              publish) python reel_publisher.py --auto ;;
+              reconcile) python reel_publisher.py --reconcile ;;
+              *) exit 2 ;;
+            esac
+          else
+            python reel_publisher.py --auto
+          fi
