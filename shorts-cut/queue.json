@@ -8,50 +8,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "suneung2027-34-rhythm",
-      "slug": "suneung2027-34-rhythm",
-      "title": "수능 영어 34번 리듬",
-      "language": "ko",
-      "video": "suneung2027-34-rhythm.mp4",
-      "cover": "suneung2027-34-rhythm-cover.jpg",
-      "caption": "suneung2027-34-rhythm.txt",
-      "video_sha256": "7c9cc0039aba9a4de5053e665837469891e4e3444e8a452dadaaa19336bff1df",
-      "caption_sha256": "fc5d7b0b5ec4945e6de5ab9d4e406ef2587c9e590fbd89a64e65e20a633b15f4",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-25T17:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "exam_reading",
-        "topic_family": "english_reading",
-        "keywords": [
-          "수능 영어",
-          "리듬"
-        ],
-        "hashtags": [
-          "#수능영어",
-          "#영어지문",
-          "#2027수능",
-          "#리듬",
-          "#회화"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "exam_year": 2027,
-        "questions": [
-          34
-        ]
-      },
-      "creation_id": "18112735732968781",
-      "publish_requested_at": "2026-11-24T15:28:39.346346+09:00",
-      "media_id": "17921042784258690"
-    },
-    {
       "id": "suneung2027-36-insects",
       "slug": "suneung2027-36-insects",
       "title": "수능 영어 36번 벌레와 새우",
@@ -176,5 +132,53 @@
       }
     }
   ],
-  "done": []
+  "done": [
+    {
+      "id": "suneung2027-34-rhythm",
+      "slug": "suneung2027-34-rhythm",
+      "title": "수능 영어 34번 리듬",
+      "language": "ko",
+      "video": "suneung2027-34-rhythm.mp4",
+      "cover": "suneung2027-34-rhythm-cover.jpg",
+      "caption": "suneung2027-34-rhythm.txt",
+      "video_sha256": "7c9cc0039aba9a4de5053e665837469891e4e3444e8a452dadaaa19336bff1df",
+      "caption_sha256": "fc5d7b0b5ec4945e6de5ab9d4e406ef2587c9e590fbd89a64e65e20a633b15f4",
+      "reviewed": true,
+      "status": "published",
+      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-25T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "exam_reading",
+        "topic_family": "english_reading",
+        "keywords": [
+          "수능 영어",
+          "리듬"
+        ],
+        "hashtags": [
+          "#수능영어",
+          "#영어지문",
+          "#2027수능",
+          "#리듬",
+          "#회화"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "exam_year": 2027,
+        "questions": [
+          34
+        ]
+      },
+      "creation_id": "18112735732968781",
+      "publish_requested_at": "2026-11-24T15:28:39.346346+09:00",
+      "media_id": "17921042784258690",
+      "permalink": "https://www.instagram.com/reel/DgHT7tvnOBN/",
+      "published_at": "2026-11-24T15:28:41+09:00",
+      "at": "2026-11-24T15:28:41+09:00"
+    }
+  ]
 }
