@@ -99,7 +99,8 @@ class CutTests(unittest.TestCase):
         self.at = dt.datetime(2026, 11, 24, 17, tzinfo=publisher.KST)
         self.stack.enter_context(patch.object(publisher, "now", return_value=self.at))
         self.stack.enter_context(redirect_stdout(io.StringIO()))
-        self.q = json.loads((ROOT / "shorts-cut/queue.json").read_text(encoding="utf-8"))
+        # Real cut queue header; scenarios start from an empty queue in a temp directory.
+        self.q = dict(json.loads((ROOT / "shorts-cut/queue.json").read_text(encoding="utf-8")), queue=[], done=[])
         self.args = types.SimpleNamespace(plan=False, check=False, auto=True, slot=None, reconcile=False)
         self.c = {"username": "phyedu.cut", "user_id": "123", "access_token": "TEST_ONLY", "obtained_at": self.at.isoformat()}
         publisher.save_queue(self.q)
@@ -109,6 +110,15 @@ class CutTests(unittest.TestCase):
         self.assertEqual(self.q["queue"], [])
         self.assertEqual(self.q["done"], [])
         self.assertFalse(self.q["paused"])
+
+    def test_real_cut_queue_passes_exam_reading_policy(self):
+        data = ROOT / "shorts-cut"
+        with patch.object(publisher, "DATA", data), patch.object(publisher, "QUEUE", data / "queue.json"):
+            q = publisher.load_queue()
+        self.assertTrue(q["queue"])
+        for item in q["queue"]:
+            self.assertEqual(item["content_policy"]["mode"], "exam_reading")
+            self.assertEqual(item["slot"], "A")
 
     def test_wrong_queue_account_rejected(self):
         for account in ("phyedu_net", "phyedu_en"):

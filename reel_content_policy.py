@@ -12,6 +12,8 @@ GENERIC_TAGS = {
     "ko": {"#과학", "#물리", "#생활과학", "#지구과학", "#요리과학", "#phyedu"},
     "en": {"#science", "#physics", "#everydayscience", "#phyedu"},
 }
+# English-reading series: one exam passage per Reel, no bilingual pair or experiment.
+EXAM_READING_ACCOUNT = "phyedu.cut"
 
 
 def _fail(item, message):
@@ -77,8 +79,18 @@ def validate_item(item, caption: str, language: str, account: str, baseline: dic
             _fail(item, "one controlled change and a second visible result are required")
         if not isinstance(policy.get("pair_id"), str) or not policy["pair_id"].strip():
             _fail(item, "a bilingual pair_id is required")
+    elif mode == "exam_reading":
+        if account != EXAM_READING_ACCOUNT:
+            _fail(item, "exam_reading mode is limited to @" + EXAM_READING_ACCOUNT)
+        if type(policy.get("exam_year")) is not int:
+            _fail(item, "an integer exam_year is required")
+        questions = policy.get("questions")
+        if (not isinstance(questions, list) or not questions
+                or any(type(q) is not int or not 1 <= q <= 45 for q in questions)
+                or questions != sorted(set(questions))):
+            _fail(item, "questions must be an ascending list of numbers 1-45")
     else:
-        _fail(item, "mode must be baseline_asset or full")
+        _fail(item, "mode must be baseline_asset, full or exam_reading")
 
 
 def validate_queue(queue: dict, data_dir: Path, language: str, account: str, root: Path):

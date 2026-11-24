@@ -69,6 +69,53 @@ class ContentPolicyTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "id/hash"):
             validate_queue(queue, data, "ko", "phyedu_net", root)
 
+    def exam_reading(self, item):
+        policy = item["content_policy"]
+        for key in ("hook", "controlled_change", "pair_id"):
+            del policy[key]
+        policy.update(mode="exam_reading", exam_year=2027, questions=[41, 42])
+
+    def test_exam_reading_valid_for_cut_account(self):
+        temp, root, data, queue, item = self.make_case()
+        self.addCleanup(temp.cleanup)
+        self.exam_reading(item)
+        validate_queue(queue, data, "ko", "phyedu.cut", root)
+
+    def test_exam_reading_rejected_for_other_accounts(self):
+        temp, root, data, queue, item = self.make_case()
+        self.addCleanup(temp.cleanup)
+        self.exam_reading(item)
+        for account in ("phyedu_net", "phyedu_en", "phyedu_cut"):
+            with self.assertRaisesRegex(RuntimeError, "limited to @phyedu.cut"):
+                validate_queue(queue, data, "ko", account, root)
+
+    def test_exam_reading_requires_year_and_ordered_questions(self):
+        temp, root, data, queue, item = self.make_case()
+        self.addCleanup(temp.cleanup)
+        self.exam_reading(item)
+        policy = item["content_policy"]
+        for year in ("2027", True, 2027.0, None):
+            policy["exam_year"] = year
+            with self.assertRaisesRegex(RuntimeError, "exam_year"):
+                validate_queue(queue, data, "ko", "phyedu.cut", root)
+        policy["exam_year"] = 2027
+        for questions in ([], [42, 41], [41, 41], [0], [46], [True], ["41"], 41, None):
+            policy["questions"] = questions
+            with self.assertRaisesRegex(RuntimeError, "questions"):
+                validate_queue(queue, data, "ko", "phyedu.cut", root)
+
+    def test_exam_reading_keeps_shared_caption_checks(self):
+        temp, root, data, queue, item = self.make_case()
+        self.addCleanup(temp.cleanup)
+        self.exam_reading(item)
+        item["content_policy"]["hashtags"] = ["#과학", "#생활과학", "#표면장력"]
+        with self.assertRaisesRegex(RuntimeError, "exactly match"):
+            validate_queue(queue, data, "ko", "phyedu.cut", root)
+        item["content_policy"]["hashtags"] = ["#과학", "#생활과학", "#표면장력", "#물방울"]
+        item["content_policy"]["measurement_hours"] = [24]
+        with self.assertRaisesRegex(RuntimeError, "measurement"):
+            validate_queue(queue, data, "ko", "phyedu.cut", root)
+
 
 if __name__ == "__main__":
     unittest.main()
