@@ -8,50 +8,6 @@
   "paused": false,
   "queue": [
     {
-      "id": "suneung2027-36-insects",
-      "slug": "suneung2027-36-insects",
-      "title": "수능 영어 36번 벌레와 새우",
-      "language": "ko",
-      "video": "suneung2027-36-insects.mp4",
-      "cover": "suneung2027-36-insects-cover.jpg",
-      "caption": "suneung2027-36-insects.txt",
-      "video_sha256": "33878b50212c69be23e1d8cae38b651099071697205874cdac553cccb6a04af8",
-      "caption_sha256": "77ebe4b4cdbe02cce8af6c04a2905819268540f5199de1feb6677df5ded911f1",
-      "reviewed": true,
-      "status": "pending",
-      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
-      "human_listening_approved": false,
-      "slot": "A",
-      "scheduled_at": "2026-11-26T17:00:00+09:00",
-      "content_policy": {
-        "version": 1,
-        "mode": "exam_reading",
-        "topic_family": "english_reading",
-        "keywords": [
-          "수능 영어",
-          "곤충"
-        ],
-        "hashtags": [
-          "#수능영어",
-          "#영어지문",
-          "#2027수능",
-          "#식용곤충",
-          "#먹이사슬"
-        ],
-        "measurement_hours": [
-          24,
-          72
-        ],
-        "exam_year": 2027,
-        "questions": [
-          36
-        ]
-      },
-      "creation_id": "18112735999968781",
-      "publish_requested_at": "2026-11-24T15:30:03.966491+09:00",
-      "media_id": "18140799280750566"
-    },
-    {
       "id": "suneung2027-38-sleep",
       "slug": "suneung2027-38-sleep",
       "title": "수능 영어 38번 잠",
@@ -182,6 +138,53 @@
       "permalink": "https://www.instagram.com/reel/DgHT7tvnOBN/",
       "published_at": "2026-11-24T15:28:41+09:00",
       "at": "2026-11-24T15:28:41+09:00"
+    },
+    {
+      "id": "suneung2027-36-insects",
+      "slug": "suneung2027-36-insects",
+      "title": "수능 영어 36번 벌레와 새우",
+      "language": "ko",
+      "video": "suneung2027-36-insects.mp4",
+      "cover": "suneung2027-36-insects-cover.jpg",
+      "caption": "suneung2027-36-insects.txt",
+      "video_sha256": "33878b50212c69be23e1d8cae38b651099071697205874cdac553cccb6a04af8",
+      "caption_sha256": "77ebe4b4cdbe02cce8af6c04a2905819268540f5199de1feb6677df5ded911f1",
+      "reviewed": true,
+      "status": "published",
+      "approval": "Owner requested native 1x speed and a readable question-number opener on 2026-11-24. The video, audio, 75-frame opener hold and file hashes passed review.",
+      "human_listening_approved": false,
+      "slot": "A",
+      "scheduled_at": "2026-11-26T17:00:00+09:00",
+      "content_policy": {
+        "version": 1,
+        "mode": "exam_reading",
+        "topic_family": "english_reading",
+        "keywords": [
+          "수능 영어",
+          "곤충"
+        ],
+        "hashtags": [
+          "#수능영어",
+          "#영어지문",
+          "#2027수능",
+          "#식용곤충",
+          "#먹이사슬"
+        ],
+        "measurement_hours": [
+          24,
+          72
+        ],
+        "exam_year": 2027,
+        "questions": [
+          36
+        ]
+      },
+      "creation_id": "18112735999968781",
+      "publish_requested_at": "2026-11-24T15:30:03.966491+09:00",
+      "media_id": "18140799280750566",
+      "permalink": "https://www.instagram.com/reel/DgHUG-iDSJJ/",
+      "published_at": "2026-11-24T15:30:05+09:00",
+      "at": "2026-11-24T15:30:05+09:00"
     }
   ]
 }
